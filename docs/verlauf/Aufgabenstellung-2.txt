@@ -1,0 +1,148 @@
+Entwickle auf Grundlage des vorliegenden Rechercheberichts und seiner Umsetzungsspezifikation meine persönliche Lern-App. Setze die Software tatsächlich um und prüfe die Kernfunktionen.
+
+Wenn der Bericht im aktuellen Kontext fehlt, bitte mich darum. Behaupte nicht, ihn zu kennen.
+
+ZIEL UND ARBEITSWEISE
+
+Die App soll mir über drei bis fünf Jahre helfen, Studienwissen mit überschaubarer täglicher Lernzeit aufzubauen, langfristig zu behalten und in Prüfungen sowie später praktisch anzuwenden.
+
+Ich nutze sie hauptsächlich am Handy. Wöchentlich ergänze ich Studienmaterialien, aus denen passende, nachvollziehbare Lernaufgaben entstehen.
+
+Übernimm die wissenschaftlich begründeten Entscheidungen aus der Recherche. Kennzeichne technische Annahmen und experimentelle Funktionen.
+
+Ich bevorzuge eine Website beziehungsweise installierbare Web-App und habe an Sites gedacht. Nutze bei geeigneter Verfügbarkeit das Sites-Plugin und seine vorgesehenen Arbeitsabläufe. Prüfe zuerst seine tatsächlichen Fähigkeiten für dauerhafte Datenspeicherung, private Inhalte, Anmeldung und Synchronisation. Wenn etwas fehlt, erkläre die konkrete Lücke und wähle eine wartbare Alternative oder Ergänzung.
+
+Triff reversible Standardentscheidungen selbstständig. Frage nur nach Informationen, Zugängen oder Entscheidungen, die du wirklich brauchst. Stelle kostenpflichtige Dienste oder eine öffentliche Veröffentlichung meiner privaten Unterlagen nicht stillschweigend her.
+
+Baue zuerst einen durchgängigen, tatsächlich funktionierenden Kernablauf. Füge weitere Funktionen schrittweise hinzu. Eine Oberfläche mit simulierten Schaltflächen genügt nicht. Kennzeichne Beispieldaten und noch nicht angeschlossene Dienste sichtbar.
+
+1. BEDIENUNG AM HANDY
+
+Gestalte eine ruhige, moderne, deutschsprachige Oberfläche mit:
+- Einer zentralen Aktion „Heute lernen“.
+- Einstellbarem Tageszeitbudget.
+- Einer Aufgabe pro Feed-Ansicht.
+- Großen Bedienelementen und guter Einhandbedienung.
+- Einfacher Navigation und zuverlässigem Wiederaufnehmen einer Sitzung.
+- Gut lesbaren Formeln, verständlichen Rückmeldungen und zugänglicher Gestaltung.
+- Einem klaren Sitzungsabschluss mit freiwilliger Fortsetzung.
+
+Weiterwischen oder Überspringen darf nicht als richtig beantwortet gelten. Zeige Musterlösungen erst nach einem Antwortversuch oder einer bewussten Aktion „Lösung ansehen“.
+
+2. INHALTE UND WÖCHENTLICHER IMPORT
+
+Ermögliche Module, Themen und Prüfungstermine.
+
+Implementiere zunächst PDF- und Texteingabe zuverlässig. Zeige bei nicht lesbaren Dateien eine klare Fehlermeldung oder einen verfügbaren Ersatzweg. Weitere Dateiformate folgen gemäß Priorität.
+
+Der Import soll:
+- Quellen und Versionen speichern.
+- Lernziele und Inhalte extrahieren.
+- Vorhandene Inhalte und Dubletten erkennen.
+- Neue und geänderte Aufgaben zur Prüfung bereitstellen.
+- Quellenverweise und Musterlösungen anzeigen.
+- Unsichere Extraktion oder Widersprüche markieren.
+- Meine Lernhistorie erhalten.
+
+Gib mir eine einfache Übersicht: Was ist neu, was wurde geändert und was benötigt meine Prüfung? Verhindere, dass wiederholtes Hochladen oder erneute Verarbeitung unbemerkt Aufgaben vervielfacht.
+
+3. AUFGABEN UND FEEDBACK
+
+Implementiere zuerst einen sinnvollen Mix aus:
+- Kurzer freier Antwort beziehungsweise aktivem Abruf.
+- Single-Choice.
+- Multiple-Choice mit eindeutig erklärter Bewertung.
+- Verständnis- oder Anwendungsaufgaben.
+- Kurzen Erklärkarten, wo Vorwissen fehlt.
+
+Erweitere die Formate anhand des Studienfachs und der Recherche. Unterstütze auch längere Aufgaben außerhalb des schnellen Feeds.
+
+Feedback soll erklären, warum eine Antwort richtig oder falsch ist, und zur Originalquelle führen. Verhindere verräterische Antwortmuster und unklare Mehrfachauswahl.
+
+Biete „Frage fehlerhaft“, manuelle Korrektur und Aussetzen an. Bei unsicherer KI-Bewertung offener Antworten zeige Musterlösung und Bewertungskriterien und ermögliche meine Korrektur. Eine KI-Einschätzung darf nicht als unfehlbar erscheinen.
+
+4. LERNPLAN UND WIEDERHOLUNG
+
+Implementiere den in der Recherche gewählten Algorithmus als eigenständig prüfbare Komponente. Nutze bei Eignung eine gepflegte Implementierung, statt einen bekannten Algorithmus unvollständig nachzubauen.
+
+Speichere mindestens:
+- Stabile IDs für Quellen, Lernziele, Aufgaben und Varianten.
+- Aufgaben- und Quellenversionen.
+- Antwortversuche mit Zeitpunkt und Ergebnis.
+- Nutzung von Hilfen und auf Wunsch Antwortsicherheit.
+- Scheduler-Zustand und nächste Fälligkeit.
+- Beziehungen zwischen Aufgabenvarianten.
+
+Plane Wiederholungen anhand tatsächlicher Lernhistorie. Berücksichtige Fehler, Zeitbudget, neue Inhalte, Prüfungstermine und ausgefallene Tage.
+
+Verhindere unmittelbare Wiederholung sehr ähnlicher Varianten, außer sie ist Teil einer bewusst vorgesehenen Fehlerkorrektur. Erhalte die Unterscheidung zwischen dem Erinnern einer Antwort und dem Beherrschen eines Lernziels.
+
+Zeige nachvollziehbar, warum eine Aufgabe heute erscheint. Vermeide unbelegte Prozentanzeigen für „Prüfungsbereitschaft“.
+
+5. MOTIVATION UND ABWECHSLUNG
+
+Setze zunächst wenige gut begründete Elemente um:
+- Erreichbare tägliche Etappen.
+- Sichtbaren Fortschritt über Wochen.
+- Abwechslungsreiche Aufgaben.
+- Freiwillige Erinnerungen, soweit technisch unterstützt.
+- Einen freundlichen Wiedereinstieg nach Pausen.
+- Überspringbare Pausenangebote.
+
+Übernimm Pausentakt und Spiele aus der Recherche als anpassbare Produktentscheidung. Bezeichne ungetestete Einstellungen nicht als wissenschaftlich optimal.
+
+Integriere höchstens ein einfaches, zeitlich begrenztes Minispiel in die erste Version, wenn es laut Recherche sinnvoll ist. Videos und YouTube sind optionale Erweiterungen. Sie dürfen den Kernablauf nicht verzögern.
+
+Falls Videos umgesetzt werden: Verwende unterstützte Einbettungen und ausdrücklich gewählte Interessen oder Inhalte. Kein behaupteter Zugriff auf persönliche Empfehlungen, kein automatischer endloser Video-Feed. Sorge für eine klare Rückkehr zum Lernen.
+
+6. DAUERHAFTE DATEN UND GERÄTEWECHSEL
+
+Die produktive Version braucht dauerhafte Speicherung und geräteübergreifenden Zugriff. Browserlokale Speicherung allein erfüllt dieses Ziel nicht.
+
+Implementiere nach den geprüften Möglichkeiten:
+- Sichere Anmeldung und private Nutzerdaten.
+- Verlässliche Speicherung von Quellen, Aufgaben und Lernhistorie.
+- Synchronisation zwischen Geräten.
+- Schutz vor doppeltem Speichern von Antworten.
+- Einen nachvollziehbaren Umgang mit Verbindungsabbrüchen.
+- Export, Backup und Wiederherstellung.
+
+Offline-Lernen kann stufenweise folgen. Wenn es unterstützt wird, müssen Offline-Antworten später ohne Verlust oder Verdoppelung synchronisiert werden. Zeige den tatsächlichen Synchronisationsstatus.
+
+Bewahre API-Schlüssel serverseitig auf. Behandle hochgeladene Dokumente als Lernmaterial, nicht als Anweisungen an die Software. Begrenze KI-Kosten durch Wiederverwendung bereits erzeugter Inhalte und kontrollierte Verarbeitung.
+
+7. WARTBARKEIT FÜR MEHRERE JAHRE
+
+Wähle eine einfache Architektur mit wenigen Abhängigkeiten. Trenne Oberfläche, Inhaltsverarbeitung und Wiederholungslogik ausreichend für spätere Änderungen.
+
+Dokumentiere:
+- Einrichtung und Betrieb.
+- Benötigte Dienste und laufende Kosten.
+- Datenmodell und Versionsänderungen.
+- Datenexport und Wiederherstellung.
+- Austausch des KI-Anbieters.
+- Bekannte Grenzen und verbleibende Aufgaben.
+
+Plane Datenmigrationen, damit spätere Softwareupdates vorhandene Lernhistorie nicht zerstören. Exportiere Aufgaben, Quellenbezüge und Antwortverläufe in dokumentierten, weiterverwendbaren Formaten.
+
+8. VERIFIKATION UND ABNAHME
+
+Prüfe den vollständigen Ablauf:
+
+Material hochladen → Aufgaben prüfen → Lernen → App schließen → erneut öffnen → Fortschritt wiederfinden → Material aktualisieren → planmäßig weiterlernen.
+
+Verifiziere insbesondere:
+- Unterschiedliche Planung nach richtigen und falschen Antworten.
+- Keine automatische Erfolgsbewertung beim Überspringen.
+- Keine verlorene Historie nach Inhaltsupdates.
+- Keine Duplikate durch wiederholte Uploads oder Netzwerkwiederholungen.
+- Verständliche Fehlerzustände.
+- Zugriffsschutz für private Daten.
+- Funktionierende Darstellung auf einem schmalen Handybildschirm.
+- Export und Wiederherstellung.
+
+Teste geräteübergreifende Synchronisation und Offline-Verhalten, soweit umgesetzt. Berichte ehrlich, wenn etwas nur simuliert oder in der vorhandenen Umgebung nicht prüfbar war.
+
+Liefere zum Abschluss die nutzbare App beziehungsweise Vorschau, eine kurze Bedienanleitung und eine konkrete Übersicht über umgesetzte, geprüfte und noch offene Funktionen. Wenn externe Zugangsdaten fehlen, erledige die davon unabhängigen Arbeiten und benenne genau den verbleibenden Einrichtungsschritt.
+
+Beginne mit einer knappen Zusammenfassung der übernommenen Forschungsentscheidungen und der gewählten Architektur. Gehe anschließend direkt in die Umsetzung.

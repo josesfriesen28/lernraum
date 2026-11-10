@@ -1,0 +1,61 @@
+# Dein Lernraum – Kurzanleitung
+
+## Dein erster Lerntag
+
+Öffne die private App und melde dich mit deinem ChatGPT-Konto an. Auf dem iPhone kannst du in Safari über **Teilen → Zum Home-Bildschirm** eine Verknüpfung im App-Modus hinzufügen. Der eigentliche iPhone-Installationsdialog wurde in der Entwicklungsumgebung nicht geprüft.
+
+1. **Material → Modul:** Trage beispielsweise Kommunikationspsychologie ein. Klausur oder mündliche Prüfung und das Datum sind optional und später änderbar.
+2. **Material hinzufügen:** Wähle Modul, Titel und optional Thema. Lade ein Text-PDF oder eine TXT-Datei hoch oder füge Text direkt ein. Keine echten privaten Studienunterlagen wurden bei der Entwicklung vorab hochgeladen.
+3. **Aufgaben → Entwürfe:** Öffne einen Entwurf. Vergleiche den Quellenabschnitt mit dem Original. Formuliere ein konkretes Lernziel und eine beantwortbare Frage. Prüfe Musterlösung und Bewertungskriterien. Bestätige die Quellenprüfung und gib die Aufgabe frei.
+4. **Heute lernen:** Wähle 5, 10, 20, 30 oder 45 Minuten. Die App stellt eine endliche Etappe zusammen und erklärt, warum die jeweilige Aufgabe erscheint.
+5. **Antworten:** Schreibe erst deine Antwort oder, bei mündlichem Üben, die wichtigsten gesprochenen Stichpunkte auf. Danach folgt der Abgleich. Wenn du die Lösung vorher bewusst öffnest, wird das vermerkt und verlängert keinen Wiederholungsabstand.
+
+## Welche Aufgaben gibt es?
+
+- **Freier Abruf:** Eine kurze Antwort aus dem Gedächtnis. Bewertung durch dich anhand der Kriterien.
+- **Single-Choice:** Genau eine richtige Option. Automatischer Mengenvergleich.
+- **Multiple-Choice:** Alle richtigen und keine falschen Optionen müssen ausgewählt sein. Es gibt keine Teilpunkte. Die vollständige richtige Auswahl und die Erklärung erscheinen beim Abgleich.
+- **Anwendung:** Zum Beispiel einen Kommunikationsfall analysieren. Offene Bewertung durch dich.
+- **Erklärkarte:** Vorwissen lesen. Das wird als Lesen, nicht als Abruf-Erfolg gespeichert.
+
+Alle Formate sind implementiert. Der automatische Import erzeugt zunächst einfache Abruf-Entwürfe aus Quellenabschnitten. Er erzeugt keinen fachlich geprüften, abwechslungsreichen Aufgabenmix. Du kannst das Format ändern, eine weitere Aufgabe zum Quellenabschnitt oder eine verwandte Variante anlegen. Im Aufgabeneditor kannst du **Gezielt üben** wählen, auch für längere Aufgaben außerhalb des Tagesplans. Gibt es bereits eine offene Sitzung, wird diese zunächst fortgesetzt oder abgeschlossen.
+
+## Dein Wochenimport
+
+Je Import gelten 8 MB, maximal 200 Seiten, 500.000 Zeichen extrahierter Text, 100 gespeicherte Textabschnitte und höchstens acht neue Entwürfe. Das Original wird vollständig gespeichert. Teile große Unterlagen in sinnvolle Abschnitte. Über „Weitere Aufgabe zur Quelle“ und den Abschnittwähler kannst du Aufgaben zu den übrigen gespeicherten Abschnitten erstellen.
+
+Für eine Überarbeitung wähle beim Import **Neue Version von …**. Identische Dateien und bis auf Leerraum identische Extraktionen im selben Modul erzeugen keine weiteren Aufgaben. Das ist keine semantische Dublettenerkennung: Umformulierungen und ähnliche Aussagen über verschiedene Quellen hinweg benötigen deine Prüfung.
+
+Unveränderte Abschnitte erzeugen keine neuen Entwürfe. Geänderte oder entfernte Abschnitte setzen dazugehörige aktive Aufgaben aus. Neue Entwürfe zeigen einen Änderungsvermerk; vorherige Lösungen lassen sich vergleichen. Bei verschobenen Absätzen kann der positionsbasierte Vergleich unpassend sein. Prüfe dann besonders Lernziel, Quellenabschnitt und Bezug zur vorherigen Aufgabe. Eine freigegebene inhaltliche Änderung beginnt eine neue Evidenzspur. Die bisherigen Antworten bleiben im Verlauf erhalten.
+
+Bild-PDFs benötigen zunächst Texterkennung außerhalb der App. Bei fehlendem Text zeigt die App den Ersatzweg „Text einfügen“. Tabellen, Formeln, Spalten und Grafiken können beim Auslesen unvollständig sein. Das Original bleibt für den Vergleich erreichbar. Es gibt keine automatische Widerspruchsprüfung.
+
+## Wiederholung und Pausen
+
+Der Plan berücksichtigt Fälligkeit, bisherige Fehler, neue Inhalte, Zeitbudget und Prüfungstermine. Ein Wochenplatz bevorzugt ein zuletzt wenig bearbeitetes Modul, sofern passende Aufgaben verfügbar sind. Die Zeitangaben sind Schätzungen einschließlich Feedback.
+
+Die Startregel verwendet 1, 3, 7, 14, 30 und 60 Tage nach gelungenen eigenständigen Abrufen an verschiedenen Berliner Kalendertagen. Falsche, teilweise, geratene oder durch Hilfe gestützte Antworten kommen früher zurück. Nach mehreren ausgelassenen Tagen entsteht keine Strafserie. Die tatsächliche Historie bleibt die Grundlage.
+
+„Überspringen“ ist kein Erfolg. Ähnliche Varianten derselben Familie erscheinen im Tagesplan nicht unmittelbar erneut. Mit „Gezielt üben“ wählst du ausdrücklich eine Ausnahme. Standardmäßig wird nach jeweils fünf bearbeiteten Aufgaben eine überspringbare Pause angeboten. Unter Einstellungen kannst du auf zehn Aufgaben umstellen oder das Angebot ausschalten; dieser Takt ist eine Produktheuristik, kein wissenschaftlich optimierter Wert. Push-Erinnerungen sind nicht angeschlossen.
+
+Du kannst über **Später fortsetzen** zurückgehen oder die Etappe ausdrücklich abschließen. Bestätigte Antworten und Sitzungspositionen liegen auf dem Server. Ein noch nicht bewerteter Antwortentwurf bleibt nur auf dem aktuellen Gerät erhalten.
+
+## Wenn etwas nicht stimmt
+
+- **Frage fehlerhaft · aussetzen:** Die Aufgabe wird ausgesetzt und mit einem Prüfhinweis gespeichert.
+- **Aufgaben → Ausgesetzt:** Überarbeite die Aufgabe, prüfe ihre Quelle oder aktiviere sie wieder.
+- **Verlauf:** Eine Bewertung lässt sich berichtigen. Das Originalereignis wird nicht überschrieben; die Korrektur wird zusätzlich gespeichert und der Lernplan neu daraus abgeleitet. Überspringen und Lesen können nicht zu richtigen Antworten umetikettiert werden.
+- **Antwort vorgemerkt:** Die Verbindung war unterbrochen oder die Bestätigung fehlt. Die Antwort bleibt auf diesem Gerät, auch nach einem Neuladen. Stelle die Verbindung wieder her und wähle „Erneut senden“. Bis zur Klärung bleibt weiteres Antworten gesperrt.
+- **Sitzung inzwischen auf einem anderen Gerät weitergeführt:** Erneutes Senden überschreibt den anderen Fortschritt nicht. Sichere die Antwort bei Bedarf als Datei und nutze „Bei Sitzungskonflikt ungeklärt ablegen“. Der ungeklärte Versuch bleibt im Verlauf und zählt zunächst nicht für die Fälligkeit.
+
+Es gibt noch keinen vollständig offline startbaren Lernraum. Eine geöffnete Aufgabe kann einen Verbindungsabbruch überstehen; neue Sitzungen, das erneute Öffnen der App und die Synchronisation brauchen Internet. Lösche keine Browserdaten, solange Antworten nur lokal vorgemerkt sind.
+
+## Sicherung und Gerätewechsel
+
+Melde dich auf einem weiteren Gerät mit demselben ChatGPT-Konto an. Beim Öffnen, Zurückkehren zum Fenster und manuellen Aktualisieren lädt die App den Serverstand. Bestätigte Antworten sind dadurch geräteübergreifend verfügbar; unbestätigte Entwürfe werden nicht zwischen Geräten übertragen. Echte zwei physische Geräte wurden nicht gemeinsam getestet.
+
+Unter **Einstellungen → Vollständiges Backup** bekommst du eine JSON-Datei mit Originaldateien, Quellenabschnitten, Aufgabenständen und Lernereignissen. Bewahre sie privat außerhalb der App auf. Empfehlenswert: nach größeren Importen und regelmäßig im Semester. „Daten als JSON“ enthält die strukturierten Daten für Weiterverarbeitung, aber keine Originaldateien und genügt allein nicht für Restore.
+
+Zur Wiederherstellung wähle das vollständige Backup aus, prüfe die angezeigten Mengen und sichere vorher den aktuellen Stand. „Mit diesem Backup ersetzen“ ersetzt den gesamten aktuellen Datenbestand. Die App prüft Struktur, Referenzen und Dateiprüfsummen vor dem Austausch. Die Originaldateien werden zunächst hochgeladen; der Datenaustausch erfolgt atomar.
+
+Grenzen des Browser-Restores: 150 MB Backup-Datei, 12 MB strukturierte JSON-Anfrage und 100.000 Datensätze insgesamt. Für umfangreichere Bestände ist vor Erreichen dieser Grenzen eine Erweiterung nötig. Ein Backup ersetzt keine Garantie auf dauerhaften Hostingbetrieb.

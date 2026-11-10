@@ -1,0 +1,24 @@
+{
+  "format": "lernraum-package",
+  "version": 1,
+  "packageId": "handoff-demo-1",
+  "title": "BEISPIEL · Feedback",
+  "tasks": [
+    {
+      "id": "q1",
+      "objective": "Feedback formulieren",
+      "family": "feedback-apply",
+      "type": "apply",
+      "track": "apply",
+      "prompt": "Fiktiver Fall: Ein Teammitglied kommt wiederholt zu spät. Formuliere hilfreiches Feedback.",
+      "solution": "Beobachtung: Du bist zu den letzten beiden Treffen zehn Minuten später gekommen. Wirkung: Wir mussten Punkte wiederholen. Bitte: Kannst du beim nächsten Treffen pünktlich da sein oder vorher Bescheid geben?",
+      "rubric": "Konkrete Beobachtung, Wirkung und Bitte; keine pauschale Abwertung.",
+      "seconds": 90,
+      "options": [],
+      "correct": [],
+      "sourceTitle": "Erfundener Beispieltext für die Übergabe",
+      "page": 1,
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte."
+    }
+  ]
+}

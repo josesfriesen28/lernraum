@@ -1,0 +1,168 @@
+Erarbeite durch eine gründliche, quellenbasierte Deep Research die wissenschaftliche und technische Grundlage für meine persönliche Lern-App. Schreibe auf Deutsch.
+
+Zunächst sollst du recherchieren und ein konkret umsetzbares Produktkonzept erstellen. Entwickle in diesem Schritt noch keine Software.
+
+MEIN ZIEL
+
+Ich studiere und möchte mit begrenzter täglicher Lernzeit kontinuierlich Wissen aufbauen, Prüfungen gut bestehen und das Gelernte langfristig behalten und anwenden können. Die App soll mich über drei bis fünf Jahre begleiten.
+
+Ich lade jede Woche aktuelle Studienunterlagen hoch, beispielsweise Skripte, Vorlesungsfolien, Notizen und Übungsaufgaben. Daraus wächst eine strukturierte Wissens- und Aufgabensammlung. Neue Inhalte sollen bestehende Inhalte sinnvoll ergänzen oder aktualisieren. Meine Lernhistorie muss dabei erhalten bleiben.
+
+Die hauptsächliche Nutzung erfolgt am Handy, zusätzlich auf Tablet und Computer.
+
+Die Bedienung stelle ich mir ähnlich wie einen Social-Media-Feed vor: eine Aufgabe pro Ansicht, unkompliziertes Weiterwischen, abwechslungsreiche Formate, schnelle Rückmeldung und ein sehr leichter Einstieg. Das Lernen soll Spaß machen und zu einer freiwilligen täglichen Gewohnheit werden.
+
+Denkbare Inhalte:
+- Kurze Erklärungen und Lesekarten.
+- Freies Abrufen und kurze schriftliche Antworten.
+- Single- und Multiple-Choice.
+- Lückentexte, Zuordnungen und Reihenfolgen.
+- Rechenaufgaben, Fehlerdiagnosen und Fallbeispiele.
+- Erklärungen in eigenen Worten und Transferaufgaben.
+- Gelegentliche längere Aufgaben, wenn das Lernziel sie erfordert.
+
+Ich erwäge außerdem Minispiele oder kurze Videos als Abwechslung. Untersuche diese Idee kritisch und schlage bessere Alternativen vor, wenn sie dem Lernen mehr helfen.
+
+1. RECHERCHEQUALITÄT
+
+Nutze aktuelle wissenschaftliche Literatur und grundlegende Arbeiten. Priorisiere systematische Reviews, Metaanalysen und aussagekräftige Originalstudien. Prüfe neuere Veröffentlichungen, ohne Aktualität mit Qualität gleichzusetzen.
+
+Dokumentiere Suchdatum, Suchstrategie, wichtige Suchbegriffe und Auswahlkriterien. Behaupte keine vollständige systematische Literaturübersicht, wenn du keine durchgeführt hast.
+
+Belege zentrale Aussagen durch nachvollziehbare Quellen mit Titel, Autorenschaft, Jahr und DOI oder direktem Link. Erfinde keine Literatur oder Ergebnisse. Kennzeichne, wenn nur ein Abstract zugänglich war.
+
+Unterscheide:
+- Gut gestützte Befunde.
+- Kontextabhängige oder widersprüchliche Befunde.
+- Plausible Produktentscheidungen ohne direkten Wirksamkeitsnachweis.
+- Offene Hypothesen, die wir testen müssten.
+
+Berücksichtige Unterschiede zwischen Faktenwissen, Verständnis, Rechnen, Problemlösen und Transfer. Übertrage Ergebnisse aus Laborstudien oder anderen Altersgruppen nicht ungeprüft auf mein Studium.
+
+Nutze als Einstieg unter anderem Dunlosky et al. (2013), Agarwal et al. (2021), Albulescu et al. (2022) und Chiossi et al. (2023). Überprüfe diese Arbeiten und suche auch nach neuerer, ergänzender und widersprechender Evidenz.
+
+2. WELCHE LERNMETHODEN GEHÖREN IN DIE APP?
+
+Untersuche insbesondere:
+- Retrieval Practice beziehungsweise Active Recall.
+- Spaced Practice und wiederholtes erfolgreiches Abrufen über mehrere Tage.
+- Interleaving und die Bedingungen, unter denen es hilft.
+- Selbst-Erklärungen, elaborative Fragen und konkrete Beispiele.
+- Ausgearbeitete Lösungsbeispiele und schrittweiser Abbau von Hilfen.
+- Feedback: Inhalt, Zeitpunkt und Umgang mit falschen Antworten.
+- Metakognition: Sicherheitseinschätzung, Raten und scheinbare Beherrschung.
+- Kognitive Belastung und Grenzen sehr kurzer Lerneinheiten.
+- Gewohnheitsbildung, Autonomie, Motivation und Gamification.
+- Transfer vom Übungsformat auf die tatsächliche Prüfungsleistung.
+
+Erstelle eine Evidenztabelle mit Methode, Lernziel, Befund, Evidenzstärke, Grenzen, Quelle und konkreter Konsequenz für die App.
+
+Beantworte insbesondere:
+- Wann ist freies Antworten sinnvoller als Antwortauswahl?
+- Wie verhindert man, dass ich nur Antwortpositionen oder Formulierungen wiedererkenne?
+- Wie kombiniert man das Erlernen neuer Inhalte mit Wiederholung?
+- Welche Studieninhalte lassen sich nicht sinnvoll auf kleine Feed-Karten reduzieren?
+- Wie ergänzen längere Aufgaben den täglichen Handy-Feed?
+
+3. ADAPTIVE WIEDERHOLUNGEN
+
+Entwickle ein nachvollziehbares Wiederholungsmodell. Vergleiche einfache Regeln, SM-2 und FSRS anhand aktueller Originaldokumentation und vorhandener wissenschaftlicher Evaluationen. Trenne die Evidenz für verteiltes Lernen von der Evidenz für einen bestimmten Algorithmus.
+
+Berücksichtige:
+- Richtig, teilweise richtig, falsch, geraten, mit Hilfe beantwortet.
+- Antwortsicherheit und vorsichtige Verwendung von Antwortdauer.
+- Zeit seit der letzten Wiederholung.
+- Schwierigkeit, bisherige Fehler und Voraussetzungen.
+- Prüfungstermin und längerfristige Erhaltung des Wissens.
+- Begrenztes tägliches Zeitbudget.
+- Ausgelassene Tage und aufgelaufene Wiederholungen.
+- Neue Nutzer ohne ausreichende Lernhistorie.
+
+Unterscheide das konkrete Aufgabenobjekt, Varianten derselben Aufgabe und das zugrunde liegende Lernziel. Eine neue Formulierung darf nicht automatisch als neues Wissen gelten. Erfolg bei einer leichten Auswahlfrage darf nicht automatisch Beherrschung einer komplexen Anwendung bedeuten.
+
+Erkläre:
+- Wann dieselbe Aufgabe erneut erscheint.
+- Wann eine andere Aufgabe zum gleichen Lernziel erscheint.
+- Wie frühe Korrektur nach Fehlern und spätere Wiederholung zusammenspielen.
+- Wie nahezu identische Aufgaben innerhalb einer Sitzung vermieden werden.
+- Wie der Plan bei Zeitmangel priorisiert, ohne wichtige Themen dauerhaft zu verdrängen.
+
+Liefere verständlichen Pseudocode und eine beispielhafte Lernhistorie über vier Wochen. Kennzeichne Beispielintervalle als Beispiele statt als universell optimale Abstände.
+
+4. WÖCHENTLICHE INHALTSUPDATES UND FRAGENQUALITÄT
+
+Entwirf einen Ablauf von hochgeladenen Unterlagen zu geprüften Aufgaben:
+
+Upload → Texterkennung und Extraktion → Themen und Lernziele → Abgleich mit vorhandenen Inhalten → Aufgabengenerierung → Qualitätsprüfung → Freigabe → Lernplanung.
+
+Jede Aufgabe benötigt eine nachvollziehbare Verbindung zur Quelle, möglichst mit Dokumentversion und Seiten- oder Abschnittsangabe.
+
+Berücksichtige:
+- Doppelte Uploads und inhaltliche Überschneidungen.
+- Ergänzungen, Korrekturen und widersprüchliche Unterlagen.
+- Veraltete Aufgaben und veränderte Musterlösungen.
+- Schlechte Scans, Formeln, Tabellen und Grafiken.
+- Fehlende Informationen und nicht zuverlässig lesbare Inhalte.
+- Erhalt der Lernhistorie bei Aktualisierungen.
+- Manuelles Bearbeiten, Melden, Aussetzen und Löschen von Aufgaben.
+
+Definiere Qualitätskriterien für Aufgaben, plausible falsche Auswahlantworten, Musterlösungen und erklärendes Feedback. Untersuche die Grenzen KI-gestützter Bewertung offener Antworten und schlage eine Korrekturmöglichkeit für mich vor.
+
+Verhindere, dass die KI Wissenslücken in Unterlagen unbemerkt mit erfundenen prüfungsrelevanten Inhalten füllt. Externe Ergänzungen müssen klar erkennbar sein.
+
+5. MOTIVIERENDER FEED, PAUSEN UND SPIELE
+
+Analysiere, welche Eigenschaften von Social Media für dieses Ziel sinnvoll sind: niedrige Einstiegshürde, unmittelbare Rückmeldung, Abwechslung, sichtbarer Fortschritt und kleine abgeschlossene Etappen.
+
+Das Optimierungsziel ist langfristig behaltenes und anwendbares Wissen pro investierter Zeit. Reine Bildschirmzeit und Anzahl beantworteter Karten reichen als Erfolgsmaße nicht aus.
+
+Untersuche:
+- Flexible Tagesziele und kurze Sitzungen.
+- Freiwilliges Weiterlernen nach einem sinnvollen Abschluss.
+- Fortschrittsdarstellung ohne irreführende Beherrschungsversprechen.
+- Umgang mit verpassten Tagen ohne Schuldgefühl.
+- Minispiele, thematische Rätsel und optionale Unterhaltung.
+- Pausen nach Zeit, Belastung oder Aufgabenblöcken.
+- Bewegung, Blickwechsel und ruhige Pausen.
+- YouTube-Videos beziehungsweise Shorts nach Interessen.
+
+Behaupte keine wissenschaftlich optimale Regel wie „nach zehn Fragen“, falls die Evidenz das nicht trägt.
+
+Entwickle mindestens zwölf konkrete Ideen und bewerte Lernnutzen, Motivation, Ablenkungsrisiko, Aufwand und Evidenzlage. Empfiehl daraus einen kleinen, stimmigen Umfang für die erste Version.
+
+Prüfe bei YouTube anhand aktueller offizieller Dokumentation, was technisch und hinsichtlich Einbettung möglich ist. Unterstelle keinen Zugriff auf einen persönlichen Empfehlungsfeed. Prüfe auch Rückkehr zum Lernen, Datenschutz, externe Abhängigkeiten und Alternativen.
+
+6. TECHNISCHE UMSETZUNG UND LANGFRISTIGE NUTZUNG
+
+Vergleiche:
+- Eine responsive Website.
+- Eine installierbare Progressive Web App.
+- Eine native oder plattformübergreifende App.
+- Eine Umsetzung mit dem Sites-Plugin in dieser Umgebung.
+
+Prüfe die tatsächlichen aktuellen Möglichkeiten von Sites und der verfügbaren Werkzeuge. Unterstelle keine Funktionen, die du nicht verifizieren kannst.
+
+Untersuche Anmeldung, geräteübergreifende Synchronisation, Datenbank, Dateiablage, KI-Verarbeitung, Offline-Nutzung, Erinnerungen, Backups, Export und Wartbarkeit. Benenne Unterschiede zwischen iPhone und Android, soweit relevant und belegt.
+
+Empfiehl eine möglichst einfache Architektur für zunächst eine Person. Berücksichtige trotzdem mehrere Jahre an Materialien und Lernhistorie.
+
+Schätze Einrichtung, laufende Kosten und Wartungsaufwand mit transparenten Annahmen. Prüfe aktuelle Preise anhand offizieller Quellen. Plane vollständigen Datenexport und einen Anbieterwechsel ein.
+
+7. ERGEBNIS UND ÜBERGABE
+
+Liefere:
+1. Eine klare Empfehlung mit den wichtigsten Entscheidungen.
+2. Die Evidenztabelle und kommentierte Quellen.
+3. Das Lern- und Wiederholungsmodell.
+4. Die Verarbeitung und Aktualisierung von Studienmaterialien.
+5. Ein konkretes Nutzungserlebnis für einen typischen Tag und eine typische Woche.
+6. Einen Vergleich der technischen Möglichkeiten.
+7. Eine priorisierte erste Version sowie spätere Ausbaustufen.
+8. Risiken, Unsicherheiten und offene Entscheidungen.
+9. Einen praktikablen Evaluationsplan über acht bis zwölf Wochen.
+
+Der Evaluationsplan soll zeitversetztes Erinnern, neue Transferaufgaben, Zeitaufwand, freiwillige Nutzung und Ermüdung berücksichtigen. Erkläre, was sich bei nur einer Person sinnvoll beobachten lässt und welche kausalen Aussagen daraus nicht folgen.
+
+Schließe mit einer eigenständig verständlichen „Umsetzungsspezifikation für Prompt 2“ ab. Sie soll Anforderungen, Datenmodell, Kernabläufe, Entscheidungen, überprüfbare Abnahmekriterien und bewusst zurückgestellte Funktionen enthalten.
+
+Stelle höchstens fünf gezielte Rückfragen, falls Angaben wie Studienfach, Prüfungsform oder Zeitbudget die Empfehlung wesentlich verändern. Beginne währenddessen mit der fachübergreifenden Recherche. Markiere Annahmen und erfinde keine persönlichen Angaben.
