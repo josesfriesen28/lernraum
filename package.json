@@ -1,6 +1,6 @@
 {
-  "name": "site-creator-vinext-starter",
-  "version": "0.1.0",
+  "name": "lernraum",
+  "version": "0.4.0",
   "private": true,
   "engines": {
     "node": ">=22.13.0"
@@ -11,7 +11,10 @@
     "build": "node scripts/run-framework.mjs build",
     "start": "node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js dev --config dist/server/wrangler.json --local --persist-to .wrangler/state --ip 127.0.0.1 --inspector-port 0",
     "lint": "eslint . --ignore-pattern dist --ignore-pattern .next",
-    "db:generate": "drizzle-kit generate"
+    "db:generate": "drizzle-kit generate",
+    "test": "node --test tests/core.test.mjs tests/package.test.mjs tests/version.test.mjs",
+    "typecheck": "tsc --noEmit",
+    "demo:build": "node scripts/build-demo.mjs"
   },
   "dependencies": {
     "@base-ui/react": "^1.7.0",
@@ -66,5 +69,6 @@
     "miniflare": {
       "sharp": "0.35.4"
     }
-  }
+  },
+  "description": "Persönliche Lern-App im Reel-Stil: Aufgabenpakete aus ChatGPT, aktives Abrufen, Wiederholungsplan."
 }

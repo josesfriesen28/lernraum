@@ -1,56 +1,83 @@
 # Lernraum
 
-Persönliche Lern-Web-App für Wirtschaftskommunikation, mit 20 Minuten als Standard. Deutsche, mobile Oberfläche; ChatGPT-Anmeldung; Quellen in R2; Lernereignisse in D1. Erstellt auf Grundlage des begleitenden Rechercheberichts und seiner Umsetzungsspezifikation.
+Persönliche Lern-Web-App fürs Studium (Wirtschaftskommunikation, HTW Berlin) – fürs iPhone gemacht, ~20 Minuten am Tag. Lernen fühlt sich an wie ein Feed: Karte antippen, beantworten, hochwischen, nächste Karte. Dahinter steckt aktives Abrufen mit einem Wiederholungsplan statt endlosem Konsum.
 
-## Start
+**Version 0.4.0** · [Changelog](CHANGELOG.md)
 
-1. Auf der privaten Sites-Adresse mit dem eigenen ChatGPT-Konto anmelden.
-2. Unter **Material** ein Modul mit optionalem Prüfungstermin anlegen.
-3. PDF oder Text importieren. Unter **Aufgaben → Entwürfe** Lernziel, Frage, Lösung, Kriterien und Quelle prüfen. Erst danach freigeben.
-4. Unter **Heute** das Zeitbudget wählen und lernen. Offene Antworten selbst an den Kriterien beurteilen.
-5. Unter **Einstellungen** regelmäßig ein vollständiges Backup herunterladen.
+<p>
+<img src="docs/screenshots/feed-richtig.png" width="200" alt="Richtig beantwortete Single-Choice-Karte mit Serienzähler">
+<img src="docs/screenshots/feed-auswahl.png" width="200" alt="Falsch beantwortete Karte mit Auflösung">
+<img src="docs/screenshots/feed-selbstbewertung.png" width="200" alt="Offene Antwort mit Selbstbewertung">
+<img src="docs/screenshots/feed-erklaerkarte.png" width="200" alt="Erklärkarte">
+</p>
 
-Ausführliche Hinweise: [Bedienung](docs/Bedienung.md), [Betrieb und Datenmodell](docs/Betrieb.md), [Abnahme und Grenzen](docs/Abnahme.md).
+## Sofort ausprobieren
 
-## Lokale Entwicklung
+`demo/index.html` im Browser öffnen – keine Installation nötig. Die Demo enthält die echte Oberfläche mit einem Browser-Adapter statt Server und erfundene Beispielkarten. Ein Beispiel-Aufgabenpaket liegt daneben (`demo/Beispiel-Aufgabenpaket.json`, unter *Material* hineinziehen).
 
-Node.js >=22.13, npm und der Sites-Plugin-Workflow werden benötigt. Projektprofil: `portable`.
+Die Demo ersetzt nicht das Backend: keine Anmeldung, keine Synchronisation, kein PDF-Import. Keine echten Lerndaten darin ablegen.
 
-```sh
-npm run install:ci
-npm run build
-node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1 execute DB --local --config dist/server/wrangler.json --persist-to .wrangler/state --file drizzle/0000_reflective_scalphunter.sql
-node --import ./scripts/sites-env.mjs ./node_modules/wrangler/bin/wrangler.js d1 execute DB --local --config dist/server/wrangler.json --persist-to .wrangler/state --file drizzle/0001_command_guard.sql
-npm run dev -- --host 127.0.0.1
+## Was die App kann
+
+- **Reel-Lernfeed** – Vollbildkarten, Antippen zum Antworten, Hochwischen/Scrollen für die nächste Karte, 🔥-Serien, Konfetti und automatisches Weiter bei richtigen Antworten. Details: [docs/Lernfeed-und-Papierkorb.md](docs/Lernfeed-und-Papierkorb.md)
+- **Aufgabenpakete aus ChatGPT/Claude** – Material hochladen, mit dem [Aufgabenpaket-Prompt](docs/Aufgabenpaket-Prompt.md) JSON-Pakete erzeugen lassen, ins Uploadfeld ziehen. Bis 500 Aufgaben pro Datei, kein Doppelimport.
+- **Fünf Formate** – Single-Choice, Multiple-Choice, freier Abruf, Anwendung, Erklärkarte.
+- **Wiederholungsplan `rules-v1`** – erfolgreiche, eigenständige Abrufe staffeln sich über 1, 3, 7, 14, 30, 60 Tage. Überspringen, Raten, Hilfe und Lesen zählen nicht als Erfolg.
+- **Versionierte Inhalte** – Quellen und Aufgaben haben Versionen; Änderungen starten eine neue Wiederholungsspur, alte Antworten bleiben erhalten.
+- **Papierkorb, Verlauf mit Korrekturen, vollständiges Backup/Restore.**
+
+## Projektstruktur
+
+```
+components/learn-feed.tsx   Reel-Lernfeed (Gesten, Animationen, Serien)
+components/lernraum.tsx     restliche Oberfläche (Heute, Material, Aufgaben, Verlauf, Einstellungen)
+lib/core.mjs                Scheduler, Auswahl, Bewertung, Backup-Prüfung (reine Logik)
+lib/package.mjs             Vertrag für JSON-Aufgabenpakete
+lib/version.mjs             App-Version
+app/api/data/route.ts       authentifizierte Datenbefehle, Versionen, Papierkorb, Import, Restore
+app/api/file/route.ts       geschützte Originaldateien
+db/, drizzle/               Datenmodell und SQL-Migrationen (D1)
+demo/                       eigenständige HTML-Demo + Adapter (demo/src/handoff-entry.tsx)
+docs/                       Bedienung, Betrieb, Abnahme, Prompt, Konzept, Recherche, Chatverlauf
+tests/                      Logik-, Paket-, Versions- und API-Tests
 ```
 
-Die SQL-Befehle nur einmal auf eine frische lokale Datenbank anwenden; bei Updates nur ausstehende Migrationen. Der Entwicklungsserver bietet ausschließlich auf Loopback eine Testanmeldung (`local_seedy`), die nicht im Produktiv-Worker enthalten ist. Lokale Testdaten liegen in `.wrangler/` und werden weder eingecheckt noch veröffentlicht.
+## Entwickeln
+
+Voraussetzung: Node.js ≥ 22.13 und npm.
 
 ```sh
-node node_modules/typescript/bin/tsc --noEmit
-node --test tests/core.test.mjs
-# Mit laufendem lokalen Entwicklungsserver, ausschließlich lokale Testdaten:
-node tests/api.test.mjs
+npm ci                 # Abhängigkeiten laut Lockfile
+npm test               # Logik-, Paket- und Versionstests (ohne Server)
+npm run typecheck      # TypeScript
+npm run demo:build     # demo/index.html neu bauen
+npm run dev            # Entwicklungsserver (siehe Hinweis)
 ```
 
-Die Integrationstests sichern den vorhandenen lokalen Datensatz, verwenden erfundene Inhalte und spielen den ursprünglichen Datensatz am Ende zurück. Die API-Testadresse ist fest auf `127.0.0.1` begrenzt. Ein erzwungener Prozessabbruch kann den Teststand hinterlassen; echte Daten gehören nicht in diese Testumgebung.
+Stack: React 19 / TypeScript, Vinext (Next-kompatibel auf Vite), Cloudflare Workers mit D1 (Datenbank) und R2 (Dateien). Die App ist ursprünglich auf ChatGPT „Sites“ gebaut worden; Anmeldung und Bindings kommen von dort. Für eigenes Hosting müssen Identitätsprüfung (`lib/server.ts`, `app/chatgpt-auth.ts`), Worker-Bindings und Deployment ersetzt werden. Lokale Migrationen, API-Tests und Veröffentlichung: [docs/Entwicklung-und-Hosting.md](docs/Entwicklung-und-Hosting.md) und [docs/Betrieb.md](docs/Betrieb.md).
 
-## Veröffentlichung
+## Versionierung
 
-Die bestehende Sites-ID in `.openai/hosting.json` wiederverwenden. Nie für ein Update eine zweite Site erzeugen. Die logischen Bindings `DB` und `BUCKET` werden von Sites bereitgestellt. Über den Sites-Source-Helper den geprüften Stand bauen, committen, pushen und paketieren; dann genau diesen Commit und dieses Archiv privat veröffentlichen. Die SQL-Migrationen werden von Sites bei der Bereitstellung angewendet. Zugangsdaten ausschließlich über den vorgesehenen kurzlebigen Workflow, niemals im Repository.
+- [Semantic Versioning](https://semver.org/lang/de/): `MAJOR.MINOR.PATCH`. Neue Funktion → MINOR, Fehlerbehebung → PATCH, inkompatibles Datenformat → MAJOR.
+- Bei jedem Release: `package.json`, `lib/version.mjs` und `CHANGELOG.md` anheben (der Test schlägt sonst fehl), committen, Tag setzen:
+  ```sh
+  git tag -a v0.5.0 -m "Kurzbeschreibung" && git push --follow-tags
+  ```
+- Datenbankänderungen nur als neue Datei in `drizzle/` – bestehende Migrationen nie ändern.
+- Inhalte in der App sind zusätzlich versioniert (Quellen `v1, v2 …`, Aufgaben mit Vorgängerverweis), unabhängig von der App-Version.
 
-## Architektur
+## Herkunft und Dokumentation
 
-- `lib/core.mjs`: reine Wiederholungs-, Auswahl-, Bewertungs- und Backup-Validierungslogik.
-- `app/api/data/route.ts`: authentifizierte Befehle, Revisionen, atomare Änderungen.
-- `app/api/file/route.ts`: authentifizierte, nutzergebundene Originaldateien.
-- `lib/server.ts`: Identität, Datenzugriff, konsistente Snapshots.
-- `components/lernraum.tsx`: Oberfläche, lokale Antwortvormerkung, Import, Export.
-- `lib/pdf-loader.ts` und `public/pdf/`: PDF.js im Browser, ohne externen CDN-Aufruf.
-- `db/schema.ts`, `drizzle/`: deklaratives Schema und unveränderliche Migrationen.
+Konzept, Recherche (Lernforschung) und Umsetzungsspezifikation liegen unter `docs/konzept/`, der ursprüngliche Chatverlauf mit ChatGPT unter `docs/verlauf/`. Ältere Dokumente beschreiben teils frühere Stände; maßgeblich ist der Code plus `CHANGELOG.md`.
 
-Keine LLM-Anbindung, keine KI-Bewertung, keine OCR und keine externen Analysedienste. Es werden keine kostenpflichtigen Dienste zusätzlich eingerichtet.
+## Offene Baustellen
+
+1. Lernfeed auf echtem iPhone testen (Tastatur, lange Lösungen, langsames Netz, Safe Areas).
+2. `components/lernraum.tsx` weiter aufteilen, `any` durch echte Typen ersetzen.
+3. Mehrgeräte-Konflikte und Restore aus unterschiedlichen Ständen testen.
+4. Paginierung für große Datenmengen, Paketvorschau, Dublettenerkennung.
+5. Optional: OCR, KI-Bewertung mit Korrekturmöglichkeit, Offline-Modus.
 
 ## Lizenzen
 
-PDF.js 5.6.205 ist unter Apache-2.0 eingebunden; Lizenz unter `public/pdf/LICENSE`. Die Sites-Vorlage enthält ihre eigenen Lizenzhinweise. Weitere Abhängigkeiten und festgeschriebene Versionen stehen in `package.json` und der Lockdatei.
+PDF.js 5.6.205 unter Apache-2.0 (`public/pdf/LICENSE`), shadcn-Styles siehe `vendor/`. Für das Projekt selbst ist noch keine Lizenz festgelegt – ohne `LICENSE`-Datei gilt „alle Rechte vorbehalten“.
