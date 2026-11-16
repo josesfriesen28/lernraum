@@ -2,7 +2,7 @@
 
 Persönliche Lern-App fürs Studium (Wirtschaftskommunikation, HTW Berlin) – fürs iPhone gemacht, ~20 Minuten am Tag. Lernen fühlt sich an wie ein Feed: Karte antippen, beantworten, hochwischen, nächste Karte. Dahinter steckt aktives Abrufen mit einem Wiederholungsplan statt endlosem Konsum.
 
-**Version 0.5.0** · [Changelog](CHANGELOG.md) · läuft komplett im Browser, kein Server, kein Konto
+**Version 0.6.0** · [Changelog](CHANGELOG.md) · läuft komplett im Browser, kein Server, kein Konto
 
 <p>
 <img src="docs/screenshots/feed-richtig.png" width="200" alt="Richtig beantwortete Single-Choice-Karte mit Serienzähler">
@@ -16,12 +16,13 @@ Persönliche Lern-App fürs Studium (Wirtschaftskommunikation, HTW Berlin) – f
 Die App wird bei jedem Push automatisch auf **GitHub Pages** veröffentlicht: `https://<dein-github-name>.github.io/lernraum/`
 
 - **iPhone:** Adresse in Safari öffnen → Teilen → **Zum Home-Bildschirm**. Danach startet Lernraum wie eine App, auch ohne Internet.
-- **Aufgaben bekommen:** Material bei Claude oder ChatGPT hochladen, den [Aufgabenpaket-Prompt](docs/Aufgabenpaket-Prompt.md) verwenden, die JSON-Datei unter *Material* in Lernraum ziehen. Zum Ausprobieren: [docs/Beispiel-Aufgabenpaket.json](docs/Beispiel-Aufgabenpaket.json).
+- **Lerninhalte:** Material an Claude geben; daraus werden Aufgabenpakete im Ordner [`content/`](content/README.md), die mit der App ausgeliefert und auf jedem Gerät automatisch übernommen werden. Ablauf: [docs/Inhalte-erstellen.md](docs/Inhalte-erstellen.md).
+- **Eigene Pakete** lassen sich zusätzlich unter *Material* hineinziehen (nur auf diesem Gerät). Prompt dafür: [docs/Aufgabenpaket-Prompt.md](docs/Aufgabenpaket-Prompt.md), Beispiel: [docs/Beispiel-Aufgabenpaket.json](docs/Beispiel-Aufgabenpaket.json).
 - **PDFs und Texte** lassen sich auch direkt importieren; daraus entstehen einfache Entwürfe zum Überarbeiten.
 
 ### Wo liegen meine Daten?
 
-Nur auf dem Gerät, im Browser (IndexedDB) – nicht auf GitHub, nirgendwo sonst. Die Website ist öffentlich, aber jede Person, die sie öffnet, hat ihren eigenen, leeren Lernraum.
+Dein Fortschritt (Antworten, Wiederholungsplan, eigene Importe) liegt nur auf dem Gerät, im Browser (IndexedDB). Die Aufgaben aus `content/` liegen dagegen öffentlich im Repository. Die Website ist öffentlich, aber jede Person, die sie öffnet, hat ihren eigenen, leeren Lernraum.
 
 Daraus folgt:
 - **Kein Abgleich zwischen Geräten.** Wechseln geht über *Einstellungen → Vollständiges Backup* und auf dem anderen Gerät *Backup-Datei auswählen*.
@@ -65,6 +66,8 @@ components/learn-feed.tsx   Reel-Lernfeed (Gesten, Animationen, Serien)
 components/lernraum.tsx     restliche Oberfläche (Heute, Material, Aufgaben, Verlauf, Einstellungen)
 lib/local-api.mjs           „Backend“ im Browser: alle Befehle für Daten und Dateien
 lib/browser-backend.ts      IndexedDB-Speicher und Anbindung an die Oberfläche
+lib/content-sync.ts         übernimmt mitgelieferte Pakete aus content/
+content/                    Lerninhalte (Aufgabenpakete) – werden mit der App ausgeliefert
 lib/core.mjs                Scheduler, Auswahl, Bewertung, Backup-Prüfung (reine Logik)
 lib/package.mjs             Vertrag für JSON-Aufgabenpakete
 lib/version.mjs             App-Version

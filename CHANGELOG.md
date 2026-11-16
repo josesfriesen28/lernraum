@@ -7,6 +7,21 @@ Die Version steht an drei Stellen und muss übereinstimmen (prüft `tests/versio
 
 ## [Unreleased]
 
+## [0.6.0] – 2026-11-16
+
+Lerninhalte kommen mit der App.
+
+### Hinzugefügt
+- Ordner `content/`: Aufgabenpakete im Repository werden mit der App ausgeliefert und beim Öffnen automatisch übernommen – auf jedem Gerät, ohne Import von Hand. Module werden bei Bedarf angelegt.
+- Paket-Updates: geänderte Aufgaben werden neue Versionen, neue kommen dazu, entfernte wandern in den Papierkorb; Antworten und Fortschritt unveränderter Aufgaben bleiben erhalten.
+- Hinweis in der App, welche Inhalte neu übernommen wurden.
+- Build prüft alle Pakete und erzeugt `content/index.json`.
+- Anleitung `docs/Inhalte-erstellen.md` und Formatbeschreibung `content/README.md`.
+
+### Geändert
+- Service Worker lädt Lerninhalte zuerst aus dem Netz, damit Updates sofort ankommen (offline weiterhin aus dem Cache).
+- Neue Varianten einer Aufgabe übernehmen nicht mehr die Paket-Kennung des Originals.
+
 ## [0.5.0] – 2026-11-16
 
 Unabhängig von ChatGPT: Lernraum läuft komplett im Browser und wird über GitHub Pages veröffentlicht.
@@ -79,7 +94,8 @@ Stand der Übergabe aus ChatGPT.
 ### Hinzugefügt
 - Erste Version: Module, PDF-/Textimport mit regelbasierten Entwürfen, fünf Aufgabenformate, Wiederholungsplan `rules-v1`, versionierte Quellen und Aufgaben, Lernverlauf mit Korrekturen, vollständiges Backup und Restore.
 
-[Unreleased]: ../../compare/v0.5.0...HEAD
+[Unreleased]: ../../compare/v0.6.0...HEAD
+[0.6.0]: ../../compare/v0.5.0...v0.6.0
 [0.5.0]: ../../compare/v0.4.0...v0.5.0
 [0.4.0]: ../../compare/v0.3.0...v0.4.0
 [0.3.0]: ../../releases/tag/v0.3.0

@@ -60,3 +60,6 @@
 @keyframes reel-timer{from{width:0}to{width:100%}}
 @media(min-width:760px){.reel-body{padding:32px 34px 14px}.reel-card{inset:12px 12px 22px}}
 @media(prefers-reduced-motion:reduce){.reel *,.reel{animation:none!important;transition:none!important}}
+
+/* Hinweis auf neu übernommene Lerninhalte (v0.6.0) */
+.content-toast{position:fixed;z-index:300;left:50%;bottom:calc(84px + env(safe-area-inset-bottom));transform:translateX(-50%);max-width:min(560px,calc(100vw - 24px));background:#234b40;color:#fff;padding:12px 18px;border-radius:16px;font:600 13px/1.5 Inter,system-ui,sans-serif;box-shadow:0 12px 40px #0004;animation:reel-up .35s ease-out}

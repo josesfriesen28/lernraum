@@ -2,7 +2,9 @@
 //   npm run build            → dist/
 //   npm run preview          → dist/ unter http://localhost:4173 ansehen
 import {build} from 'esbuild';
-import {cp, mkdir, readFile, rm, writeFile} from 'node:fs/promises';
+import {cp, mkdir, readFile, readdir, rm, writeFile} from 'node:fs/promises';
+import {createHash} from 'node:crypto';
+import {validatePackage} from '../lib/package.mjs';
 import {fileURLToPath} from 'node:url';
 import path from 'node:path';
 
@@ -35,6 +37,26 @@ const css = (await readFile(path.join(root, 'web/app.css'), 'utf8')).replace(/^@
 await writeFile(path.join(out, 'app.css'), css + '\n.storage-warning{background:#fbebc7;color:#624b24;padding:10px 18px;font:13px/1.5 system-ui;text-align:center}\n');
 
 await cp(path.join(root, 'public'), out, {recursive: true});
+// Mitgelieferte Lerninhalte: content/**/*.json → dist/content/ + Inhaltsverzeichnis
+const contentDir = path.join(root, 'content');
+const entries = [];
+for (const file of (await readdir(contentDir, {recursive: true}).catch(() => [])).filter(f => f.endsWith('.json')).sort()) {
+  const bytes = await readFile(path.join(contentDir, file));
+  let pack;
+  try {pack = validatePackage(JSON.parse(bytes.toString('utf8')));}
+  catch (e) {throw Error(`content/${file}: ${e.message}`);}
+  if (!pack.course) throw Error(`content/${file}: Feld „course“ (Modulname) fehlt.`);
+  const dup = entries.find(e => e.packageId === pack.packageId);
+  if (dup) throw Error(`content/${file}: packageId „${pack.packageId}“ wird schon von ${dup.file} verwendet.`);
+  const rel = file.split(path.sep).join('/');
+  await mkdir(path.dirname(path.join(out, 'content', rel)), {recursive: true});
+  await writeFile(path.join(out, 'content', rel), bytes);
+  entries.push({file: rel, packageId: pack.packageId, course: pack.course, examType: pack.examType, title: pack.title, tasks: pack.tasks.length, hash: createHash('sha256').update(bytes).digest('hex')});
+}
+await mkdir(path.join(out, 'content'), {recursive: true});
+await writeFile(path.join(out, 'content', 'index.json'), JSON.stringify({version, entries}, null, 1));
+const total = entries.reduce((n, e) => n + e.tasks, 0);
+
 const sw = (await readFile(path.join(root, 'web/sw.js'), 'utf8')).replaceAll('__VERSION__', version);
 await writeFile(path.join(out, 'sw.js'), sw);
 
@@ -66,4 +88,4 @@ const html = `<!doctype html>
 await writeFile(path.join(out, 'index.html'), html);
 // GitHub Pages soll Dateien nicht durch Jekyll schicken.
 await writeFile(path.join(out, '.nojekyll'), '');
-console.log(`dist/ gebaut – Lernraum v${version}`);
+console.log(`dist/ gebaut – Lernraum v${version} · ${entries.length} Inhaltspakete, ${total} Aufgaben`);

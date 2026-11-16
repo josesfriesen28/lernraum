@@ -61,3 +61,40 @@ const backupOf=s=>({format:'lernraum',schema:1,entities:s,files:[...new Set(s.do
  check('Gefälschte PDFs werden abgelehnt',()=>assert.equal(bad.r.status,400));
  assert.ok(passed>=20,'nur '+passed+' Prüfungen');
 });
+
+test('Paket-Update: neu, geändert, entfernt, Fortschritt bleibt', async () => {
+  const api = createLocalApi(memoryStorage());
+  let state, revision;
+  const req = async (path, opt = {}) => {const r = await api.handle(new URL(path, 'http://x'), opt); return {r, d: await r.json()};};
+  const cmd = async (command, payload) => {const {r, d} = await req('/api/data', {method: 'POST', body: JSON.stringify({id: crypto.randomUUID(), revision, command, payload})}); assert.equal(r.status, 200, JSON.stringify(d)); ({state, revision} = d); return d;};
+  const upload = async text => {const f = new FormData(); f.set('file', new File([text], 'p.json', {type: 'application/json'})); return (await req('/api/file', {method: 'POST', body: f})).d.hash;};
+  ({state, revision} = (await req('/api/data')).d);
+  const task = (id, prompt) => ({id, objective: 'Ziel', family: 'f-' + id, sourceTitle: 'Skript', sourceQuote: 'Zitat', page: 1, prompt, solution: 'Lösung ' + id, rubric: 'Kriterium', type: 'recall', track: 'recall', seconds: 60, options: [], correct: []});
+  const v1 = {format: 'lernraum-package', version: 1, packageId: 'kurs-thema', title: 'Thema', course: 'Kurs', tasks: [task('a', 'A?'), task('b', 'B?'), task('c', 'C?')]};
+  await cmd('course', {name: 'Kurs'}); const courseId = state.course[0].id;
+  const h1 = await upload(JSON.stringify(v1));
+  await cmd('package', {courseId, package: v1, hash: h1, activate: true, update: true, generated: 'bundled'});
+  assert.equal(state.task.filter(t => t.status === 'active').length, 3);
+  await cmd('start', {minutes: 5});
+  const s1 = state.session[0]; const first = state.task.find(t => t.id === s1.items[0].id);
+  await cmd('attempt', {taskId: first.id, sessionId: s1.id, result: 'correct', answer: 'x', confidence: 'sure', seconds: 5});
+  await cmd('finish', {id: s1.id});
+  // gleiches Paket nochmal: nichts passiert
+  const again = await cmd('package', {courseId, package: v1, hash: h1, activate: true, update: true, generated: 'bundled'});
+  assert.match(again.notice, /bereits importiert/);
+  // v2: a geändert, b gleich, c entfernt, d neu
+  const v2 = {...v1, tasks: [task('a', 'A – neu formuliert?'), task('b', 'B?'), task('d', 'D?')]};
+  const h2 = await upload(JSON.stringify(v2));
+  const d = await cmd('package', {courseId, package: v2, hash: h2, activate: true, update: true, generated: 'bundled'});
+  assert.match(d.notice, /1 neu, 1 geändert, 1 entfernt, 1 unverändert/);
+  const active = state.task.filter(t => t.status === 'active');
+  assert.deepEqual(active.map(t => t.externalId).sort(), ['a', 'b', 'd']);
+  const newA = active.find(t => t.externalId === 'a'); assert.equal(newA.version, 2); assert.equal(newA.prompt, 'A – neu formuliert?');
+  assert.equal(state.task.find(t => t.externalId === 'c').status, 'archived');
+  assert.equal(state.attempt.length, 1, 'Antworten bleiben erhalten');
+  assert.equal(state.document.filter(x => x.packageId === 'kurs-thema').length, 2);
+  // Ohne update-Flag bleibt der alte Schutz bestehen
+  const v3 = {...v2, title: 'anders'}; const h3 = await upload(JSON.stringify(v3));
+  const {r} = await req('/api/data', {method: 'POST', body: JSON.stringify({id: crypto.randomUUID(), revision, command: 'package', payload: {courseId, package: v3, hash: h3, activate: true}})});
+  assert.equal(r.status, 400);
+});

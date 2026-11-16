@@ -1,6 +1,6 @@
 # Wiederverwendbarer Prompt für Aufgabenpakete
 
-Funktioniert mit Claude, ChatGPT oder jedem anderen Chat-Assistenten: Prompt und Material einfügen, die ausgegebene JSON-Datei in Lernraum unter **Material** hineinziehen.
+Funktioniert mit Claude, ChatGPT oder jedem anderen Chat-Assistenten: Prompt und Material einfügen, die ausgegebene JSON-Datei in Lernraum unter **Material** hineinziehen. Für Inhalte, die fest mit der App ausgeliefert werden sollen, siehe [Inhalte-erstellen.md](Inhalte-erstellen.md) – dort kommen noch die Felder `course` und optional `examType` dazu.
 
 Kopiere den folgenden Prompt zusammen mit deinen Studienmaterialien in einen Chat. Die resultierenden JSON-Dateien kannst du unter Material in Lernraum ablegen. Wähle ein Modul; prüfe die angezeigte Aufgabenanzahl. Ohne Aktivierungsbestätigung landen Aufgaben zur Prüfung im Entwurfsbereich. Mit Bestätigung sind alle direkt lernbar.
 
