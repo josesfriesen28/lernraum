@@ -1,0 +1,286 @@
+{
+  "format": "lernraum-package",
+  "version": 1,
+  "packageId": "beispiel-feedback-1",
+  "title": "BEISPIEL · Feedback (erfunden)",
+  "topic": "Feedback",
+  "tasks": [
+    {
+      "id": "q1",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f1",
+      "type": "single",
+      "track": "recognize",
+      "prompt": "Welche Formulierung ist hilfreiches Feedback?",
+      "solution": "Hilfreich ist die konkrete, beobachtbare Beschreibung mit Wirkung und Bitte.",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 45,
+      "options": [
+        {
+          "id": "o0",
+          "text": "„Du bist immer so unorganisiert.“"
+        },
+        {
+          "id": "o1",
+          "text": "„In der Präsentation fehlten zwei Folien; dadurch kam der Teil zu kurz. Kannst du sie ergänzen?“"
+        },
+        {
+          "id": "o2",
+          "text": "„Das war irgendwie nicht so gut.“"
+        },
+        {
+          "id": "o3",
+          "text": "„Mach es einfach besser.“"
+        }
+      ],
+      "correct": [
+        "o1"
+      ]
+    },
+    {
+      "id": "q2",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f2",
+      "type": "recall",
+      "track": "recall",
+      "prompt": "Was kennzeichnet hilfreiches Feedback?",
+      "solution": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 45,
+      "options": [],
+      "correct": []
+    },
+    {
+      "id": "q3",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f3",
+      "type": "multiple",
+      "track": "recognize",
+      "prompt": "Welche Bestandteile gehören zu hilfreichem Feedback?",
+      "solution": "Verhalten, Wirkung und Bitte – keine Bewertung der Person.",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 45,
+      "options": [
+        {
+          "id": "o0",
+          "text": "Beobachtbares Verhalten"
+        },
+        {
+          "id": "o1",
+          "text": "Wirkung des Verhaltens"
+        },
+        {
+          "id": "o2",
+          "text": "Eine konkrete Bitte"
+        },
+        {
+          "id": "o3",
+          "text": "Eine Bewertung der Persönlichkeit"
+        }
+      ],
+      "correct": [
+        "o0",
+        "o1",
+        "o2"
+      ]
+    },
+    {
+      "id": "q4",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f4",
+      "type": "explain",
+      "track": "explain",
+      "prompt": "Kurz lesen: Warum Ich-Botschaften wirken",
+      "solution": "Ich-Botschaften beschreiben die eigene Wahrnehmung, statt die andere Person zu bewerten. Das senkt Abwehr und macht das Gespräch über das Verhalten leichter.",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 45,
+      "options": [],
+      "correct": []
+    },
+    {
+      "id": "q5",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f5",
+      "type": "single",
+      "track": "recognize",
+      "prompt": "Was beschreibt „beobachtbares Verhalten“ am besten?",
+      "solution": "Eine konkrete, überprüfbare Handlung.",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 45,
+      "options": [
+        {
+          "id": "o0",
+          "text": "Eine Vermutung über Absichten"
+        },
+        {
+          "id": "o1",
+          "text": "Eine konkrete, überprüfbare Handlung"
+        },
+        {
+          "id": "o2",
+          "text": "Ein allgemeines Urteil"
+        },
+        {
+          "id": "o3",
+          "text": "Eine Charaktereigenschaft"
+        }
+      ],
+      "correct": [
+        "o1"
+      ]
+    },
+    {
+      "id": "q6",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f6",
+      "type": "apply",
+      "track": "apply",
+      "prompt": "Fiktiver Fall: Ein Teammitglied schickt Protokolle regelmäßig zu spät. Formuliere eine konkrete Bitte.",
+      "solution": "Z. B.: „Die letzten drei Protokolle kamen erst nach einer Woche; dadurch fehlten uns Beschlüsse. Kannst du sie künftig bis Freitag schicken?“",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 120,
+      "options": [],
+      "correct": []
+    },
+    {
+      "id": "q7",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f7",
+      "type": "single",
+      "track": "recognize",
+      "prompt": "Wann ist Feedback am wirksamsten?",
+      "solution": "Möglichst zeitnah zum Ereignis.",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 45,
+      "options": [
+        {
+          "id": "o0",
+          "text": "Möglichst zeitnah zum Ereignis"
+        },
+        {
+          "id": "o1",
+          "text": "Erst im Jahresgespräch"
+        },
+        {
+          "id": "o2",
+          "text": "Nur schriftlich und anonym"
+        },
+        {
+          "id": "o3",
+          "text": "Nur wenn es gefordert wird"
+        }
+      ],
+      "correct": [
+        "o0"
+      ]
+    },
+    {
+      "id": "q8",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f8",
+      "type": "multiple",
+      "track": "recognize",
+      "prompt": "Welche Aussagen sind Ich-Botschaften?",
+      "solution": "„Ich habe mir Sorgen gemacht.“ und „Mir fehlt noch der Überblick.“",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 45,
+      "options": [
+        {
+          "id": "o0",
+          "text": "„Ich habe mir Sorgen gemacht.“"
+        },
+        {
+          "id": "o1",
+          "text": "„Du nervst.“"
+        },
+        {
+          "id": "o2",
+          "text": "„Mir fehlt noch der Überblick.“"
+        },
+        {
+          "id": "o3",
+          "text": "„Man macht das so nicht.“"
+        }
+      ],
+      "correct": [
+        "o0",
+        "o2"
+      ]
+    },
+    {
+      "id": "q9",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f9",
+      "type": "recall",
+      "track": "recall",
+      "prompt": "Warum hilft eine genaue Verhaltensbeschreibung?",
+      "solution": "Sie ist überprüfbar, wirkt weniger wie ein Angriff und zeigt, was sich ändern lässt.",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 45,
+      "options": [],
+      "correct": []
+    },
+    {
+      "id": "q10",
+      "objective": "Hilfreiches Feedback geben",
+      "family": "f10",
+      "type": "single",
+      "track": "recognize",
+      "prompt": "Was ist das Ziel einer konkreten Bitte?",
+      "solution": "Eine umsetzbare nächste Handlung vereinbaren.",
+      "rubric": "Beobachtbares Verhalten, Wirkung und eine konkrete Bitte nennen.",
+      "sourceTitle": "BEISPIEL · erfundenes Skript „Feedback“",
+      "sourceQuote": "Hilfreiches Feedback beschreibt beobachtbares Verhalten, seine Wirkung und eine konkrete Bitte.",
+      "page": 1,
+      "seconds": 45,
+      "options": [
+        {
+          "id": "o0",
+          "text": "Schuld zuweisen"
+        },
+        {
+          "id": "o1",
+          "text": "Eine umsetzbare nächste Handlung vereinbaren"
+        },
+        {
+          "id": "o2",
+          "text": "Die Diskussion beenden"
+        },
+        {
+          "id": "o3",
+          "text": "Recht behalten"
+        }
+      ],
+      "correct": [
+        "o1"
+      ]
+    }
+  ]
+}

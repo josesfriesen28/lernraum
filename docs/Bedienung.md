@@ -2,7 +2,7 @@
 
 ## Dein erster Lerntag
 
-Öffne die private App und melde dich mit deinem ChatGPT-Konto an. Auf dem iPhone kannst du in Safari über **Teilen → Zum Home-Bildschirm** eine Verknüpfung im App-Modus hinzufügen. Der eigentliche iPhone-Installationsdialog wurde in der Entwicklungsumgebung nicht geprüft.
+Öffne die App-Adresse (GitHub Pages, siehe README). Eine Anmeldung gibt es nicht: Alle Daten liegen nur im Browser des Geräts, auf dem du lernst. Auf dem iPhone in Safari **Teilen → Zum Home-Bildschirm** wählen; dann startet Lernraum wie eine App und funktioniert auch offline.
 
 1. **Material → Modul:** Trage beispielsweise Kommunikationspsychologie ein. Klausur oder mündliche Prüfung und das Datum sind optional und später änderbar.
 2. **Material hinzufügen:** Wähle Modul, Titel und optional Thema. Lade ein Text-PDF oder eine TXT-Datei hoch oder füge Text direkt ein. Keine echten privaten Studienunterlagen wurden bei der Entwicklung vorab hochgeladen.
@@ -38,24 +38,24 @@ Die Startregel verwendet 1, 3, 7, 14, 30 und 60 Tage nach gelungenen eigenständ
 
 „Überspringen“ ist kein Erfolg. Ähnliche Varianten derselben Familie erscheinen im Tagesplan nicht unmittelbar erneut. Mit „Gezielt üben“ wählst du ausdrücklich eine Ausnahme. Standardmäßig wird nach jeweils fünf bearbeiteten Aufgaben eine überspringbare Pause angeboten. Unter Einstellungen kannst du auf zehn Aufgaben umstellen oder das Angebot ausschalten; dieser Takt ist eine Produktheuristik, kein wissenschaftlich optimierter Wert. Push-Erinnerungen sind nicht angeschlossen.
 
-Du kannst über **Später fortsetzen** zurückgehen oder die Etappe ausdrücklich abschließen. Bestätigte Antworten und Sitzungspositionen liegen auf dem Server. Ein noch nicht bewerteter Antwortentwurf bleibt nur auf dem aktuellen Gerät erhalten.
+Du kannst über **Später fortsetzen** zurückgehen oder die Etappe ausdrücklich abschließen. Antworten und Sitzungspositionen werden sofort auf dem Gerät gespeichert.
 
 ## Wenn etwas nicht stimmt
 
 - **Frage fehlerhaft · aussetzen:** Die Aufgabe wird ausgesetzt und mit einem Prüfhinweis gespeichert.
 - **Aufgaben → Ausgesetzt:** Überarbeite die Aufgabe, prüfe ihre Quelle oder aktiviere sie wieder.
 - **Verlauf:** Eine Bewertung lässt sich berichtigen. Das Originalereignis wird nicht überschrieben; die Korrektur wird zusätzlich gespeichert und der Lernplan neu daraus abgeleitet. Überspringen und Lesen können nicht zu richtigen Antworten umetikettiert werden.
-- **Antwort vorgemerkt:** Die Verbindung war unterbrochen oder die Bestätigung fehlt. Die Antwort bleibt auf diesem Gerät, auch nach einem Neuladen. Stelle die Verbindung wieder her und wähle „Erneut senden“. Bis zur Klärung bleibt weiteres Antworten gesperrt.
-- **Sitzung inzwischen auf einem anderen Gerät weitergeführt:** Erneutes Senden überschreibt den anderen Fortschritt nicht. Sichere die Antwort bei Bedarf als Datei und nutze „Bei Sitzungskonflikt ungeklärt ablegen“. Der ungeklärte Versuch bleibt im Verlauf und zählt zunächst nicht für die Fälligkeit.
+- **Antwort vorgemerkt:** Das Speichern auf dem Gerät ist fehlgeschlagen (z. B. Speicher voll). Wähle „Erneut senden“ oder sichere die Antwort als Datei.
+- **In einem anderen Tab geändert:** Ist Lernraum in zwei Tabs offen, gewinnt der zuerst gespeicherte Stand; der andere Tab muss neu laden.
 
-Es gibt noch keinen vollständig offline startbaren Lernraum. Eine geöffnete Aufgabe kann einen Verbindungsabbruch überstehen; neue Sitzungen, das erneute Öffnen der App und die Synchronisation brauchen Internet. Lösche keine Browserdaten, solange Antworten nur lokal vorgemerkt sind.
+Nach dem ersten Öffnen funktioniert Lernraum auch ohne Internet. **Lösche nie die Websitedaten von Lernraum in Safari/Chrome** – damit wären alle Lerndaten weg, sofern du kein Backup hast.
 
 ## Sicherung und Gerätewechsel
 
-Melde dich auf einem weiteren Gerät mit demselben ChatGPT-Konto an. Beim Öffnen, Zurückkehren zum Fenster und manuellen Aktualisieren lädt die App den Serverstand. Bestätigte Antworten sind dadurch geräteübergreifend verfügbar; unbestätigte Entwürfe werden nicht zwischen Geräten übertragen. Echte zwei physische Geräte wurden nicht gemeinsam getestet.
+Es gibt keinen automatischen Abgleich zwischen Geräten. Zum Wechseln (z. B. vom Mac aufs iPhone) auf dem alten Gerät ein vollständiges Backup herunterladen und auf dem neuen Gerät unter **Einstellungen → Backup-Datei auswählen** einspielen. Das ersetzt den Stand auf dem neuen Gerät vollständig. Die App erinnert auf der Startseite, wenn das letzte Backup älter als eine Woche ist.
 
 Unter **Einstellungen → Vollständiges Backup** bekommst du eine JSON-Datei mit Originaldateien, Quellenabschnitten, Aufgabenständen und Lernereignissen. Bewahre sie privat außerhalb der App auf. Empfehlenswert: nach größeren Importen und regelmäßig im Semester. „Daten als JSON“ enthält die strukturierten Daten für Weiterverarbeitung, aber keine Originaldateien und genügt allein nicht für Restore.
 
-Zur Wiederherstellung wähle das vollständige Backup aus, prüfe die angezeigten Mengen und sichere vorher den aktuellen Stand. „Mit diesem Backup ersetzen“ ersetzt den gesamten aktuellen Datenbestand. Die App prüft Struktur, Referenzen und Dateiprüfsummen vor dem Austausch. Die Originaldateien werden zunächst hochgeladen; der Datenaustausch erfolgt atomar.
+Zur Wiederherstellung wähle das vollständige Backup aus, prüfe die angezeigten Mengen und sichere vorher den aktuellen Stand. „Mit diesem Backup ersetzen“ ersetzt den gesamten aktuellen Datenbestand. Die App prüft Struktur, Referenzen und Dateiprüfsummen vor dem Austausch. Erst werden die Originaldateien gespeichert, dann wird der Datenbestand in einem Schritt ausgetauscht.
 
 Grenzen des Browser-Restores: 150 MB Backup-Datei, 12 MB strukturierte JSON-Anfrage und 100.000 Datensätze insgesamt. Für umfangreichere Bestände ist vor Erreichen dieser Grenzen eine Erweiterung nötig. Ein Backup ersetzt keine Garantie auf dauerhaften Hostingbetrieb.

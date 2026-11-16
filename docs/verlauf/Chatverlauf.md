@@ -192,7 +192,7 @@ Die App ist jetzt unter einer privaten Sites-Adresse bereitgestellt. Die Anmeldu
 
 ## Assistent · 2026-10-31T22:44:07.692Z
 
-Deine erste nutzbare Version ist **privat bereitgestellt**: [Lernraum öffnen](https://lernraum-wiko-6943.joxo007.chatgpt.site). Melde dich dort mit deinem ChatGPT-Konto an.
+Deine erste nutzbare Version ist **privat bereitgestellt**: [Lernraum öffnen](#private-chatgpt-site-entfernt). Melde dich dort mit deinem ChatGPT-Konto an.
 
 Umgesetzt sind PDF-/Textimport, Quellenversionen, Aufgabenprüfung, fünf Aufgabenformate, Wiederholungsplanung, gespeicherte Sitzungen, Antwortkorrekturen und vollständige Backups.
 
@@ -303,7 +303,7 @@ Der Test mit einem Paket aus 500 Aufgaben ist bestanden, ebenso der Schutz vor d
 
 ## Assistent · 2026-11-10T07:23:56.022Z
 
-**Die Website ist aktualisiert:** [Lernraum öffnen](https://lernraum-wiko-6943.joxo007.chatgpt.site).
+**Die Website ist aktualisiert:** [Lernraum öffnen](#private-chatgpt-site-entfernt).
 
 Dein neuer Ablauf:
 
@@ -352,7 +352,7 @@ Die 24 Prüfungen der Speicherung und Schnittstellen sind bestanden, einschließ
 
 ## Assistent · 2026-11-10T07:34:10.675Z
 
-**Ist aktualisiert:** [Lernraum öffnen](https://lernraum-wiko-6943.joxo007.chatgpt.site). Lade die Seite einmal neu.
+**Ist aktualisiert:** [Lernraum öffnen](#private-chatgpt-site-entfernt). Lade die Seite einmal neu.
 
 - **Aktive Aufgaben löschen:** Aufgabe öffnen → unten „Aufgabe löschen“. Sie verschwindet aus dem Lernplan und offenen Sitzungen. Über den Filter „Papierkorb“ kannst du sie wiederherstellen; bisherige Antworten bleiben erhalten.
 - **Scrollen und Swipen verbunden:** Du scrollst durch die Aufgabe zur Vorschau der nächsten Karte. Weiteres Scrollen oder Hochwischen wechselt automatisch zur nächsten Aufgabe – ohne separate Wischfläche.

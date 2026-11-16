@@ -7,6 +7,30 @@ Die Version steht an drei Stellen und muss übereinstimmen (prüft `tests/versio
 
 ## [Unreleased]
 
+## [0.5.0] – 2026-11-16
+
+Unabhängig von ChatGPT: Lernraum läuft komplett im Browser und wird über GitHub Pages veröffentlicht.
+
+### Hinzugefügt
+- Lokales Backend `lib/local-api.mjs`: alle bisherigen Server-Befehle (Import, Pakete, Versionen, Sitzungen, Papierkorb, Korrekturen, Restore) laufen jetzt im Browser.
+- Speicherung in IndexedDB (`lib/browser-backend.ts`) inklusive Originaldateien; Bitte um dauerhaften Speicher.
+- Offline-Fähigkeit per Service Worker, installierbar auf dem iPhone-Home-Bildschirm.
+- Statischer Build mit esbuild (`npm run build` → `dist/`), lokale Vorschau (`npm run preview`).
+- GitHub-Actions-Workflow: testet, baut und veröffentlicht bei jedem Push auf GitHub Pages.
+- Backup-Erinnerung auf der Startseite, wenn das letzte Backup älter als eine Woche ist.
+- Integrationstests des lokalen Backends (aus den früheren Server-API-Tests übernommen).
+- Beispiel-Aufgabenpaket mit allen fünf Aufgabentypen (`docs/Beispiel-Aufgabenpaket.json`).
+
+### Entfernt
+- ChatGPT-„Sites“-Anmeldung, Cloudflare Worker, D1/R2, Next/Vinext/Vite, Drizzle-Migrationen und Sites-Hilfsskripte (im Tag `v0.4.0` weiterhin nachlesbar).
+- Separate HTML-Demo (die App selbst ist jetzt die statische Seite).
+- Ungenutzte shadcn-UI-Komponenten; Abhängigkeiten von 50+ auf 8 Pakete reduziert.
+
+### Geändert
+- Kein Geräteabgleich mehr: Daten liegen pro Gerät/Browser; Gerätewechsel über vollständiges Backup.
+- Alle Pfade relativ, damit die App unter `https://<name>.github.io/lernraum/` läuft.
+- Server-bezogene Texte in der Oberfläche angepasst; alte Betriebsdoku nach `docs/archiv/`.
+
 ## [0.4.0] – 2026-11-15
 
 Lernfeed im Reel-Stil („Doomscrolling, aber fürs Lernen“).
@@ -55,6 +79,7 @@ Stand der Übergabe aus ChatGPT.
 ### Hinzugefügt
 - Erste Version: Module, PDF-/Textimport mit regelbasierten Entwürfen, fünf Aufgabenformate, Wiederholungsplan `rules-v1`, versionierte Quellen und Aufgaben, Lernverlauf mit Korrekturen, vollständiges Backup und Restore.
 
-[Unreleased]: ../../compare/v0.4.0...HEAD
+[Unreleased]: ../../compare/v0.5.0...HEAD
+[0.5.0]: ../../compare/v0.4.0...v0.5.0
 [0.4.0]: ../../compare/v0.3.0...v0.4.0
 [0.3.0]: ../../releases/tag/v0.3.0
