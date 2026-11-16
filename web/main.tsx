@@ -19,7 +19,7 @@ async function start() {
     const toast = document.createElement('div');
     toast.className = 'content-toast';
     toast.setAttribute('role', 'status');
-    toast.textContent = 'Neue Lerninhalte: ' + news.join(' · ');
+    toast.textContent = news.length > 2 ? `Neue Lerninhalte: ${news.length} Lernpakete neu oder aktualisiert.` : 'Neue Lerninhalte: ' + news.join(' · ');
     document.body.append(toast);
     setTimeout(() => toast.remove(), 7000);
   }

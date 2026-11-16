@@ -7,6 +7,16 @@ Die Version steht an drei Stellen und muss übereinstimmen (prüft `tests/versio
 
 ## [Unreleased]
 
+## [0.7.0] – 2026-11-16
+
+Erste echte Lerninhalte.
+
+### Hinzugefügt
+- 270 Karten in 13 Paketen für B2 (Grundlagen der BWL), B3 (Kommunikations- und Medienwissenschaften) und English for Business Communication, erstellt aus Moodle-Unterlagen und Notion-Notizen; Gewichtung nach den Prüfungsmarkierungen in Notion. Überblick und Lücken: `content/QUELLEN.md`.
+
+### Geändert
+- Hinweis über neue Inhalte fasst viele Pakete in einem Satz zusammen.
+
 ## [0.6.0] – 2026-11-16
 
 Lerninhalte kommen mit der App.
@@ -94,7 +104,8 @@ Stand der Übergabe aus ChatGPT.
 ### Hinzugefügt
 - Erste Version: Module, PDF-/Textimport mit regelbasierten Entwürfen, fünf Aufgabenformate, Wiederholungsplan `rules-v1`, versionierte Quellen und Aufgaben, Lernverlauf mit Korrekturen, vollständiges Backup und Restore.
 
-[Unreleased]: ../../compare/v0.6.0...HEAD
+[Unreleased]: ../../compare/v0.7.0...HEAD
+[0.7.0]: ../../compare/v0.6.0...v0.7.0
 [0.6.0]: ../../compare/v0.5.0...v0.6.0
 [0.5.0]: ../../compare/v0.4.0...v0.5.0
 [0.4.0]: ../../compare/v0.3.0...v0.4.0

@@ -1,0 +1,517 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b3-01-was-ist-kommunikation",
+ "title": "B3 · 1 Was ist Kommunikation? Zeichen",
+ "course": "B3 Angewandte Kommunikations- und Medienwissenschaften",
+ "examType": "Klausur",
+ "topic": "Definition, Zeichentypen",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Definition von Kommunikation",
+   "family": "q1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Warum ist Kommunikation schwer zu definieren?",
+   "solution": "Vier Schwierigkeiten: (1) flüchtiges Phänomen – Kommunikation ist ein Prozess, keine Substanz; (2) alltägliche Aktivität – Gefahr, den Alltagsbegriff unkritisch zu übernehmen; (3) Mehrdeutigkeit – sehr unterschiedliche Prozesse und Beteiligte; (4) Selbstbezüglichkeit – die Wissenschaft untersucht einen Gegenstand, der selbst kommunikativ erzeugt wird.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung (Beck 2023)",
+   "sourceQuote": "Kommunikation ist ein Prozess und keine Substanz.",
+   "page": 2,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q2",
+   "objective": "Definition von Kommunikation",
+   "family": "q2",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Herausforderungen bei der Definition von Kommunikation nennt die Vorlesung?",
+   "solution": "Flüchtigkeit, Alltäglichkeit, Mehrdeutigkeit und Selbstbezüglichkeit. Technische Messbarkeit gehört nicht dazu.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung (Beck 2023)",
+   "sourceQuote": "Definition von Kommunikation",
+   "page": 2,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Flüchtiges Phänomen (Prozess, keine Substanz)"
+    },
+    {
+     "id": "o1",
+     "text": "Alltägliche Aktivität"
+    },
+    {
+     "id": "o2",
+     "text": "Mehrdeutigkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Selbstbezüglichkeit"
+    },
+    {
+     "id": "o4",
+     "text": "Kommunikation ist nur technisch messbar"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Definition von Kommunikation",
+   "family": "q3",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die vier Herausforderungen bei der Definition von Kommunikation und erkläre eine davon.",
+   "solution": "Flüchtiges Phänomen, alltägliche Aktivität, Mehrdeutigkeit, Selbstbezüglichkeit. Z. B. Selbstbezüglichkeit: Die Kommunikationswissenschaft untersucht einen Gegenstand, der selbst durch Kommunikation erzeugt wird (Metakommunikation).",
+   "rubric": "Alle vier Begriffe nennen; eine Herausforderung korrekt erklären.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung (Beck 2023)",
+   "sourceQuote": "Definition von Kommunikation",
+   "page": 2,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q4",
+   "objective": "Definition von Kommunikation",
+   "family": "q4",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was unterscheidet Humankommunikation vom reinen Informationsaustausch?",
+   "solution": "Menschliche Kommunikation ist gemeinsame Bedeutungsschöpfung mit absichtsvoll und kooperativ verwendeten Zeichen – nicht bloß Transport von Informationen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung (Beck 2023)",
+   "sourceQuote": "Die Beteiligten konstruieren gemeinsam Bedeutung.",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Die Beteiligten konstruieren gemeinsam Bedeutung, absichtsvoll und kooperativ"
+    },
+    {
+     "id": "o1",
+     "text": "Informationen werden möglichst fehlerfrei vom Sender zum Empfänger transportiert"
+    },
+    {
+     "id": "o2",
+     "text": "Sie findet nur über technische Medien statt"
+    },
+    {
+     "id": "o3",
+     "text": "Sie besteht ausschließlich aus Sprache"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Definition von Kommunikation",
+   "family": "q5",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Warum ist das Kommunikationsmodell nach Shannon/Weaver für menschliche Kommunikation laut Vorlesung „unpassend“?",
+   "solution": "Shannon/Weaver ist ein mathematisch-technisches Modell der Signalübertragung. Menschliche Kommunikation ist aber kein Transport, sondern gemeinsame Bedeutungsschöpfung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung (Beck 2023)",
+   "sourceQuote": "Modell der Signalübertragung – unpassendes Modell!",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Es beschreibt Kommunikation als technische Signalübertragung vom Sender zum Empfänger und blendet gemeinsame Bedeutungskonstruktion und Beziehung aus"
+    },
+    {
+     "id": "o1",
+     "text": "Es ist zu neu und noch nicht empirisch geprüft"
+    },
+    {
+     "id": "o2",
+     "text": "Es berücksichtigt nur nonverbale Zeichen"
+    },
+    {
+     "id": "o3",
+     "text": "Es gilt nur für Massenmedien"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Definition von Kommunikation",
+   "family": "q6",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Wie lautet die Definition von Humankommunikation aus der 1. Sitzung (Zwischenfazit)?",
+   "solution": "Menschliche Kommunikation kann nicht als Transport, Transfer oder Tausch verstanden werden. Humankommunikation zeichnet sich dadurch aus, dass nicht nur natürliche Anzeichen interpretiert werden, sondern auch künstliche Zeichen (Symbole).",
+   "rubric": "Kein Transport/Tausch; Interpretation natürlicher Anzeichen UND künstlicher Zeichen (Symbole).",
+   "sourceTitle": "Moodle B3 · 1. Sitzung (Beck 2023)",
+   "sourceQuote": "Definition von Kommunikation",
+   "page": 2,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q7",
+   "objective": "Zeichentypen: Index, Ikon, Symbol",
+   "family": "q7",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Index, Ikon, Symbol",
+   "solution": "Index: ursächliche Folge oder Begleiterscheinung (Rauch → Feuer), ohne Kommunikationsabsicht. Ikon: bildhaftes Zeichen, dem Dargestellten ähnlich (Straßenschild, Emoji), ohne Festlegung verständlich. Symbol: keine bildhafte Ähnlichkeit, Bedeutung arbiträr und muss gelernt werden (Schrift, Flagge, Rot an der Ampel). Symbole sind für menschliche Kommunikation besonders wichtig, weil sie abstrakte Ideen darstellen können.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung",
+   "sourceQuote": "Symbolische Zeichen ermöglichen die Darstellung abstrakter Ideen.",
+   "page": 5,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q8",
+   "objective": "Zeichentypen: Index, Ikon, Symbol",
+   "family": "zeichen-bsp",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Rauch zeigt Feuer an. Welcher Zeichentyp ist das?",
+   "solution": "Index: ursächliche Folge/Begleiterscheinung eines Phänomens, ohne Kommunikationsabsicht.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung",
+   "sourceQuote": "Zeichentypen: Index, Ikon, Symbol",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Index"
+    },
+    {
+     "id": "o1",
+     "text": "Ikon"
+    },
+    {
+     "id": "o2",
+     "text": "Symbol"
+    },
+    {
+     "id": "o3",
+     "text": "Signalcode"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Zeichentypen: Index, Ikon, Symbol",
+   "family": "zeichen-bsp",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Emoji 😀 oder ein Piktogramm auf einem Straßenschild ist ein …",
+   "solution": "Ikon: bildhaft, dem Dargestellten ähnlich, ohne vorherige Festlegung verständlich.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung",
+   "sourceQuote": "Zeichentypen: Index, Ikon, Symbol",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Ikon"
+    },
+    {
+     "id": "o1",
+     "text": "Index"
+    },
+    {
+     "id": "o2",
+     "text": "Symbol"
+    },
+    {
+     "id": "o3",
+     "text": "Indiz"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Zeichentypen: Index, Ikon, Symbol",
+   "family": "zeichen-bsp",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Die Farbe Rot an der Ampel bedeutet „Halt“. Welcher Zeichentyp?",
+   "solution": "Symbol: keine bildhafte Ähnlichkeit, Bedeutung ist arbiträr und wird gelernt.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung",
+   "sourceQuote": "Zeichentypen: Index, Ikon, Symbol",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Symbol"
+    },
+    {
+     "id": "o1",
+     "text": "Ikon"
+    },
+    {
+     "id": "o2",
+     "text": "Index"
+    },
+    {
+     "id": "o3",
+     "text": "Ikone mit Index"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Zeichentypen: Index, Ikon, Symbol",
+   "family": "q11",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welcher Zeichentyp ist für die menschliche Kommunikation besonders wichtig – und warum?",
+   "solution": "Symbole ermöglichen abstrakte Ideen (z. B. Schrift).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung",
+   "sourceQuote": "Zeichentypen: Index, Ikon, Symbol",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Symbol, weil er die Darstellung abstrakter Ideen ermöglicht"
+    },
+    {
+     "id": "o1",
+     "text": "Index, weil er immer eindeutig ist"
+    },
+    {
+     "id": "o2",
+     "text": "Ikon, weil es ohne Lernen verstanden wird"
+    },
+    {
+     "id": "o3",
+     "text": "Index, weil er eine Kommunikationsabsicht hat"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Zeichentypen: Index, Ikon, Symbol",
+   "family": "q12",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Aussagen über Symbole stimmen?",
+   "solution": "Symbole: arbiträr, gelernt, Schrift gehört dazu. Bildhafte Ähnlichkeit = Ikon; keine Absicht = Index.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung",
+   "sourceQuote": "Zeichentypen: Index, Ikon, Symbol",
+   "page": 5,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Ihre Bedeutung ist arbiträr"
+    },
+    {
+     "id": "o1",
+     "text": "Sie müssen gelernt werden"
+    },
+    {
+     "id": "o2",
+     "text": "Auch Schrift gehört dazu"
+    },
+    {
+     "id": "o3",
+     "text": "Sie haben eine bildhafte Ähnlichkeit mit dem Dargestellten"
+    },
+    {
+     "id": "o4",
+     "text": "Sie haben keine Kommunikationsabsicht"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Zeichentypen: Index, Ikon, Symbol",
+   "family": "q13",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Finde für jeden Zeichentyp (Index, Ikon, Symbol) ein eigenes Beispiel aus dem Berufsalltag in der Wirtschaftskommunikation und begründe die Zuordnung.",
+   "solution": "Z. B. Index: sinkende Klickzahlen als Anzeichen nachlassenden Interesses (Begleiterscheinung, keine Absicht). Ikon: Papierkorb-Symbol am Bildschirm (bildhafte Ähnlichkeit). Symbol: Firmenlogo oder Markenfarbe (arbiträre, gelernte Bedeutung).",
+   "rubric": "Je ein passendes Beispiel; Begründung über Ursache (Index), Ähnlichkeit (Ikon), Konvention/Lernen (Symbol).",
+   "sourceTitle": "Moodle B3 · 1. Sitzung",
+   "sourceQuote": "Zeichentypen: Index, Ikon, Symbol",
+   "page": 5,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q14",
+   "objective": "Kommunikation als Zeichenprozess",
+   "family": "q14",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was gilt laut Vorlesung für die Zeichenvorräte von Kommunikationspartnern?",
+   "solution": "Eine gemeinsame Schnittmenge reicht; die Wahrscheinlichkeit gelingender Kommunikation steigt mit absoluter und relativer Größe der Schnittmenge.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung",
+   "sourceQuote": "Es reicht eine gemeinsame Schnittmenge.",
+   "page": 6,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sie müssen nicht deckungsgleich sein – eine gemeinsame Schnittmenge reicht; je größer sie ist, desto wahrscheinlicher gelingt Kommunikation"
+    },
+    {
+     "id": "o1",
+     "text": "Sie müssen vollständig identisch sein"
+    },
+    {
+     "id": "o2",
+     "text": "Sie spielen für das Gelingen keine Rolle"
+    },
+    {
+     "id": "o3",
+     "text": "Nur der Zeichenvorrat des Senders zählt"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Kommunikation als sozialer Austausch",
+   "family": "q15",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Warum ist Kommunikation sozialwissenschaftlich mehr als Informationsaustausch?",
+   "solution": "Kommunikation stellt auch eine Beziehung her, stiftet Gemeinschaft und Bindung. Bloßes Senden von Signalen ohne Beziehungsaspekt ist keine Kommunikation.",
+   "rubric": "Beziehungsaspekt/Gemeinschaft nennen; Abgrenzung zum bloßen Signalsenden.",
+   "sourceTitle": "Notion B3 · Vorlesungsnotiz 8.10.",
+   "sourceQuote": "Kommunikation als sozialer Austausch",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q16",
+   "objective": "Kommunikation als sozialer Austausch",
+   "family": "q16",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wann bildete sich die Kommunikationswissenschaft als eigenes Fach heraus?",
+   "solution": "Nach dem Zweiten Weltkrieg; Vorformen gab es in der Soziologie, als Studiengang u. a. durch Propagandaforschung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Notion B3 · Vorlesungsnotiz 8.10.",
+   "sourceQuote": "Kommunikation als sozialer Austausch",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Nach dem Zweiten Weltkrieg, u. a. im Kontext der Propagandaforschung"
+    },
+    {
+     "id": "o1",
+     "text": "Im 18. Jahrhundert mit der Aufklärung"
+    },
+    {
+     "id": "o2",
+     "text": "Erst mit dem Internet in den 1990ern"
+    },
+    {
+     "id": "o3",
+     "text": "Im Mittelalter mit dem Buchdruck"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Arbeitsfelder der Wirtschaftskommunikation",
+   "family": "q17",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Arbeitsfelder der Wirtschaftskommunikation nennt die 1. Sitzung?",
+   "solution": "Fünf Felder: Medien & Journalismus, Marktforschung & Analyse, Marketing & Werbung, Unternehmenskommunikation, Event- & Messemanagement.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 1. Sitzung",
+   "sourceQuote": "Arbeitsfelder der Wirtschaftskommunikation",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Medien und Journalismus"
+    },
+    {
+     "id": "o1",
+     "text": "Marktforschung und Analyse"
+    },
+    {
+     "id": "o2",
+     "text": "Marketing und Werbung"
+    },
+    {
+     "id": "o3",
+     "text": "Unternehmenskommunikation"
+    },
+    {
+     "id": "o4",
+     "text": "Event- und Messemanagement"
+    },
+    {
+     "id": "o5",
+     "text": "Steuerberatung"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3",
+    "o4"
+   ]
+  }
+ ]
+}

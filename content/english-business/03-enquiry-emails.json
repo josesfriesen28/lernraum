@@ -1,0 +1,333 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "en-03-enquiry-emails",
+ "title": "English · Business correspondence: enquiry emails",
+ "course": "English for Business Communication (B2.2)",
+ "examType": "Klausur",
+ "topic": "Business correspondence",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Elements of emails",
+   "family": "salut",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "You write a formal enquiry and know the name of the person (Ms Starr). Which salutation and close?",
+   "solution": "Formal with name: Dear Ms Starr … Sincerely yours.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Elements of emails",
+   "sourceQuote": "Elements of emails",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Dear Ms Starr – Sincerely yours"
+    },
+    {
+     "id": "o1",
+     "text": "Dear James – Best wishes"
+    },
+    {
+     "id": "o2",
+     "text": "Hi Ms Starr – Cheers"
+    },
+    {
+     "id": "o3",
+     "text": "Dear Sir or Madam – Love"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Elements of emails",
+   "family": "salut",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "You don’t know the name of the person. Which salutation fits the exam enquiry?",
+   "solution": "Unknown name: Dear Sales team … Kind/Best regards or Sincerely yours (formal).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Elements of emails",
+   "sourceQuote": "Elements of emails",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Dear Sales team / Dear Bicycles Inc. team – Kind regards"
+    },
+    {
+     "id": "o1",
+     "text": "Dear James – Best wishes"
+    },
+    {
+     "id": "o2",
+     "text": "Hey there – Cheers"
+    },
+    {
+     "id": "o3",
+     "text": "To whom it may concern – Yours lovingly"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Elements of emails",
+   "family": "q3",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What should the subject line of your exam email say?",
+   "solution": "Always the precise subject: “Enquiry about your …”.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Elements of emails",
+   "sourceQuote": "Elements of emails",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Enquiry about your … (desks/chairs/stationery)"
+    },
+    {
+     "id": "o1",
+     "text": "Hello"
+    },
+    {
+     "id": "o2",
+     "text": "Important!!!"
+    },
+    {
+     "id": "o3",
+     "text": "Question"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Phrases for enquiries",
+   "family": "q4",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Read: structure of an enquiry email",
+   "solution": "1) Source of address (We have seen your advertisement… / We were impressed by your products at the trade fair…). 2) Describe your company (We are a leading importer/retailer/wholesaler of… / a medium-sized business with…). 3) Request (We are particularly interested in… / We would be grateful if you could send us… / Do you grant a quantity/initial order discount?). 4) Enclosures (Please find attached…). 5) Polite ending (If your goods meet our requirements, we will be in a position to place a substantial order. / We look forward to hearing from you soon.).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Phrases for enquiries",
+   "page": 5,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q5",
+   "objective": "Phrases for enquiries",
+   "family": "q5",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Translate: „Wir wären Ihnen dankbar, wenn Sie uns Informationen zu Ihrer Produktpalette schicken könnten.“",
+   "solution": "We would be grateful if you could send us information on your product range.",
+   "rubric": "Correct structure “would be grateful if you could”; product range.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Phrases for enquiries",
+   "page": 5,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q6",
+   "objective": "Phrases for enquiries",
+   "family": "q6",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Translate: „Gewähren Sie einen Mengenrabatt oder einen Erstauftragsrabatt?“",
+   "solution": "Do you grant a quantity discount or an initial order discount?",
+   "rubric": "grant; quantity discount; initial order discount.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Phrases for enquiries",
+   "page": 5,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q7",
+   "objective": "Phrases for enquiries",
+   "family": "q7",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Translate: „Wir waren von den Produkten, die Ihre Firma auf der letzten Handelsmesse vorgeführt hat, beeindruckt.“",
+   "solution": "We were most impressed by the products your company demonstrated at the recent trade fair.",
+   "rubric": "impressed by; demonstrated; trade fair.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Phrases for enquiries",
+   "page": 5,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q8",
+   "objective": "Phrases for enquiries",
+   "family": "q8",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Translate: „Wir sind ein mittelständisches Unternehmen mit vielen langjährigen Kunden.“",
+   "solution": "We are a medium-sized business with many longstanding customers.",
+   "rubric": "medium-sized business; longstanding customers.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Phrases for enquiries",
+   "page": 5,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q9",
+   "objective": "Phrases for enquiries",
+   "family": "q9",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Translate: „Wir würden es begrüßen, wenn Sie uns Ihre Zahlungs- und Lieferbedingungen schicken könnten.“",
+   "solution": "We would appreciate it if you could send us your terms of payment and delivery.",
+   "rubric": "would appreciate it if; terms of payment and delivery.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Phrases for enquiries",
+   "page": 5,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q10",
+   "objective": "Phrases for enquiries",
+   "family": "q10",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which is the best polite ending for an enquiry?",
+   "solution": "Formal, polite ending.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Phrases for enquiries",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "We look forward to hearing from you soon."
+    },
+    {
+     "id": "o1",
+     "text": "Write back fast."
+    },
+    {
+     "id": "o2",
+     "text": "That’s all."
+    },
+    {
+     "id": "o3",
+     "text": "Bye for now!"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Phrases for enquiries",
+   "family": "q11",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which sentence correctly refers to an attachment?",
+   "solution": "“Please find attached …” / “We are attaching …”.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Phrases for enquiries",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Please find attached our online catalogue."
+    },
+    {
+     "id": "o1",
+     "text": "Please find attach our catalogue."
+    },
+    {
+     "id": "o2",
+     "text": "We attaching our catalogue."
+    },
+    {
+     "id": "o3",
+     "text": "Find our catalogue is attached please."
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Phrases for enquiries",
+   "family": "q12",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which sentence is grammatically correct for a polite request?",
+   "solution": "Exception to the if-rule: “would” in polite requests.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Phrases for enquiries",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "We would be pleased if you would send us a copy of your catalogue."
+    },
+    {
+     "id": "o1",
+     "text": "We would be pleased if you will send us a copy."
+    },
+    {
+     "id": "o2",
+     "text": "We will be pleased if you would sent us a copy."
+    },
+    {
+     "id": "o3",
+     "text": "We are pleased if you would to send us a copy."
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Phrases for enquiries",
+   "family": "q13",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Write an enquiry email (100–150 words): Your company Elek Elektronik GmbH saw ergonomic office chairs from Ubix Ltd at a trade fair. Ask for prices, discounts for an initial order of 20 chairs, and delivery terms.",
+   "solution": "Subject: Enquiry about your office chairs. Dear Ubix Sales Team, At the recent trade fair in Hannover we were most impressed by your ergonomic office chairs. Elek Elektronik GmbH is a medium-sized electronics manufacturer with around 300 employees in Germany. As we are currently refurbishing our offices, we are particularly interested in your model … We would be grateful if you could send us your current price list. Do you grant a discount for an initial order of 20 chairs? Information on your terms of payment and delivery would also be appreciated. If your products meet our requirements, we will be in a position to place a substantial order. We look forward to hearing from you soon. Kind regards, [Name], Purchasing Manager",
+   "rubric": "Correct layout (subject, salutation, close, name/title); source of address; company description; request incl. discount and terms; polite ending; formal register; correct grammar.",
+   "sourceTitle": "Moodle EN · Business enquiry phrases",
+   "sourceQuote": "Exam task style (Ubix / Elek Elektronik)",
+   "page": 5,
+   "seconds": 900,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

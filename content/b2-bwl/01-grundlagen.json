@@ -1,0 +1,1280 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b2-01-grundlagen",
+ "title": "B2 · 1 Grundlagen (klausurrelevant laut Lerntabelle)",
+ "course": "B2 Grundlagen der Betriebswirtschaftslehre",
+ "examType": "Klausur",
+ "topic": "Grundlagen",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Klausur und Leistungsnachweis",
+   "family": "q1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie setzt sich der Leistungsnachweis in B2 im 1. Prüfungszeitraum zusammen?",
+   "solution": "1. PZ: Präsentation 40 + Klausur 60. Im 2. PZ: nur 90-min-Klausur mit 100 Punkten.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Leistungsnachweis",
+   "sourceQuote": "Klausur und Leistungsnachweis",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Präsentation der Gruppenarbeit (40 Punkte) + 90-min-Klausur (60 Punkte)"
+    },
+    {
+     "id": "o1",
+     "text": "Nur eine 90-min-Klausur (100 Punkte)"
+    },
+    {
+     "id": "o2",
+     "text": "Hausarbeit (50) + mündliche Prüfung (50)"
+    },
+    {
+     "id": "o3",
+     "text": "Präsentation (60) + Klausur (40)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Unternehmen (Lerntabelle: JA)",
+   "family": "q2",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was sind Betriebe – und welche Kennzeichen haben sie?",
+   "solution": "Betriebe sind Wirtschaftssubjekte, in denen zur Deckung fremder Bedarfe Güter produziert und abgesetzt werden (Produktionswirtschaften). Kennzeichen: ökonomisches Prinzip und finanzielles Gleichgewicht (Auszahlungen ≤ Einzahlungen).",
+   "rubric": "Fremdbedarfsdeckung; Produktion und Absatz; ökonomisches Prinzip; finanzielles Gleichgewicht.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-1 bis 1-4",
+   "sourceQuote": "Betriebe sind Wirtschaftssubjekte, in denen zur Deckung fremder Bedarfe Güter produziert und abgesetzt werden.",
+   "page": 10,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q3",
+   "objective": "Unternehmen (Lerntabelle: JA)",
+   "family": "q3",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was unterscheidet Haushalte von Betrieben?",
+   "solution": "Haushalte = Konsumtionswirtschaften (Eigenbedarf), Betriebe = Produktionswirtschaften (Fremdbedarf).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-1 bis 1-4",
+   "sourceQuote": "Unternehmen (Lerntabelle: JA)",
+   "page": 10,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Haushalte konsumieren zur Deckung eigener Bedarfe, Betriebe produzieren für fremde Bedarfe"
+    },
+    {
+     "id": "o1",
+     "text": "Haushalte sind immer öffentlich, Betriebe immer privat"
+    },
+    {
+     "id": "o2",
+     "text": "Betriebe konsumieren, Haushalte produzieren"
+    },
+    {
+     "id": "o3",
+     "text": "Es gibt keinen Unterschied"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Unternehmen (Lerntabelle: JA)",
+   "family": "betriebsarten",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Prinzipien kennzeichnen private Betriebe (Unternehmen)?",
+   "solution": "Privat: Privateigentum, Autonomie, Erwerbswirtschaft. Öffentlich: Gemeineigentum, Organprinzip, Gemeinnützigkeit.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-1 bis 1-4",
+   "sourceQuote": "Unternehmen (Lerntabelle: JA)",
+   "page": 10,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Prinzip des Privateigentums"
+    },
+    {
+     "id": "o1",
+     "text": "Autonomieprinzip"
+    },
+    {
+     "id": "o2",
+     "text": "Erwerbswirtschaftliches Prinzip (Gewinnmaximierung)"
+    },
+    {
+     "id": "o3",
+     "text": "Organprinzip"
+    },
+    {
+     "id": "o4",
+     "text": "Prinzip der Gemeinnützigkeit"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Unternehmen (Lerntabelle: JA)",
+   "family": "betriebsarten",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Prinzipien kennzeichnen öffentliche Betriebe?",
+   "solution": "Gemeineigentum, Organprinzip, Gemeinnützigkeit.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-1 bis 1-4",
+   "sourceQuote": "Unternehmen (Lerntabelle: JA)",
+   "page": 10,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Prinzip des Gemeineigentums"
+    },
+    {
+     "id": "o1",
+     "text": "Organprinzip"
+    },
+    {
+     "id": "o2",
+     "text": "Prinzip der Gemeinnützigkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Autonomieprinzip"
+    },
+    {
+     "id": "o4",
+     "text": "Erwerbswirtschaftliches Prinzip"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Unternehmen (Lerntabelle: JA)",
+   "family": "q6",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Definiere „Unternehmen“ nach Vahs/Schäfer-Kunz.",
+   "solution": "Unternehmen sind Betriebe in mehrheitlich privatem Eigentum, die autonom und in der Regel gemäß dem erwerbswirtschaftlichen Prinzip handeln.",
+   "rubric": "Betrieb + mehrheitlich privat + autonom + erwerbswirtschaftlich.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-1 bis 1-4",
+   "sourceQuote": "Unternehmen sind Betriebe in mehrheitlich privatem Eigentum …",
+   "page": 10,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q7",
+   "objective": "Unternehmen (Lerntabelle: JA)",
+   "family": "q7",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Begründe Schritt für Schritt, warum die Speedy GmbH (Autohersteller) ein Unternehmen ist (Fallstudie Kap. 1).",
+   "solution": "Wirtschaftssubjekt: produziert für fremde Bedarfe (nicht Konsumtion für Eigenbedarf), folgt dem ökonomischen Prinzip, muss finanzielles Gleichgewicht halten → Betrieb. Art des Betriebes: Privateigentum (statt Gemeineigentum), Autonomieprinzip (statt Organprinzip), erwerbswirtschaftliches Prinzip (statt Gemeinnützigkeit) → Unternehmen.",
+   "rubric": "Zweistufig: Betrieb (Fremdbedarf, ökon. Prinzip, finanz. Gleichgewicht), dann Unternehmen (Privateigentum, Autonomie, Erwerbswirtschaft).",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-1 bis 1-4",
+   "sourceQuote": "Fallstudie Kapitel 1 (1)",
+   "page": 10,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q8",
+   "objective": "Unternehmen (Lerntabelle: JA)",
+   "family": "q8",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Nach welchen Größenmaßstäben werden Unternehmen in kleine, mittlere und große eingeteilt?",
+   "solution": "Bilanzsumme, Umsatzerlöse, Beschäftigtenzahl.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-1 bis 1-4",
+   "sourceQuote": "Unternehmen (Lerntabelle: JA)",
+   "page": 10,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bilanzsumme"
+    },
+    {
+     "id": "o1",
+     "text": "Umsatzerlöse"
+    },
+    {
+     "id": "o2",
+     "text": "Beschäftigtenzahl"
+    },
+    {
+     "id": "o3",
+     "text": "Anzahl der Produkte"
+    },
+    {
+     "id": "o4",
+     "text": "Alter des Unternehmens"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Unternehmen (Lerntabelle: JA)",
+   "family": "q9",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Sportverein gehört zu welcher Art von Nonprofit-Organisation?",
+   "solution": "Soziokulturell (Sportvereine, Kirchen). Wirtschaftlich: Verbände; politisch: Parteien; karitativ: Hilfsorganisationen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-1 bis 1-4",
+   "sourceQuote": "Unternehmen (Lerntabelle: JA)",
+   "page": 10,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Soziokulturelle NPO"
+    },
+    {
+     "id": "o1",
+     "text": "Wirtschaftliche NPO"
+    },
+    {
+     "id": "o2",
+     "text": "Politische NPO"
+    },
+    {
+     "id": "o3",
+     "text": "Karitative NPO"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Wirtschaften und ökonomisches Prinzip",
+   "family": "oekprinzip",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Gegebener Input, Output maximieren – welches Prinzip?",
+   "solution": "Maximumprinzip. Minimumprinzip: gegebener Output mit minimalem Input.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen",
+   "sourceQuote": "Wirtschaften und ökonomisches Prinzip",
+   "page": 17,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Maximumprinzip"
+    },
+    {
+     "id": "o1",
+     "text": "Minimumprinzip"
+    },
+    {
+     "id": "o2",
+     "text": "Extremumprinzip"
+    },
+    {
+     "id": "o3",
+     "text": "Erwerbswirtschaftliches Prinzip"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Wirtschaften und ökonomisches Prinzip",
+   "family": "oekprinzip",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Unternehmen will eine feste Menge von 10.000 Kaffeebechern mit möglichst geringen Kosten herstellen. Welches Prinzip?",
+   "solution": "Output gegeben, Input minimieren = Minimumprinzip.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen",
+   "sourceQuote": "Wirtschaften und ökonomisches Prinzip",
+   "page": 17,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Minimumprinzip"
+    },
+    {
+     "id": "o1",
+     "text": "Maximumprinzip"
+    },
+    {
+     "id": "o2",
+     "text": "Gemeinnützigkeitsprinzip"
+    },
+    {
+     "id": "o3",
+     "text": "Autonomieprinzip"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Wirtschaften und ökonomisches Prinzip",
+   "family": "q12",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was bedeutet „Wirtschaften“ (nach Cassel)?",
+   "solution": "Wirtschaften bedeutet, knappe Güter geplant so einzusetzen, dass die Bedürfnisbefriedigung in möglichst vorteilhafter Weise erfolgt.",
+   "rubric": "Knappe Güter; geplanter Einsatz; möglichst vorteilhafte Bedürfnisbefriedigung.",
+   "sourceTitle": "Moodle B2 · Grundlagen",
+   "sourceQuote": "Wirtschaften und ökonomisches Prinzip",
+   "page": 17,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q13",
+   "objective": "Wirtschaften und ökonomisches Prinzip",
+   "family": "q13",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist Gegenstand und Erkenntnisobjekt der BWL?",
+   "solution": "Das Wirtschaften von Betrieben.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen",
+   "sourceQuote": "Wirtschaften und ökonomisches Prinzip",
+   "page": 17,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Das Wirtschaften von Betrieben"
+    },
+    {
+     "id": "o1",
+     "text": "Das Verhalten privater Haushalte"
+    },
+    {
+     "id": "o2",
+     "text": "Die Geldpolitik der Zentralbank"
+    },
+    {
+     "id": "o3",
+     "text": "Das Wirtschaften der gesamten Volkswirtschaft"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "Wirtschaften und ökonomisches Prinzip",
+   "family": "q14",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Luft und Sonnenlicht sind …",
+   "solution": "Freie Güter sind nicht knapp; Wirtschaften betrifft knappe Güter.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen",
+   "sourceQuote": "Wirtschaften und ökonomisches Prinzip",
+   "page": 17,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "freie Güter (kein Gegenstand des Wirtschaftens)"
+    },
+    {
+     "id": "o1",
+     "text": "knappe Wirtschaftsgüter"
+    },
+    {
+     "id": "o2",
+     "text": "Investitionsgüter"
+    },
+    {
+     "id": "o3",
+     "text": "Dienstleistungen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "family": "q15",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Wie sind Märkte nach Vahs/Schäfer-Kunz definiert?",
+   "solution": "Märkte bestehen aus allen Wirtschaftssubjekten, die solche Güter anbieten und nachfragen, die sich gegenseitig ersetzen können.",
+   "rubric": "Anbieter und Nachfrager; Güter, die sich gegenseitig ersetzen können.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-6",
+   "sourceQuote": "Märkte bestehen aus allen Wirtschaftssubjekten, die … Güter anbieten und nachfragen …",
+   "page": 21,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q16",
+   "objective": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "family": "q16",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche vier zentralen Märkte bilden das Marktumfeld eines Unternehmens?",
+   "solution": "Absatz-, Beschaffungs-, Arbeits-, Geld- und Kapitalmärkte.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-6",
+   "sourceQuote": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "page": 21,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Absatzmärkte"
+    },
+    {
+     "id": "o1",
+     "text": "Beschaffungsmärkte"
+    },
+    {
+     "id": "o2",
+     "text": "Arbeitsmärkte"
+    },
+    {
+     "id": "o3",
+     "text": "Geld- und Kapitalmärkte"
+    },
+    {
+     "id": "o4",
+     "text": "Wählermärkte"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "family": "markt-auto",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "VW baut Stellen ab und verhandelt mit der IG Metall. Welcher Markt?",
+   "solution": "Personalkosten und Beschäftigung = Arbeitsmarkt.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-6",
+   "sourceQuote": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "page": 21,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Arbeitsmarkt"
+    },
+    {
+     "id": "o1",
+     "text": "Absatzmarkt"
+    },
+    {
+     "id": "o2",
+     "text": "Beschaffungsmarkt"
+    },
+    {
+     "id": "o3",
+     "text": "Geld- und Kapitalmarkt"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "family": "markt-auto",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Chinesische Hersteller setzen BMW in China unter Wettbewerbsdruck. Welcher Markt?",
+   "solution": "Ob und zu welchen Preisen Fahrzeuge verkauft werden = Absatzmarkt.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-6",
+   "sourceQuote": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "page": 21,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Absatzmarkt"
+    },
+    {
+     "id": "o1",
+     "text": "Arbeitsmarkt"
+    },
+    {
+     "id": "o2",
+     "text": "Beschaffungsmarkt"
+    },
+    {
+     "id": "o3",
+     "text": "Geld- und Kapitalmarkt"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "family": "markt-auto",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Mercedes braucht Milliarden für E-Mobilität bei sinkenden Gewinnen. Welcher Markt ist betroffen?",
+   "solution": "Finanzierung von Investitionen = Geld- und Kapitalmarkt.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-6",
+   "sourceQuote": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "page": 21,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Geld- und Kapitalmarkt"
+    },
+    {
+     "id": "o1",
+     "text": "Absatzmarkt"
+    },
+    {
+     "id": "o2",
+     "text": "Arbeitsmarkt"
+    },
+    {
+     "id": "o3",
+     "text": "Beschaffungsmarkt"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "family": "markt-auto",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Batteriezellen werden teurer und knapper. Welcher Markt?",
+   "solution": "Vorleistungen, Rohstoffe, Komponenten = Beschaffungsmarkt.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-6",
+   "sourceQuote": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "page": 21,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Beschaffungsmarkt"
+    },
+    {
+     "id": "o1",
+     "text": "Absatzmarkt"
+    },
+    {
+     "id": "o2",
+     "text": "Arbeitsmarkt"
+    },
+    {
+     "id": "o3",
+     "text": "Geld- und Kapitalmarkt"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "family": "q21",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Erkläre an einem eigenen Beispiel, wie eine Entwicklung auf dem Absatzmarkt eine Veränderung auf einem anderen Markt auslöst (Ursache → Folge → Markt).",
+   "solution": "Z. B.: Stärkere Konkurrenz auf dem Absatzmarkt (chinesische Hersteller) → sinkender Absatz/Margen → Kostendruck → Stellenabbau oder Abfindungen → Arbeitsmarkt. Oder: Absatz unsicher → geringere Gewinne → weniger Innenfinanzierung trotz hohem Investitionsbedarf → mehr externes Kapital → Geld- und Kapitalmarkt.",
+   "rubric": "Klare Kette Ursache → Unternehmensmaßnahme/Folge → betroffener zweiter Markt; Fachbegriffe (Kosten, Nachfrage, Wettbewerb, Investitionen).",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-6",
+   "sourceQuote": "Lösungsskizze Automobilindustrie: Zusammenhang zwischen zwei Märkten",
+   "page": 21,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q22",
+   "objective": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "family": "q22",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Beurteile: „Die Probleme der deutschen Autoindustrie sind nur ein Problem des Arbeitsmarktes.“ (100–150 Wörter, mind. drei Märkte)",
+   "solution": "Trifft nicht zu: Der Arbeitsmarkt ist eher Folge als Ursache. Auf den Absatzmärkten geraten VW, Mercedes, BMW unter Wettbewerbsdruck (v. a. China), Absatz und Margen sinken, der Kostendruck steigt – Folge auf dem Arbeitsmarkt: Stellenabbau, Abfindungen. Der technologische Wandel erfordert hohe Investitionen in E-Mobilität, die über Geld- und Kapitalmärkte finanziert werden müssen, während Gewinne sinken. Auch die Beschaffungsmärkte ändern sich durch neue Komponenten. Die Märkte sind über Kosten, Nachfrage, Wettbewerb und Investitionen verknüpft.",
+   "rubric": "Begründetes Urteil; mindestens drei Märkte mit Wechselwirkungen; Fachbegriffe.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-6",
+   "sourceQuote": "Märkte und Marktumfeld (Lerntabelle: JA)",
+   "page": 21,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q23",
+   "objective": "Anspruchsgruppen (Lerntabelle: NEIN – nur kennen)",
+   "family": "q23",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Wer sind Anspruchsgruppen (Stakeholder) eines Betriebes?",
+   "solution": "Alle Wirtschaftssubjekte, die in Beziehung zum Betrieb stehen und damit das Handeln des Betriebes beeinflussen und/oder von seinen Handlungen betroffen sind (z. B. Eigentümer, Mitarbeitende, Kunden, Lieferanten, Kreditgeber, Staat, Öffentlichkeit).",
+   "rubric": "Definition (beeinflussen und/oder betroffen) + Beispiele.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-7",
+   "sourceQuote": "Anspruchsgruppen (Lerntabelle: NEIN – nur kennen)",
+   "page": 23,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q24",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "q24",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Der normative Rahmen",
+   "solution": "Vision – „Wo sehen wir uns langfristig?“ (realistische, glaubwürdige Leitidee einer erreichbaren Zukunft). Mission – „Warum gibt es uns?“ (Zweck und Gegenstand des gegenwärtigen Handelns). Wertesystem – Unternehmensidentität/Corporate Identity „Wer sind wir?“ (Corporate Design, Corporate Behaviour, Corporate Communication) und Unternehmensgrundsätze „Nach welchen Grundwerten handeln wir?“ (Corporate Governance, Codes of Conduct). Zielsystem – mögliche Handlungsziele.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Normativer Rahmen (Lerntabelle: JA)",
+   "page": 25,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q25",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "normrahmen",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Frage beantwortet die Unternehmensvision?",
+   "solution": "Vision = langfristige Leitidee.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Normativer Rahmen (Lerntabelle: JA)",
+   "page": 25,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "„Wo sehen wir uns selbst langfristig?“"
+    },
+    {
+     "id": "o1",
+     "text": "„Warum gibt es uns?“"
+    },
+    {
+     "id": "o2",
+     "text": "„Wer sind wir?“"
+    },
+    {
+     "id": "o3",
+     "text": "„Nach welchen Grundsätzen handeln wir?“"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "normrahmen",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Frage beantwortet die Unternehmensmission?",
+   "solution": "Mission = Zweck und Gegenstand des gegenwärtigen Handelns.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Normativer Rahmen (Lerntabelle: JA)",
+   "page": 25,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "„Warum gibt es uns?“"
+    },
+    {
+     "id": "o1",
+     "text": "„Wo sehen wir uns langfristig?“"
+    },
+    {
+     "id": "o2",
+     "text": "„Wer sind wir?“"
+    },
+    {
+     "id": "o3",
+     "text": "„Welche Kennzahlen erreichen wir?“"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q27",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "normrahmen",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Autos für jedermann“ (Henry Ford) ist ein Beispiel für …",
+   "solution": "Vision: szenarische, aber realistische Leitidee.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Normativer Rahmen (Lerntabelle: JA)",
+   "page": 25,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "eine Vision"
+    },
+    {
+     "id": "o1",
+     "text": "eine Mission"
+    },
+    {
+     "id": "o2",
+     "text": "ein Handlungsziel"
+    },
+    {
+     "id": "o3",
+     "text": "einen Verhaltenskodex"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q28",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "normrahmen",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Gegenstand des Unternehmens ist die Herstellung und der Vertrieb von Motoren und damit ausgestatteten Fahrzeugen …“ (BMW) ist …",
+   "solution": "Zweck/Gegenstand des Handelns = Mission.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Normativer Rahmen (Lerntabelle: JA)",
+   "page": 25,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "die Mission (Business Mission)"
+    },
+    {
+     "id": "o1",
+     "text": "die Vision"
+    },
+    {
+     "id": "o2",
+     "text": "ein Unternehmensgrundsatz"
+    },
+    {
+     "id": "o3",
+     "text": "die Corporate Identity"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q29",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "q29",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Elemente gehören zum Identitäts-Mix (Corporate Identity)?",
+   "solution": "CD, CB, CC. Corporate Governance gehört zu den Unternehmensgrundsätzen.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Normativer Rahmen (Lerntabelle: JA)",
+   "page": 25,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Corporate Design (Logo, Farben, Architektur …)"
+    },
+    {
+     "id": "o1",
+     "text": "Corporate Behaviour (Umgangston, Führungsstil …)"
+    },
+    {
+     "id": "o2",
+     "text": "Corporate Communication (z. B. PR)"
+    },
+    {
+     "id": "o3",
+     "text": "Corporate Governance"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q30",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "q30",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Führungsstil, Umgangston und Beförderungspolitik gehören zu …",
+   "solution": "Verhalten = Corporate Behaviour.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Normativer Rahmen (Lerntabelle: JA)",
+   "page": 25,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Corporate Behaviour"
+    },
+    {
+     "id": "o1",
+     "text": "Corporate Design"
+    },
+    {
+     "id": "o2",
+     "text": "Corporate Communication"
+    },
+    {
+     "id": "o3",
+     "text": "Corporate Governance"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q31",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "q31",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Was gehört zu den Unternehmensgrundsätzen („Nach welchen Grundwerten handeln wir?“)?",
+   "solution": "Corporate Governance und Codes of Conduct.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Normativer Rahmen (Lerntabelle: JA)",
+   "page": 25,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Unternehmensverfassung (Corporate Governance)"
+    },
+    {
+     "id": "o1",
+     "text": "Verhaltenskodizes (Codes of Conduct)"
+    },
+    {
+     "id": "o2",
+     "text": "Logo und Hausfarben"
+    },
+    {
+     "id": "o3",
+     "text": "Umsatzziele"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1"
+   ]
+  },
+  {
+   "id": "q32",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "q32",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Formuliere für ein Unternehmen deiner Wahl Vision, Mission, einen Unternehmensgrundsatz und ein Handlungsziel.",
+   "solution": "Beispiel LAP Coffee: Vision „Guter Kaffee für alle in jeder europäischen Großstadt“. Mission „Wir verkaufen standardisierten Specialty-Coffee schnell und günstig zum Mitnehmen“. Grundsatz „Faire Bezahlung unserer Baristas und partnerschaftlicher Umgang mit Röstereien“. Handlungsziel „10 neue Filialen bis Ende 2027“ oder „Kundenzufriedenheit +10 %“.",
+   "rubric": "Vier Elemente korrekt unterschieden (Zukunftsbild – Zweck – Wert/Regel – messbares Ziel).",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Normativer Rahmen (Lerntabelle: JA)",
+   "page": 25,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q33",
+   "objective": "Normativer Rahmen (Lerntabelle: JA)",
+   "family": "q33",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Ordne zu (Speedy GmbH): (a) „Entwicklung, Produktion und Absatz von Automobilen“, (b) „Mitarbeiter sind der wichtigste Produktionsfaktor“, (c) „10 % Marktanteil in allen Märkten“.",
+   "solution": "(a) Mission (Gegenstand des Handelns), (b) Unternehmensgrundsatz, (c) Handlungsziel.",
+   "rubric": "Alle drei korrekt.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-9, Kap. 1.6",
+   "sourceQuote": "Fallstudie Kapitel 1 (3)",
+   "page": 25,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q34",
+   "objective": "Zielsystem (Lerntabelle: NEIN – nur kennen)",
+   "family": "q34",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welches Ziel ist ein typisches Formalziel (Erfolgsziel) eines Unternehmens?",
+   "solution": "Formalziele messen den Erfolg (Gewinn, Rentabilität); Sachziele beschreiben die Leistung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-10",
+   "sourceQuote": "Zielsystem (Lerntabelle: NEIN – nur kennen)",
+   "page": 35,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Eigenkapitalrentabilität maximieren"
+    },
+    {
+     "id": "o1",
+     "text": "Ein bestimmtes Auto entwickeln"
+    },
+    {
+     "id": "o2",
+     "text": "Den Firmensitz umgestalten"
+    },
+    {
+     "id": "o3",
+     "text": "Mitarbeiterkleidung vereinheitlichen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q35",
+   "objective": "4-Ebenen-Modell",
+   "family": "q35",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wozu dienen Geschäftsmodelle wie das 4-Ebenen-Modell in der BWL-Lehre?",
+   "solution": "Vereinfachte Abbildung von Struktur und Funktionen; integraler Bezugsrahmen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen, Abb. 1-12",
+   "sourceQuote": "4-Ebenen-Modell",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sie geben einen integralen Bezugsrahmen, um ökonomische Sachverhalte im Gesamtzusammenhang zu verstehen"
+    },
+    {
+     "id": "o1",
+     "text": "Sie berechnen den Gewinn"
+    },
+    {
+     "id": "o2",
+     "text": "Sie ersetzen den Jahresabschluss"
+    },
+    {
+     "id": "o3",
+     "text": "Sie legen die Rechtsform fest"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q36",
+   "objective": "BWL als Wissenschaft",
+   "family": "q36",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Aufgaben hat die BWL als angewandte Wissenschaft?",
+   "solution": "Deskription, Erklärung, Präskription.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen",
+   "sourceQuote": "BWL als Wissenschaft",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Reale Sachverhalte beschreiben (Deskription)"
+    },
+    {
+     "id": "o1",
+     "text": "Ursache-Wirkungs-Zusammenhänge erklären (Kausalität)"
+    },
+    {
+     "id": "o2",
+     "text": "Umsetzbare Handlungsempfehlungen geben (Präskription)"
+    },
+    {
+     "id": "o3",
+     "text": "Gesetze erlassen"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q37",
+   "objective": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "family": "q37",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Produktivität vs. Wirtschaftlichkeit",
+   "solution": "Produktivität = Outputmenge / Inputmenge (mengenmäßig, z. B. Fahrzeuge je Mitarbeiter). Wirtschaftlichkeit = bewertete Outputmenge / bewertete Inputmenge (in €, z. B. Umsatzerlöse je € Personalaufwand). Wirtschaftlichkeit 10 heißt: je 1 € Input werden 10 € Output erzielt. Die Rangfolge kann sich unterscheiden, weil Preise (z. B. Premiumpreise je Fahrzeug) nur in die Wirtschaftlichkeit eingehen.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Grundlagen Kap. 1.8 + Arbeitsblatt",
+   "sourceQuote": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "page": 40,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q38",
+   "objective": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "family": "kz-def",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie berechnet man die Produktivität?",
+   "solution": "Mengenverhältnis.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen Kap. 1.8 + Arbeitsblatt",
+   "sourceQuote": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "page": 40,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Outputmenge / Inputmenge"
+    },
+    {
+     "id": "o1",
+     "text": "Bewerteter Output / bewerteter Input"
+    },
+    {
+     "id": "o2",
+     "text": "Gewinn / Eigenkapital"
+    },
+    {
+     "id": "o3",
+     "text": "Umsatz − Kosten"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q39",
+   "objective": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "family": "kz-def",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie berechnet man die Wirtschaftlichkeit?",
+   "solution": "Wertverhältnis (in Geld).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen Kap. 1.8 + Arbeitsblatt",
+   "sourceQuote": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "page": 40,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bewertete Outputmenge / bewertete Inputmenge"
+    },
+    {
+     "id": "o1",
+     "text": "Outputmenge / Inputmenge"
+    },
+    {
+     "id": "o2",
+     "text": "Gewinn / Umsatz"
+    },
+    {
+     "id": "o3",
+     "text": "Fremdkapital / Eigenkapital"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q40",
+   "objective": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "family": "q40",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Speedy GmbH: 2.688 Mitarbeiter, Personalaufwand 215.000 T€, 125.000 produzierte und abgesetzte Fahrzeuge, Umsatz 1.150.000 T€. Berechne Produktivität und Wirtschaftlichkeit der Mitarbeiter.",
+   "solution": "Produktivität = 125.000 Fahrzeuge / 2.688 MA ≈ 46,5 Fahrzeuge je Mitarbeiter. Wirtschaftlichkeit = 1.150.000 T€ / 215.000 T€ ≈ 5,35 (je 1 € Personalaufwand rund 5,35 € Umsatz).",
+   "rubric": "Richtige Formeln; ≈ 46,5 F/MA und ≈ 5,35; Einheit/Deutung.",
+   "sourceTitle": "Moodle B2 · Grundlagen Kap. 1.8 + Arbeitsblatt",
+   "sourceQuote": "Zwischenübung Kapitel 1.8",
+   "page": 40,
+   "seconds": 240,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q41",
+   "objective": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "family": "q41",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was bedeutet eine Wirtschaftlichkeit von 10 (Umsatz je € Personalaufwand)?",
+   "solution": "Wertverhältnis Output/Input.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen Kap. 1.8 + Arbeitsblatt",
+   "sourceQuote": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "page": 40,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Je 1 € Personalaufwand werden rund 10 € Umsatz erzielt"
+    },
+    {
+     "id": "o1",
+     "text": "Jeder Mitarbeiter produziert 10 Fahrzeuge"
+    },
+    {
+     "id": "o2",
+     "text": "Der Gewinn beträgt 10 %"
+    },
+    {
+     "id": "o3",
+     "text": "Die Kosten sind zehnmal so hoch wie der Umsatz"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q42",
+   "objective": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "family": "q42",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "VW: Produktivität 13,61, Wirtschaftlichkeit 6,56. Mercedes: 13,16 und 10,17. Warum ist Mercedes trotz geringerer Produktivität wirtschaftlicher?",
+   "solution": "Bewerteter Output steigt mit dem Preis je Fahrzeug.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Grundlagen Kap. 1.8 + Arbeitsblatt",
+   "sourceQuote": "Lösungshinweise Arbeitsblatt Produktivität und Wirtschaftlichkeit",
+   "page": 40,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Höherer Umsatz je Fahrzeug (Premiumpreise) – Preise gehen nur in die Wirtschaftlichkeit ein"
+    },
+    {
+     "id": "o1",
+     "text": "Mercedes hat mehr Mitarbeiter"
+    },
+    {
+     "id": "o2",
+     "text": "Produktivität und Wirtschaftlichkeit messen dasselbe"
+    },
+    {
+     "id": "o3",
+     "text": "Mercedes verkauft mehr Fahrzeuge"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q43",
+   "objective": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "family": "q43",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne zwei Gründe, warum der Kennzahlenvergleich VW / Mercedes / BMW auf Konzernebene nur eingeschränkt aussagekräftig ist – und eine Verbesserung.",
+   "solution": "Unterschiedliche Konzernumfänge (Lkw, Motorräder, Finanzdienstleistungen), Abgrenzungsprobleme Absatz vs. Produktion, unterschiedliches Lohnniveau und Fertigungstiefe. Verbesserung: nur das Automobilgeschäft bzw. Kennzahlen je Segment vergleichen.",
+   "rubric": "Zwei Gründe + Verbesserungsvorschlag.",
+   "sourceTitle": "Moodle B2 · Grundlagen Kap. 1.8 + Arbeitsblatt",
+   "sourceQuote": "Kennzahlen: Produktivität und Wirtschaftlichkeit (Lerntabelle: JA)",
+   "page": 40,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

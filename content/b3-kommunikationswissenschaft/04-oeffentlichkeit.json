@@ -1,0 +1,570 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b3-04-oeffentlichkeit",
+ "title": "B3 · 4 Öffentlichkeit",
+ "course": "B3 Angewandte Kommunikations- und Medienwissenschaften",
+ "examType": "Klausur",
+ "topic": "Öffentlichkeit und Wirtschaftskommunikation",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Was ist Öffentlichkeit?",
+   "family": "q1",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Definiere Öffentlichkeit.",
+   "solution": "Öffentlichkeit bezeichnet den für alle offenen und zugänglichen Raum, in dem Kommunikation und Meinungsbildung stattfinden können. Sie grenzt sich ab gegen Privatheit und Geheimhaltung.",
+   "rubric": "Für alle offen/zugänglich; Ort von Kommunikation und Meinungsbildung; Abgrenzung zu privat/geheim.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung (Beck 2023, Kap. 4)",
+   "sourceQuote": "Was ist Öffentlichkeit?",
+   "page": 2,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q2",
+   "objective": "Modelle von Öffentlichkeit",
+   "family": "q2",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Drei Modelle von Öffentlichkeit",
+   "solution": "Kritische Öffentlichkeit (Habermas): Demokratie braucht eine Öffentlichkeit, in der rational und kritisch diskutiert wird. Spiegelmodell (Gerhards, Luhmann): Massenmedien spiegeln Meinungen, Werte und Interessen der Gesellschaft – und beeinflussen sie zugleich. Kybernetisches Modell (Etzioni): Input (Transparenz) → Throughput (Validierung im rationalen Diskurs) → Output (Konsens gibt Orientierung für Handeln).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Modelle von Öffentlichkeit",
+   "page": 3,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q3",
+   "objective": "Modelle von Öffentlichkeit",
+   "family": "oe-modell",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welches Modell von Öffentlichkeit stammt von Jürgen Habermas?",
+   "solution": "Habermas: kritische Öffentlichkeit.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Modelle von Öffentlichkeit",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kritische Öffentlichkeit (rationaler, kritischer Diskurs als Basis demokratischer Entscheidungen)"
+    },
+    {
+     "id": "o1",
+     "text": "Spiegelmodell"
+    },
+    {
+     "id": "o2",
+     "text": "Kybernetisches Modell"
+    },
+    {
+     "id": "o3",
+     "text": "Arena-Galerie-Modell"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Modelle von Öffentlichkeit",
+   "family": "oe-modell",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Massenmedien sind ein Spiegelbild der Gesellschaft.“ Welches Modell (und von wem)?",
+   "solution": "Spiegelmodell (Gerhards/Luhmann).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Modelle von Öffentlichkeit",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Spiegelmodell – Gerhards und Luhmann"
+    },
+    {
+     "id": "o1",
+     "text": "Kritische Öffentlichkeit – Habermas"
+    },
+    {
+     "id": "o2",
+     "text": "Kybernetisches Modell – Etzioni"
+    },
+    {
+     "id": "o3",
+     "text": "Intereffikationsmodell – Bentele"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Modelle von Öffentlichkeit",
+   "family": "oe-modell",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welches Modell beschreibt Öffentlichkeit in Input-, Throughput- und Output-Phase?",
+   "solution": "Etzioni: Transparenz → Validierung im Diskurs → Konsens als Orientierung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Modelle von Öffentlichkeit",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kybernetisches Modell (Amitai Etzioni)"
+    },
+    {
+     "id": "o1",
+     "text": "Spiegelmodell"
+    },
+    {
+     "id": "o2",
+     "text": "Kritische Öffentlichkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Determinationsmodell"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Modelle von Öffentlichkeit",
+   "family": "q6",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Beschreibe die drei Phasen des kybernetischen Modells der Öffentlichkeit.",
+   "solution": "Input: Öffentlichkeit sorgt für Transparenz (Themen und Meinungen werden sichtbar). Throughput: Validierung der Themen und Meinungen im rationalen Diskurs. Output: Der erreichte Konsens gibt Orientierung für gesellschaftliches und politisches Handeln.",
+   "rubric": "Input/Transparenz, Throughput/Validierung, Output/Konsens-Orientierung.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Modelle von Öffentlichkeit",
+   "page": 3,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q7",
+   "objective": "Akteure der Öffentlichkeit",
+   "family": "q7",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Sprechergruppen in der Öffentlichkeit nennt die Vorlesung?",
+   "solution": "Fünf Sprechertypen; Rezipient*innen sind Publikum.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Akteure der Öffentlichkeit",
+   "page": 6,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Repräsentant*innen"
+    },
+    {
+     "id": "o1",
+     "text": "Advokat*innen"
+    },
+    {
+     "id": "o2",
+     "text": "Expert*innen"
+    },
+    {
+     "id": "o3",
+     "text": "Intellektuelle"
+    },
+    {
+     "id": "o4",
+     "text": "Kommentator*innen"
+    },
+    {
+     "id": "o5",
+     "text": "Rezipient*innen"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Akteure der Öffentlichkeit",
+   "family": "sprecher",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wer qualifiziert sich in der Öffentlichkeit durch moralisch-ethische Kompetenz und argumentiert über die berufliche Rolle hinaus?",
+   "solution": "Intellektuelle. Expert*innen: Fachwissen; Repräsentant*innen: offizielle Vertreter; Advokat*innen: selbsternannte Fürsprecher.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Akteure der Öffentlichkeit",
+   "page": 6,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Intellektuelle"
+    },
+    {
+     "id": "o1",
+     "text": "Expert*innen"
+    },
+    {
+     "id": "o2",
+     "text": "Repräsentant*innen"
+    },
+    {
+     "id": "o3",
+     "text": "Advokat*innen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Akteure der Öffentlichkeit",
+   "family": "sprecher",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wer sind „Advokat*innen“ in der Öffentlichkeit?",
+   "solution": "Selbsternannte Fürsprecher.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Akteure der Öffentlichkeit",
+   "page": 6,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Selbsternannte Fürsprecher bestimmter Interessengruppen"
+    },
+    {
+     "id": "o1",
+     "text": "Gewählte offizielle Vertreter von Organisationen"
+    },
+    {
+     "id": "o2",
+     "text": "Wissenschaftler mit Fachwissen"
+    },
+    {
+     "id": "o3",
+     "text": "Journalist*innen, die kommentieren"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Agenda-Setting & Spin-Doctoring",
+   "family": "q10",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Unterscheide Agenda-Setting und Spin-Doctoring (aus Sicht der Öffentlichkeitsakteure).",
+   "solution": "Agenda-Setting: Akteure versuchen, die Themensetzung der Medien zu beeinflussen und Themen auf die Agenda zu bringen – indirekte Einflussnahme, Zielgruppe Journalist*innen. Spin-Doctoring: Akteure versuchen durch geschickte PR die Interpretation von Ereignissen im Sinne ihrer Auftraggeber zu beeinflussen – direkte und indirekte Einflussnahme.",
+   "rubric": "Themen (was) vs. Deutung (wie); indirekt vs. direkt+indirekt.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Agenda-Setting & Spin-Doctoring",
+   "page": 7,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q11",
+   "objective": "Agenda-Setting & Spin-Doctoring",
+   "family": "q11",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Ministerium gibt Hintergrundgespräche, damit ein Skandal als „Einzelfall“ gedeutet wird. Das ist …",
+   "solution": "Beeinflussung der Interpretation = Spin-Doctoring.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Agenda-Setting & Spin-Doctoring",
+   "page": 7,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Spin-Doctoring"
+    },
+    {
+     "id": "o1",
+     "text": "Agenda-Setting"
+    },
+    {
+     "id": "o2",
+     "text": "Earned Media"
+    },
+    {
+     "id": "o3",
+     "text": "Determination"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Agenda-Setting & Spin-Doctoring",
+   "family": "q12",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Mittel nutzen Öffentlichkeitsakteure für Agenda-Setting?",
+   "solution": "Alle genannten.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Agenda-Setting & Spin-Doctoring",
+   "page": 7,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Pressemitteilungen"
+    },
+    {
+     "id": "o1",
+     "text": "Pressekonferenzen"
+    },
+    {
+     "id": "o2",
+     "text": "Hintergrundgespräche"
+    },
+    {
+     "id": "o3",
+     "text": "Exklusivinformationen"
+    },
+    {
+     "id": "o4",
+     "text": "Social Media"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Fragmentierung und Netzöffentlichkeit",
+   "family": "q13",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Erkläre die Fragmentierung der Öffentlichkeit: Gründe und Wirkungen.",
+   "solution": "Gründe: Lebenswelten und Lebensstile haben sich pluralisiert; das Mediensystem hat sich ausdifferenziert. Wirkungen: Fülle von Zielgruppenmedien, die nur über thematisch eng umgrenzte Ausschnitte berichten; es fehlen gemeinsame Themen, die die Gesamtöffentlichkeit integrieren.",
+   "rubric": "Zwei Gründe und zwei Wirkungen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Fragmentierung und Netzöffentlichkeit",
+   "page": 8,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q14",
+   "objective": "Fragmentierung und Netzöffentlichkeit",
+   "family": "q14",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Eigenschaften schreibt die Vorlesung der Netzöffentlichkeit zu?",
+   "solution": "Many-to-many statt nur one-to-many.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung",
+   "sourceQuote": "Fragmentierung und Netzöffentlichkeit",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Globale Vernetzung lokaler Gegenöffentlichkeiten"
+    },
+    {
+     "id": "o1",
+     "text": "Viele Kommunikationsflüsse: one-to-one, one-to-many, many-to-many"
+    },
+    {
+     "id": "o2",
+     "text": "Auflösung der Arena-Galerie-Konstellation"
+    },
+    {
+     "id": "o3",
+     "text": "Einseitige Massenkommunikation wird abgelöst"
+    },
+    {
+     "id": "o4",
+     "text": "Nur noch one-to-many"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Owned, Paid, Earned, Shared Media",
+   "family": "q15",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: PESO – Owned, Paid, Earned, Shared",
+   "solution": "Owned: eigene Kanäle (Website, Newsletter, eigener Social-Media-Account). Paid: bezahlte Reichweite (Anzeigen, Werbespots, gesponserte Posts). Earned: „verdiente“ Berichterstattung durch Dritte, v. a. Journalismus. Shared: Inhalte, die Nutzer*innen teilen, kommentieren, weiterverbreiten.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung (Übung)",
+   "sourceQuote": "Owned, Paid, Earned, Shared Media",
+   "page": 14,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q16",
+   "objective": "Owned, Paid, Earned, Shared Media",
+   "family": "peso",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Zeitungsartikel über die Produkteinführung, den die Redaktion selbst geschrieben hat, ist …",
+   "solution": "Earned Media.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung (Übung)",
+   "sourceQuote": "Owned, Paid, Earned, Shared Media",
+   "page": 14,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Earned Media"
+    },
+    {
+     "id": "o1",
+     "text": "Paid Media"
+    },
+    {
+     "id": "o2",
+     "text": "Owned Media"
+    },
+    {
+     "id": "o3",
+     "text": "Shared Media"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Owned, Paid, Earned, Shared Media",
+   "family": "peso",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Der Unternehmens-Newsletter ist …",
+   "solution": "Eigener Kanal = Owned.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung (Übung)",
+   "sourceQuote": "Owned, Paid, Earned, Shared Media",
+   "page": 14,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Owned Media"
+    },
+    {
+     "id": "o1",
+     "text": "Earned Media"
+    },
+    {
+     "id": "o2",
+     "text": "Paid Media"
+    },
+    {
+     "id": "o3",
+     "text": "Shared Media"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Owned, Paid, Earned, Shared Media",
+   "family": "peso",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Nutzer*innen teilen ein Unternehmensvideo massenhaft auf TikTok. Das ist …",
+   "solution": "Shared Media.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung (Übung)",
+   "sourceQuote": "Owned, Paid, Earned, Shared Media",
+   "page": 14,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Shared Media"
+    },
+    {
+     "id": "o1",
+     "text": "Owned Media"
+    },
+    {
+     "id": "o2",
+     "text": "Paid Media"
+    },
+    {
+     "id": "o3",
+     "text": "Earned Media"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Owned, Paid, Earned, Shared Media",
+   "family": "q19",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Du bist eine Agentur: Eine NGO (kleines Budget) will mehr Schutz für aussterbende Tierarten. Plane je eine Maßnahme für Owned, Paid, Earned und Shared Media.",
+   "solution": "Owned: eigene Website/Instagram mit Tierportraits. Paid: kleine, gezielte Social Ads an Naturinteressierte. Earned: Pressemitteilung + Exklusivstory für Lokalzeitung/Wissenschaftsjournalisten. Shared: Mitmach-Challenge/Hashtag, den Unterstützer teilen. Bei kleinem Budget Schwerpunkt auf Earned und Shared.",
+   "rubric": "Je eine plausible Maßnahme für O/P/E/S; Budget berücksichtigt.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung (Übung)",
+   "sourceQuote": "Owned, Paid, Earned, Shared Media",
+   "page": 14,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

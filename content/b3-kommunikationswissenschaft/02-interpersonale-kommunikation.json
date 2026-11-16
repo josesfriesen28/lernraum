@@ -1,0 +1,868 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b3-02-interpersonale-kommunikation",
+ "title": "B3 · 2 Interpersonale Kommunikation & Theorien",
+ "course": "B3 Angewandte Kommunikations- und Medienwissenschaften",
+ "examType": "Klausur",
+ "topic": "Theorien der Kommunikation",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Handlungstheorie (Max Weber)",
+   "family": "q1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was stimmt in Bezug auf die Handlungstheorie von Kommunikation (nach Max Weber)?",
+   "solution": "Kommunikation ist soziales Handeln: Ego will bei Alter etwas bewirken. Gelungen ist sie, wenn Alter die Intention versteht und darauf reagiert – nicht erst, wenn das Ziel erreicht ist.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Beispielhafte Klausurfrage aus der 2. Sitzung.",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Der/Die Handelnde (Ego) möchte bei seinem Gegenüber (Alter) etwas bewirken"
+    },
+    {
+     "id": "o1",
+     "text": "Die Handlungstheorie betont die Wichtigkeit von Mimik und Gestik"
+    },
+    {
+     "id": "o2",
+     "text": "Kommunikation gelingt, wenn der/die Sprecher*in das Ziel beim Gegenüber erreicht"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Handlungstheorie (Max Weber)",
+   "family": "q2",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Definiere die Handlungstheorie der Kommunikation in 2–3 Sätzen (Freitext wie in der Klausur).",
+   "solution": "Kommunikation ist intentionales, zielgerichtetes soziales Handeln: Der Handelnde (Ego) will beim Gegenüber (Alter) etwas bewirken. Sie gelingt, wenn der Empfänger die Intention des Sprechers versteht und darauf antwortet.",
+   "rubric": "Intentional/zielgerichtet; soziales Handeln (Ego→Alter); Gelingen = Verstehen der Intention + Reaktion.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Kommunikation als intentionales, soziales Handeln.",
+   "page": 5,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q3",
+   "objective": "Handlungstheorie (Max Weber)",
+   "family": "q3",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Merkmale gehören zur Handlungstheorie der Kommunikation?",
+   "solution": "Intentional, sozial, Verstehen der Intention. Autopoiesis gehört zu Luhmann.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Handlungstheorie (Max Weber)",
+   "page": 5,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kommunikation als intentionales Handeln"
+    },
+    {
+     "id": "o1",
+     "text": "Kommunikation als soziales Handeln"
+    },
+    {
+     "id": "o2",
+     "text": "Gelingen setzt voraus, dass der Empfänger die Intention versteht"
+    },
+    {
+     "id": "o3",
+     "text": "Kommunikation ist ein autopoietisches System ohne Bewusstsein"
+    },
+    {
+     "id": "o4",
+     "text": "Kommunikation ist eine Reiz-Reaktions-Kette"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Theorie des kommunikativen Handelns (Habermas)",
+   "family": "q4",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Die vier Geltungsansprüche",
+   "solution": "Weiterentwicklung zur Theorie des kommunikativen Handelns (Habermas): Jede Äußerung erhebt vier Geltungsansprüche – Verständlichkeit (regelkonform, klar), Wahrheit (faktisch zutreffend), Wahrhaftigkeit (der Sprecher meint, was er sagt), Richtigkeit (vereinbar mit sozialen Normen).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Äußerung unterliegt vier Geltungsansprüchen.",
+   "page": 1,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q5",
+   "objective": "Theorie des kommunikativen Handelns (Habermas)",
+   "family": "q5",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Geltungsansprüche erhebt eine Äußerung nach der Theorie des kommunikativen Handelns?",
+   "solution": "Verständlichkeit, Wahrheit, Wahrhaftigkeit, Richtigkeit.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Theorie des kommunikativen Handelns (Habermas)",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Verständlichkeit"
+    },
+    {
+     "id": "o1",
+     "text": "Wahrheit"
+    },
+    {
+     "id": "o2",
+     "text": "Wahrhaftigkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Richtigkeit"
+    },
+    {
+     "id": "o4",
+     "text": "Lautstärke"
+    },
+    {
+     "id": "o5",
+     "text": "Effizienz"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Theorie des kommunikativen Handelns (Habermas)",
+   "family": "q6",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Sprecher sagt etwas, das er selbst nicht glaubt. Welcher Geltungsanspruch ist verletzt?",
+   "solution": "Wahrhaftigkeit = der Sprecher meint, was er sagt. Wahrheit betrifft die Faktenlage.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Theorie des kommunikativen Handelns (Habermas)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Wahrhaftigkeit"
+    },
+    {
+     "id": "o1",
+     "text": "Wahrheit"
+    },
+    {
+     "id": "o2",
+     "text": "Verständlichkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Richtigkeit"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Theorie des kommunikativen Handelns (Habermas)",
+   "family": "q7",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Eine Aussage verstößt gegen soziale Normen (z. B. beleidigend im Meeting). Welcher Geltungsanspruch?",
+   "solution": "Richtigkeit = Vereinbarkeit mit sozialen Normen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Theorie des kommunikativen Handelns (Habermas)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Richtigkeit"
+    },
+    {
+     "id": "o1",
+     "text": "Wahrhaftigkeit"
+    },
+    {
+     "id": "o2",
+     "text": "Wahrheit"
+    },
+    {
+     "id": "o3",
+     "text": "Verständlichkeit"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Verbal, nonverbal, paraverbal",
+   "family": "q8",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Stimmlage, Lautstärke und Sprechtempo gehören zur …",
+   "solution": "Paraverbal = Art des Sprechens. Nonverbal = Mimik, Gestik, Körperhaltung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Verbal, nonverbal, paraverbal",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "paraverbalen Kommunikation"
+    },
+    {
+     "id": "o1",
+     "text": "nonverbalen Kommunikation"
+    },
+    {
+     "id": "o2",
+     "text": "verbalen Kommunikation"
+    },
+    {
+     "id": "o3",
+     "text": "symbolischen Interaktion"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Verbal, nonverbal, paraverbal",
+   "family": "q9",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Unterscheide verbale, nonverbale und paraverbale Kommunikation mit je einem Beispiel.",
+   "solution": "Verbal: Sprache (Wörter, z. B. „Bitte schließen Sie das Fenster“). Nonverbal: Mimik, Gestik, Körperhaltung (Stirnrunzeln). Paraverbal: Art des Sprechens – Stimmlage, Lautstärke, Tempo (gereizter Tonfall). Non- und paraverbale Zeichen ergänzen die sprachliche Aussage.",
+   "rubric": "Drei Ebenen korrekt definiert; je ein passendes Beispiel.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Verbal, nonverbal, paraverbal",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q10",
+   "objective": "Vier-Ohren-Modell (Schulz von Thun)",
+   "family": "q10",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Das Vier-Ohren-Modell",
+   "solution": "Jede Nachricht hat vier Seiten: Sachebene (worüber ich informiere), Selbstoffenbarung (was ich von mir zeige), Beziehung (was ich von dir halte / wie wir zueinander stehen), Appell (wozu ich dich veranlassen möchte). Der Empfänger hört mit „vier Ohren“ und kann jede Seite betonen. Laut Klausurstoff: „das sollten Sie unbedingt können!“",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · Stoff für Klausur („unbedingt können!“)",
+   "sourceQuote": "Kommunikationsmodell v. Schulz von Thun (unbedingt können!)",
+   "page": 1,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q11",
+   "objective": "Vier-Ohren-Modell (Schulz von Thun)",
+   "family": "q11",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche vier Seiten einer Nachricht unterscheidet Schulz von Thun?",
+   "solution": "Sachinhalt, Selbstoffenbarung, Beziehung, Appell.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · Stoff für Klausur („unbedingt können!“)",
+   "sourceQuote": "Vier-Ohren-Modell (Schulz von Thun)",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sachinhalt"
+    },
+    {
+     "id": "o1",
+     "text": "Selbstoffenbarung"
+    },
+    {
+     "id": "o2",
+     "text": "Beziehung"
+    },
+    {
+     "id": "o3",
+     "text": "Appell"
+    },
+    {
+     "id": "o4",
+     "text": "Metakommunikation"
+    },
+    {
+     "id": "o5",
+     "text": "Kontext"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Vier-Ohren-Modell (Schulz von Thun)",
+   "family": "vierohren-fenster",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Du hast schon wieder das Fenster offen gelassen.“ Welche Seite ist „Schließ das Fenster!“?",
+   "solution": "Appell = wozu der Sender den Empfänger veranlassen will.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · Stoff für Klausur („unbedingt können!“)",
+   "sourceQuote": "Vier-Ohren-Modell (Schulz von Thun)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Appell"
+    },
+    {
+     "id": "o1",
+     "text": "Sachinhalt"
+    },
+    {
+     "id": "o2",
+     "text": "Beziehung"
+    },
+    {
+     "id": "o3",
+     "text": "Selbstoffenbarung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Vier-Ohren-Modell (Schulz von Thun)",
+   "family": "vierohren-fenster",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Du hast schon wieder das Fenster offen gelassen.“ Welche Seite ist „Du bist tollpatschig / unaufmerksam“?",
+   "solution": "Beziehungsseite: was der Sender vom Empfänger hält.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · Stoff für Klausur („unbedingt können!“)",
+   "sourceQuote": "Vier-Ohren-Modell (Schulz von Thun)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Beziehung"
+    },
+    {
+     "id": "o1",
+     "text": "Appell"
+    },
+    {
+     "id": "o2",
+     "text": "Selbstoffenbarung"
+    },
+    {
+     "id": "o3",
+     "text": "Sachinhalt"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "Vier-Ohren-Modell (Schulz von Thun)",
+   "family": "q14",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Analysiere die Aussage einer Chefin im Meeting: „Die Präsentation ist ja schon wieder nicht fertig.“ nach allen vier Seiten des Vier-Ohren-Modells.",
+   "solution": "Sachinhalt: Die Präsentation ist nicht fertig. Selbstoffenbarung: Ich bin verärgert / unter Zeitdruck. Beziehung: Ich traue dir nicht zu, Termine einzuhalten. Appell: Mach die Präsentation sofort fertig.",
+   "rubric": "Alle vier Seiten korrekt benannt und plausibel gefüllt.",
+   "sourceTitle": "Moodle B3 · Stoff für Klausur („unbedingt können!“)",
+   "sourceQuote": "Vier-Ohren-Modell (Schulz von Thun)",
+   "page": 1,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q15",
+   "objective": "Vier-Ohren-Modell (Schulz von Thun)",
+   "family": "q15",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Formuliere selbst einen Satz aus dem Studienalltag und zerlege ihn in die vier Seiten nach Schulz von Thun.",
+   "solution": "Beispiel: „Die Folien sind noch leer.“ – Sache: Folien leer. Selbstoffenbarung: Ich mache mir Sorgen. Beziehung: Du hast deinen Teil nicht gemacht. Appell: Fang mit deinen Folien an.",
+   "rubric": "Eigener Satz; vier Seiten stimmig zugeordnet.",
+   "sourceTitle": "Moodle B3 · Stoff für Klausur („unbedingt können!“)",
+   "sourceQuote": "Vier-Ohren-Modell (Schulz von Thun)",
+   "page": 1,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q16",
+   "objective": "Symbolischer Interaktionismus / Situationsdefinition",
+   "family": "q16",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wovon hängt die Interpretation von Sprechakten oft ab?",
+   "solution": "Sprechakte werden im Kontext von Rollen und Positionen gedeutet; Voraussetzung ist eine gemeinsame Situationsdefinition.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Symbolischer Interaktionismus / Situationsdefinition",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Von der Kenntnis sozialer Rollen, Positionen und Kontexte – nötig ist eine gemeinsame Definition der Situation"
+    },
+    {
+     "id": "o1",
+     "text": "Allein vom Wortlaut"
+    },
+    {
+     "id": "o2",
+     "text": "Von der Lautstärke"
+    },
+    {
+     "id": "o3",
+     "text": "Nur von der Absicht des Senders"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Konstruktivistische Sicht",
+   "family": "q17",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Punkte gehören zur (sozial-)konstruktivistischen Sicht auf Kommunikation?",
+   "solution": "Konstruktion sozialer Wirklichkeit, geteilte Wissensbestände, Typisierungen/Rollenerwartungen.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Konstruktivistische Sicht",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Konstruktion sozialer Wirklichkeit"
+    },
+    {
+     "id": "o1",
+     "text": "Geteilte Wissensbestände"
+    },
+    {
+     "id": "o2",
+     "text": "Typisierungen und Rollenerwartungen"
+    },
+    {
+     "id": "o3",
+     "text": "Kommunikation als Transport von Information"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Konstruktivistische Sicht",
+   "family": "q18",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ergänzt der radikale Konstruktivismus?",
+   "solution": "Radikaler Konstruktivismus: individuelle, soziokulturell und situativ unterschiedliche Reaktionen auf Reize.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Konstruktivistische Sicht",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Menschen verstehen dieselben Signale nicht gleich; sie reagieren individuell, soziokulturell und situativ unterschiedlich"
+    },
+    {
+     "id": "o1",
+     "text": "Alle Menschen verstehen Signale identisch"
+    },
+    {
+     "id": "o2",
+     "text": "Kommunikation ist rein technisch"
+    },
+    {
+     "id": "o3",
+     "text": "Wirklichkeit existiert unabhängig von Wahrnehmung und wird abgebildet"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Luhmann und Hejl",
+   "family": "q19",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Aussagen passen zur Kommunikationstheorie nach Luhmann?",
+   "solution": "Luhmann: autopoietisches System aus Information, Mitteilung, Verstehen; „Kommunikation kommuniziert“. Ego/Alter-Intention = Handlungstheorie (Weber).",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Notion B3 · 29.10. / Moodle Stoffliste",
+   "sourceQuote": "Luhmann und Hejl",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kommunikation als autopoietisches (selbsterhaltendes) System"
+    },
+    {
+     "id": "o1",
+     "text": "Kommunikation besteht aus Information, Mitteilung und Verstehen"
+    },
+    {
+     "id": "o2",
+     "text": "Das Bewusstsein spielt keine aktive Rolle im System"
+    },
+    {
+     "id": "o3",
+     "text": "Kommunikation ist absichtsvolles Handeln eines Ego gegenüber Alter"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Luhmann und Hejl",
+   "family": "q20",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die drei Selektionen, aus denen Kommunikation nach Luhmann besteht, und den zentralen Kritikpunkt an seiner Theorie.",
+   "solution": "Information, Mitteilung, Verstehen. Kritik: Wenn der Mensch aus dem Modell ausgeschlossen ist, bleibt unklar, wer mitteilt und wer versteht („Kommunikation kommuniziert mit sich“).",
+   "rubric": "Drei Begriffe; Kritik: Mensch/Bewusstsein ausgeklammert.",
+   "sourceTitle": "Notion B3 · 29.10. / Moodle Stoffliste",
+   "sourceQuote": "Luhmann und Hejl",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q21",
+   "objective": "Gruppen und Organisationen",
+   "family": "q21",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Gib jeweils ein Beispiel für Gruppenkommunikation im Berufsleben für Kreisstruktur, Kettenstruktur und Radstruktur (Klausur-Freitext).",
+   "solution": "Kreis: Schichtübergabe A→B→C→…→A. Kette: mehrstufige Freigabe Texter → Berater → Kunde. Rad: Kunde gibt Feedback nur an den Berater, der es an Text, Grafik usw. verteilt (zentrale Person).",
+   "rubric": "Drei Strukturen korrekt erklärt (Kreis = Rundlauf, Kette = linear, Rad = zentrale Person) mit passenden Berufsbeispielen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Beispielhafte Klausurfrage, Freitext.",
+   "page": 21,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q22",
+   "objective": "Gruppen und Organisationen",
+   "family": "q22",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Bei welcher Netzwerkstruktur läuft alle Kommunikation über eine zentrale Person?",
+   "solution": "Rad (Stern): zentrale Person verteilt Informationen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Gruppen und Organisationen",
+   "page": 21,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Radstruktur"
+    },
+    {
+     "id": "o1",
+     "text": "Kettenstruktur"
+    },
+    {
+     "id": "o2",
+     "text": "Kreisstruktur"
+    },
+    {
+     "id": "o3",
+     "text": "Vollstruktur"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q23",
+   "objective": "Gruppen und Organisationen",
+   "family": "q23",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Aussagen stimmen zur Analyse von Gruppen als „Ensemble“ (Erving Goffman)?",
+   "solution": "Richtig: Hinterbühne, gemeinsame Aufrechterhaltung der Situationsdefinition, Publikum kann eigenes Ensemble bilden. Falsch: Gleicher Status – Rollen und Status unterscheiden sich.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Beispielhafte Klausurfrage, Multiple Choice.",
+   "page": 21,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Wie im Theater gibt es eine nicht sichtbare Hinterbühne, auf der das Ensemble aus der Rolle fallen darf"
+    },
+    {
+     "id": "o1",
+     "text": "Ensemble = gemeinsame Interaktion einer Gruppe, um eine Situationsbestimmung aufrechtzuerhalten"
+    },
+    {
+     "id": "o2",
+     "text": "In einem Ensemble haben alle Teilnehmenden den gleichen Status"
+    },
+    {
+     "id": "o3",
+     "text": "Die Zuschauer*innen können ein eigenes Ensemble bilden"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o3"
+   ]
+  },
+  {
+   "id": "q24",
+   "objective": "Gruppen und Organisationen",
+   "family": "q24",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "In welche Richtungen kann Kommunikation in Organisationen verlaufen?",
+   "solution": "Horizontal, vertikal, diagonal.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Gruppen und Organisationen",
+   "page": 21,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Horizontal (gleiche Hierarchieebene)"
+    },
+    {
+     "id": "o1",
+     "text": "Vertikal (zwischen Hierarchieebenen)"
+    },
+    {
+     "id": "o2",
+     "text": "Diagonal (andere Abteilung und andere Ebene)"
+    },
+    {
+     "id": "o3",
+     "text": "Zirkulär nur nach außen"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Gruppen und Organisationen",
+   "family": "q25",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was kann man aus kommunikationswissenschaftlicher Perspektive über das Handeln von Manager*innen sagen?",
+   "solution": "Das Handeln von Manager*innen besteht zum allergrößten Teil aus Kommunikation (rund 80 %); alles andere ist ein viel kleinerer Teil ihrer Arbeit.",
+   "rubric": "Kommunikation als Hauptbestandteil (ca. 80 %) nennen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Beispielhafte Antwort aus der 2. Sitzung.",
+   "page": 21,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q26",
+   "objective": "Gruppen und Organisationen",
+   "family": "q26",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welcher Anteil der Arbeit von Manager*innen besteht laut Vorlesung aus Kommunikation?",
+   "solution": "Rund 80 %.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Gruppen und Organisationen",
+   "page": 21,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Rund 80 %"
+    },
+    {
+     "id": "o1",
+     "text": "Rund 20 %"
+    },
+    {
+     "id": "o2",
+     "text": "Rund 50 %"
+    },
+    {
+     "id": "o3",
+     "text": "Fast nichts – vor allem Entscheidungen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q27",
+   "objective": "Technisch vermittelte Kommunikation",
+   "family": "q27",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Erwiderung auf die Substitutionstheorie ist richtig?",
+   "solution": "Die Erwiderung: Medien ersetzen Face-to-Face nicht einfach – der Anspruch an Kommunikation bleibt unabhängig vom Medium gleich.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Beispielhafte Klausurfrage, Single Choice.",
+   "page": 40,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Unabhängig von der Wahl des Mediums bleibt der Anspruch an die Kommunikation in der Regel gleich"
+    },
+    {
+     "id": "o1",
+     "text": "Die empirischen Beweise der Substitutionstheorie sind veraltet"
+    },
+    {
+     "id": "o2",
+     "text": "Die Wahl des Mediums ist eine rationale Entscheidung"
+    },
+    {
+     "id": "o3",
+     "text": "Telefonate, Mails und Videocalls ersetzen persönliche Treffen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q28",
+   "objective": "Technisch vermittelte Kommunikation",
+   "family": "q28",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was besagt die Kritik an technisch vermittelter Kommunikation (Substitutionsthese) – und wie wird sie erwidert?",
+   "solution": "Kritik: Technisch vermittelte Kommunikation (Telefon, Mail, Video) ersetze persönliche Begegnung und sei ärmer an Zeichen/Beziehung. Erwiderung: Medien ersetzen Face-to-Face nicht einfach; der Anspruch an Kommunikation bleibt unabhängig vom Medium in der Regel gleich, Menschen gleichen fehlende Hinweise aus.",
+   "rubric": "Kritik (Ersetzung, Verarmung) und Erwiderung (Anspruch bleibt gleich) nennen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
+   "sourceQuote": "Technisch vermittelte Kommunikation",
+   "page": 40,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q29",
+   "objective": "Face-to-Face-Kommunikation",
+   "family": "q29",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was kennzeichnet Face-to-Face-Kommunikation laut Notizen?",
+   "solution": "Intentional, wechselseitige Verständigung über Sinn; geteilte Wirklichkeitsbezüge möglich.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Notion B3 · 29.10.",
+   "sourceQuote": "Face-to-Face-Kommunikation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Intentionaler Austausch zur wechselseitigen Verständigung über Sinn, auf gemeinsamer biologischer und kultureller Grundlage"
+    },
+    {
+     "id": "o1",
+     "text": "Ein Reiz-Reaktions-Schema wie bei Tieren"
+    },
+    {
+     "id": "o2",
+     "text": "Einseitige Massenkommunikation"
+    },
+    {
+     "id": "o3",
+     "text": "Kommunikation ohne nonverbale Zeichen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  }
+ ]
+}

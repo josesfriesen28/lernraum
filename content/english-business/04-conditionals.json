@@ -1,0 +1,390 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "en-04-conditionals",
+ "title": "English · Grammar: conditional sentences",
+ "course": "English for Business Communication (B2.2)",
+ "examType": "Klausur",
+ "topic": "Conditionals",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Conditional types 0–III",
+   "family": "q1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Read: the conditional types",
+   "solution": "Type 0: If + present simple, present simple – always true (If you touch a fire, you get burnt). Type I: If + present simple, will + verb – possible/probable (If it rains, I will stay in). Type II: If + past simple, would/could + verb – improbable/unreal now (If I had a lot of money, I would travel). Type III: If + past perfect, would/could have + past participle – impossible, too late (If Napoleon had not invaded Russia, he would have stayed in power longer). Never use will/would in the if-clause – except polite requests.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle EN · Conditional sentences",
+   "sourceQuote": "Conditional types 0–III",
+   "page": 1,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q2",
+   "objective": "Conditional types 0–III",
+   "family": "cond-fill",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "If it rains tonight, I ___ in.",
+   "solution": "Type I: possible/probable → will.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Conditional sentences",
+   "sourceQuote": "Conditional types 0–III",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "will stay"
+    },
+    {
+     "id": "o1",
+     "text": "would stay"
+    },
+    {
+     "id": "o2",
+     "text": "would have stayed"
+    },
+    {
+     "id": "o3",
+     "text": "stayed"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Conditional types 0–III",
+   "family": "cond-fill",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "If I ___ a lot of money, I would travel around the world.",
+   "solution": "Type II: past simple in the if-clause.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Conditional sentences",
+   "sourceQuote": "Conditional types 0–III",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "had"
+    },
+    {
+     "id": "o1",
+     "text": "have"
+    },
+    {
+     "id": "o2",
+     "text": "would have"
+    },
+    {
+     "id": "o3",
+     "text": "had had"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Conditional types 0–III",
+   "family": "cond-fill",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "If you had studied more, you ___ the exam.",
+   "solution": "Type III: would have + past participle.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Conditional sentences",
+   "sourceQuote": "Conditional types 0–III",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "would have passed"
+    },
+    {
+     "id": "o1",
+     "text": "would pass"
+    },
+    {
+     "id": "o2",
+     "text": "will pass"
+    },
+    {
+     "id": "o3",
+     "text": "passed"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Conditional types 0–III",
+   "family": "cond-fill",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "If you heat ice, it ___.",
+   "solution": "Type 0: general truth → present simple.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Conditional sentences",
+   "sourceQuote": "Conditional types 0–III",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "melts"
+    },
+    {
+     "id": "o1",
+     "text": "will have melted"
+    },
+    {
+     "id": "o2",
+     "text": "would melt"
+    },
+    {
+     "id": "o3",
+     "text": "melted"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Conditional types 0–III",
+   "family": "q6",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which sentence is WRONG?",
+   "solution": "Never use will in the if-clause.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Conditional sentences",
+   "sourceQuote": "Conditional types 0–III",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "If I will see him, I will tell him."
+    },
+    {
+     "id": "o1",
+     "text": "If I see him, I will tell him."
+    },
+    {
+     "id": "o2",
+     "text": "If I saw him, I would tell him."
+    },
+    {
+     "id": "o3",
+     "text": "If I had seen him, I would have told him."
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Conditional types 0–III",
+   "family": "q7",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which conditional type expresses something that is impossible because it is too late?",
+   "solution": "Type III – past, unreal.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Conditional sentences",
+   "sourceQuote": "Conditional types 0–III",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Type III"
+    },
+    {
+     "id": "o1",
+     "text": "Type II"
+    },
+    {
+     "id": "o2",
+     "text": "Type I"
+    },
+    {
+     "id": "o3",
+     "text": "Type 0"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Mixed conditionals",
+   "family": "mixed",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "“If I had won the lottery, I would be rich now.” What kind of conditional is this?",
+   "solution": "Past perfect in the if-clause + would + infinitive.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Mixed conditionals",
+   "sourceQuote": "Mixed conditionals",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Mixed: past condition (III) with present result (II)"
+    },
+    {
+     "id": "o1",
+     "text": "Type II"
+    },
+    {
+     "id": "o2",
+     "text": "Type III"
+    },
+    {
+     "id": "o3",
+     "text": "Mixed: present condition with past result"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Mixed conditionals",
+   "family": "mixed",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "“If I didn’t have so much work, I would have gone to the party last night.” Which mix?",
+   "solution": "Past simple in the if-clause + would have + past participle.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Mixed conditionals",
+   "sourceQuote": "Mixed conditionals",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Present condition (II) with past result (III)"
+    },
+    {
+     "id": "o1",
+     "text": "Past condition with present result"
+    },
+    {
+     "id": "o2",
+     "text": "Type I"
+    },
+    {
+     "id": "o3",
+     "text": "Type 0"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Mixed conditionals",
+   "family": "mixed",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Complete: If I hadn’t dropped out of school, I ___ a better job now.",
+   "solution": "Past condition, present result → might/would + infinitive.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Mixed conditionals",
+   "sourceQuote": "Mixed conditionals",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "might have"
+    },
+    {
+     "id": "o1",
+     "text": "might have had"
+    },
+    {
+     "id": "o2",
+     "text": "will have"
+    },
+    {
+     "id": "o3",
+     "text": "had"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Mixed conditionals",
+   "family": "q11",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Rewrite as a conditional: “I didn’t buy tickets, so we can’t enjoy the performance now.”",
+   "solution": "If I had bought tickets, we could enjoy the performance now. (mixed III/II)",
+   "rubric": "Past perfect in if-clause; could + infinitive; meaning preserved.",
+   "sourceTitle": "Moodle EN · Mixed conditionals",
+   "sourceQuote": "Mixed conditionals",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q12",
+   "objective": "Mixed conditionals",
+   "family": "q12",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Rewrite as a type III conditional: “She didn’t apply, so she didn’t get the job.”",
+   "solution": "If she had applied, she would have got (gotten) the job.",
+   "rubric": "Past perfect + would have + past participle.",
+   "sourceTitle": "Moodle EN · Mixed conditionals",
+   "sourceQuote": "Mixed conditionals",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q13",
+   "objective": "Mixed conditionals",
+   "family": "q13",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Complete politely: “We would be grateful if you ___ (send) us your catalogue.” – and explain why this is allowed.",
+   "solution": "We would be grateful if you would send us your catalogue. “Would” in the if-clause is the exception for polite requests.",
+   "rubric": "would send + reason (polite request exception).",
+   "sourceTitle": "Moodle EN · Mixed conditionals",
+   "sourceQuote": "Mixed conditionals",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

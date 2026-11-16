@@ -1,0 +1,850 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "en-01-marketing",
+ "title": "English · Unit 4 Marketing: the marketing mix",
+ "course": "English for Business Communication (B2.2)",
+ "examType": "Klausur",
+ "topic": "Marketing",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Course and exam",
+   "family": "q1",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Which parts does the final test (100 minutes) include?",
+   "solution": "The oral exam (25 points) takes place separately in the last two weeks of the semester.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle EN · WiKo M3W plan",
+   "sourceQuote": "Course and exam",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Listening comprehension (~15 points)"
+    },
+    {
+     "id": "o1",
+     "text": "Reading comprehension (~25 points)"
+    },
+    {
+     "id": "o2",
+     "text": "Writing – email or essay (~20 points)"
+    },
+    {
+     "id": "o3",
+     "text": "Vocabulary and grammar (~15 points)"
+    },
+    {
+     "id": "o4",
+     "text": "Oral presentation"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "The marketing mix",
+   "family": "4p",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Which are the original 4 P’s of the marketing mix?",
+   "solution": "The original 4 P’s: Product, Price, Place, Promotion.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing (BEAD Unit 4)",
+   "sourceQuote": "The marketing mix",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Product"
+    },
+    {
+     "id": "o1",
+     "text": "Price"
+    },
+    {
+     "id": "o2",
+     "text": "Place"
+    },
+    {
+     "id": "o3",
+     "text": "Promotion"
+    },
+    {
+     "id": "o4",
+     "text": "People"
+    },
+    {
+     "id": "o5",
+     "text": "Process"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "The marketing mix",
+   "family": "4p",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Which 3 extra P’s are added for services (7 P’s)?",
+   "solution": "People, Process, Physical environment.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing (BEAD Unit 4)",
+   "sourceQuote": "The marketing mix",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "People"
+    },
+    {
+     "id": "o1",
+     "text": "Process"
+    },
+    {
+     "id": "o2",
+     "text": "Physical environment"
+    },
+    {
+     "id": "o3",
+     "text": "Packaging"
+    },
+    {
+     "id": "o4",
+     "text": "Profit"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "The marketing mix",
+   "family": "q4",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Name all 7 P’s of the marketing mix and say which three are mainly used for services.",
+   "solution": "Product, Price, Place, Promotion (the originals, mostly for products) + People, Process, Physical environment (extras for services).",
+   "rubric": "All seven; correct split 4 + 3.",
+   "sourceTitle": "Moodle EN · Marketing (BEAD Unit 4)",
+   "sourceQuote": "The marketing mix",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q5",
+   "objective": "The marketing mix",
+   "family": "p-q",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "“Where will this product be sold – wholesale or retail? Can people buy it online?” Which P?",
+   "solution": "Place = distribution.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing (BEAD Unit 4)",
+   "sourceQuote": "The marketing mix",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Place"
+    },
+    {
+     "id": "o1",
+     "text": "Promotion"
+    },
+    {
+     "id": "o2",
+     "text": "Price"
+    },
+    {
+     "id": "o3",
+     "text": "Product"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "The marketing mix",
+   "family": "p-q",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "“How much are people willing to pay for this product?” Which P?",
+   "solution": "Price.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing (BEAD Unit 4)",
+   "sourceQuote": "The marketing mix",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Price"
+    },
+    {
+     "id": "o1",
+     "text": "Place"
+    },
+    {
+     "id": "o2",
+     "text": "Product"
+    },
+    {
+     "id": "o3",
+     "text": "People"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "The marketing mix",
+   "family": "p-q",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "“How easy is it to get an appointment, how long do customers wait, which payment methods exist?” Which P?",
+   "solution": "Process = the customer’s experience of getting what they want.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing (BEAD Unit 4)",
+   "sourceQuote": "The marketing mix",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Process"
+    },
+    {
+     "id": "o1",
+     "text": "People"
+    },
+    {
+     "id": "o2",
+     "text": "Physical environment"
+    },
+    {
+     "id": "o3",
+     "text": "Place"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "The marketing mix",
+   "family": "p-q",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "A clean restaurant, a professional website and staff uniforms belong to …",
+   "solution": "Physical environment = the customer’s surroundings.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing (BEAD Unit 4)",
+   "sourceQuote": "The marketing mix",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Physical environment"
+    },
+    {
+     "id": "o1",
+     "text": "Process"
+    },
+    {
+     "id": "o2",
+     "text": "People"
+    },
+    {
+     "id": "o3",
+     "text": "Promotion"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Product",
+   "family": "q9",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Read: three types of consumer products",
+   "solution": "Convenience products: cheap everyday items bought regularly, often out of habit (a latte on the way to work); little thought, no shopping around. Shopping products: bought less often, more expensive, sold in fewer places (jeans, laptops, washing machines); brand can matter. Speciality products: seen as unique; consumers travel to find the exact brand (designer handbags, luxury cars); image and quality matter more than price → higher profits.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Product",
+   "page": 1,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q10",
+   "objective": "Product",
+   "family": "prodtype",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "A latte on the way to work is a …",
+   "solution": "Cheap, everyday, bought out of habit.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "convenience product"
+    },
+    {
+     "id": "o1",
+     "text": "shopping product"
+    },
+    {
+     "id": "o2",
+     "text": "speciality product"
+    },
+    {
+     "id": "o3",
+     "text": "loss leader"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Product",
+   "family": "prodtype",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "A washing machine or a pair of jeans is a …",
+   "solution": "Bought less regularly, more expensive, compared.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "shopping product"
+    },
+    {
+     "id": "o1",
+     "text": "convenience product"
+    },
+    {
+     "id": "o2",
+     "text": "speciality product"
+    },
+    {
+     "id": "o3",
+     "text": "perishable"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Product",
+   "family": "prodtype",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "A designer handbag that people travel to buy is a …",
+   "solution": "Unique image; price matters less.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "speciality product"
+    },
+    {
+     "id": "o1",
+     "text": "shopping product"
+    },
+    {
+     "id": "o2",
+     "text": "convenience product"
+    },
+    {
+     "id": "o3",
+     "text": "commodity"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Product",
+   "family": "q13",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "What is a USP? Explain tangible vs. intangible benefits with one example each.",
+   "solution": "USP = unique selling point/proposition: what makes a product stand out from the competition. Tangible benefits can be measured (low-calorie pizza, energy-efficient fridge, high interest rate). Intangible benefits can’t be measured – based on reputation and image (beauty products make you feel good; a car brand perceived as reliable).",
+   "rubric": "Definition; tangible = measurable; intangible = image/reputation; examples.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Product",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q14",
+   "objective": "Product",
+   "family": "q14",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "“Our fridge uses 40 % less energy” is a …",
+   "solution": "Measurable = tangible.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "tangible benefit"
+    },
+    {
+     "id": "o1",
+     "text": "intangible benefit"
+    },
+    {
+     "id": "o2",
+     "text": "mark-up"
+    },
+    {
+     "id": "o3",
+     "text": "price discrimination"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Price",
+   "family": "q15",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "The percentage added to the cost of a product to make a profit is called the …",
+   "solution": "Mark-up.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Price",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "mark-up"
+    },
+    {
+     "id": "o1",
+     "text": "discount"
+    },
+    {
+     "id": "o2",
+     "text": "margin call"
+    },
+    {
+     "id": "o3",
+     "text": "loss leader"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "Price",
+   "family": "pricing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "A large company lowers prices in one area to force a small local competitor out of business. This is …",
+   "solution": "Predatory pricing.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Price",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "predatory pricing (illegal in the EU and US)"
+    },
+    {
+     "id": "o1",
+     "text": "competitive pricing"
+    },
+    {
+     "id": "o2",
+     "text": "psychological pricing"
+    },
+    {
+     "id": "o3",
+     "text": "price discrimination"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Price",
+   "family": "pricing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "£99.99 instead of £100 is an example of …",
+   "solution": "Psychological pricing.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Price",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "psychological pricing"
+    },
+    {
+     "id": "o1",
+     "text": "predatory pricing"
+    },
+    {
+     "id": "o2",
+     "text": "competitive pricing"
+    },
+    {
+     "id": "o3",
+     "text": "loss leading"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Price",
+   "family": "pricing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Cinema tickets are cheaper for students and seniors. This is …",
+   "solution": "Different prices for different groups.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Price",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "price discrimination"
+    },
+    {
+     "id": "o1",
+     "text": "competitive pricing"
+    },
+    {
+     "id": "o2",
+     "text": "mark-up"
+    },
+    {
+     "id": "o3",
+     "text": "predatory pricing"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Price",
+   "family": "pricing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "A supermarket sells milk below cost so customers come in and buy other items. Milk is a …",
+   "solution": "Loss leader.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Price",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "loss leader"
+    },
+    {
+     "id": "o1",
+     "text": "speciality product"
+    },
+    {
+     "id": "o2",
+     "text": "mark-up"
+    },
+    {
+     "id": "o3",
+     "text": "USP"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Price",
+   "family": "pricing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "A store promises to refund the difference if a product is cheaper elsewhere. Which strategy?",
+   "solution": "Watching competitors’ prices and matching or undercutting them.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Price",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Competitive pricing"
+    },
+    {
+     "id": "o1",
+     "text": "Psychological pricing"
+    },
+    {
+     "id": "o2",
+     "text": "Predatory pricing"
+    },
+    {
+     "id": "o3",
+     "text": "Price discrimination"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Place",
+   "family": "q21",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "What is a channel of distribution, and what do wholesalers do?",
+   "solution": "The route a product takes from producer to consumer, usually through intermediaries (wholesalers, retailers, agents). Wholesalers buy cheaply in bulk and sell on to retailers – fewer deliveries, invoices and paperwork for manufacturers.",
+   "rubric": "Definition with intermediaries; wholesaler role (bulk, fewer journeys/paperwork).",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Place",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q22",
+   "objective": "Place",
+   "family": "q22",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "An agent who sells a company’s goods but is not employed by it is usually paid …",
+   "solution": "Agents earn commission.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Place",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a commission (a percentage of sales)"
+    },
+    {
+     "id": "o1",
+     "text": "a fixed salary"
+    },
+    {
+     "id": "o2",
+     "text": "nothing"
+    },
+    {
+     "id": "o3",
+     "text": "in shares only"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q23",
+   "objective": "Place",
+   "family": "q23",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Buying and selling on the internet is called …",
+   "solution": "E-commerce.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Place",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "e-commerce"
+    },
+    {
+     "id": "o1",
+     "text": "wholesale"
+    },
+    {
+     "id": "o2",
+     "text": "retail park"
+    },
+    {
+     "id": "o3",
+     "text": "direct mail"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q24",
+   "objective": "Promotion",
+   "family": "q24",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which statement is correct?",
+   "solution": "Industrial = informative; consumer = persuasive.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Promotion",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Industrial promotion tends to be informative, consumer promotion tends to be persuasive"
+    },
+    {
+     "id": "o1",
+     "text": "Consumer promotion is always informative"
+    },
+    {
+     "id": "o2",
+     "text": "Industrial promotion is banned in the UK"
+    },
+    {
+     "id": "o3",
+     "text": "Promotion only means TV adverts"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Promotion",
+   "family": "q25",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What differentiates a product through its name, logo or slogan (e.g. Sprite, Heinz)?",
+   "solution": "Branding.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Promotion",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Branding"
+    },
+    {
+     "id": "o1",
+     "text": "Packaging"
+    },
+    {
+     "id": "o2",
+     "text": "Pricing"
+    },
+    {
+     "id": "o3",
+     "text": "Place"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Promotion",
+   "family": "q26",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Mark brews beer in Berlin (“Super Friends Pils/Dark/IPA”). Give him marketing advice using the 4 P’s (one or two sentences each).",
+   "solution": "Product: craft beer with a clear USP (local Berlin brewer, distinctive flavours); shopping/speciality positioning. Price: slightly above mass-market beer – psychological pricing (€2.99); maybe launch discounts. Place: bars and Spätis in Friedrichshain/Kreuzberg, later a wholesaler; online shop. Promotion: Instagram, tastings and events, branding and eye-catching bottle labels; word of mouth.",
+   "rubric": "All four P’s covered with specific, realistic ideas; correct terminology.",
+   "sourceTitle": "Moodle EN · Marketing",
+   "sourceQuote": "Promotion",
+   "page": 1,
+   "seconds": 300,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

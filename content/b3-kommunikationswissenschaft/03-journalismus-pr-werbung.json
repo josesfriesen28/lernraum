@@ -1,0 +1,931 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b3-03-journalismus-pr-werbung",
+ "title": "B3 · 3 Journalismus, PR, Werbung",
+ "course": "B3 Angewandte Kommunikations- und Medienwissenschaften",
+ "examType": "Klausur",
+ "topic": "Formen öffentlicher Kommunikation",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Journalismus",
+   "family": "q1",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Was sind Aufgaben und Leistungen von Journalist*innen?",
+   "solution": "Selektion, Herstellung, Präsentation – bei betriebswirtschaftlichen Zielen und ethischen Anforderungen („Vierte Gewalt“), mit Anspruch auf Faktizität. Selbstdarstellung = PR.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung (Beck 2023, Kap. 5)",
+   "sourceQuote": "Journalismus",
+   "page": 3,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Auswahl (Selektion)"
+    },
+    {
+     "id": "o1",
+     "text": "Herstellung"
+    },
+    {
+     "id": "o2",
+     "text": "Präsentation"
+    },
+    {
+     "id": "o3",
+     "text": "Selbstdarstellung im Auftrag einer Organisation"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Journalismus",
+   "family": "q2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was bedeutet „Faktizität“ im Journalismus?",
+   "solution": "Berichterstattung über tatsächliche Ereignisse und Sachverhalte.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung (Beck 2023, Kap. 5)",
+   "sourceQuote": "Journalismus",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bericht über tatsächliche Ereignisse und Sachverhalte"
+    },
+    {
+     "id": "o1",
+     "text": "Möglichst unterhaltsame Darstellung"
+    },
+    {
+     "id": "o2",
+     "text": "Wiedergabe der Meinung des Verlags"
+    },
+    {
+     "id": "o3",
+     "text": "Übernahme von Pressemitteilungen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Journalismus",
+   "family": "q3",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist der Pressekodex?",
+   "solution": "Berufsethik: 16 Ziffern des Presserats, Grundlage für Beschwerden; die meisten Verlage bekennen sich dazu.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung (Beck 2023, Kap. 5)",
+   "sourceQuote": "Journalismus",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Richtlinien des Presserats für die journalistische Arbeit (16 Ziffern), z. B. Menschenwürde, Opferschutz, Trennung von Werbung und Redaktion"
+    },
+    {
+     "id": "o1",
+     "text": "Ein Gesetz, das Zensur regelt"
+    },
+    {
+     "id": "o2",
+     "text": "Ein Werbestandard für Anzeigen"
+    },
+    {
+     "id": "o3",
+     "text": "Ein PR-Leitfaden für Pressemitteilungen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Journalismus",
+   "family": "q4",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Historische Phasen des Journalismus (grob!)",
+   "solution": "1) Präjournalistische Periode (fahrende Sänger, Sendboten, Buchdrucker). 2) Korrespondierender Journalismus, 15.–17. Jh. (private Mitteilungen von Kaufleuten, Gesandten). 3) Schriftstellerischer/räsonierender Journalismus, 18./19. Jh. (politischer Anspruch). 4) Redaktioneller Journalismus, Mitte 19. Jh. (Professionalisierung: Rollen, Ressorts, Darstellungsformen). 5) Redaktionstechnischer Journalismus (steigende Bedeutung technischer Mittel).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung (Beck 2023, Kap. 5)",
+   "sourceQuote": "Stoff für Klausur: Historische Phasen des Journalismus (grob!)",
+   "page": 3,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q5",
+   "objective": "Journalismus",
+   "family": "j-phasen",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "In welche Phase fällt die Professionalisierung mit Rollen, Ressorts und standardisierten Darstellungsformen?",
+   "solution": "Redaktioneller Journalismus, Mitte 19. Jahrhundert.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung (Beck 2023, Kap. 5)",
+   "sourceQuote": "Journalismus",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Redaktioneller Journalismus (Mitte 19. Jh.)"
+    },
+    {
+     "id": "o1",
+     "text": "Korrespondierender Journalismus (15.–17. Jh.)"
+    },
+    {
+     "id": "o2",
+     "text": "Präjournalistische Periode"
+    },
+    {
+     "id": "o3",
+     "text": "Schriftstellerischer Journalismus (18. Jh.)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Journalismus",
+   "family": "j-phasen",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Phase des Journalismus hat einen politischen Anspruch und ist „räsonierend“?",
+   "solution": "Schriftstellerischer bzw. räsonierender Journalismus, 18./19. Jahrhundert.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung (Beck 2023, Kap. 5)",
+   "sourceQuote": "Journalismus",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Schriftstellerischer Journalismus (18./19. Jh.)"
+    },
+    {
+     "id": "o1",
+     "text": "Redaktionstechnischer Journalismus"
+    },
+    {
+     "id": "o2",
+     "text": "Korrespondierender Journalismus"
+    },
+    {
+     "id": "o3",
+     "text": "Präjournalistische Periode"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Journalismus",
+   "family": "q7",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die Phasen der Journalismusgeschichte in der richtigen Reihenfolge.",
+   "solution": "Präjournalistische Periode → korrespondierender Journalismus (15.–17. Jh.) → schriftstellerischer/räsonierender Journalismus (18./19. Jh.) → redaktioneller Journalismus (Mitte 19. Jh.) → redaktionstechnischer Journalismus.",
+   "rubric": "Fünf Phasen in richtiger Reihenfolge (grob genügt).",
+   "sourceTitle": "Moodle B3 · 3. Sitzung (Beck 2023, Kap. 5)",
+   "sourceQuote": "Journalismus",
+   "page": 3,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q8",
+   "objective": "Journalismus",
+   "family": "q8",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was besagt der Agenda-Setting-Ansatz?",
+   "solution": "Medien beeinflussen, WORÜBER nachgedacht wird – durch Gewichtung und Platzierung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung (Beck 2023, Kap. 5)",
+   "sourceQuote": "Journalismus",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Themen, denen Medien viel Relevanz zusprechen (Platzierung usw.), halten auch die Rezipient*innen für wichtig"
+    },
+    {
+     "id": "o1",
+     "text": "Medien bestimmen, was Menschen denken"
+    },
+    {
+     "id": "o2",
+     "text": "Rezipient*innen setzen die Themen der Medien"
+    },
+    {
+     "id": "o3",
+     "text": "Werbung bestimmt die Nachrichten"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Journalismus",
+   "family": "q9",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Warum beschäftigt sich die Kommunikationswissenschaft mit Journalismus aus Sicht der Wirtschaftskommunikation?",
+   "solution": "Journalistische Berichterstattung ist „verdient“ (Earned Media) – Ziel und Mittel von PR.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung (Beck 2023, Kap. 5)",
+   "sourceQuote": "Journalismus",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Weil Journalismus Ziel und Mittel von PR ist (Earned Media)"
+    },
+    {
+     "id": "o1",
+     "text": "Weil Journalismus Paid Media ist"
+    },
+    {
+     "id": "o2",
+     "text": "Weil Werbung Teil des Journalismus ist"
+    },
+    {
+     "id": "o3",
+     "text": "Weil Journalismus Owned Media ist"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "PR (Public Relations)",
+   "family": "q10",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist das Ziel von PR?",
+   "solution": "PR vertritt spezifische Interessen; zentral ist ein positives Image, auch in Krisen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR (Public Relations)",
+   "page": 11,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Vertretung spezifischer Interessen in der Öffentlichkeit / öffentlichen Kommunikation"
+    },
+    {
+     "id": "o1",
+     "text": "Unabhängige Fremdbeobachtung der Gesellschaft"
+    },
+    {
+     "id": "o2",
+     "text": "Absatz von Waren über bezahlte Anzeigen"
+    },
+    {
+     "id": "o3",
+     "text": "Neutrale Berichterstattung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "PR (Public Relations)",
+   "family": "q11",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wann beginnt moderne PR laut Vorlesung?",
+   "solution": "19. Jahrhundert.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR (Public Relations)",
+   "page": 11,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Im 19. Jahrhundert (Kritik an industriellen Großbetrieben, Einflussnahme auf Berichterstattung)"
+    },
+    {
+     "id": "o1",
+     "text": "Nach dem Zweiten Weltkrieg"
+    },
+    {
+     "id": "o2",
+     "text": "Mit Social Media"
+    },
+    {
+     "id": "o3",
+     "text": "Im 15. Jahrhundert"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "PR (Public Relations)",
+   "family": "q12",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Ordne zu: Welche Paare (PR-Feld → Zielgruppe) stimmen?",
+   "solution": "Medienarbeit richtet sich an Journalist*innen.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR (Public Relations)",
+   "page": 11,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Investor Relations → Aktionär*innen"
+    },
+    {
+     "id": "o1",
+     "text": "Community Relations → Akteure in der Nachbarschaft"
+    },
+    {
+     "id": "o2",
+     "text": "Internal Relations → Mitarbeiter*innen"
+    },
+    {
+     "id": "o3",
+     "text": "Public Affairs → direkt an Gesetzgeber*innen, ohne Journalist*innen"
+    },
+    {
+     "id": "o4",
+     "text": "Medienarbeit → Aktionär*innen"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "PR (Public Relations)",
+   "family": "q13",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Drei Ansätze in der PR",
+   "solution": "1) Marketingorientiert: PR als zusätzliches Marketinginstrument, Ziel Gewinnerzielung. 2) Managementansätze: Steuerung der Organisationskommunikation intern und extern, Ziel positives Bild – nicht nur kurzfristiger Gewinn. 3) Verständigungs-/gesellschaftsorientiert: Vermittlung zwischen Organisation und öffentlichen Interessen anderer Gruppen, Ziel Ausgleich/soziales Ansehen.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR (Public Relations)",
+   "page": 11,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q14",
+   "objective": "PR (Public Relations)",
+   "family": "pr-ansatz",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welcher PR-Ansatz zielt auf einen Ausgleich zwischen Organisation und den Interessen anderer Gruppen (soziales Ansehen)?",
+   "solution": "Verständigungsorientiert: kommunikative Vermittlung, Ziel Ausgleich.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR (Public Relations)",
+   "page": 11,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Verständigungs- bzw. gesellschaftsorientierter Ansatz"
+    },
+    {
+     "id": "o1",
+     "text": "Marketingorientierter Ansatz"
+    },
+    {
+     "id": "o2",
+     "text": "Managementansatz"
+    },
+    {
+     "id": "o3",
+     "text": "Determinationsansatz"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "PR (Public Relations)",
+   "family": "pr-ansatz",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welcher PR-Ansatz sieht PR als zusätzliches Instrument des Marketings mit dem primären Ziel Gewinnerzielung?",
+   "solution": "Marketingorientiert.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR (Public Relations)",
+   "page": 11,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Marketingorientierter Ansatz"
+    },
+    {
+     "id": "o1",
+     "text": "Managementansatz"
+    },
+    {
+     "id": "o2",
+     "text": "Verständigungsorientierter Ansatz"
+    },
+    {
+     "id": "o3",
+     "text": "Intereffikationsansatz"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "PR (Public Relations)",
+   "family": "q16",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Unterscheide Journalismus und PR anhand ihrer Prinzipien.",
+   "solution": "Journalismus: Fremdbeobachtung und -darstellung, nicht an Einzelinteressen gebunden, autonom, journalistische Normen (Trennung Nachricht/Kommentar, Ausgewogenheit). PR: Selbstdarstellung bzw. Auftragskommunikation im Interesse der eigenen Organisation oder des Auftraggebers.",
+   "rubric": "Fremd- vs. Selbstdarstellung; Autonomie/Normen vs. Interessenvertretung.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR (Public Relations)",
+   "page": 11,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q17",
+   "objective": "PR und Journalismus: Modelle",
+   "family": "det-inter",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was besagt die Determinationshypothese (Baerns 1985)?",
+   "solution": "Baerns: rund zwei Drittel der Politikberichterstattung in NRW gingen auf PR zurück.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR und Journalismus: Modelle",
+   "page": 15,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Öffentlichkeitsarbeit determiniert die journalistische Berichterstattung – PR kontrolliert Themen und Timing"
+    },
+    {
+     "id": "o1",
+     "text": "Journalismus und PR beeinflussen sich wechselseitig"
+    },
+    {
+     "id": "o2",
+     "text": "Journalismus bestimmt die PR vollständig"
+    },
+    {
+     "id": "o3",
+     "text": "PR hat keinen Einfluss auf Medien"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "PR und Journalismus: Modelle",
+   "family": "q18",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie viel der Politikberichterstattung in NRW ging laut Baerns-Studie auf PR zurück?",
+   "solution": "Zwei Drittel.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR und Journalismus: Modelle",
+   "page": 15,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Rund zwei Drittel"
+    },
+    {
+     "id": "o1",
+     "text": "Rund ein Zehntel"
+    },
+    {
+     "id": "o2",
+     "text": "Rund die Hälfte"
+    },
+    {
+     "id": "o3",
+     "text": "Fast alles (über 95 %)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "PR und Journalismus: Modelle",
+   "family": "q19",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Kritikpunkte gibt es an der Baerns-Studie / Determinationshypothese?",
+   "solution": "Kritik: Was heißt übernehmen? Was gilt als PR?",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR und Journalismus: Modelle",
+   "page": 15,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Unklar, was „übernehmen“ heißt"
+    },
+    {
+     "id": "o1",
+     "text": "Unklar, was als PR gilt"
+    },
+    {
+     "id": "o2",
+     "text": "Die Studie hat Journalismus gar nicht untersucht"
+    },
+    {
+     "id": "o3",
+     "text": "Sie ignoriert, dass PR überhaupt existiert"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "PR und Journalismus: Modelle",
+   "family": "q20",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Intereffikationsmodell",
+   "solution": "Abkehr von der Determinationshypothese. Induktion: PR kann Journalismus zu Themen (Issue-/Agenda-Building) und Zeitpunkten anregen. Adaption: gelingt nur, wenn PR sich dem Journalismus anpasst (Ressorts, Redaktionsschluss, sachliche Regeln). Wechselseitigkeit: Auch Journalismus beeinflusst PR. Kritik: eher Hybridisierung; PR nicht autonom; Machtverhältnisse ausgeblendet.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR und Journalismus: Modelle",
+   "page": 15,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q21",
+   "objective": "PR und Journalismus: Modelle",
+   "family": "det-inter",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Elemente gehören zum Intereffikationsmodell?",
+   "solution": "Induktion, Adaption, wechselseitige Ermöglichung. Einseitige Determination = Baerns.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR und Journalismus: Modelle",
+   "page": 15,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Induktion (gerichtete Einflussnahme)"
+    },
+    {
+     "id": "o1",
+     "text": "Adaption (Anpassung an die andere Seite)"
+    },
+    {
+     "id": "o2",
+     "text": "Wechselseitigkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Determination durch PR"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q22",
+   "objective": "PR und Journalismus: Modelle",
+   "family": "q22",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Erkläre den Unterschied zwischen Determinationshypothese und Intereffikationsmodell (3–4 Sätze).",
+   "solution": "Determinationshypothese (Baerns 1985): PR bestimmt Themen und Timing der Berichterstattung, einseitige Einflussrichtung. Intereffikationsmodell: wechselseitige Beeinflussung – PR regt an (Induktion) und passt sich journalistischen Strukturen an (Adaption), umgekehrt beeinflusst auch der Journalismus die PR.",
+   "rubric": "Einseitig vs. wechselseitig; Baerns; Induktion/Adaption genannt.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR und Journalismus: Modelle",
+   "page": 15,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q23",
+   "objective": "PR und Journalismus: Modelle",
+   "family": "q23",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Kritik gibt es am Intereffikationsmodell?",
+   "solution": "Hybridisierung, fehlende Autonomie der PR, Machtfrage ausgeblendet.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "PR und Journalismus: Modelle",
+   "page": 15,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Hybridisierung ist wahrscheinlicher als Intereffikation"
+    },
+    {
+     "id": "o1",
+     "text": "PR ist kein autonomes System, sondern immer vom Journalismus abhängig"
+    },
+    {
+     "id": "o2",
+     "text": "Machtverhältnisse werden ausgeblendet"
+    },
+    {
+     "id": "o3",
+     "text": "Es behauptet, PR habe keinerlei Einfluss"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q24",
+   "objective": "Werbung",
+   "family": "q24",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Was sind Aufgaben/Leistungen von Werber*innen?",
+   "solution": "Wirtschaftswerbung und ideelle Werbung (Wahlkampf, Religion).",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "Werbung",
+   "page": 18,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Absatz von Waren oder Dienstleistungen (Wirtschaftswerbung)"
+    },
+    {
+     "id": "o1",
+     "text": "Einstellungs- und Verhaltensänderung in ideellen Fragen (politische, religiöse Werbung)"
+    },
+    {
+     "id": "o2",
+     "text": "Unabhängige Kontrolle der Mächtigen"
+    },
+    {
+     "id": "o3",
+     "text": "Faktentreue Berichterstattung"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Werbung",
+   "family": "q25",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Doppelte Ausblendungsregel",
+   "solution": "Soziale Ausblendungsregel: Werbung verspricht Wunscherfüllung nur denen, die sie sich finanziell leisten können. Sachliche Ausblendungsregel: Es werden nur positive Aspekte des Produkts gezeigt – kein Wahrheitsanspruch.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "Werbung",
+   "page": 18,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q26",
+   "objective": "Werbung",
+   "family": "ausblend",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Werbung zeigt nur die positiven Seiten eines Produkts.“ Welche Regel ist das?",
+   "solution": "Sachliche Ausblendungsregel.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "Werbung",
+   "page": 18,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sachliche Ausblendungsregel"
+    },
+    {
+     "id": "o1",
+     "text": "Soziale Ausblendungsregel"
+    },
+    {
+     "id": "o2",
+     "text": "Determinationshypothese"
+    },
+    {
+     "id": "o3",
+     "text": "Pressekodex"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q27",
+   "objective": "Werbung",
+   "family": "ausblend",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Werbung verspricht Wunscherfüllung nur denen, die sie bezahlen können.“ Welche Regel ist das?",
+   "solution": "Soziale Ausblendungsregel.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "Werbung",
+   "page": 18,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Soziale Ausblendungsregel"
+    },
+    {
+     "id": "o1",
+     "text": "Sachliche Ausblendungsregel"
+    },
+    {
+     "id": "o2",
+     "text": "Agenda-Setting"
+    },
+    {
+     "id": "o3",
+     "text": "Spin-Doctoring"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q28",
+   "objective": "Werbung",
+   "family": "q28",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Merkmale von Werbung nennt die Vorlesung?",
+   "solution": "Ausgewogenheit ist eine journalistische Norm.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "Werbung",
+   "page": 18,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sichtbarkeit (meist als Werbung erkennbar, Ausnahmen: Schleichwerbung, Product Placement)"
+    },
+    {
+     "id": "o1",
+     "text": "Planung (breit und längerfristig angelegte Kampagnen)"
+    },
+    {
+     "id": "o2",
+     "text": "Zielgruppenspezifisch (Streuverluste minimieren)"
+    },
+    {
+     "id": "o3",
+     "text": "Werbemittel wie Anzeige, Spot, Placement, Mailing"
+    },
+    {
+     "id": "o4",
+     "text": "Pflicht zur Ausgewogenheit"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q29",
+   "objective": "Werbung",
+   "family": "q29",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Werbung gehört in der Medienlogik zu welcher Kategorie?",
+   "solution": "Bezahlte Platzierung = Paid Media.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "Werbung",
+   "page": 18,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Paid Media"
+    },
+    {
+     "id": "o1",
+     "text": "Earned Media"
+    },
+    {
+     "id": "o2",
+     "text": "Owned Media"
+    },
+    {
+     "id": "o3",
+     "text": "Shared Media"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q30",
+   "objective": "Werbung",
+   "family": "q30",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Eine Influencerin zeigt in einer Story Kopfhörer, die sie vom Hersteller bekommen hat, ohne Kennzeichnung. Ordne den Fall kommunikationswissenschaftlich ein (Werbemerkmale, Probleme).",
+   "solution": "Es ist Werbung (Produktplatzierung im Content, Paid Media), aber nicht sichtbar gekennzeichnet → verletzt Merkmal Sichtbarkeit (Schleichwerbung). Problem: Kennzeichnungspflicht, teils widersprüchliche Urteile; junge Zuschauer*innen erkennen Platzierungen schlechter; ethische Aspekte.",
+   "rubric": "Als Werbung/Paid Media erkannt; fehlende Kennzeichnung/Schleichwerbung; Zielgruppenproblem oder Ethik.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung",
+   "sourceQuote": "Werbung",
+   "page": 18,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

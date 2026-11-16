@@ -1,6 +1,6 @@
 # Wie neue Lerninhalte in die App kommen
 
-1. **Material schicken:** Skripte, Folien, Mitschriften (PDF, Fotos, Text) im Chat mit Claude hochladen und dazusagen, zu welchem Modul sie gehören und welche Prüfungsform ansteht.
+1. **Bescheid sagen:** „In Modul X gibt es Neues.“ Claude holt die Unterlagen selbst aus Moodle (im Browser der Claude-App, in dem du bei Moodle angemeldet bist) und liest die Prüfungsmarkierungen aus deinen Notion-Notizen. Alternativ Material direkt im Chat hochladen.
 2. **Claude erstellt Aufgaben:** Aus dem Material entstehen möglichst viele sinnvolle Aufgaben in allen fünf Formaten (Single-/Multiple-Choice, freier Abruf, Anwendung auf neue Fälle, Erklärkarten). Jede Aufgabe hat Lösung, Bewertungskriterien und eine kurze Belegstelle mit Seitenzahl.
 3. **Ablage im Repository:** Die Pakete landen als JSON unter `content/<modul>/<thema>.json` (Format: [content/README.md](../content/README.md)). Pro Thema ein Paket, höchstens 500 Aufgaben.
 4. **Prüfen und Version anheben:** `npm test` und `npm run build` (prüft jedes Paket), Version und CHANGELOG anheben, committen.

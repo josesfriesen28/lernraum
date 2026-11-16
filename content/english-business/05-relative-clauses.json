@@ -1,0 +1,460 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "en-05-relative-clauses",
+ "title": "English · Grammar: relative clauses",
+ "course": "English for Business Communication (B2.2)",
+ "examType": "Klausur",
+ "topic": "Relative clauses",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Relative pronouns",
+   "family": "relpron",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Pete is the guy ___ knows the most about computers.",
+   "solution": "People as subject → who (or that).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses",
+   "sourceQuote": "Relative pronouns",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "who"
+    },
+    {
+     "id": "o1",
+     "text": "which"
+    },
+    {
+     "id": "o2",
+     "text": "whose"
+    },
+    {
+     "id": "o3",
+     "text": "whom"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Relative pronouns",
+   "family": "relpron",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "He’s a man ___ opinion I respect.",
+   "solution": "Possession → whose.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses",
+   "sourceQuote": "Relative pronouns",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "whose"
+    },
+    {
+     "id": "o1",
+     "text": "who"
+    },
+    {
+     "id": "o2",
+     "text": "which"
+    },
+    {
+     "id": "o3",
+     "text": "whom"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Relative pronouns",
+   "family": "relpron",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "This is the girl with ___ I shared an apartment.",
+   "solution": "After a preposition for people → whom.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses",
+   "sourceQuote": "Relative pronouns",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "whom"
+    },
+    {
+     "id": "o1",
+     "text": "who"
+    },
+    {
+     "id": "o2",
+     "text": "which"
+    },
+    {
+     "id": "o3",
+     "text": "that"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Relative pronouns",
+   "family": "relpron",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "He showed me round the town, ___ was very kind of him.",
+   "solution": "Referring to a whole clause → , which (always with a comma).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses",
+   "sourceQuote": "Relative pronouns",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "which"
+    },
+    {
+     "id": "o1",
+     "text": "that"
+    },
+    {
+     "id": "o2",
+     "text": "what"
+    },
+    {
+     "id": "o3",
+     "text": "who"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Relative pronouns",
+   "family": "relpron",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "___ I need is a holiday!",
+   "solution": "What = the thing that (no noun before it).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses",
+   "sourceQuote": "Relative pronouns",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "What"
+    },
+    {
+     "id": "o1",
+     "text": "Which"
+    },
+    {
+     "id": "o2",
+     "text": "That"
+    },
+    {
+     "id": "o3",
+     "text": "Who"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Relative pronouns",
+   "family": "relpron",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Is this the film ___ he kills his dog?",
+   "solution": "A preposition can’t come before “that” → in which.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses",
+   "sourceQuote": "Relative pronouns",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "in which"
+    },
+    {
+     "id": "o1",
+     "text": "in that"
+    },
+    {
+     "id": "o2",
+     "text": "which in"
+    },
+    {
+     "id": "o3",
+     "text": "in what"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Defining vs. non-defining",
+   "family": "q7",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Read: defining vs. non-defining relative clauses",
+   "solution": "Defining: essential information – we need it to know who/what is meant. No commas; “that” is possible; the pronoun can be left out when it is the object (the people she met). Non-defining: extra information – could be left out. Always commas; never “that”; always a relative pronoun (who, which, whose, whom).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle EN · Relative clauses, theory",
+   "sourceQuote": "Defining vs. non-defining",
+   "page": 1,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q8",
+   "objective": "Defining vs. non-defining",
+   "family": "defnon",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "“My sister, who lives in Berlin, is married.” What does this tell you?",
+   "solution": "Commas → non-defining → only one sister.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses, theory",
+   "sourceQuote": "Defining vs. non-defining",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "I have only one sister (non-defining clause = extra information)"
+    },
+    {
+     "id": "o1",
+     "text": "I have several sisters"
+    },
+    {
+     "id": "o2",
+     "text": "The sentence is wrong without “that”"
+    },
+    {
+     "id": "o3",
+     "text": "Berlin is essential information"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Defining vs. non-defining",
+   "family": "defnon",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "“His brother who works at the supermarket is a friend of mine.” (no commas) What does this tell you?",
+   "solution": "Defining → identifies which brother.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses, theory",
+   "sourceQuote": "Defining vs. non-defining",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "He has more than one brother"
+    },
+    {
+     "id": "o1",
+     "text": "He has only one brother"
+    },
+    {
+     "id": "o2",
+     "text": "The clause is extra information"
+    },
+    {
+     "id": "o3",
+     "text": "The sentence needs “that” instead"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Defining vs. non-defining",
+   "family": "q10",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which sentence is correct?",
+   "solution": "Non-defining: commas + who; never “that”.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses, theory",
+   "sourceQuote": "Defining vs. non-defining",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Allen, who scored three goals, was the only player to perform well."
+    },
+    {
+     "id": "o1",
+     "text": "Allen, that scored three goals, was the only player to perform well."
+    },
+    {
+     "id": "o2",
+     "text": "Allen who scored three goals, was the only player to perform well."
+    },
+    {
+     "id": "o3",
+     "text": "Allen, scored three goals, was the only player to perform well."
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Defining vs. non-defining",
+   "family": "q11",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "In which sentence can the relative pronoun be left out?",
+   "solution": "Only in defining clauses when the pronoun is the OBJECT.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses, theory",
+   "sourceQuote": "Defining vs. non-defining",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "They’re the people (who) she met at Jon’s party."
+    },
+    {
+     "id": "o1",
+     "text": "They’re the people (who) bought our house."
+    },
+    {
+     "id": "o2",
+     "text": "Clare, (who) I work with, is running the marathon."
+    },
+    {
+     "id": "o3",
+     "text": "She’s the lady (who) lent me her phone."
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Defining vs. non-defining",
+   "family": "q12",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which sentence is WRONG?",
+   "solution": "No extra personal pronoun in the relative clause.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Relative clauses, theory",
+   "sourceQuote": "Defining vs. non-defining",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "She’s the lady who she lent me her phone."
+    },
+    {
+     "id": "o1",
+     "text": "She’s the lady who lent me her phone."
+    },
+    {
+     "id": "o2",
+     "text": "She’s the lady that lent me her phone."
+    },
+    {
+     "id": "o3",
+     "text": "The lady who lent me her phone is nice."
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Defining vs. non-defining",
+   "family": "q13",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Combine into one sentence with a relative clause: “Our supplier is based in Leeds. It delivers within 24 hours.”",
+   "solution": "Our supplier, which is based in Leeds, delivers within 24 hours. (non-defining, extra info) – or: Our supplier, which delivers within 24 hours, is based in Leeds.",
+   "rubric": "Correct pronoun (which); commas for non-defining; grammatical.",
+   "sourceTitle": "Moodle EN · Relative clauses, theory",
+   "sourceQuote": "Defining vs. non-defining",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q14",
+   "objective": "Defining vs. non-defining",
+   "family": "q14",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Combine: “This is the manager. I sent the enquiry to her.” (formal style)",
+   "solution": "This is the manager to whom I sent the enquiry. (informal: This is the manager I sent the enquiry to.)",
+   "rubric": "to whom (formal) or pronoun dropped with preposition at end.",
+   "sourceTitle": "Moodle EN · Relative clauses, theory",
+   "sourceQuote": "Defining vs. non-defining",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q15",
+   "objective": "Defining vs. non-defining",
+   "family": "q15",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Explain in two sentences the difference between defining and non-defining relative clauses (punctuation and “that”).",
+   "solution": "Defining clauses give essential information to identify the noun; they have no commas and can use “that”. Non-defining clauses add extra, non-essential information; they need commas and cannot use “that”.",
+   "rubric": "Essential vs. extra; commas; that-rule.",
+   "sourceTitle": "Moodle EN · Relative clauses, theory",
+   "sourceQuote": "Defining vs. non-defining",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

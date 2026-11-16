@@ -1,0 +1,463 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "en-02-advertising",
+ "title": "English · Advertising vocabulary",
+ "course": "English for Business Communication (B2.2)",
+ "examType": "Klausur",
+ "topic": "Advertising",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "How companies advertise",
+   "family": "advoc",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Free advertising when satisfied customers recommend products to friends is called …",
+   "solution": "Word of mouth – probably the best form of advertising.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "word-of-mouth advertising"
+    },
+    {
+     "id": "o1",
+     "text": "institutional advertising"
+    },
+    {
+     "id": "o2",
+     "text": "counter-cyclical advertising"
+    },
+    {
+     "id": "o3",
+     "text": "comparative parity"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "How companies advertise",
+   "family": "advoc",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Advertising that builds a company’s reputation rather than selling particular products is …",
+   "solution": "Institutional / prestige advertising.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "institutional (prestige) advertising"
+    },
+    {
+     "id": "o1",
+     "text": "word-of-mouth advertising"
+    },
+    {
+     "id": "o2",
+     "text": "classified advertising"
+    },
+    {
+     "id": "o3",
+     "text": "a commercial"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "How companies advertise",
+   "family": "advoc",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "A contract with a company to produce its advertising is an …",
+   "solution": "Account.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "account"
+    },
+    {
+     "id": "o1",
+     "text": "brief"
+    },
+    {
+     "id": "o2",
+     "text": "media plan"
+    },
+    {
+     "id": "o3",
+     "text": "OTS"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "How companies advertise",
+   "family": "advoc",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "The statement of objectives of an advertising campaign that a client works out with the agency is the …",
+   "solution": "Brief.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "brief"
+    },
+    {
+     "id": "o1",
+     "text": "budget"
+    },
+    {
+     "id": "o2",
+     "text": "account"
+    },
+    {
+     "id": "o3",
+     "text": "threshold effect"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "How companies advertise",
+   "family": "advoc",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "The document specifying which media will be used and in which proportions is the …",
+   "solution": "Media plan.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "media plan"
+    },
+    {
+     "id": "o1",
+     "text": "brief"
+    },
+    {
+     "id": "o2",
+     "text": "account"
+    },
+    {
+     "id": "o3",
+     "text": "invoice"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "How companies advertise",
+   "family": "advoc",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "The point at which advertising becomes effective is the …",
+   "solution": "Threshold effect.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "threshold effect"
+    },
+    {
+     "id": "o1",
+     "text": "diminishing return"
+    },
+    {
+     "id": "o2",
+     "text": "cost per thousand"
+    },
+    {
+     "id": "o3",
+     "text": "buyer turnover"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "How companies advertise",
+   "family": "advoc",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Spending the same on advertising as your competitors is the …",
+   "solution": "Comparative parity.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "comparative-parity method"
+    },
+    {
+     "id": "o1",
+     "text": "counter-cyclical method"
+    },
+    {
+     "id": "o2",
+     "text": "percentage-of-sales method"
+    },
+    {
+     "id": "o3",
+     "text": "threshold method"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "How companies advertise",
+   "family": "advoc",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Advertising during seasons when sales are normally poor is …",
+   "solution": "Counter-cyclical advertising.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "counter-cyclical advertising"
+    },
+    {
+     "id": "o1",
+     "text": "word-of-mouth advertising"
+    },
+    {
+     "id": "o2",
+     "text": "prestige advertising"
+    },
+    {
+     "id": "o3",
+     "text": "pre-testing"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "How companies advertise",
+   "family": "q9",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does CPM mean in advertising?",
+   "solution": "M = Roman numeral for 1,000.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Cost per thousand – the cost of reaching 1,000 members of the target audience"
+    },
+    {
+     "id": "o1",
+     "text": "Cost per month"
+    },
+    {
+     "id": "o2",
+     "text": "Customer purchase motivation"
+    },
+    {
+     "id": "o3",
+     "text": "Commercials per medium"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "How companies advertise",
+   "family": "q10",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does “OTS” stand for?",
+   "solution": "Frequency = opportunities to see.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Opportunities to see"
+    },
+    {
+     "id": "o1",
+     "text": "Order to sell"
+    },
+    {
+     "id": "o2",
+     "text": "Over the shelf"
+    },
+    {
+     "id": "o3",
+     "text": "Online target segment"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "How companies advertise",
+   "family": "q11",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Why do most companies use advertising agencies instead of their own departments? Give two reasons.",
+   "solution": "Agencies have more resources and knowledge of advertising and media; talented people prefer agencies (variety of accounts); it is easier to move the account to another agency than to fire your own staff.",
+   "rubric": "Two of the three reasons.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q12",
+   "objective": "How companies advertise",
+   "family": "q12",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Why does advertising become ineffective after a certain point?",
+   "solution": "After too many exposures people stop noticing ads or find them irritating, and once the most promising customers are reached there are diminishing returns – ever smaller sales increases for more spending.",
+   "rubric": "Overexposure/irritation and diminishing returns.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q13",
+   "objective": "How companies advertise",
+   "family": "q13",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which is a small ad in a special section of a newspaper?",
+   "solution": "Classified ad.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "A classified advertisement"
+    },
+    {
+     "id": "o1",
+     "text": "A commercial"
+    },
+    {
+     "id": "o2",
+     "text": "A billboard"
+    },
+    {
+     "id": "o3",
+     "text": "Sponsorship"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "How companies advertise",
+   "family": "q14",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "In British English a poster is put on a hoarding. What is the American word?",
+   "solution": "Hoarding (GB) = billboard (US).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Advertising",
+   "sourceQuote": "How companies advertise",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "billboard"
+    },
+    {
+     "id": "o1",
+     "text": "board-sign"
+    },
+    {
+     "id": "o2",
+     "text": "placard"
+    },
+    {
+     "id": "o3",
+     "text": "banner wall"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  }
+ ]
+}

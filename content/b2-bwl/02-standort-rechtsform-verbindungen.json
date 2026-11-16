@@ -1,0 +1,670 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b2-02-standort-rechtsform",
+ "title": "B2 · 2 Standort, Rechtsform, zwischenbetriebliche Verbindungen",
+ "course": "B2 Grundlagen der Betriebswirtschaftslehre",
+ "examType": "Klausur",
+ "topic": "Konstitutive Entscheidungen",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Konstitutive Entscheidungen",
+   "family": "q1",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was sind konstitutive Entscheidungen? Nenne Beispiele aus Gründungs- und Umsatzphase.",
+   "solution": "Grundlegende, schwer zu revidierende Entscheidungen, die den langfristigen Handlungsrahmen für viele Folgeentscheidungen festlegen. Gründung: Standort, Rechtsform. Umsatzphase: weitere Standorte, Rechtsformwechsel, Standorte/Rechtsformen von Töchtern, zwischenbetriebliche Verbindungen.",
+   "rubric": "Definition (grundlegend, schwer revidierbar, langfristiger Rahmen) + Beispiele.",
+   "sourceTitle": "Moodle B2 · Teil I",
+   "sourceQuote": "Konstitutive Entscheidungen",
+   "page": 4,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q2",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "q2",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Definiere Standort und Standortentscheidung.",
+   "solution": "Standorte sind die geographischen Orte, an denen Unternehmen Leistungen herstellen und/oder absetzen. Standortentscheidungen sind Entscheidungen darüber, an wie vielen und an welchen geographischen Orten welche Leistungen hergestellt und abgesetzt werden.",
+   "rubric": "Beide Definitionen: Ort (herstellen/absetzen); wie viele, welche Orte, welche Leistungen.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "Standortentscheidungen (Lerntabelle: JA)",
+   "page": 8,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q3",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "q3",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Warum sind Standortentscheidungen überhaupt nötig?",
+   "solution": "Inhomogenität der Fläche.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "Standortentscheidungen (Lerntabelle: JA)",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Wegen der Inhomogenität der Fläche – Orte unterscheiden sich in Kosten, Arbeitskräften, Nähe zu Kunden usw."
+    },
+    {
+     "id": "o1",
+     "text": "Weil das Gesetz es vorschreibt"
+    },
+    {
+     "id": "o2",
+     "text": "Weil jedes Unternehmen genau einen Standort braucht"
+    },
+    {
+     "id": "o3",
+     "text": "Wegen der Rechtsformwahl"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "q4",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was sind Standortfaktoren?",
+   "solution": "Entscheidungsrelevante Kriterien, anhand derer die Eignung eines bestimmten geographischen Ortes für die Errichtung einer Betriebsstätte überprüft werden kann.",
+   "rubric": "Kriterien zur Prüfung der Eignung eines Ortes.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "Standortentscheidungen (Lerntabelle: JA)",
+   "page": 8,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q5",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "lim-sub",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist ein limitationaler Standortfaktor?",
+   "solution": "Limitational = K.-o.-Kriterium; substitutional = gegeneinander abwägbar.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "Standortentscheidungen (Lerntabelle: JA)",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Ein Mindestkriterium, das erfüllt sein muss – fehlt es, scheidet der Standort aus"
+    },
+    {
+     "id": "o1",
+     "text": "Ein Faktor, der durch andere Vorteile ausgeglichen werden kann"
+    },
+    {
+     "id": "o2",
+     "text": "Ein Faktor, der nur für Dienstleister gilt"
+    },
+    {
+     "id": "o3",
+     "text": "Ein rein qualitativer Faktor"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "lim-sub",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Speedy-Produktionsstandort: Welcher Faktor ist eher limitational?",
+   "solution": "Ohne ausreichende Fläche keine Produktion → limitational. Steuern, Gewerkschaften usw. sind abwägbar (substitutional).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "Standortentscheidungen (Lerntabelle: JA)",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Verfügbarkeit von Grundstücken, weil Produktion sehr platzintensiv ist"
+    },
+    {
+     "id": "o1",
+     "text": "Geringe Verhandlungsstärke der Gewerkschaften"
+    },
+    {
+     "id": "o2",
+     "text": "Höhe der Steuern"
+    },
+    {
+     "id": "o3",
+     "text": "Nähe zum Hauptabsatzmarkt"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "q7",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Grundformen der Standortstruktur gibt es (Vahs)?",
+   "solution": "Einheit, Teilung, Spaltung, Diversifikation.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "Standortentscheidungen (Lerntabelle: JA)",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Standorteinheit"
+    },
+    {
+     "id": "o1",
+     "text": "Standortteilung"
+    },
+    {
+     "id": "o2",
+     "text": "Standortspaltung"
+    },
+    {
+     "id": "o3",
+     "text": "Standortdiversifikation"
+    },
+    {
+     "id": "o4",
+     "text": "Standortverschmelzung"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "st-struktur",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Speedy entwickelt in Stuttgart und produziert in Leipzig. Welche Standortstruktur?",
+   "solution": "Unterschiedliche Funktionen an unterschiedlichen Orten = Teilung. Spaltung: dieselbe Funktion an mehreren Orten (z. B. zwei Produktionsstätten).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "Standortentscheidungen (Lerntabelle: JA)",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Standortteilung (Funktionen auf verschiedene Orte verteilt)"
+    },
+    {
+     "id": "o1",
+     "text": "Standorteinheit"
+    },
+    {
+     "id": "o2",
+     "text": "Standortspaltung"
+    },
+    {
+     "id": "o3",
+     "text": "Standortdiversifikation"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "st-struktur",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Zwei Produktionsstätten für alle Fahrzeuge – in Leipzig und in den USA. Welche Standortstruktur?",
+   "solution": "Gleiche Funktion an mehreren Orten = Spaltung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "Standortentscheidungen (Lerntabelle: JA)",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Standortspaltung"
+    },
+    {
+     "id": "o1",
+     "text": "Standortteilung"
+    },
+    {
+     "id": "o2",
+     "text": "Standorteinheit"
+    },
+    {
+     "id": "o3",
+     "text": "Standortdiversifikation"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "q10",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Ziele kann Speedy mit der Standortentscheidung für den Off-Road verfolgen?",
+   "solution": "Wachstums- und Strukturveränderungsziele; Rechtsform ist eine andere Entscheidung.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "Fallstudie Kapitel 3 (1)",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Erschließung neuer Absatzmärkte durch Produktion in Kundennähe"
+    },
+    {
+     "id": "o1",
+     "text": "Umgehung von Importbeschränkungen"
+    },
+    {
+     "id": "o2",
+     "text": "Vermeidung von Wechselkurseinflüssen"
+    },
+    {
+     "id": "o3",
+     "text": "Realisierung von Erfahrungskurveneffekten"
+    },
+    {
+     "id": "o4",
+     "text": "Wahl einer neuen Rechtsform"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Standortentscheidungen (Lerntabelle: JA)",
+   "family": "q11",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "LAP Coffee will den ersten Standort im Ausland eröffnen. Wende das Standortfaktorenmodell an (absatz-, unternehmens-, produktionsbezogen) und triff eine Entscheidung.",
+   "solution": "Strategisch: Zielstadt wählen (z. B. Wien), dann Teilraum, dann Mikrolage (kompakte, sichtbare Take-away-Fläche an stark genutztem Fußweg, z. B. Hauptbahnhof). Absatzbezogen: hohe Frequenz, schnelle Kaufentscheidungen; Frequenz/Sichtbarkeit erheben. Unternehmensbezogen: kompaktes, standardisiertes Filialmodell steuerbar halten. Produktionsbezogen: schnelle Zubereitung, Grundriss, Anlieferung prüfen. Zielkonflikt: Frequenz vs. Miete – nur anmieten, wenn Absatz die Standortkosten rechtfertigt.",
+   "rubric": "Drei Faktorgruppen angewendet; Vorgehen strategisch → operativ; Abwägung/Zielkonflikt.",
+   "sourceTitle": "Moodle B2 · Kap. 3",
+   "sourceQuote": "LAP Coffee – Lösungsskizze, Kapitel 3",
+   "page": 8,
+   "seconds": 300,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q12",
+   "objective": "Rechtsformen",
+   "family": "q12",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was sind Rechtsformen und wann werden Rechtsformentscheidungen getroffen?",
+   "solution": "Rechtsformen sind rechtliche Eigenschaften, die Betrieben durch Rechtsgeschäfte zugeordnet werden und ihre Rechtsbeziehungen im Innen- und Außenverhältnis regeln (Typenzwang). Entscheidungen fallen bei Gründung und beim Wechsel der Rechtsform.",
+   "rubric": "Definition (Innen-/Außenverhältnis) + Gründung/Wechsel.",
+   "sourceTitle": "Moodle B2 · Kap. 4",
+   "sourceQuote": "Rechtsformen",
+   "page": 28,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q13",
+   "objective": "Rechtsformen",
+   "family": "q13",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was bedeutet „Numerus clausus“ bzw. Typenzwang bei Rechtsformen?",
+   "solution": "Gesetzlich festgelegte Auswahl.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 4",
+   "sourceQuote": "Rechtsformen",
+   "page": 28,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Man kann nur zwischen den gesetzlich vorgesehenen Rechtsformen wählen"
+    },
+    {
+     "id": "o1",
+     "text": "Jedes Unternehmen erfindet seine Rechtsform"
+    },
+    {
+     "id": "o2",
+     "text": "Nur Kapitalgesellschaften sind erlaubt"
+    },
+    {
+     "id": "o3",
+     "text": "Die Zahl der Gesellschafter ist begrenzt"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "Rechtsformen",
+   "family": "q14",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Rechtsform ist in Deutschland am häufigsten?",
+   "solution": "Einzelunternehmen 67,8 %, GmbH 15,9 %.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 4",
+   "sourceQuote": "Rechtsformen",
+   "page": 28,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Einzelunternehmen (ca. 68 %)"
+    },
+    {
+     "id": "o1",
+     "text": "GmbH"
+    },
+    {
+     "id": "o2",
+     "text": "AG"
+    },
+    {
+     "id": "o3",
+     "text": "KG"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Rechtsformen",
+   "family": "q15",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Rechtsformen sind Kapitalgesellschaften?",
+   "solution": "OHG und GbR sind Personengesellschaften.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 4",
+   "sourceQuote": "Rechtsformen",
+   "page": 28,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "GmbH"
+    },
+    {
+     "id": "o1",
+     "text": "AG"
+    },
+    {
+     "id": "o2",
+     "text": "KGaA"
+    },
+    {
+     "id": "o3",
+     "text": "OHG"
+    },
+    {
+     "id": "o4",
+     "text": "GbR"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "Rechtsformen",
+   "family": "q16",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Bei welcher Rechtsform haften die Gesellschafter grundsätzlich nur mit ihrer Einlage?",
+   "solution": "Beschränkte Haftung = GmbH.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 4",
+   "sourceQuote": "Rechtsformen",
+   "page": 28,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "GmbH"
+    },
+    {
+     "id": "o1",
+     "text": "OHG"
+    },
+    {
+     "id": "o2",
+     "text": "Einzelunternehmen"
+    },
+    {
+     "id": "o3",
+     "text": "GbR"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Rechtsformen",
+   "family": "q17",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "LAP Coffee (deutsche MRT GmbH) geht nach Österreich: Tochtergesellschaft (GmbH) oder unselbstständige Zweigniederlassung? Vergleiche anhand von Struktur, Haftung, Leitung/Kontrolle und Aufwand.",
+   "solution": "Tochter: eigene rechtliche Einheit, Haftungswirkung abhängig von Rechtsform (keine absolute Abschirmung), klare lokale Verantwortung bei strategischer Steuerung durch die Mutter, mehr Aufwand. Zweigniederlassung: keine eigene Rechtsperson, Verpflichtungen der Trägergesellschaft, engere Einbindung, weniger strukturelle Trennung. Für einen längerfristigen Aufbau spricht viel für die Tochter-GmbH; für einen kleinen Testbetrieb eher die Zweigniederlassung.",
+   "rubric": "Vier Kriterien verglichen; begründete Entscheidung mit Situationsbezug.",
+   "sourceTitle": "Moodle B2 · Kap. 4",
+   "sourceQuote": "LAP Coffee – Lösungsskizze, Kapitel 4",
+   "page": 28,
+   "seconds": 300,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q18",
+   "objective": "Zwischenbetriebliche Verbindungen",
+   "family": "q18",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was unterscheidet Kooperation von Konzentration?",
+   "solution": "Kooperation: Selbstständigkeit bleibt. Konzentration: z. B. Konzern, Fusion.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 5",
+   "sourceQuote": "Zwischenbetriebliche Verbindungen",
+   "page": 35,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bei Kooperation bleiben die Unternehmen grundsätzlich selbstständig und stimmen ausgewählte Aktivitäten ab; Konzentration ist eine weitergehende Verbindung (Verlust der wirtschaftlichen Selbstständigkeit)"
+    },
+    {
+     "id": "o1",
+     "text": "Kooperation ist immer international, Konzentration national"
+    },
+    {
+     "id": "o2",
+     "text": "Bei Konzentration bleiben alle selbstständig"
+    },
+    {
+     "id": "o3",
+     "text": "Es gibt keinen Unterschied"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Zwischenbetriebliche Verbindungen",
+   "family": "q19",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "In welche Richtungen können zwischenbetriebliche Verbindungen verlaufen?",
+   "solution": "Horizontal, vertikal, diagonal.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 5",
+   "sourceQuote": "Zwischenbetriebliche Verbindungen",
+   "page": 35,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Horizontal (gleiche Wertschöpfungsstufe)"
+    },
+    {
+     "id": "o1",
+     "text": "Vertikal (vor- oder nachgelagerte Stufe)"
+    },
+    {
+     "id": "o2",
+     "text": "Diagonal/lateral (andere Branche)"
+    },
+    {
+     "id": "o3",
+     "text": "Zirkulär"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Zwischenbetriebliche Verbindungen",
+   "family": "q20",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Autohersteller kauft seinen Batteriezulieferer. Welche Richtung?",
+   "solution": "Vorgelagerte Stufe = vertikal.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 5",
+   "sourceQuote": "Zwischenbetriebliche Verbindungen",
+   "page": 35,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Vertikal"
+    },
+    {
+     "id": "o1",
+     "text": "Horizontal"
+    },
+    {
+     "id": "o2",
+     "text": "Diagonal"
+    },
+    {
+     "id": "o3",
+     "text": "Keine Verbindung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Zwischenbetriebliche Verbindungen",
+   "family": "q21",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist Franchising aus Sicht von Kap. 5?",
+   "solution": "Vertragliche Kooperation bei rechtlicher Selbstständigkeit.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 5",
+   "sourceQuote": "Zwischenbetriebliche Verbindungen",
+   "page": 35,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Eine Kooperation: Partner bleiben selbstständig und arbeiten vertraglich zusammen"
+    },
+    {
+     "id": "o1",
+     "text": "Eine Fusion"
+    },
+    {
+     "id": "o2",
+     "text": "Eine Standortspaltung"
+    },
+    {
+     "id": "o3",
+     "text": "Eine Rechtsform"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q22",
+   "objective": "Zwischenbetriebliche Verbindungen",
+   "family": "q22",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "LAP Coffee: Erste Filiale selbst betreiben oder sofort mit lokalem Franchisepartner? Wäge Nutzen und Risiken ab.",
+   "solution": "Eigenbetrieb: direkte Kontrolle über Sortiment, Tempo, Preise, Marke; aber Aufbauaufwand und fehlende lokale Kenntnisse. Franchising/Kooperation: lokale Kenntnisse und Ressourcen, schnellere Expansion; aber weniger Kontrolle, Standards müssen verbindlich und überprüfbar sein. Sinnvoll: erst Eigenbetrieb zur Erprobung, später Partner für Expansion.",
+   "rubric": "Beide Optionen mit Nutzen/Risiko; Bindungsintensität/Kontrolle; begründete Reihenfolge.",
+   "sourceTitle": "Moodle B2 · Kap. 5",
+   "sourceQuote": "LAP Coffee – Lösungsskizze, Kapitel 5",
+   "page": 35,
+   "seconds": 240,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

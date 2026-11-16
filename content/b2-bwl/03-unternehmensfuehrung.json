@@ -1,0 +1,652 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b2-03-unternehmensfuehrung",
+ "title": "B2 · 3 Unternehmensführung: Verfassung, Organisation, Führung, Controlling",
+ "course": "B2 Grundlagen der Betriebswirtschaftslehre",
+ "examType": "Klausur",
+ "topic": "Unternehmensführung",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Unternehmensverfassung (AG)",
+   "family": "q1",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Aussagen zu den Organen einer AG (Beispiel Lufthansa) stimmen?",
+   "solution": "Tagesgeschäft = Vorstand.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 6 (Lufthansa-Beispiel)",
+   "sourceQuote": "Unternehmensverfassung (AG)",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Der Vorstand leitet das Unternehmen und legt die strategische Ausrichtung fest"
+    },
+    {
+     "id": "o1",
+     "text": "Der Aufsichtsrat bestellt, überwacht und berät den Vorstand"
+    },
+    {
+     "id": "o2",
+     "text": "Der Vorstand berichtet dem Aufsichtsrat regelmäßig"
+    },
+    {
+     "id": "o3",
+     "text": "Der Aufsichtsrat führt das Tagesgeschäft"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Organisation",
+   "family": "lh-org",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Lufthansa ist auf Konzernebene in die Geschäftsfelder Passage und Technik geteilt. Welche Organisationsform?",
+   "solution": "Strukturierung nach Produkten → divisional; Sparten als Profit-Center.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 7 + Fallstudie Lufthansa Aufbauorganisation",
+   "sourceQuote": "Organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Divisionale Organisation (Spartenorganisation, nach Produkten)"
+    },
+    {
+     "id": "o1",
+     "text": "Funktionale Organisation"
+    },
+    {
+     "id": "o2",
+     "text": "Matrixorganisation"
+    },
+    {
+     "id": "o3",
+     "text": "Projektorganisation"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Organisation",
+   "family": "lh-org",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Innerhalb der Sparte Passage gibt es Flugbetrieb, Marketing & Vertrieb, Bodenabfertigung. Welche Organisationsform?",
+   "solution": "Verrichtungen/Tätigkeiten → funktional; Vorteil Spezialisierung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 7 + Fallstudie Lufthansa Aufbauorganisation",
+   "sourceQuote": "Organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Funktionale Organisation (nach Verrichtungen)"
+    },
+    {
+     "id": "o1",
+     "text": "Divisionale Organisation"
+    },
+    {
+     "id": "o2",
+     "text": "Matrixorganisation"
+    },
+    {
+     "id": "o3",
+     "text": "Holding"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Organisation",
+   "family": "lh-org",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein IT-Spezialist untersteht fachlich dem Global Head of IT, disziplinarisch dem Spartenleiter Technik. Welches Leitungssystem?",
+   "solution": "Zwei Vorgesetzte → Einheit der Auftragserteilung aufgehoben; Risiko Weisungskonflikte.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 7 + Fallstudie Lufthansa Aufbauorganisation",
+   "sourceQuote": "Organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Mehrliniensystem (Matrixorganisation)"
+    },
+    {
+     "id": "o1",
+     "text": "Einliniensystem"
+    },
+    {
+     "id": "o2",
+     "text": "Stabliniensystem"
+    },
+    {
+     "id": "o3",
+     "text": "Divisionale Organisation"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Organisation",
+   "family": "lh-org",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Eine bereichsübergreifende „Task-Force Green Aviation“ wird gegründet. Primär- oder Sekundärorganisation?",
+   "solution": "Komplex, bereichsübergreifend, neuartig → Sekundärorganisation.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 7 + Fallstudie Lufthansa Aufbauorganisation",
+   "sourceQuote": "Organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sekundärorganisation (Projektgruppe als Brücke über die Linienstruktur)"
+    },
+    {
+     "id": "o1",
+     "text": "Primärorganisation"
+    },
+    {
+     "id": "o2",
+     "text": "Funktionale Organisation"
+    },
+    {
+     "id": "o3",
+     "text": "Einliniensystem"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Organisation",
+   "family": "q6",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne Vor- und Nachteil einer Matrixorganisation.",
+   "solution": "Vorteil: hohe Fachkompetenz (z. B. zentrale IT) bei gleichzeitiger Markt-/Produktnähe. Nachteil: Mitarbeitende haben zwei Vorgesetzte – Weisungs- und Prioritätenkonflikte, Abstimmungsaufwand.",
+   "rubric": "Je ein Vor- und Nachteil.",
+   "sourceTitle": "Moodle B2 · Kap. 7 + Fallstudie Lufthansa Aufbauorganisation",
+   "sourceQuote": "Organisation",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q7",
+   "objective": "Management-by-Konzepte",
+   "family": "mby",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Melden Sie sich nur, wenn die Ausschussquote über 2 % steigt.“ Welches Konzept?",
+   "solution": "Eingriff nur bei Abweichungen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Übung Management-by",
+   "sourceQuote": "Management-by-Konzepte",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Management by Exception"
+    },
+    {
+     "id": "o1",
+     "text": "Management by Objectives"
+    },
+    {
+     "id": "o2",
+     "text": "Management by Delegation"
+    },
+    {
+     "id": "o3",
+     "text": "Management by Decision Rules"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Management-by-Konzepte",
+   "family": "mby",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Wir legen gemeinsam fest: Kundenzufriedenheit +10 %, Überprüfung in drei Monaten.“ Welches Konzept?",
+   "solution": "Gemeinsame Zielformulierung, partnerschaftlich.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Übung Management-by",
+   "sourceQuote": "Management-by-Konzepte",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Management by Objectives (Zielvereinbarung)"
+    },
+    {
+     "id": "o1",
+     "text": "Management by Results"
+    },
+    {
+     "id": "o2",
+     "text": "Management by Exception"
+    },
+    {
+     "id": "o3",
+     "text": "Management by Delegation"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Management-by-Konzepte",
+   "family": "mby",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Bis 50 € Gutschrift dürfen Sie sofort genehmigen, darüber informieren Sie mich.“ Welches Konzept?",
+   "solution": "Feste Entscheidungsregeln.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Übung Management-by",
+   "sourceQuote": "Management-by-Konzepte",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Management by Decision Rules"
+    },
+    {
+     "id": "o1",
+     "text": "Management by Objectives"
+    },
+    {
+     "id": "o2",
+     "text": "Management by Exception"
+    },
+    {
+     "id": "o3",
+     "text": "Management by Results"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Management-by-Konzepte",
+   "family": "mby",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Ich übertrage Ihnen die Verantwortung für die Instagram-Kampagne – Inhalte, Budget, Zeitplan entscheiden Sie.“ Welches Konzept?",
+   "solution": "Übertragung von Aufgaben, Kompetenzen und Verantwortung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Übung Management-by",
+   "sourceQuote": "Management-by-Konzepte",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Management by Delegation"
+    },
+    {
+     "id": "o1",
+     "text": "Management by Decision Rules"
+    },
+    {
+     "id": "o2",
+     "text": "Management by Exception"
+    },
+    {
+     "id": "o3",
+     "text": "Management by Objectives"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Management-by-Konzepte",
+   "family": "mby",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Ihr Umsatzziel liegt bei 250.000 €. Wie Sie es erreichen, ist Ihre Sache. Wir sprechen am Quartalsende.“ Welches Konzept?",
+   "solution": "Vorgegebenes Ergebnis, Kontrolle am Ende (nicht gemeinsam vereinbart).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Übung Management-by",
+   "sourceQuote": "Management-by-Konzepte",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Management by Results"
+    },
+    {
+     "id": "o1",
+     "text": "Management by Objectives"
+    },
+    {
+     "id": "o2",
+     "text": "Management by Delegation"
+    },
+    {
+     "id": "o3",
+     "text": "Management by Exception"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Management-by-Konzepte",
+   "family": "q12",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Worin unterscheiden sich Management by Objectives und Management by Results in der Kommunikation?",
+   "solution": "MbO: partnerschaftlicher Dialog, gemeinsame Zielformulierung, hohe Transparenz und Motivation, gemeinsame Zwischenprüfung. MbR: Ergebnis wird vorgegeben, sachlich-knappe Kommunikation, wenig Prozesskommunikation, Kontrolle erst am Ende.",
+   "rubric": "Gemeinsam vereinbart vs. vorgegeben; Kommunikationsmerkmale.",
+   "sourceTitle": "Moodle B2 · Übung Management-by",
+   "sourceQuote": "Management-by-Konzepte",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q13",
+   "objective": "Controlling: strategische Instrumente",
+   "family": "q13",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Strategische Analyseinstrumente (Kap. 9)",
+   "solution": "Ressourcenorientiert: SWOT-Analyse und TOWS-Matrix, Wertkettenmodell, Benchmarking, PIMS, 7-S-Modell, Kernkompetenzen. Marktorientiert: Branchenstrukturanalyse, Szenariotechnik, Portfoliomodelle (BCG-Matrix, Marktattraktivität-Wettbewerbsvorteil-Matrix), Produktlebenszyklus, Erfahrungskurve.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Kap. 9 + Fallstudie Lufthansa",
+   "sourceQuote": "Controlling: strategische Instrumente",
+   "page": 2,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q14",
+   "objective": "Controlling: strategische Instrumente",
+   "family": "q14",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Strategietypen ergeben sich aus der TOWS-Matrix?",
+   "solution": "SO, WO, ST, WT.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 9 + Fallstudie Lufthansa",
+   "sourceQuote": "Controlling: strategische Instrumente",
+   "page": 2,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "SO (Stärken nutzen, um Chancen zu ergreifen)"
+    },
+    {
+     "id": "o1",
+     "text": "WO (Schwächen abbauen, um Chancen zu nutzen)"
+    },
+    {
+     "id": "o2",
+     "text": "ST (Stärken gegen Risiken einsetzen)"
+    },
+    {
+     "id": "o3",
+     "text": "WT (Schwächen und Risiken begrenzen)"
+    },
+    {
+     "id": "o4",
+     "text": "PQ-Strategie"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Controlling: strategische Instrumente",
+   "family": "q15",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Lufthansa-Kernairline mit negativem operativem Gewinn: Welche TOWS-Strategie hat laut Lösungsskizze Priorität?",
+   "solution": "Kurzfristig kritisch: Verlust der Kern-Airline → WT.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 9 + Fallstudie Lufthansa",
+   "sourceQuote": "Controlling: strategische Instrumente",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "WT-Strategie: Restrukturierung, Kostenreduktion, operative Stabilisierung"
+    },
+    {
+     "id": "o1",
+     "text": "SO-Strategie: Expansion im Premiumsegment"
+    },
+    {
+     "id": "o2",
+     "text": "ST-Strategie: Differenzierung durch Qualität"
+    },
+    {
+     "id": "o3",
+     "text": "WO-Strategie ohne Kostenfokus"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "Controlling: strategische Instrumente",
+   "family": "q16",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist die Grundannahme der PIMS-Studie?",
+   "solution": "Marktanteil und Rentabilität hängen positiv zusammen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 9 + Fallstudie Lufthansa",
+   "sourceQuote": "Controlling: strategische Instrumente",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Höherer Marktanteil → höhere Profitabilität"
+    },
+    {
+     "id": "o1",
+     "text": "Mehr Mitarbeiter → mehr Gewinn"
+    },
+    {
+     "id": "o2",
+     "text": "Niedrigere Preise → höhere Marge"
+    },
+    {
+     "id": "o3",
+     "text": "Wachstum senkt immer die Kosten"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Controlling: strategische Instrumente",
+   "family": "q17",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "BCG-Matrix: Ein Geschäftsfeld hat einen relativen Marktanteil von 1,5 bei nur moderatem Marktwachstum (wie Lufthansa Technik). Wo liegt es?",
+   "solution": "Relativer Marktanteil > 1 = Marktführer; bei geringem Wachstum Cash Cow.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 9 + Fallstudie Lufthansa",
+   "sourceQuote": "Controlling: strategische Instrumente",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Cash Cow (Marktführer, geringes Wachstum)"
+    },
+    {
+     "id": "o1",
+     "text": "Star"
+    },
+    {
+     "id": "o2",
+     "text": "Question Mark"
+    },
+    {
+     "id": "o3",
+     "text": "Poor Dog"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Controlling: strategische Instrumente",
+   "family": "q18",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Achsen hat die BCG-Matrix?",
+   "solution": "BCG: Marktwachstum und relativer Marktanteil. Marktattraktivität/Wettbewerbsvorteil = McKinsey-Matrix.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 9 + Fallstudie Lufthansa",
+   "sourceQuote": "Controlling: strategische Instrumente",
+   "page": 2,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Marktwachstum"
+    },
+    {
+     "id": "o1",
+     "text": "Relativer Marktanteil"
+    },
+    {
+     "id": "o2",
+     "text": "Marktattraktivität"
+    },
+    {
+     "id": "o3",
+     "text": "Wettbewerbsvorteil"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Controlling: strategische Instrumente",
+   "family": "q19",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Was gehört zu den Primäraktivitäten in der Wertkette der Lufthansa (Lösungsskizze)?",
+   "solution": "Personalmanagement ist eine Unterstützungsaktivität (wie IT, Infrastruktur).",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 9 + Fallstudie Lufthansa",
+   "sourceQuote": "Controlling: strategische Instrumente",
+   "page": 2,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Flugoperationen"
+    },
+    {
+     "id": "o1",
+     "text": "Bodenabfertigung"
+    },
+    {
+     "id": "o2",
+     "text": "Vertrieb und Marketing"
+    },
+    {
+     "id": "o3",
+     "text": "Service"
+    },
+    {
+     "id": "o4",
+     "text": "Personalmanagement"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Controlling: strategische Instrumente",
+   "family": "q20",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Erstelle eine kurze SWOT für die Lufthansa Group (je zwei Punkte) und leite eine WT-Strategie ab.",
+   "solution": "Stärken: globales Netz mit Hubs, starke Premium-Marke, profitable Lufthansa Technik. Schwächen: hohe Kosten vs. Low-Cost, operative Ineffizienzen, Verlust der Kern-Airline. Chancen: wachsende Nachfrage, Premiumsegment, Digitalisierung. Risiken: Wettbewerb (Low-Cost, Golf-Airlines), Kerosinpreise, CO₂-Regulierung. WT: Restrukturierung der Kern-Airline, Kostenreduktion, operative Stabilisierung.",
+   "rubric": "Je zwei plausible Punkte pro Feld; WT-Strategie passt zu Schwäche+Risiko.",
+   "sourceTitle": "Moodle B2 · Kap. 9 + Fallstudie Lufthansa",
+   "sourceQuote": "Fallstudie Lufthansa Controlling, Aufgabe 1",
+   "page": 2,
+   "seconds": 300,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

@@ -1,0 +1,328 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b2-04-externes-rewe",
+ "title": "B2 · 4 Externes Rechnungswesen",
+ "course": "B2 Grundlagen der Betriebswirtschaftslehre",
+ "examType": "Klausur",
+ "topic": "Externes Rechnungswesen",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Externes Rechnungswesen: Überblick",
+   "family": "q1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "An wen richtet sich das externe Rechnungswesen vor allem?",
+   "solution": "Extern: Rechenschaft/Information nach außen; intern: Kosten- und Leistungsrechnung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 10 (Gliederung)",
+   "sourceQuote": "Externes Rechnungswesen: Überblick",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "An Externe wie Eigentümer, Gläubiger, Finanzamt und Öffentlichkeit (gesetzlich geregelt)"
+    },
+    {
+     "id": "o1",
+     "text": "Nur an die interne Kostenplanung"
+    },
+    {
+     "id": "o2",
+     "text": "Nur an die Mitarbeiter"
+    },
+    {
+     "id": "o3",
+     "text": "An Kunden zur Preisfindung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Externes Rechnungswesen: Überblick",
+   "family": "q2",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Bestandteile gehören zum Jahresabschluss (Kap. 10.3)?",
+   "solution": "Bilanz, GuV, Kapitalflussrechnung (je nach Rechtsform ggf. Anhang/Lagebericht).",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 10 (Gliederung)",
+   "sourceQuote": "Externes Rechnungswesen: Überblick",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bilanz"
+    },
+    {
+     "id": "o1",
+     "text": "Gewinn- und Verlustrechnung"
+    },
+    {
+     "id": "o2",
+     "text": "Kapitalflussrechnung"
+    },
+    {
+     "id": "o3",
+     "text": "Organigramm"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Externes Rechnungswesen: Überblick",
+   "family": "bilanz",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was steht auf der Aktivseite der Bilanz?",
+   "solution": "Aktiva = Vermögen; Passiva = Eigen- und Fremdkapital.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 10 (Gliederung)",
+   "sourceQuote": "Externes Rechnungswesen: Überblick",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Das Vermögen (Mittelverwendung)"
+    },
+    {
+     "id": "o1",
+     "text": "Das Kapital (Mittelherkunft)"
+    },
+    {
+     "id": "o2",
+     "text": "Aufwendungen und Erträge"
+    },
+    {
+     "id": "o3",
+     "text": "Einzahlungen und Auszahlungen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Externes Rechnungswesen: Überblick",
+   "family": "bilanz",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was steht auf der Passivseite der Bilanz?",
+   "solution": "Passiva = Kapital.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 10 (Gliederung)",
+   "sourceQuote": "Externes Rechnungswesen: Überblick",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Eigen- und Fremdkapital (Mittelherkunft)"
+    },
+    {
+     "id": "o1",
+     "text": "Anlage- und Umlaufvermögen"
+    },
+    {
+     "id": "o2",
+     "text": "Umsatzerlöse"
+    },
+    {
+     "id": "o3",
+     "text": "Personalaufwand"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Externes Rechnungswesen: Überblick",
+   "family": "q5",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was zeigt die Gewinn- und Verlustrechnung?",
+   "solution": "GuV: zeitraumbezogen, Aufwand und Ertrag. Bilanz: zeitpunktbezogen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 10 (Gliederung)",
+   "sourceQuote": "Externes Rechnungswesen: Überblick",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Aufwendungen und Erträge einer Periode und damit den Erfolg (Gewinn/Verlust)"
+    },
+    {
+     "id": "o1",
+     "text": "Vermögen und Kapital zu einem Stichtag"
+    },
+    {
+     "id": "o2",
+     "text": "Ein- und Auszahlungen"
+    },
+    {
+     "id": "o3",
+     "text": "Die Organisationsstruktur"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Externes Rechnungswesen: Überblick",
+   "family": "q6",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was erfasst die Kapitalflussrechnung?",
+   "solution": "Zahlungsströme.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 10 (Gliederung)",
+   "sourceQuote": "Externes Rechnungswesen: Überblick",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Einzahlungen und Auszahlungen (Liquiditätsentwicklung)"
+    },
+    {
+     "id": "o1",
+     "text": "Aufwand und Ertrag"
+    },
+    {
+     "id": "o2",
+     "text": "Vermögen und Kapital"
+    },
+    {
+     "id": "o3",
+     "text": "Marktanteile"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Externes Rechnungswesen: Überblick",
+   "family": "q7",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie berechnet sich der Verschuldungsgrad (vertikale Kapitalstruktur)?",
+   "solution": "Verschuldungsgrad = FK / EK.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 10 (Gliederung)",
+   "sourceQuote": "Externes Rechnungswesen: Überblick",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Fremdkapital / Eigenkapital"
+    },
+    {
+     "id": "o1",
+     "text": "Eigenkapital / Bilanzsumme"
+    },
+    {
+     "id": "o2",
+     "text": "Umlaufvermögen / kurzfristige Verbindlichkeiten"
+    },
+    {
+     "id": "o3",
+     "text": "Gewinn / Umsatz"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Externes Rechnungswesen: Überblick",
+   "family": "q8",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was besagt die goldene Finanzierungsregel (horizontale Kapitalstruktur)?",
+   "solution": "Fristenkongruenz von Kapitalbindung und Kapitalüberlassung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 10 (Gliederung)",
+   "sourceQuote": "Externes Rechnungswesen: Überblick",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Langfristig gebundenes Vermögen soll langfristig finanziert sein (Fristenkongruenz)"
+    },
+    {
+     "id": "o1",
+     "text": "Eigenkapital muss immer größer als Fremdkapital sein"
+    },
+    {
+     "id": "o2",
+     "text": "Der Gewinn muss ausgeschüttet werden"
+    },
+    {
+     "id": "o3",
+     "text": "Kurzfristige Schulden finanzieren Gebäude"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Externes Rechnungswesen: Überblick",
+   "family": "q9",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was misst ein Liquiditätsgrad?",
+   "solution": "Horizontale Kennzahl der Zahlungsfähigkeit.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Kap. 10 (Gliederung)",
+   "sourceQuote": "Externes Rechnungswesen: Überblick",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Wie gut kurzfristige Verbindlichkeiten durch liquide bzw. kurzfristige Mittel gedeckt sind"
+    },
+    {
+     "id": "o1",
+     "text": "Die Rentabilität des Eigenkapitals"
+    },
+    {
+     "id": "o2",
+     "text": "Den Marktanteil"
+    },
+    {
+     "id": "o3",
+     "text": "Die Produktivität"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  }
+ ]
+}
