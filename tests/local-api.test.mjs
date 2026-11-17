@@ -70,11 +70,13 @@ test('Paket-Update: neu, geändert, entfernt, Fortschritt bleibt', async () => {
   const upload = async text => {const f = new FormData(); f.set('file', new File([text], 'p.json', {type: 'application/json'})); return (await req('/api/file', {method: 'POST', body: f})).d.hash;};
   ({state, revision} = (await req('/api/data')).d);
   const task = (id, prompt) => ({id, objective: 'Ziel', family: 'f-' + id, sourceTitle: 'Skript', sourceQuote: 'Zitat', page: 1, prompt, solution: 'Lösung ' + id, rubric: 'Kriterium', type: 'recall', track: 'recall', seconds: 60, options: [], correct: []});
-  const v1 = {format: 'lernraum-package', version: 1, packageId: 'kurs-thema', title: 'Thema', course: 'Kurs', tasks: [task('a', 'A?'), task('b', 'B?'), task('c', 'C?')]};
+  const v1 = {format: 'lernraum-package', version: 1, packageId: 'kurs-thema', title: 'Thema', course: 'Kurs', tasks: [{...task('a', 'A?'), image: 'kurs/bilder/a.svg', sourceUrl: 'https://example.org/folie.pdf#page=1'}, task('b', 'B?'), task('c', 'C?')]};
   await cmd('course', {name: 'Kurs'}); const courseId = state.course[0].id;
   const h1 = await upload(JSON.stringify(v1));
   await cmd('package', {courseId, package: v1, hash: h1, activate: true, update: true, generated: 'bundled'});
   assert.equal(state.task.filter(t => t.status === 'active').length, 3);
+  const srcA = state.source.find(x => x.id === state.task.find(t => t.externalId === 'a').sourceId);
+  assert.equal(srcA.image, 'kurs/bilder/a.svg'); assert.equal(srcA.url, 'https://example.org/folie.pdf#page=1');
   await cmd('start', {minutes: 5});
   const s1 = state.session[0]; const first = state.task.find(t => t.id === s1.items[0].id);
   await cmd('attempt', {taskId: first.id, sessionId: s1.id, result: 'correct', answer: 'x', confidence: 'sure', seconds: 5});

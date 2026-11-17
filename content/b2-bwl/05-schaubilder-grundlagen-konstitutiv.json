@@ -21,7 +21,9 @@
    "page": 10,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=10",
+   "image": "b2-bwl/bilder/abb1-1.svg"
   },
   {
    "id": "q2",
@@ -56,7 +58,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=10",
+   "image": "b2-bwl/bilder/abb1-1.svg"
   },
   {
    "id": "q3",
@@ -72,7 +76,9 @@
    "page": 10,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=10",
+   "image": "b2-bwl/bilder/abb1-1.svg"
   },
   {
    "id": "q4",
@@ -88,7 +94,9 @@
    "page": 12,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=12",
+   "image": "b2-bwl/bilder/abb1-2.svg"
   },
   {
    "id": "q5",
@@ -123,7 +131,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=12",
+   "image": "b2-bwl/bilder/abb1-2.svg"
   },
   {
    "id": "q6",
@@ -139,7 +149,9 @@
    "page": 12,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=12",
+   "image": "b2-bwl/bilder/abb1-2.svg"
   },
   {
    "id": "q7",
@@ -155,7 +167,9 @@
    "page": 13,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=13",
+   "image": "b2-bwl/bilder/abb1-3.svg"
   },
   {
    "id": "q8",
@@ -190,7 +204,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=13",
+   "image": "b2-bwl/bilder/abb1-3.svg"
   },
   {
    "id": "q9",
@@ -230,7 +246,9 @@
    "correct": [
     "o0",
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=13",
+   "image": "b2-bwl/bilder/abb1-3.svg"
   },
   {
    "id": "q10",
@@ -265,7 +283,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=13",
+   "image": "b2-bwl/bilder/abb1-3.svg"
   },
   {
    "id": "q11",
@@ -281,7 +301,9 @@
    "page": 13,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=13",
+   "image": "b2-bwl/bilder/abb1-3.svg"
   },
   {
    "id": "q12",
@@ -297,7 +319,9 @@
    "page": 17,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=17",
+   "image": "b2-bwl/bilder/abb1-4.svg"
   },
   {
    "id": "q13",
@@ -313,7 +337,9 @@
    "page": 17,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=17",
+   "image": "b2-bwl/bilder/abb1-5.svg"
   },
   {
    "id": "q14",
@@ -348,7 +374,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=17",
+   "image": "b2-bwl/bilder/abb1-5.svg"
   },
   {
    "id": "q15",
@@ -383,7 +411,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=17",
+   "image": "b2-bwl/bilder/abb1-5.svg"
   },
   {
    "id": "q16",
@@ -399,7 +429,9 @@
    "page": 21,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=21",
+   "image": "b2-bwl/bilder/abb1-6.svg"
   },
   {
    "id": "q17",
@@ -445,7 +477,9 @@
     "o2",
     "o4",
     "o5"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=21",
+   "image": "b2-bwl/bilder/abb1-6.svg"
   },
   {
    "id": "q18",
@@ -458,10 +492,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
    "sourceQuote": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
-   "page": 21,
+   "page": 23,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=23",
+   "image": "b2-bwl/bilder/abb1-7.svg"
   },
   {
    "id": "q19",
@@ -474,7 +510,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
    "sourceQuote": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
-   "page": 21,
+   "page": 23,
    "seconds": 60,
    "options": [
     {
@@ -501,7 +537,9 @@
    "correct": [
     "o1",
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=23",
+   "image": "b2-bwl/bilder/abb1-7.svg"
   },
   {
    "id": "q20",
@@ -517,7 +555,9 @@
    "page": 8,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=8",
+   "image": "b2-bwl/bilder/abb1-8.svg"
   },
   {
    "id": "q21",
@@ -552,7 +592,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=8",
+   "image": "b2-bwl/bilder/abb1-8.svg"
   },
   {
    "id": "q22",
@@ -587,7 +629,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=8",
+   "image": "b2-bwl/bilder/abb1-8.svg"
   },
   {
    "id": "q23",
@@ -603,7 +647,9 @@
    "page": 25,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=25",
+   "image": "b2-bwl/bilder/abb1-9.svg"
   },
   {
    "id": "q24",
@@ -638,7 +684,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=25",
+   "image": "b2-bwl/bilder/abb1-9.svg"
   },
   {
    "id": "q25",
@@ -673,7 +721,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=25",
+   "image": "b2-bwl/bilder/abb1-9.svg"
   },
   {
    "id": "q26",
@@ -689,7 +739,9 @@
    "page": 25,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=25",
+   "image": "b2-bwl/bilder/abb1-9.svg"
   },
   {
    "id": "q27",
@@ -705,7 +757,9 @@
    "page": 35,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=35",
+   "image": "b2-bwl/bilder/abb1-10.svg"
   },
   {
    "id": "q28",
@@ -740,7 +794,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=35",
+   "image": "b2-bwl/bilder/abb1-10.svg"
   },
   {
    "id": "q29",
@@ -775,7 +831,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=35",
+   "image": "b2-bwl/bilder/abb1-10.svg"
   },
   {
    "id": "q30",
@@ -810,7 +868,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=35",
+   "image": "b2-bwl/bilder/abb1-10.svg"
   },
   {
    "id": "q31",
@@ -851,7 +911,9 @@
     "o0",
     "o1",
     "o4"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=35",
+   "image": "b2-bwl/bilder/abb1-10.svg"
   },
   {
    "id": "q32",
@@ -867,7 +929,9 @@
    "page": 35,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=35",
+   "image": "b2-bwl/bilder/abb1-10.svg"
   },
   {
    "id": "q33",
@@ -883,7 +947,9 @@
    "page": 38,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=38",
+   "image": "b2-bwl/bilder/abb1-12.svg"
   },
   {
    "id": "q34",
@@ -918,7 +984,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=38",
+   "image": "b2-bwl/bilder/abb1-12.svg"
   },
   {
    "id": "q35",
@@ -953,7 +1021,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=38",
+   "image": "b2-bwl/bilder/abb1-12.svg"
   },
   {
    "id": "q36",
@@ -988,7 +1058,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=38",
+   "image": "b2-bwl/bilder/abb1-12.svg"
   },
   {
    "id": "q37",
@@ -1034,7 +1106,9 @@
     "o1",
     "o2",
     "o4"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=38",
+   "image": "b2-bwl/bilder/abb1-12.svg"
   },
   {
    "id": "q38",
@@ -1069,7 +1143,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=38",
+   "image": "b2-bwl/bilder/abb1-12.svg"
   },
   {
    "id": "q39",
@@ -1085,7 +1161,9 @@
    "page": 38,
    "seconds": 240,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655545/mod_resource/content/1/1%20Vahs_Einfuehrung_BWL%20Grundlagen.pdf#page=38",
+   "image": "b2-bwl/bilder/abb1-12.svg"
   },
   {
    "id": "q40",
@@ -1101,7 +1179,9 @@
    "page": 3,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=3",
+   "image": "b2-bwl/bilder/abbi-1.svg"
   },
   {
    "id": "q41",
@@ -1136,7 +1216,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=3",
+   "image": "b2-bwl/bilder/abbi-1.svg"
   },
   {
    "id": "q42",
@@ -1152,7 +1234,8 @@
    "page": 7,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=7"
   },
   {
    "id": "q43",
@@ -1168,7 +1251,9 @@
    "page": 9,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=9",
+   "image": "b2-bwl/bilder/abb3-1.svg"
   },
   {
    "id": "q44",
@@ -1203,7 +1288,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=9",
+   "image": "b2-bwl/bilder/abb3-1.svg"
   },
   {
    "id": "q45",
@@ -1219,7 +1306,9 @@
    "page": 9,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=9",
+   "image": "b2-bwl/bilder/abb3-1.svg"
   },
   {
    "id": "q46",
@@ -1235,7 +1324,9 @@
    "page": 11,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=11",
+   "image": "b2-bwl/bilder/abb3-2.svg"
   },
   {
    "id": "q47",
@@ -1270,7 +1361,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=11",
+   "image": "b2-bwl/bilder/abb3-2.svg"
   },
   {
    "id": "q48",
@@ -1316,7 +1409,9 @@
     "o1",
     "o2",
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=11",
+   "image": "b2-bwl/bilder/abb3-2.svg"
   },
   {
    "id": "q49",
@@ -1332,7 +1427,9 @@
    "page": 11,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=11",
+   "image": "b2-bwl/bilder/abb3-2.svg"
   },
   {
    "id": "q50",
@@ -1348,7 +1445,9 @@
    "page": 13,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=13",
+   "image": "b2-bwl/bilder/abb3-3.svg"
   },
   {
    "id": "q51",
@@ -1383,7 +1482,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=13",
+   "image": "b2-bwl/bilder/abb3-3.svg"
   },
   {
    "id": "q52",
@@ -1418,7 +1519,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=13",
+   "image": "b2-bwl/bilder/abb3-3.svg"
   },
   {
    "id": "q53",
@@ -1434,7 +1537,9 @@
    "page": 13,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=13",
+   "image": "b2-bwl/bilder/abb3-4.svg"
   },
   {
    "id": "q54",
@@ -1469,7 +1574,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=13",
+   "image": "b2-bwl/bilder/abb3-4.svg"
   },
   {
    "id": "q55",
@@ -1504,7 +1611,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=13",
+   "image": "b2-bwl/bilder/abb3-4.svg"
   },
   {
    "id": "q56",
@@ -1539,7 +1648,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=13",
+   "image": "b2-bwl/bilder/abb3-4.svg"
   },
   {
    "id": "q57",
@@ -1555,7 +1666,9 @@
    "page": 13,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=13",
+   "image": "b2-bwl/bilder/abb3-4.svg"
   },
   {
    "id": "q58",
@@ -1571,7 +1684,9 @@
    "page": 14,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=14",
+   "image": "b2-bwl/bilder/abb3-5.svg"
   },
   {
    "id": "q59",
@@ -1606,7 +1721,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=14",
+   "image": "b2-bwl/bilder/abb3-5.svg"
   },
   {
    "id": "q60",
@@ -1641,7 +1758,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=14",
+   "image": "b2-bwl/bilder/abb3-5.svg"
   },
   {
    "id": "q61",
@@ -1654,10 +1773,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
-   "page": 14,
+   "page": 15,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=15",
+   "image": "b2-bwl/bilder/abb3-6.svg"
   },
   {
    "id": "q62",
@@ -1670,7 +1791,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
-   "page": 14,
+   "page": 15,
    "seconds": 40,
    "options": [
     {
@@ -1692,7 +1813,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=15",
+   "image": "b2-bwl/bilder/abb3-6.svg"
   },
   {
    "id": "q63",
@@ -1705,7 +1828,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
-   "page": 14,
+   "page": 15,
    "seconds": 40,
    "options": [
     {
@@ -1727,7 +1850,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=15",
+   "image": "b2-bwl/bilder/abb3-6.svg"
   },
   {
    "id": "q64",
@@ -1740,7 +1865,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
-   "page": 14,
+   "page": 15,
    "seconds": 40,
    "options": [
     {
@@ -1762,7 +1887,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=15",
+   "image": "b2-bwl/bilder/abb3-6.svg"
   },
   {
    "id": "q65",
@@ -1775,10 +1902,12 @@
    "rubric": "Drei Maßnahmen mit korrekter Zusammensetzung.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
-   "page": 14,
+   "page": 15,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=15",
+   "image": "b2-bwl/bilder/abb3-6.svg"
   },
   {
    "id": "q66",
@@ -1794,7 +1923,9 @@
    "page": 16,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=16",
+   "image": "b2-bwl/bilder/abb3-7.svg"
   },
   {
    "id": "q67",
@@ -1829,7 +1960,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=16",
+   "image": "b2-bwl/bilder/abb3-7.svg"
   },
   {
    "id": "q68",
@@ -1842,10 +1975,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
-   "page": 16,
+   "page": 18,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=18",
+   "image": "b2-bwl/bilder/abb3-8.svg"
   },
   {
    "id": "q69",
@@ -1858,7 +1993,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
-   "page": 16,
+   "page": 18,
    "seconds": 40,
    "options": [
     {
@@ -1880,7 +2015,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=18",
+   "image": "b2-bwl/bilder/abb3-8.svg"
   },
   {
    "id": "q70",
@@ -1893,7 +2030,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
-   "page": 16,
+   "page": 18,
    "seconds": 40,
    "options": [
     {
@@ -1915,7 +2052,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=18",
+   "image": "b2-bwl/bilder/abb3-8.svg"
   },
   {
    "id": "q71",
@@ -1928,7 +2067,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
-   "page": 16,
+   "page": 18,
    "seconds": 40,
    "options": [
     {
@@ -1950,7 +2089,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=18",
+   "image": "b2-bwl/bilder/abb3-8.svg"
   },
   {
    "id": "q72",
@@ -1963,7 +2104,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
-   "page": 16,
+   "page": 24,
    "seconds": 40,
    "options": [
     {
@@ -1985,7 +2126,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=24",
+   "image": "b2-bwl/bilder/abb3-8.svg"
   },
   {
    "id": "q73",
@@ -1998,7 +2141,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
-   "page": 16,
+   "page": 24,
    "seconds": 40,
    "options": [
     {
@@ -2020,7 +2163,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=24",
+   "image": "b2-bwl/bilder/abb3-8.svg"
   },
   {
    "id": "q74",
@@ -2036,7 +2181,9 @@
    "page": 30,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=30",
+   "image": "b2-bwl/bilder/abb4-1.svg"
   },
   {
    "id": "q75",
@@ -2071,7 +2218,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=30",
+   "image": "b2-bwl/bilder/abb4-1.svg"
   },
   {
    "id": "q76",
@@ -2106,7 +2255,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=30",
+   "image": "b2-bwl/bilder/abb4-1.svg"
   },
   {
    "id": "q77",
@@ -2122,7 +2273,9 @@
    "page": 30,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=30",
+   "image": "b2-bwl/bilder/abb4-1.svg"
   },
   {
    "id": "q78",
@@ -2135,10 +2288,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
-   "page": 30,
+   "page": 33,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=33",
+   "image": "b2-bwl/bilder/abb4-9.svg"
   },
   {
    "id": "q79",
@@ -2151,7 +2306,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
-   "page": 30,
+   "page": 33,
    "seconds": 40,
    "options": [
     {
@@ -2173,7 +2328,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=33",
+   "image": "b2-bwl/bilder/abb4-9.svg"
   },
   {
    "id": "q80",
@@ -2186,7 +2343,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
-   "page": 30,
+   "page": 33,
    "seconds": 40,
    "options": [
     {
@@ -2208,7 +2365,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=33",
+   "image": "b2-bwl/bilder/abb4-9.svg"
   },
   {
    "id": "q81",
@@ -2221,7 +2380,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
-   "page": 30,
+   "page": 33,
    "seconds": 40,
    "options": [
     {
@@ -2243,7 +2402,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=33",
+   "image": "b2-bwl/bilder/abb4-9.svg"
   },
   {
    "id": "q82",
@@ -2259,7 +2420,9 @@
    "page": 38,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=38",
+   "image": "b2-bwl/bilder/abb5-1.svg"
   },
   {
    "id": "q83",
@@ -2300,7 +2463,9 @@
     "o1",
     "o2",
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=38",
+   "image": "b2-bwl/bilder/abb5-1.svg"
   },
   {
    "id": "q84",
@@ -2335,7 +2500,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=38",
+   "image": "b2-bwl/bilder/abb5-1.svg"
   },
   {
    "id": "q85",
@@ -2351,7 +2518,9 @@
    "page": 38,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=38",
+   "image": "b2-bwl/bilder/abb5-1.svg"
   },
   {
    "id": "q86",
@@ -2364,10 +2533,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 39,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=39",
+   "image": "b2-bwl/bilder/abb5-4.svg"
   },
   {
    "id": "q87",
@@ -2380,7 +2551,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 39,
    "seconds": 40,
    "options": [
     {
@@ -2402,7 +2573,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=39",
+   "image": "b2-bwl/bilder/abb5-4.svg"
   },
   {
    "id": "q88",
@@ -2415,7 +2588,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 39,
    "seconds": 40,
    "options": [
     {
@@ -2437,7 +2610,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=39",
+   "image": "b2-bwl/bilder/abb5-4.svg"
   },
   {
    "id": "q89",
@@ -2450,7 +2625,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 39,
    "seconds": 40,
    "options": [
     {
@@ -2472,7 +2647,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=39",
+   "image": "b2-bwl/bilder/abb5-4.svg"
   },
   {
    "id": "q90",
@@ -2485,10 +2662,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 40,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=40",
+   "image": "b2-bwl/bilder/abb5-6.svg"
   },
   {
    "id": "q91",
@@ -2501,7 +2680,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 40,
    "seconds": 60,
    "options": [
     {
@@ -2535,7 +2714,9 @@
     "o3",
     "o4",
     "o5"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=40",
+   "image": "b2-bwl/bilder/abb5-6.svg"
   },
   {
    "id": "q92",
@@ -2548,7 +2729,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 40,
    "seconds": 40,
    "options": [
     {
@@ -2570,7 +2751,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=40",
+   "image": "b2-bwl/bilder/abb5-6.svg"
   },
   {
    "id": "q93",
@@ -2583,10 +2766,12 @@
    "rubric": "Fünf Ziele, je passendes Beispiel.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 40,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=40",
+   "image": "b2-bwl/bilder/abb5-6.svg"
   },
   {
    "id": "q94",
@@ -2599,7 +2784,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 42,
    "seconds": 40,
    "options": [
     {
@@ -2621,7 +2806,8 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=42"
   },
   {
    "id": "q95",
@@ -2634,7 +2820,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 42,
    "seconds": 40,
    "options": [
     {
@@ -2656,7 +2842,8 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=42"
   },
   {
    "id": "q96",
@@ -2669,7 +2856,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
    "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
-   "page": 38,
+   "page": 42,
    "seconds": 40,
    "options": [
     {
@@ -2691,7 +2878,8 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655546/mod_resource/content/2/2%20Vahs_Einfuehrung_BWL%20Standort%2C%20Recht%2C%20zw.%20Entschdg..pdf#page=42"
   }
  ]
 }

@@ -23,6 +23,14 @@ const store = {
   set: (k: string, v: string) => {try {sessionStorage.setItem(k, v);} catch {}},
 };
 
+function Figure({source, open}: Any) {
+  if (!source?.image && !source?.url) return null;
+  return <figure className="reel-figure">
+    {source.image && open && <a href={new URL('content/' + source.image, document.baseURI).href} target="_blank" rel="noreferrer" aria-label="Schaubild groß öffnen"><img src={new URL('content/' + source.image, document.baseURI).href} alt="Schaubild (nachgezeichnet)" loading="lazy"/></a>}
+    {source.url && <figcaption><a href={source.url} target="_blank" rel="noreferrer">Original-Folie ansehen (Moodle, S. {source.page}) <ArrowUpRight size={14}/></a></figcaption>}
+  </figure>;
+}
+
 export default function LearnFeed({userId, task: t, session, state, busy, error, onDismissError, onAnswer, onClose, onFinish, onReport}: Any) {
   const every = state.settings[0]?.pauseEvery ?? 5;
   const key = 'lernraum:answer:' + userId + ':' + session.id + ':' + t.id;
@@ -101,7 +109,7 @@ export default function LearnFeed({userId, task: t, session, state, busy, error,
     if (!choice || !has) return;
     const win = scoreChoice(t, selection) === 'correct';
     celebrate(win);
-    if (win && !reduced) {Auto(true); autoTimer.current = window.setTimeout(() => {autoTimer.current = undefined; Auto(false); goRef.current();}, AUTO_MS);}
+    if (win && !reduced && !source?.image) {Auto(true); autoTimer.current = window.setTimeout(() => {autoTimer.current = undefined; Auto(false); goRef.current();}, AUTO_MS);}
   }
 
   function pick(id: string) {
@@ -247,6 +255,7 @@ export default function LearnFeed({userId, task: t, session, state, busy, error,
               <h1 className="reel-q">{t.prompt}</h1>
 
               {explain && <div className="reel-explain preserve">{t.solution}</div>}
+              {explain && <Figure source={source} open/>}
 
               {choice && <>
                 <p className="reel-instr">{t.type === 'multiple' ? 'Alle richtigen antippen, dann prüfen.' : 'Tippe die richtige Antwort.'}</p>
@@ -267,13 +276,14 @@ export default function LearnFeed({userId, task: t, session, state, busy, error,
                 <button className={'reel-pill' + (a.confidence === 'guess' ? ' on' : '')} onClick={() => A({...a, confidence: a.confidence === 'guess' ? 'unsure' : 'guess'})} aria-pressed={a.confidence === 'guess'}>🎲 Ich rate</button>
                 <button className={'reel-pill' + (a.help ? ' on' : '')} onClick={() => A({...a, help: true})}>Quelle als Hilfe</button>
               </div>}
-              {a.help && !a.shown && <div className="reel-source"><p>{source?.text}</p><small>Hilfe ist für diesen Versuch vermerkt.</small></div>}
+              {a.help && !a.shown && <div className="reel-source"><p>{source?.text}</p><Figure source={source} open/><small>Hilfe ist für diesen Versuch vermerkt.</small></div>}
 
               {a.shown && !explain && <div className={'reel-feedback ' + (verdict || 'open')}>
                 <p className="reel-verdict">{choice ? (verdict === 'correct' ? 'Richtig!' : 'Knapp daneben – so ist’s richtig:') : a.revealed ? 'Lösung (ohne eigene Antwort angesehen)' : 'Vergleiche mit der Musterlösung'}</p>
                 <div className="preserve">{t.solution}</div>
                 {t.rubric && !choice && <div className="reel-rubric"><b>Worauf es ankommt</b><p className="preserve">{t.rubric}</p></div>}
-                {doc && <a href={'/api/file?hash=' + doc.hash + '#page=' + source?.page} target="_blank" rel="noreferrer">{doc.title} · S. {source?.page} <ArrowUpRight size={14}/></a>}
+                <Figure source={source} open/>
+                {doc && !source?.url && <a href={'/api/file?hash=' + doc.hash + '#page=' + source?.page} target="_blank" rel="noreferrer">{doc.title} · S. {source?.page} <ArrowUpRight size={14}/></a>}
               </div>}
 
               <div className="reel-small">

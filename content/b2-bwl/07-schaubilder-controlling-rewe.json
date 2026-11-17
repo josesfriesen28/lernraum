@@ -21,7 +21,8 @@
    "page": 4,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=4"
   },
   {
    "id": "q2",
@@ -34,10 +35,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 5,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=5",
+   "image": "b2-bwl/bilder/abb9-1.svg"
   },
   {
    "id": "q3",
@@ -50,7 +53,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 5,
    "seconds": 40,
    "options": [
     {
@@ -72,7 +75,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=5",
+   "image": "b2-bwl/bilder/abb9-1.svg"
   },
   {
    "id": "q4",
@@ -85,7 +90,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 5,
    "seconds": 40,
    "options": [
     {
@@ -107,7 +112,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=5",
+   "image": "b2-bwl/bilder/abb9-1.svg"
   },
   {
    "id": "q5",
@@ -120,10 +127,12 @@
    "rubric": "Vier Phasen, Schritte, Soll/Ist.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 5,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=5",
+   "image": "b2-bwl/bilder/abb9-1.svg"
   },
   {
    "id": "q6",
@@ -136,10 +145,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 7,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=7",
+   "image": "b2-bwl/bilder/tab9-1.svg"
   },
   {
    "id": "q7",
@@ -152,7 +163,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 7,
    "seconds": 40,
    "options": [
     {
@@ -174,7 +185,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=7",
+   "image": "b2-bwl/bilder/tab9-1.svg"
   },
   {
    "id": "q8",
@@ -187,7 +200,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 7,
    "seconds": 40,
    "options": [
     {
@@ -209,7 +222,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=7",
+   "image": "b2-bwl/bilder/tab9-1.svg"
   },
   {
    "id": "q9",
@@ -222,7 +237,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 7,
    "seconds": 40,
    "options": [
     {
@@ -244,7 +259,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=7",
+   "image": "b2-bwl/bilder/tab9-1.svg"
   },
   {
    "id": "q10",
@@ -257,10 +274,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 8,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=8",
+   "image": "b2-bwl/bilder/abb9-7.svg"
   },
   {
    "id": "q11",
@@ -273,7 +292,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 8,
    "seconds": 60,
    "options": [
     {
@@ -306,7 +325,9 @@
     "o2",
     "o4",
     "o5"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=8",
+   "image": "b2-bwl/bilder/abb9-7.svg"
   },
   {
    "id": "q12",
@@ -319,7 +340,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 8,
    "seconds": 60,
    "options": [
     {
@@ -348,7 +369,9 @@
     "o1",
     "o3",
     "o4"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=8",
+   "image": "b2-bwl/bilder/abb9-7.svg"
   },
   {
    "id": "q13",
@@ -361,7 +384,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Controlling: Grundlagen",
-   "page": 4,
+   "page": 8,
    "seconds": 40,
    "options": [
     {
@@ -383,7 +406,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=8",
+   "image": "b2-bwl/bilder/abb9-7.svg"
   },
   {
    "id": "q14",
@@ -396,10 +421,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 10,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=10",
+   "image": "b2-bwl/bilder/abb9-8.svg"
   },
   {
    "id": "q15",
@@ -412,7 +439,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 10,
    "seconds": 40,
    "options": [
     {
@@ -434,7 +461,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=10",
+   "image": "b2-bwl/bilder/abb9-8.svg"
   },
   {
    "id": "q16",
@@ -447,7 +476,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 10,
    "seconds": 40,
    "options": [
     {
@@ -469,7 +498,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=10",
+   "image": "b2-bwl/bilder/abb9-8.svg"
   },
   {
    "id": "q17",
@@ -482,7 +513,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 10,
    "seconds": 40,
    "options": [
     {
@@ -504,7 +535,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=10",
+   "image": "b2-bwl/bilder/abb9-8.svg"
   },
   {
    "id": "q18",
@@ -517,10 +550,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 13,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=13",
+   "image": "b2-bwl/bilder/abb9-9.svg"
   },
   {
    "id": "q19",
@@ -533,7 +568,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 13,
    "seconds": 40,
    "options": [
     {
@@ -555,7 +590,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=13",
+   "image": "b2-bwl/bilder/abb9-9.svg"
   },
   {
    "id": "q20",
@@ -568,7 +605,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 13,
    "seconds": 60,
    "options": [
     {
@@ -601,7 +638,9 @@
     "o2",
     "o4",
     "o5"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=13",
+   "image": "b2-bwl/bilder/abb9-9.svg"
   },
   {
    "id": "q21",
@@ -614,10 +653,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 14,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=14",
+   "image": "b2-bwl/bilder/abb9-10.svg"
   },
   {
    "id": "q22",
@@ -630,7 +671,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 14,
    "seconds": 40,
    "options": [
     {
@@ -652,7 +693,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=14",
+   "image": "b2-bwl/bilder/abb9-10.svg"
   },
   {
    "id": "q23",
@@ -665,10 +708,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 19,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=19",
+   "image": "b2-bwl/bilder/abb9-11.svg"
   },
   {
    "id": "q24",
@@ -681,7 +726,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 19,
    "seconds": 60,
    "options": [
     {
@@ -709,7 +754,9 @@
     "o0",
     "o3",
     "o4"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=19",
+   "image": "b2-bwl/bilder/abb9-11.svg"
   },
   {
    "id": "q25",
@@ -722,7 +769,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 19,
    "seconds": 40,
    "options": [
     {
@@ -744,7 +791,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=19",
+   "image": "b2-bwl/bilder/abb9-11.svg"
   },
   {
    "id": "q26",
@@ -757,7 +806,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 18,
    "seconds": 40,
    "options": [
     {
@@ -779,7 +828,8 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=18"
   },
   {
    "id": "q27",
@@ -792,10 +842,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 22,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=22",
+   "image": "b2-bwl/bilder/abb9-12.svg"
   },
   {
    "id": "q28",
@@ -808,7 +860,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 22,
    "seconds": 40,
    "options": [
     {
@@ -830,7 +882,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=22",
+   "image": "b2-bwl/bilder/abb9-12.svg"
   },
   {
    "id": "q29",
@@ -843,10 +897,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 24,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=24",
+   "image": "b2-bwl/bilder/abb9-13.svg"
   },
   {
    "id": "q30",
@@ -859,7 +915,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 24,
    "seconds": 60,
    "options": [
     {
@@ -893,7 +949,9 @@
     "o3",
     "o4",
     "o5"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=24",
+   "image": "b2-bwl/bilder/abb9-13.svg"
   },
   {
    "id": "q31",
@@ -906,7 +964,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 24,
    "seconds": 40,
    "options": [
     {
@@ -928,7 +986,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=24",
+   "image": "b2-bwl/bilder/abb9-13.svg"
   },
   {
    "id": "q32",
@@ -941,10 +1001,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 26,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=26",
+   "image": "b2-bwl/bilder/abb9-14.svg"
   },
   {
    "id": "q33",
@@ -957,7 +1019,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Strategische Instrumente",
-   "page": 8,
+   "page": 26,
    "seconds": 40,
    "options": [
     {
@@ -979,7 +1041,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=26",
+   "image": "b2-bwl/bilder/abb9-14.svg"
   },
   {
    "id": "q34",
@@ -995,7 +1059,9 @@
    "page": 29,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=29",
+   "image": "b2-bwl/bilder/abb9-15.svg"
   },
   {
    "id": "q35",
@@ -1030,7 +1096,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=29",
+   "image": "b2-bwl/bilder/abb9-15.svg"
   },
   {
    "id": "q36",
@@ -1065,7 +1133,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=29",
+   "image": "b2-bwl/bilder/abb9-15.svg"
   },
   {
    "id": "q37",
@@ -1100,7 +1170,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=29",
+   "image": "b2-bwl/bilder/abb9-15.svg"
   },
   {
    "id": "q38",
@@ -1135,7 +1207,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=29",
+   "image": "b2-bwl/bilder/abb9-15.svg"
   },
   {
    "id": "q39",
@@ -1170,7 +1244,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=29",
+   "image": "b2-bwl/bilder/abb9-15.svg"
   },
   {
    "id": "q40",
@@ -1186,7 +1262,9 @@
    "page": 29,
    "seconds": 150,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=29",
+   "image": "b2-bwl/bilder/abb9-15.svg"
   },
   {
    "id": "q41",
@@ -1199,10 +1277,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "page": 29,
+   "page": 33,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=33",
+   "image": "b2-bwl/bilder/abb9-16.svg"
   },
   {
    "id": "q42",
@@ -1215,7 +1295,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "page": 29,
+   "page": 33,
    "seconds": 40,
    "options": [
     {
@@ -1237,7 +1317,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=33",
+   "image": "b2-bwl/bilder/abb9-16.svg"
   },
   {
    "id": "q43",
@@ -1250,7 +1332,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "page": 29,
+   "page": 33,
    "seconds": 40,
    "options": [
     {
@@ -1272,7 +1354,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=33",
+   "image": "b2-bwl/bilder/abb9-16.svg"
   },
   {
    "id": "q44",
@@ -1285,10 +1369,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "page": 29,
+   "page": 35,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=35",
+   "image": "b2-bwl/bilder/abb9-17.svg"
   },
   {
    "id": "q45",
@@ -1301,7 +1387,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "page": 29,
+   "page": 35,
    "seconds": 60,
    "options": [
     {
@@ -1329,12 +1415,14 @@
     "o1",
     "o2",
     "o4"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=35",
+   "image": "b2-bwl/bilder/abb9-17.svg"
   },
   {
    "id": "q46",
    "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "family": "q46",
+   "family": "abb9-17z",
    "type": "apply",
    "track": "apply",
    "prompt": "Speedy-Motor: 1. Motor 10.000 €, 10. Motor 6.309,57 €. Berechne Kostenelastizität, Erfahrungsrate und k(200.000).",
@@ -1342,15 +1430,17 @@
    "rubric": "Elastizität 0,2; Rate ≈ 12,9 %; 870,55 €.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Zwischenübung 9.2.2.3.3.2",
-   "page": 29,
+   "page": 40,
    "seconds": 300,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=40",
+   "image": "b2-bwl/bilder/abb9-17.svg"
   },
   {
    "id": "q47",
    "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "family": "q47",
+   "family": "abb9-17f",
    "type": "apply",
    "track": "apply",
    "prompt": "Fallstudie 9-5: 1. Stück 2.000 €, 20. Stück 900 €. Kostenelastizität, Erfahrungsrate, k(100.000)?",
@@ -1358,10 +1448,12 @@
    "rubric": "0,2665; ≈ 16,9 %; 92,96 €.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Fallstudie 9-5",
-   "page": 29,
+   "page": 58,
    "seconds": 300,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=58",
+   "image": "b2-bwl/bilder/abb9-17.svg"
   },
   {
    "id": "q48",
@@ -1374,10 +1466,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "page": 29,
+   "page": 42,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=42",
+   "image": "b2-bwl/bilder/abb9-18.svg"
   },
   {
    "id": "q49",
@@ -1390,7 +1484,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "page": 29,
+   "page": 42,
    "seconds": 40,
    "options": [
     {
@@ -1412,7 +1506,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=42",
+   "image": "b2-bwl/bilder/abb9-18.svg"
   },
   {
    "id": "q50",
@@ -1425,7 +1521,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "page": 29,
+   "page": 42,
    "seconds": 40,
    "options": [
     {
@@ -1447,7 +1543,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=42",
+   "image": "b2-bwl/bilder/abb9-18.svg"
   },
   {
    "id": "q51",
@@ -1460,7 +1558,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
-   "page": 29,
+   "page": 42,
    "seconds": 40,
    "options": [
     {
@@ -1482,7 +1580,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=42",
+   "image": "b2-bwl/bilder/abb9-18.svg"
   },
   {
    "id": "q52",
@@ -1495,10 +1595,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
-   "page": 43,
+   "page": 44,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=44",
+   "image": "b2-bwl/bilder/abb9-22.svg"
   },
   {
    "id": "q53",
@@ -1511,7 +1613,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
-   "page": 43,
+   "page": 44,
    "seconds": 40,
    "options": [
     {
@@ -1533,7 +1635,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=44",
+   "image": "b2-bwl/bilder/abb9-22.svg"
   },
   {
    "id": "q54",
@@ -1546,7 +1650,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
-   "page": 43,
+   "page": 44,
    "seconds": 40,
    "options": [
     {
@@ -1568,7 +1672,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=44",
+   "image": "b2-bwl/bilder/abb9-22.svg"
   },
   {
    "id": "q55",
@@ -1581,10 +1687,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
-   "page": 43,
+   "page": 45,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=45",
+   "image": "b2-bwl/bilder/abb9-23.svg"
   },
   {
    "id": "q56",
@@ -1597,7 +1705,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
-   "page": 43,
+   "page": 45,
    "seconds": 40,
    "options": [
     {
@@ -1619,7 +1727,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=45",
+   "image": "b2-bwl/bilder/abb9-23.svg"
   },
   {
    "id": "q57",
@@ -1632,7 +1742,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
-   "page": 43,
+   "page": 45,
    "seconds": 40,
    "options": [
     {
@@ -1654,12 +1764,14 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=45",
+   "image": "b2-bwl/bilder/abb9-23.svg"
   },
   {
    "id": "q58",
    "objective": "Kap. 9.4 Kennzahlen und ROI-System",
-   "family": "q58",
+   "family": "abb9-23z",
    "type": "apply",
    "track": "apply",
    "prompt": "Umsatz 800.000 €, variable Kosten 450.000 €, fixe Kosten 250.000 €, AV 250.000 €, UV 500.000 €. Berechne Umsatzrentabilität, Kapitalumschlag und ROI.",
@@ -1667,15 +1779,17 @@
    "rubric": "Zwischenschritte; ROI 13,3 %.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Zwischenübung 9.4.2.2.1",
-   "page": 43,
+   "page": 47,
    "seconds": 240,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=47",
+   "image": "b2-bwl/bilder/abb9-23.svg"
   },
   {
    "id": "q59",
    "objective": "Kap. 9.4 Kennzahlen und ROI-System",
-   "family": "q59",
+   "family": "abb9-23f",
    "type": "apply",
    "track": "apply",
    "prompt": "Fallstudie 9-6 (Speedy 0001): Fertigungsmaterial 498.200, Fertigungslöhne 66.650, Umsatz 1.150.000, Gemeinkosten 300.337 + 115.786 + 42.477, UV 655.000, AV 335.000 (T€). ROI?",
@@ -1683,10 +1797,12 @@
    "rubric": "Rechenweg; ROI 12,8 %.",
    "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
    "sourceQuote": "Fallstudie 9-6",
-   "page": 43,
+   "page": 59,
    "seconds": 300,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655550/mod_resource/content/1/3_Vahs_Einfuehrung_Controlling.pdf#page=59",
+   "image": "b2-bwl/bilder/abb9-23.svg"
   },
   {
    "id": "q60",
@@ -1702,7 +1818,9 @@
    "page": 3,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=3",
+   "image": "b2-bwl/bilder/abbiii-1.svg"
   },
   {
    "id": "q61",
@@ -1715,10 +1833,11 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
-   "page": 3,
+   "page": 9,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=9"
   },
   {
    "id": "q62",
@@ -1731,7 +1850,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
-   "page": 3,
+   "page": 9,
    "seconds": 60,
    "options": [
     {
@@ -1760,7 +1879,8 @@
     "o1",
     "o2",
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=9"
   },
   {
    "id": "q63",
@@ -1773,10 +1893,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
-   "page": 3,
+   "page": 11,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=11",
+   "image": "b2-bwl/bilder/abb10-3.svg"
   },
   {
    "id": "q64",
@@ -1789,7 +1911,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
-   "page": 3,
+   "page": 11,
    "seconds": 40,
    "options": [
     {
@@ -1811,7 +1933,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=11",
+   "image": "b2-bwl/bilder/abb10-3.svg"
   },
   {
    "id": "q65",
@@ -1824,7 +1948,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
-   "page": 3,
+   "page": 11,
    "seconds": 40,
    "options": [
     {
@@ -1846,7 +1970,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=11",
+   "image": "b2-bwl/bilder/abb10-3.svg"
   },
   {
    "id": "q66",
@@ -1859,10 +1985,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
-   "page": 3,
+   "page": 17,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=17",
+   "image": "b2-bwl/bilder/konto.svg"
   },
   {
    "id": "q67",
@@ -1875,7 +2003,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
-   "page": 3,
+   "page": 17,
    "seconds": 40,
    "options": [
     {
@@ -1897,7 +2025,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=17",
+   "image": "b2-bwl/bilder/konto.svg"
   },
   {
    "id": "q68",
@@ -1910,7 +2040,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
-   "page": 3,
+   "page": 18,
    "seconds": 60,
    "options": [
     {
@@ -1934,7 +2064,9 @@
     "o0",
     "o2",
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=18",
+   "image": "b2-bwl/bilder/abb10-5.svg"
   },
   {
    "id": "q69",
@@ -1947,10 +2079,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 20,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=20",
+   "image": "b2-bwl/bilder/abb10-6.svg"
   },
   {
    "id": "q70",
@@ -1963,7 +2097,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 20,
    "seconds": 40,
    "options": [
     {
@@ -1985,7 +2119,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=20",
+   "image": "b2-bwl/bilder/abb10-6.svg"
   },
   {
    "id": "q71",
@@ -1998,7 +2134,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 20,
    "seconds": 40,
    "options": [
     {
@@ -2020,7 +2156,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=20",
+   "image": "b2-bwl/bilder/abb10-6.svg"
   },
   {
    "id": "q72",
@@ -2033,10 +2171,12 @@
    "rubric": "Drei richtige Zuordnungen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 20,
    "seconds": 90,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=20",
+   "image": "b2-bwl/bilder/abb10-6.svg"
   },
   {
    "id": "q73",
@@ -2049,10 +2189,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 22,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=22",
+   "image": "b2-bwl/bilder/abb10-7.svg"
   },
   {
    "id": "q74",
@@ -2065,7 +2207,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 22,
    "seconds": 40,
    "options": [
     {
@@ -2087,7 +2229,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=22",
+   "image": "b2-bwl/bilder/abb10-7.svg"
   },
   {
    "id": "q75",
@@ -2100,7 +2244,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 24,
    "seconds": 40,
    "options": [
     {
@@ -2122,7 +2266,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=24",
+   "image": "b2-bwl/bilder/tab10-1.svg"
   },
   {
    "id": "q76",
@@ -2135,10 +2281,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 39,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=39",
+   "image": "b2-bwl/bilder/abb10-8.svg"
   },
   {
    "id": "q77",
@@ -2151,7 +2299,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 39,
    "seconds": 40,
    "options": [
     {
@@ -2173,7 +2321,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=39",
+   "image": "b2-bwl/bilder/abb10-8.svg"
   },
   {
    "id": "q78",
@@ -2186,7 +2336,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 39,
    "seconds": 40,
    "options": [
     {
@@ -2208,7 +2358,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=39",
+   "image": "b2-bwl/bilder/abb10-8.svg"
   },
   {
    "id": "q79",
@@ -2221,7 +2373,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 39,
    "seconds": 40,
    "options": [
     {
@@ -2243,7 +2395,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=39",
+   "image": "b2-bwl/bilder/abb10-8.svg"
   },
   {
    "id": "q80",
@@ -2256,7 +2410,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 39,
    "seconds": 40,
    "options": [
     {
@@ -2278,7 +2432,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=39",
+   "image": "b2-bwl/bilder/abb10-8.svg"
   },
   {
    "id": "q81",
@@ -2291,10 +2447,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 46,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=46",
+   "image": "b2-bwl/bilder/abb10-10.svg"
   },
   {
    "id": "q82",
@@ -2307,7 +2465,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 54,
    "seconds": 40,
    "options": [
     {
@@ -2329,7 +2487,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=54",
+   "image": "b2-bwl/bilder/abb10-12.svg"
   },
   {
    "id": "q83",
@@ -2342,7 +2502,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 54,
    "seconds": 40,
    "options": [
     {
@@ -2364,7 +2524,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=54",
+   "image": "b2-bwl/bilder/abb10-12.svg"
   },
   {
    "id": "q84",
@@ -2377,7 +2539,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 54,
    "seconds": 40,
    "options": [
     {
@@ -2399,7 +2561,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=54",
+   "image": "b2-bwl/bilder/abb10-12.svg"
   },
   {
    "id": "q85",
@@ -2412,7 +2576,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 46,
    "seconds": 40,
    "options": [
     {
@@ -2434,7 +2598,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=46",
+   "image": "b2-bwl/bilder/abb10-10.svg"
   },
   {
    "id": "q86",
@@ -2447,10 +2613,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 50,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=50",
+   "image": "b2-bwl/bilder/abb10-11.svg"
   },
   {
    "id": "q87",
@@ -2463,7 +2631,7 @@
    "rubric": "Alle richtigen und keine falsche Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 50,
    "seconds": 60,
    "options": [
     {
@@ -2487,7 +2655,9 @@
     "o0",
     "o2",
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=50",
+   "image": "b2-bwl/bilder/abb10-11.svg"
   },
   {
    "id": "q88",
@@ -2500,7 +2670,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 50,
    "seconds": 40,
    "options": [
     {
@@ -2522,7 +2692,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=50",
+   "image": "b2-bwl/bilder/abb10-11.svg"
   },
   {
    "id": "q89",
@@ -2535,10 +2707,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 58,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=58",
+   "image": "b2-bwl/bilder/abb10-13.svg"
   },
   {
    "id": "q90",
@@ -2551,7 +2725,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 58,
    "seconds": 40,
    "options": [
     {
@@ -2573,7 +2747,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=58",
+   "image": "b2-bwl/bilder/abb10-13.svg"
   },
   {
    "id": "q91",
@@ -2586,7 +2762,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 58,
    "seconds": 40,
    "options": [
     {
@@ -2608,7 +2784,9 @@
    ],
    "correct": [
     "o0"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=58",
+   "image": "b2-bwl/bilder/abb10-13.svg"
   },
   {
    "id": "q92",
@@ -2621,10 +2799,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 64,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=64",
+   "image": "b2-bwl/bilder/abb10-14.svg"
   },
   {
    "id": "q93",
@@ -2637,7 +2817,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Kap. 10.3 Jahresabschluss",
-   "page": 19,
+   "page": 64,
    "seconds": 40,
    "options": [
     {
@@ -2659,12 +2839,14 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=64",
+   "image": "b2-bwl/bilder/abb10-14.svg"
   },
   {
    "id": "q94",
    "objective": "Kap. 10.3 Jahresabschluss",
-   "family": "q94",
+   "family": "abb10-8f",
    "type": "apply",
    "track": "apply",
    "prompt": "Ordne zu (Speedy, Januar 0003): (1) Kauf einer Sachanlage bar 350, (2) Löhne bar 300, (3) Verkauf auf Ziel 998, (4) Kunde bezahlt die Forderung 998, (5) Kreditaufnahme 100. Welche Bilanzänderung und welche Rechengrößen?",
@@ -2672,10 +2854,12 @@
    "rubric": "Je Vorfall Bilanzänderung + Rechengrößen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Fallstudie Kapitel 10",
-   "page": 19,
+   "page": 78,
    "seconds": 300,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=78",
+   "image": "b2-bwl/bilder/abb10-8.svg"
   },
   {
    "id": "q95",
@@ -2691,7 +2875,9 @@
    "page": 30,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=30",
+   "image": "b2-bwl/bilder/abb12-7.svg"
   },
   {
    "id": "q96",
@@ -2726,7 +2912,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=30",
+   "image": "b2-bwl/bilder/abb12-7.svg"
   },
   {
    "id": "q97",
@@ -2761,7 +2949,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=30",
+   "image": "b2-bwl/bilder/abb12-7.svg"
   },
   {
    "id": "q98",
@@ -2774,10 +2964,12 @@
    "rubric": "Lesen und verstehen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
-   "page": 30,
+   "page": 31,
    "seconds": 45,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=31",
+   "image": "b2-bwl/bilder/kz.svg"
   },
   {
    "id": "q99",
@@ -2790,7 +2982,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
-   "page": 30,
+   "page": 31,
    "seconds": 40,
    "options": [
     {
@@ -2812,7 +3004,9 @@
    ],
    "correct": [
     "o1"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=31",
+   "image": "b2-bwl/bilder/kz.svg"
   },
   {
    "id": "q100",
@@ -2825,7 +3019,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
-   "page": 30,
+   "page": 31,
    "seconds": 40,
    "options": [
     {
@@ -2847,7 +3041,9 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=31",
+   "image": "b2-bwl/bilder/kz.svg"
   },
   {
    "id": "q101",
@@ -2860,7 +3056,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
-   "page": 30,
+   "page": 31,
    "seconds": 40,
    "options": [
     {
@@ -2882,12 +3078,14 @@
    ],
    "correct": [
     "o2"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=31",
+   "image": "b2-bwl/bilder/kz.svg"
   },
   {
    "id": "q102",
    "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
-   "family": "q102",
+   "family": "kzf",
    "type": "apply",
    "track": "apply",
    "prompt": "Speedy 0002 (T€): flüssige Mittel 400.000, Forderungen 285.000, UV 760.000, AV 450.000, EK 493.000, Rückstellungen 460.000, Verb. ggü. Kreditinstituten 150.000, Verb. LuL 107.000, Bilanzgewinn 120.000. Berechne L1, L2, L3, goldene Bilanzregel, Verschuldungsgrad, EK-Quote.",
@@ -2895,10 +3093,12 @@
    "rubric": "kurzfr./langfr. FK richtig; alle sechs Werte.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Fallstudie Kapitel 12",
-   "page": 30,
+   "page": 37,
    "seconds": 420,
    "options": [],
-   "correct": []
+   "correct": [],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=37",
+   "image": "b2-bwl/bilder/kz.svg"
   },
   {
    "id": "q103",
@@ -2911,7 +3111,7 @@
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
    "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
-   "page": 30,
+   "page": 31,
    "seconds": 40,
    "options": [
     {
@@ -2933,7 +3133,9 @@
    ],
    "correct": [
     "o3"
-   ]
+   ],
+   "sourceUrl": "https://moodle.htw-berlin.de/pluginfile.php/2655554/mod_resource/content/1/5.1%20Externes_Rewe.pdf#page=31",
+   "image": "b2-bwl/bilder/kz.svg"
   }
  ]
 }

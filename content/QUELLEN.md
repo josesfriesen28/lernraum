@@ -8,6 +8,10 @@ Stand: 17.11.2026 · 937 Karten in 19 Paketen. Erstellt von Claude aus den Moodl
 | B3 Kommunikations- und Medienwissenschaften | 4 | 161 | Alle Folien der Sitzungen 1–4, „Stoff für Klausur“, Beispielklausurfragen; Notion 8.10. und 29.10. | Klausurformat (Single/Multiple Choice, Freitext 3–4 Sätze); Schulz von Thun extra |
 | English for Business Communication | 8 | 399 | Glossary of business terms (Units 4–6), Unit 4 Marketing, Advertising, enquiry emails, conditionals, relative clauses | Vokabeln (Begriff ↔ englische Definition) und Final test |
 
+## Schaubilder
+
+Die Bilder unter `b2-bwl/bilder/` sind eigene, vereinfachte Nachzeichnungen der Abbildungen aus den Vahs/Schäfer-Kunz-Folien (Inhalt gleich, Gestaltung neu). Die Originale bleiben in Moodle; jede Karte verlinkt die passende Folienseite.
+
 ## Von den Folien ausgenommen
 
 Der Dozent hat in B2 einzelne Kapitel durchgestrichen: 3.3 operative Standortplanung, 3.4 Kennzahlen; 4.2–4.5 (Einzelunternehmen bis Stiftungen); 5.2–5.4 (Formen der Kooperation/Konzentration); im Rechnungswesen Investition und Finanzierung; der Shareholder-Value-Ansatz. Diese Inhalte haben nur einzelne Hinweis-Karten.

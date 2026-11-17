@@ -12,6 +12,10 @@ Pflichtfelder zusätzlich zum normalen Paketformat (siehe `docs/Aufgabenpaket-Pr
 | `examType` | optional: `Klausur`, `Mündliche Prüfung` oder `Andere` |
 | `packageId` | bleibt für immer gleich – darüber erkennt die App Updates. Nie wiederverwenden. |
 | `tasks[].id` | bleibt pro Aufgabe gleich. Geänderter Text → neue Version der Aufgabe (Fortschritt beginnt für diese Aufgabe neu), gleicher Text → Fortschritt bleibt. |
+| `tasks[].image` | optional: Schaubild zur Karte, Pfad relativ zu `content/`, z. B. `b2-bwl/bilder/abb9-15.svg` (svg, png, jpg, webp). Erklärkarten zeigen es sofort, Fragen erst nach dem Antworten. |
+| `tasks[].sourceUrl` | optional: https-Link zur Originalquelle, z. B. Moodle-PDF mit `#page=29`. Erscheint als „Original-Folie ansehen“. |
+
+Schaubilder liegen unter `content/<modul>/bilder/`. Wegen des öffentlichen Repositorys nur **selbst nachgezeichnete** Abbildungen ablegen, keine Scans oder Screenshots aus Büchern/Folien. Die B2-Schaubilder hat Claude als SVG gezeichnet.
 
 Update-Regeln:
 - Aufgabe neu im Paket → wird hinzugefügt und aktiviert.

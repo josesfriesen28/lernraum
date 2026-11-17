@@ -12,7 +12,7 @@ async function call(command: string, payload: any, revision: number) {
 }
 
 export async function syncBundledContent(): Promise<string[]> {
-  let index: {entries: Entry[]};
+  let index: {entries: Entry[]; images?: string[]};
   try {
     const r = await fetch(new URL('content/index.json', document.baseURI), {cache: 'no-store'});
     if (!r.ok) return [];
@@ -39,5 +39,7 @@ export async function syncBundledContent(): Promise<string[]> {
       if (d.notice) messages.push(d.notice);
     } catch (x: any) {messages.push(e.title + ': ' + x.message);}
   }
+  // Schaubilder einmal laden, damit der Service Worker sie für offline merkt.
+  for (const img of index.images || []) fetch(new URL('content/' + img, document.baseURI)).catch(() => {});
   return messages;
 }

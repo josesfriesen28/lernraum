@@ -1,6 +1,6 @@
 {
   "name": "lernraum",
-  "version": "0.8.0",
+  "version": "0.9.0",
   "private": true,
   "description": "Persönliche Lern-App im Reel-Stil: Aufgabenpakete, aktives Abrufen, Wiederholungsplan. Läuft komplett im Browser (GitHub Pages).",
   "type": "module",

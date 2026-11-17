@@ -63,3 +63,6 @@
 
 /* Hinweis auf neu übernommene Lerninhalte (v0.6.0) */
 .content-toast{position:fixed;z-index:300;left:50%;bottom:calc(84px + env(safe-area-inset-bottom));transform:translateX(-50%);max-width:min(560px,calc(100vw - 24px));background:#234b40;color:#fff;padding:12px 18px;border-radius:16px;font:600 13px/1.5 Inter,system-ui,sans-serif;box-shadow:0 12px 40px #0004;animation:reel-up .35s ease-out}
+.reel-figure{margin:14px 0 4px;display:grid;gap:8px}
+.reel-figure img{display:block;width:100%;height:auto;background:#fff;border-radius:14px;padding:6px;box-shadow:0 1px 0 rgba(0,0,0,.06),0 6px 18px rgba(0,0,0,.06);cursor:zoom-in}
+.reel-figure figcaption a{font-size:13px;font-weight:600;display:inline-flex;align-items:center;gap:4px;color:inherit;opacity:.85}

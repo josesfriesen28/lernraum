@@ -7,6 +7,18 @@ Die Version steht an drei Stellen und muss übereinstimmen (prüft `tests/versio
 
 ## [Unreleased]
 
+## [0.9.0] – 2026-11-17
+
+Schaubilder zum Anschauen.
+
+### Hinzugefügt
+- 79 selbst nachgezeichnete B2-Schaubilder (SVG) – vom 4-Ebenen-Modell über BCG, TOWS, Five Forces und Führungsstile bis zu Bilanz, GuV und Kapitalflussrechnung. Erklärkarten zeigen das Schaubild direkt, Fragen nach dem Antworten (und bei „Quelle als Hilfe“). Antippen öffnet es groß.
+- Jede Schaubild-Karte verlinkt die Original-Folie in Moodle auf der passenden Seite („Original-Folie ansehen“, Moodle-Login nötig).
+- Paketformat: optionale Felder `image` und `sourceUrl`; der Build prüft, ob jedes Bild existiert, und liefert es mit. Die App lädt die Bilder einmal vor, damit sie offline da sind.
+
+### Geändert
+- Nach richtigen Antworten mit Schaubild geht es nicht mehr automatisch weiter – Zeit zum Anschauen.
+
 ## [0.8.0] – 2026-11-17
 
 Schaubilder, alle B3-Folien und die Englisch-Vokabeln.
@@ -17,7 +29,7 @@ Schaubilder, alle B3-Folien und die Englisch-Vokabeln.
 - B3: alle bisher hochgeladenen Folien der Sitzungen 1–4 durchgearbeitet; deutlich mehr Karten zu interpersonaler Kommunikation, Journalismus/PR/Werbung und Öffentlichkeit.
 
 ### Geändert
-- Antwortoptionen stehen jetzt in gemischter Reihenfolge – die richtige Antwort ist nicht mehr meistens die erste.
+- Antwortoptionen sind auch in den Paketdateien gemischt (die App mischt sie beim Anzeigen ohnehin).
 - Auf den Folien durchgestrichene Kapitel sind als nicht prüfungsrelevant markiert.
 
 ## [0.7.0] – 2026-11-16
