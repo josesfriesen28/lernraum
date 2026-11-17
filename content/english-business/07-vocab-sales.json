@@ -1,0 +1,4071 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "en-07-vocab-sales",
+ "title": "English · Glossary: Sales and distribution vocabulary",
+ "course": "English for Business Communication (B2.2)",
+ "examType": "Klausur",
+ "topic": "Sales and distribution",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-after-sales",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„providing help to customers after they have bought a product/service“",
+   "solution": "after-sales – providing help to customers after they have bought a product/service",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "after-sales: providing help to customers after they have bought a product/service",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "vendor"
+    },
+    {
+     "id": "o1",
+     "text": "freight forwarder"
+    },
+    {
+     "id": "o2",
+     "text": "haulier"
+    },
+    {
+     "id": "o3",
+     "text": "after-sales"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-after-sales",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „after-sales“ mean?",
+   "solution": "after-sales – providing help to customers after they have bought a product/service",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "after-sales: providing help to customers after they have bought a product/service",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a place in a building that customers go to (⇔ online store)"
+    },
+    {
+     "id": "o1",
+     "text": "providing help to customers after they have bought a product/service"
+    },
+    {
+     "id": "o2",
+     "text": "a person who buys goods from producers and sells them to retailers or consumers"
+    },
+    {
+     "id": "o3",
+     "text": "a batch of goods destined for, or delivered to, a customer (also: consignment)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-agent",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person or company that provides a particular service, typically one that involves arranging transactions between two other parties“",
+   "solution": "agent – a person or company that provides a particular service, typically one that involves arranging transactions between two other parties (a travel agent)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "agent: a person or company that provides a particular service, typically one that involves arranging transactions between two other parties (a travel agent)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "dealer"
+    },
+    {
+     "id": "o1",
+     "text": "grey market"
+    },
+    {
+     "id": "o2",
+     "text": "shipment"
+    },
+    {
+     "id": "o3",
+     "text": "agent"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-agent",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „agent“ mean?",
+   "solution": "agent – a person or company that provides a particular service, typically one that involves arranging transactions between two other parties (a travel agent)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "agent: a person or company that provides a particular service, typically one that involves arranging transactions between two other parties (a travel agent)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a small shop selling groceries and general goods, in a residential area"
+    },
+    {
+     "id": "o1",
+     "text": "a company that transports goods (or people) by land, sea or air"
+    },
+    {
+     "id": "o2",
+     "text": "a person or company that provides a particular service, typically one that involves arranging transactions between two other parties (a travel agent)"
+    },
+    {
+     "id": "o3",
+     "text": "a person or company that sells goods in large quantities to other businesses, who then sell them to the general public (wholesale price, wholesaling)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-brick-and-mortar store",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a place in a building that customers go to (⇔ online store)“",
+   "solution": "brick-and-mortar store – a place in a building that customers go to (⇔ online store)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brick-and-mortar store: a place in a building that customers go to (⇔ online store)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "vendor"
+    },
+    {
+     "id": "o1",
+     "text": "enquiry"
+    },
+    {
+     "id": "o2",
+     "text": "shipment"
+    },
+    {
+     "id": "o3",
+     "text": "brick-and-mortar store"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-brick-and-mortar store",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „brick-and-mortar store“ mean?",
+   "solution": "brick-and-mortar store – a place in a building that customers go to (⇔ online store)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brick-and-mortar store: a place in a building that customers go to (⇔ online store)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the system of paying for goods when they are delivered (AE collect on delivery)"
+    },
+    {
+     "id": "o1",
+     "text": "the strategies that a company uses to optimise its interaction with current and future customers"
+    },
+    {
+     "id": "o2",
+     "text": "a place in a building that customers go to (⇔ online store)"
+    },
+    {
+     "id": "o3",
+     "text": "the person or company that supplies goods to shops or other businesses (= trader, dealer)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-bulk delivery",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„unpackaged goods delivered in one large amount, either dry goods (e.g. rice) or liquid goods (e.g. milk)“",
+   "solution": "bulk delivery – unpackaged goods delivered in one large amount, either dry goods (e.g. rice) or liquid goods (e.g. milk)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "bulk delivery: unpackaged goods delivered in one large amount, either dry goods (e.g. rice) or liquid goods (e.g. milk)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "bulk delivery"
+    },
+    {
+     "id": "o1",
+     "text": "corner shop"
+    },
+    {
+     "id": "o2",
+     "text": "bulk-purchase discount"
+    },
+    {
+     "id": "o3",
+     "text": "retailer"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-bulk delivery",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „bulk delivery“ mean?",
+   "solution": "bulk delivery – unpackaged goods delivered in one large amount, either dry goods (e.g. rice) or liquid goods (e.g. milk)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "bulk delivery: unpackaged goods delivered in one large amount, either dry goods (e.g. rice) or liquid goods (e.g. milk)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "showing how sth. works or is performed (to demonstrate a product)"
+    },
+    {
+     "id": "o1",
+     "text": "selling a different product/service to an existing customer"
+    },
+    {
+     "id": "o2",
+     "text": "unpackaged goods delivered in one large amount, either dry goods (e.g. rice) or liquid goods (e.g. milk)"
+    },
+    {
+     "id": "o3",
+     "text": "an event at which many companies show and sell their products (= trade fair; ≈ exhibition)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-bulk-purchase discount",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„discount for buying large amounts (= quantity discount)“",
+   "solution": "bulk-purchase discount – discount for buying large amounts (= quantity discount)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "bulk-purchase discount: discount for buying large amounts (= quantity discount)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "bulk-purchase discount"
+    },
+    {
+     "id": "o1",
+     "text": "order processing"
+    },
+    {
+     "id": "o2",
+     "text": "distributor"
+    },
+    {
+     "id": "o3",
+     "text": "freight forwarder"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-bulk-purchase discount",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „bulk-purchase discount“ mean?",
+   "solution": "bulk-purchase discount – discount for buying large amounts (= quantity discount)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "bulk-purchase discount: discount for buying large amounts (= quantity discount)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "discount for buying large amounts (= quantity discount)"
+    },
+    {
+     "id": "o1",
+     "text": "an agent of a company who visits customers in order to sell products (sales rep)"
+    },
+    {
+     "id": "o2",
+     "text": "the act of asking for information (to make an enquiry) (also: AE inquiry)"
+    },
+    {
+     "id": "o3",
+     "text": "a batch of goods destined for, or delivered to, a customer (also: consignment)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-carrier",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a company that transports goods (or people) by land, sea or air“",
+   "solution": "carrier – a company that transports goods (or people) by land, sea or air",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "carrier: a company that transports goods (or people) by land, sea or air",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "carrier"
+    },
+    {
+     "id": "o1",
+     "text": "agent"
+    },
+    {
+     "id": "o2",
+     "text": "haulier"
+    },
+    {
+     "id": "o3",
+     "text": "trader"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-carrier",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „carrier“ mean?",
+   "solution": "carrier – a company that transports goods (or people) by land, sea or air",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "carrier: a company that transports goods (or people) by land, sea or air",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a machine from which you can buy drinks, cigarettes, etc. by putting money into it"
+    },
+    {
+     "id": "o1",
+     "text": "a document issued to the purchaser of a product, promising to repair or replace it if necessary within a specified period of time (also: guarantee)"
+    },
+    {
+     "id": "o2",
+     "text": "a company that transports goods (or people) by land, sea or air"
+    },
+    {
+     "id": "o3",
+     "text": "fresh goods that are likely to deteriorate (go bad) very quickly (= short shelf life)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-cash on delivery (COD)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the system of paying for goods when they are delivered (AE collect on delivery)“",
+   "solution": "cash on delivery (COD) – the system of paying for goods when they are delivered (AE collect on delivery)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "cash on delivery (COD): the system of paying for goods when they are delivered (AE collect on delivery)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "mail order"
+    },
+    {
+     "id": "o1",
+     "text": "cash on delivery (COD)"
+    },
+    {
+     "id": "o2",
+     "text": "vendor"
+    },
+    {
+     "id": "o3",
+     "text": "principal"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-cash on delivery (COD)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „cash on delivery (COD)“ mean?",
+   "solution": "cash on delivery (COD) – the system of paying for goods when they are delivered (AE collect on delivery)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "cash on delivery (COD): the system of paying for goods when they are delivered (AE collect on delivery)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the system of paying for goods when they are delivered (AE collect on delivery)"
+    },
+    {
+     "id": "o1",
+     "text": "material in which goods are packed for sale"
+    },
+    {
+     "id": "o2",
+     "text": "places where individual customers make purchases, e.g. shops, stores, markets"
+    },
+    {
+     "id": "o3",
+     "text": "an agent of a company who visits customers in order to sell products (sales rep)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-cold calling",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth.“",
+   "solution": "cold calling – the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "cold calling: the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "cold calling"
+    },
+    {
+     "id": "o1",
+     "text": "wholesaler"
+    },
+    {
+     "id": "o2",
+     "text": "distribution channel / chain"
+    },
+    {
+     "id": "o3",
+     "text": "promotion"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-cold calling",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „cold calling“ mean?",
+   "solution": "cold calling – the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "cold calling: the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a price reduction for large orders (= bulk-purchase discount)"
+    },
+    {
+     "id": "o1",
+     "text": "the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth."
+    },
+    {
+     "id": "o2",
+     "text": "a condition that encourages the sale of a product, e.g. 'buy two, get one free'"
+    },
+    {
+     "id": "o3",
+     "text": "to send off to a destination (also: despatch)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-complaint",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a statement (written or spoken) that sth. is unsatisfactory or unacceptable“",
+   "solution": "complaint – a statement (written or spoken) that sth. is unsatisfactory or unacceptable",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "complaint: a statement (written or spoken) that sth. is unsatisfactory or unacceptable",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "bulk delivery"
+    },
+    {
+     "id": "o1",
+     "text": "complaint"
+    },
+    {
+     "id": "o2",
+     "text": "middleman"
+    },
+    {
+     "id": "o3",
+     "text": "retainer"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-complaint",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „complaint“ mean?",
+   "solution": "complaint – a statement (written or spoken) that sth. is unsatisfactory or unacceptable",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "complaint: a statement (written or spoken) that sth. is unsatisfactory or unacceptable",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a statement (written or spoken) that sth. is unsatisfactory or unacceptable"
+    },
+    {
+     "id": "o1",
+     "text": "a small initial order placed by the customer to test a product or service before committing to a larger order"
+    },
+    {
+     "id": "o2",
+     "text": "a fee paid in advance to someone who might provide a service when required"
+    },
+    {
+     "id": "o3",
+     "text": "a share in the profit or money (to take a cut of the sales)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-corner shop",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a small shop selling groceries and general goods, in a residential area“",
+   "solution": "corner shop – a small shop selling groceries and general goods, in a residential area",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "corner shop: a small shop selling groceries and general goods, in a residential area",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "perishable"
+    },
+    {
+     "id": "o1",
+     "text": "demonstration"
+    },
+    {
+     "id": "o2",
+     "text": "corner shop"
+    },
+    {
+     "id": "o3",
+     "text": "shipment"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-corner shop",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „corner shop“ mean?",
+   "solution": "corner shop – a small shop selling groceries and general goods, in a residential area",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "corner shop: a small shop selling groceries and general goods, in a residential area",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or business that acts as a link between buyers and sellers (= middleman)"
+    },
+    {
+     "id": "o1",
+     "text": "(in an agency contract) the company that an agent acts for and represents"
+    },
+    {
+     "id": "o2",
+     "text": "a small shop selling groceries and general goods, in a residential area"
+    },
+    {
+     "id": "o3",
+     "text": "a fee paid in advance to someone who might provide a service when required"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-cross-selling",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„selling a different product/service to an existing customer“",
+   "solution": "cross-selling – selling a different product/service to an existing customer",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "cross-selling: selling a different product/service to an existing customer",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "demonstration"
+    },
+    {
+     "id": "o1",
+     "text": "cross-selling"
+    },
+    {
+     "id": "o2",
+     "text": "wholesaler"
+    },
+    {
+     "id": "o3",
+     "text": "cold calling"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q22",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-cross-selling",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „cross-selling“ mean?",
+   "solution": "cross-selling – selling a different product/service to an existing customer",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "cross-selling: selling a different product/service to an existing customer",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "selling a different product/service to an existing customer"
+    },
+    {
+     "id": "o1",
+     "text": "the place where sth. (e.g. a shipment of goods) is going to be sent"
+    },
+    {
+     "id": "o2",
+     "text": "a company that transports goods (or people) by land, sea or air"
+    },
+    {
+     "id": "o3",
+     "text": "showing how sth. works or is performed (to demonstrate a product)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q23",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-Customer Relationship Management (CRM)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the strategies that a company uses to optimise its interaction with current and future customers“",
+   "solution": "Customer Relationship Management (CRM) – the strategies that a company uses to optimise its interaction with current and future customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "Customer Relationship Management (CRM): the strategies that a company uses to optimise its interaction with current and future customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "trial order"
+    },
+    {
+     "id": "o1",
+     "text": "bulk delivery"
+    },
+    {
+     "id": "o2",
+     "text": "quantity discount"
+    },
+    {
+     "id": "o3",
+     "text": "Customer Relationship Management (CRM)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q24",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-Customer Relationship Management (CRM)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „Customer Relationship Management (CRM)“ mean?",
+   "solution": "Customer Relationship Management (CRM) – the strategies that a company uses to optimise its interaction with current and future customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "Customer Relationship Management (CRM): the strategies that a company uses to optimise its interaction with current and future customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a document issued to the purchaser of a product, promising to repair or replace it if necessary within a specified period of time (also: guarantee)"
+    },
+    {
+     "id": "o1",
+     "text": "the strategies that a company uses to optimise its interaction with current and future customers"
+    },
+    {
+     "id": "o2",
+     "text": "to send off to a destination (also: despatch)"
+    },
+    {
+     "id": "o3",
+     "text": "a system of buying and selling goods through the mail (to sell by mail order)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-cut",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a share in the profit or money“",
+   "solution": "cut – a share in the profit or money (to take a cut of the sales)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "cut: a share in the profit or money (to take a cut of the sales)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "cut"
+    },
+    {
+     "id": "o1",
+     "text": "discount store"
+    },
+    {
+     "id": "o2",
+     "text": "over-the-counter (OTC)"
+    },
+    {
+     "id": "o3",
+     "text": "retailer"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-cut",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „cut“ mean?",
+   "solution": "cut – a share in the profit or money (to take a cut of the sales)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "cut: a share in the profit or money (to take a cut of the sales)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a share in the profit or money (to take a cut of the sales)"
+    },
+    {
+     "id": "o1",
+     "text": "a person or company that sells goods in large quantities to other businesses, who then sell them to the general public (wholesale price, wholesaling)"
+    },
+    {
+     "id": "o2",
+     "text": "the activity of dealing with every stage of a customer's order"
+    },
+    {
+     "id": "o3",
+     "text": "a small shop selling groceries and general goods, in a residential area"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q27",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-dealer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person or business that buys and sells goods, e.g. a car dealer (to deal in goods) (= trader, distributor)“",
+   "solution": "dealer – a person or business that buys and sells goods, e.g. a car dealer (to deal in goods) (= trader, distributor)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "dealer: a person or business that buys and sells goods, e.g. a car dealer (to deal in goods) (= trader, distributor)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "dealer"
+    },
+    {
+     "id": "o1",
+     "text": "over-the-counter (OTC)"
+    },
+    {
+     "id": "o2",
+     "text": "brick-and-mortar store"
+    },
+    {
+     "id": "o3",
+     "text": "product recall"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q28",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-dealer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „dealer“ mean?",
+   "solution": "dealer – a person or business that buys and sells goods, e.g. a car dealer (to deal in goods) (= trader, distributor)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "dealer: a person or business that buys and sells goods, e.g. a car dealer (to deal in goods) (= trader, distributor)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or business that buys and sells goods, e.g. a car dealer (to deal in goods) (= trader, distributor)"
+    },
+    {
+     "id": "o1",
+     "text": "a machine from which you can buy drinks, cigarettes, etc. by putting money into it"
+    },
+    {
+     "id": "o2",
+     "text": "a person or business that sells goods directly to the public"
+    },
+    {
+     "id": "o3",
+     "text": "a condition that encourages the sale of a product, e.g. 'buy two, get one free'"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q29",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-demonstration",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„showing how sth. works or is performed“",
+   "solution": "demonstration – showing how sth. works or is performed (to demonstrate a product)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "demonstration: showing how sth. works or is performed (to demonstrate a product)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "sales representative"
+    },
+    {
+     "id": "o1",
+     "text": "bulk-purchase discount"
+    },
+    {
+     "id": "o2",
+     "text": "middleman"
+    },
+    {
+     "id": "o3",
+     "text": "demonstration"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q30",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-demonstration",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „demonstration“ mean?",
+   "solution": "demonstration – showing how sth. works or is performed (to demonstrate a product)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "demonstration: showing how sth. works or is performed (to demonstrate a product)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "showing how sth. works or is performed (to demonstrate a product)"
+    },
+    {
+     "id": "o1",
+     "text": "measures aimed at encouraging the sale of a product, e.g. special offers or gifts (to promote, promotional activities)"
+    },
+    {
+     "id": "o2",
+     "text": "a company that transports goods (or people) by land, sea or air"
+    },
+    {
+     "id": "o3",
+     "text": "material in which goods are packed for delivery"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q31",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-department store",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin“",
+   "solution": "department store – a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "department store: a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "freight forwarder"
+    },
+    {
+     "id": "o1",
+     "text": "trade discount"
+    },
+    {
+     "id": "o2",
+     "text": "department store"
+    },
+    {
+     "id": "o3",
+     "text": "agent"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q32",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-department store",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „department store“ mean?",
+   "solution": "department store – a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "department store: a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a company that transports goods (or people) by land, sea or air"
+    },
+    {
+     "id": "o1",
+     "text": "material in which goods are packed for sale"
+    },
+    {
+     "id": "o2",
+     "text": "a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin"
+    },
+    {
+     "id": "o3",
+     "text": "a place in a building that customers go to (⇔ online store)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q33",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-destination",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the place where sth. (e.g. a shipment of goods) is going to be sent“",
+   "solution": "destination – the place where sth. (e.g. a shipment of goods) is going to be sent",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "destination: the place where sth. (e.g. a shipment of goods) is going to be sent",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "destination"
+    },
+    {
+     "id": "o1",
+     "text": "disintermediation"
+    },
+    {
+     "id": "o2",
+     "text": "supplier"
+    },
+    {
+     "id": "o3",
+     "text": "bulk delivery"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q34",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-destination",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „destination“ mean?",
+   "solution": "destination – the place where sth. (e.g. a shipment of goods) is going to be sent",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "destination: the place where sth. (e.g. a shipment of goods) is going to be sent",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the place where sth. (e.g. a shipment of goods) is going to be sent"
+    },
+    {
+     "id": "o1",
+     "text": "a place in a building that customers go to (⇔ online store)"
+    },
+    {
+     "id": "o2",
+     "text": "the act of asking for information (to make an enquiry) (also: AE inquiry)"
+    },
+    {
+     "id": "o3",
+     "text": "a small shop selling groceries and general goods, in a residential area"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q35",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-discount store",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a shop that sells goods at reduced prices“",
+   "solution": "discount store – a shop that sells goods at reduced prices",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "discount store: a shop that sells goods at reduced prices",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "over-the-counter (OTC)"
+    },
+    {
+     "id": "o1",
+     "text": "freight forwarder"
+    },
+    {
+     "id": "o2",
+     "text": "discount store"
+    },
+    {
+     "id": "o3",
+     "text": "representative"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q36",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-discount store",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „discount store“ mean?",
+   "solution": "discount store – a shop that sells goods at reduced prices",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "discount store: a shop that sells goods at reduced prices",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a shop that sells goods at reduced prices"
+    },
+    {
+     "id": "o1",
+     "text": "a person or company that provides a particular service, typically one that involves arranging transactions between two other parties (a travel agent)"
+    },
+    {
+     "id": "o2",
+     "text": "places where individual customers make purchases, e.g. shops, stores, markets"
+    },
+    {
+     "id": "o3",
+     "text": "a small shop selling groceries and general goods, in a residential area"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q37",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-disintermediation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„reduction in the use of intermediaries between producers and consumers“",
+   "solution": "disintermediation – reduction in the use of intermediaries between producers and consumers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "disintermediation: reduction in the use of intermediaries between producers and consumers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "haulier"
+    },
+    {
+     "id": "o1",
+     "text": "discount store"
+    },
+    {
+     "id": "o2",
+     "text": "complaint"
+    },
+    {
+     "id": "o3",
+     "text": "disintermediation"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q38",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-disintermediation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „disintermediation“ mean?",
+   "solution": "disintermediation – reduction in the use of intermediaries between producers and consumers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "disintermediation: reduction in the use of intermediaries between producers and consumers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or business that sells goods directly to the public"
+    },
+    {
+     "id": "o1",
+     "text": "(in an agency contract) the company that an agent acts for and represents"
+    },
+    {
+     "id": "o2",
+     "text": "reduction in the use of intermediaries between producers and consumers"
+    },
+    {
+     "id": "o3",
+     "text": "the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth."
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q39",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-to dispatch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„to send off to a destination (also: despatch)“",
+   "solution": "to dispatch – to send off to a destination (also: despatch)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to dispatch: to send off to a destination (also: despatch)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "warranty"
+    },
+    {
+     "id": "o1",
+     "text": "representative"
+    },
+    {
+     "id": "o2",
+     "text": "to dispatch"
+    },
+    {
+     "id": "o3",
+     "text": "freight forwarder"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q40",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-to dispatch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „to dispatch“ mean?",
+   "solution": "to dispatch – to send off to a destination (also: despatch)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to dispatch: to send off to a destination (also: despatch)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a small initial order placed by the customer to test a product or service before committing to a larger order"
+    },
+    {
+     "id": "o1",
+     "text": "to send off to a destination (also: despatch)"
+    },
+    {
+     "id": "o2",
+     "text": "a small shop selling groceries and general goods, in a residential area"
+    },
+    {
+     "id": "o3",
+     "text": "an agent of a company who visits customers in order to sell products (sales rep)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q41",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-distribution channel / chain",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the way a product is made available and sold, including the organisations involved (= supply chain)“",
+   "solution": "distribution channel / chain – the way a product is made available and sold, including the organisations involved (= supply chain)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "distribution channel / chain: the way a product is made available and sold, including the organisations involved (= supply chain)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "distribution channel / chain"
+    },
+    {
+     "id": "o1",
+     "text": "representative"
+    },
+    {
+     "id": "o2",
+     "text": "carrier"
+    },
+    {
+     "id": "o3",
+     "text": "cross-selling"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q42",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-distribution channel / chain",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „distribution channel / chain“ mean?",
+   "solution": "distribution channel / chain – the way a product is made available and sold, including the organisations involved (= supply chain)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "distribution channel / chain: the way a product is made available and sold, including the organisations involved (= supply chain)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the system of paying for goods when they are delivered (AE collect on delivery)"
+    },
+    {
+     "id": "o1",
+     "text": "a batch of goods destined for, or delivered to, a customer (also: consignment)"
+    },
+    {
+     "id": "o2",
+     "text": "a price reduction for large orders (= bulk-purchase discount)"
+    },
+    {
+     "id": "o3",
+     "text": "the way a product is made available and sold, including the organisations involved (= supply chain)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q43",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-distributor",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the person or company that supplies goods to shops or other businesses (= trader, dealer)“",
+   "solution": "distributor – the person or company that supplies goods to shops or other businesses (= trader, dealer)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "distributor: the person or company that supplies goods to shops or other businesses (= trader, dealer)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "trade discount"
+    },
+    {
+     "id": "o1",
+     "text": "retailer"
+    },
+    {
+     "id": "o2",
+     "text": "distributor"
+    },
+    {
+     "id": "o3",
+     "text": "mail order"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q44",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-distributor",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „distributor“ mean?",
+   "solution": "distributor – the person or company that supplies goods to shops or other businesses (= trader, dealer)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "distributor: the person or company that supplies goods to shops or other businesses (= trader, dealer)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "showing how sth. works or is performed (to demonstrate a product)"
+    },
+    {
+     "id": "o1",
+     "text": "a place (e.g. a shop) from where goods are sold to the public"
+    },
+    {
+     "id": "o2",
+     "text": "the processes and companies that are involved in making and selling a product"
+    },
+    {
+     "id": "o3",
+     "text": "the person or company that supplies goods to shops or other businesses (= trader, dealer)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q45",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-enquiry",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the act of asking for information (also: AE inquiry)“",
+   "solution": "enquiry – the act of asking for information (to make an enquiry) (also: AE inquiry)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "enquiry: the act of asking for information (to make an enquiry) (also: AE inquiry)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "disintermediation"
+    },
+    {
+     "id": "o1",
+     "text": "enquiry"
+    },
+    {
+     "id": "o2",
+     "text": "product recall"
+    },
+    {
+     "id": "o3",
+     "text": "brick-and-mortar store"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q46",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-enquiry",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „enquiry“ mean?",
+   "solution": "enquiry – the act of asking for information (to make an enquiry) (also: AE inquiry)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "enquiry: the act of asking for information (to make an enquiry) (also: AE inquiry)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a statement (written or spoken) that sth. is unsatisfactory or unacceptable"
+    },
+    {
+     "id": "o1",
+     "text": "a person or company that buys things to sell at a profit (= dealer, distributor)"
+    },
+    {
+     "id": "o2",
+     "text": "a shop that sells goods at reduced prices"
+    },
+    {
+     "id": "o3",
+     "text": "the act of asking for information (to make an enquiry) (also: AE inquiry)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q47",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-factory outlet",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a store in which goods, esp. surplus stock, are sold directly by the manufacturers at a discount“",
+   "solution": "factory outlet – a store in which goods, esp. surplus stock, are sold directly by the manufacturers at a discount",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "factory outlet: a store in which goods, esp. surplus stock, are sold directly by the manufacturers at a discount",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "trade discount"
+    },
+    {
+     "id": "o1",
+     "text": "factory outlet"
+    },
+    {
+     "id": "o2",
+     "text": "retainer"
+    },
+    {
+     "id": "o3",
+     "text": "retail outlet"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q48",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-factory outlet",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „factory outlet“ mean?",
+   "solution": "factory outlet – a store in which goods, esp. surplus stock, are sold directly by the manufacturers at a discount",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "factory outlet: a store in which goods, esp. surplus stock, are sold directly by the manufacturers at a discount",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the trade of goods through distribution channels that are legal but not intended by the original manufacturer"
+    },
+    {
+     "id": "o1",
+     "text": "the place where sth. (e.g. a shipment of goods) is going to be sent"
+    },
+    {
+     "id": "o2",
+     "text": "when a company asks customers to return a product because there may be sth. wrong with it"
+    },
+    {
+     "id": "o3",
+     "text": "a store in which goods, esp. surplus stock, are sold directly by the manufacturers at a discount"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q49",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-freight forwarder",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an agent who acts on behalf of importers, exporters or other companies to organise the safe, efficient and cost-effective transportation of goods“",
+   "solution": "freight forwarder – an agent who acts on behalf of importers, exporters or other companies to organise the safe, efficient and cost-effective transportation of goods",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "freight forwarder: an agent who acts on behalf of importers, exporters or other companies to organise the safe, efficient and cost-effective transportation of goods",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "freight forwarder"
+    },
+    {
+     "id": "o1",
+     "text": "to dispatch"
+    },
+    {
+     "id": "o2",
+     "text": "enquiry"
+    },
+    {
+     "id": "o3",
+     "text": "bulk-purchase discount"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q50",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-freight forwarder",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „freight forwarder“ mean?",
+   "solution": "freight forwarder – an agent who acts on behalf of importers, exporters or other companies to organise the safe, efficient and cost-effective transportation of goods",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "freight forwarder: an agent who acts on behalf of importers, exporters or other companies to organise the safe, efficient and cost-effective transportation of goods",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a company or person that sells sth."
+    },
+    {
+     "id": "o1",
+     "text": "a batch of goods destined for, or delivered to, a customer (also: consignment)"
+    },
+    {
+     "id": "o2",
+     "text": "the sale of drugs or medicines that don't need a doctor's prescription"
+    },
+    {
+     "id": "o3",
+     "text": "an agent who acts on behalf of importers, exporters or other companies to organise the safe, efficient and cost-effective transportation of goods"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q51",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-grey market",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the trade of goods through distribution channels that are legal but not intended by the original manufacturer“",
+   "solution": "grey market – the trade of goods through distribution channels that are legal but not intended by the original manufacturer",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "grey market: the trade of goods through distribution channels that are legal but not intended by the original manufacturer",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "trade discount"
+    },
+    {
+     "id": "o1",
+     "text": "grey market"
+    },
+    {
+     "id": "o2",
+     "text": "retailer"
+    },
+    {
+     "id": "o3",
+     "text": "quantity discount"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q52",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-grey market",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „grey market“ mean?",
+   "solution": "grey market – the trade of goods through distribution channels that are legal but not intended by the original manufacturer",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "grey market: the trade of goods through distribution channels that are legal but not intended by the original manufacturer",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "discount for buying large amounts (= quantity discount)"
+    },
+    {
+     "id": "o1",
+     "text": "a batch of goods destined for, or delivered to, a customer (also: consignment)"
+    },
+    {
+     "id": "o2",
+     "text": "unpackaged goods delivered in one large amount, either dry goods (e.g. rice) or liquid goods (e.g. milk)"
+    },
+    {
+     "id": "o3",
+     "text": "the trade of goods through distribution channels that are legal but not intended by the original manufacturer"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q53",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-haulier",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a company that transports goods by road“",
+   "solution": "haulier – a company that transports goods by road",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "haulier: a company that transports goods by road",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "trade show"
+    },
+    {
+     "id": "o1",
+     "text": "agent"
+    },
+    {
+     "id": "o2",
+     "text": "enquiry"
+    },
+    {
+     "id": "o3",
+     "text": "haulier"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q54",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-haulier",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „haulier“ mean?",
+   "solution": "haulier – a company that transports goods by road",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "haulier: a company that transports goods by road",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a place (e.g. a shop) from where goods are sold to the public"
+    },
+    {
+     "id": "o1",
+     "text": "a member of a company's sales force (= sales rep)"
+    },
+    {
+     "id": "o2",
+     "text": "the strategies that a company uses to optimise its interaction with current and future customers"
+    },
+    {
+     "id": "o3",
+     "text": "a company that transports goods by road"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q55",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-intermediary",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person or business that acts as a link between buyers and sellers (= middleman)“",
+   "solution": "intermediary – a person or business that acts as a link between buyers and sellers (= middleman)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "intermediary: a person or business that acts as a link between buyers and sellers (= middleman)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "over-the-counter (OTC)"
+    },
+    {
+     "id": "o1",
+     "text": "intermediary"
+    },
+    {
+     "id": "o2",
+     "text": "destination"
+    },
+    {
+     "id": "o3",
+     "text": "retail outlet"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q56",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-intermediary",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „intermediary“ mean?",
+   "solution": "intermediary – a person or business that acts as a link between buyers and sellers (= middleman)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "intermediary: a person or business that acts as a link between buyers and sellers (= middleman)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or business that acts as a link between buyers and sellers (= middleman)"
+    },
+    {
+     "id": "o1",
+     "text": "the place where sth. (e.g. a shipment of goods) is going to be sent"
+    },
+    {
+     "id": "o2",
+     "text": "a person or company that provides a particular service, typically one that involves arranging transactions between two other parties (a travel agent)"
+    },
+    {
+     "id": "o3",
+     "text": "reduction in the use of intermediaries between producers and consumers"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q57",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-mail order",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a system of buying and selling goods through the mail“",
+   "solution": "mail order – a system of buying and selling goods through the mail (to sell by mail order)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "mail order: a system of buying and selling goods through the mail (to sell by mail order)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "trade show"
+    },
+    {
+     "id": "o1",
+     "text": "special offer"
+    },
+    {
+     "id": "o2",
+     "text": "department store"
+    },
+    {
+     "id": "o3",
+     "text": "mail order"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q58",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-mail order",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „mail order“ mean?",
+   "solution": "mail order – a system of buying and selling goods through the mail (to sell by mail order)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "mail order: a system of buying and selling goods through the mail (to sell by mail order)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a batch of goods destined for, or delivered to, a customer (also: consignment)"
+    },
+    {
+     "id": "o1",
+     "text": "a system of buying and selling goods through the mail (to sell by mail order)"
+    },
+    {
+     "id": "o2",
+     "text": "selling a different product/service to an existing customer"
+    },
+    {
+     "id": "o3",
+     "text": "the way a product is made available and sold, including the organisations involved (= supply chain)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q59",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-middleman",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person who buys goods from producers and sells them to retailers or consumers“",
+   "solution": "middleman – a person who buys goods from producers and sells them to retailers or consumers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "middleman: a person who buys goods from producers and sells them to retailers or consumers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "middleman"
+    },
+    {
+     "id": "o1",
+     "text": "to dispatch"
+    },
+    {
+     "id": "o2",
+     "text": "disintermediation"
+    },
+    {
+     "id": "o3",
+     "text": "product recall"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q60",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-middleman",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „middleman“ mean?",
+   "solution": "middleman – a person who buys goods from producers and sells them to retailers or consumers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "middleman: a person who buys goods from producers and sells them to retailers or consumers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "places where individual customers make purchases, e.g. shops, stores, markets"
+    },
+    {
+     "id": "o1",
+     "text": "a person or organisation that provides goods or services"
+    },
+    {
+     "id": "o2",
+     "text": "a person who buys goods from producers and sells them to retailers or consumers"
+    },
+    {
+     "id": "o3",
+     "text": "a store in which goods, esp. surplus stock, are sold directly by the manufacturers at a discount"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q61",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-order processing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the activity of dealing with every stage of a customer's order“",
+   "solution": "order processing – the activity of dealing with every stage of a customer's order",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "order processing: the activity of dealing with every stage of a customer's order",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "to dispatch"
+    },
+    {
+     "id": "o1",
+     "text": "complaint"
+    },
+    {
+     "id": "o2",
+     "text": "agent"
+    },
+    {
+     "id": "o3",
+     "text": "order processing"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q62",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-order processing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „order processing“ mean?",
+   "solution": "order processing – the activity of dealing with every stage of a customer's order",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "order processing: the activity of dealing with every stage of a customer's order",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person who buys goods from producers and sells them to retailers or consumers"
+    },
+    {
+     "id": "o1",
+     "text": "the sale of drugs or medicines that don't need a doctor's prescription"
+    },
+    {
+     "id": "o2",
+     "text": "an event at which many companies show and sell their products (= trade fair; ≈ exhibition)"
+    },
+    {
+     "id": "o3",
+     "text": "the activity of dealing with every stage of a customer's order"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q63",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-outlet",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a place (e.g. a shop) from where goods are sold to the public“",
+   "solution": "outlet – a place (e.g. a shop) from where goods are sold to the public",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "outlet: a place (e.g. a shop) from where goods are sold to the public",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "freight forwarder"
+    },
+    {
+     "id": "o1",
+     "text": "outlet"
+    },
+    {
+     "id": "o2",
+     "text": "mail order"
+    },
+    {
+     "id": "o3",
+     "text": "principal"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q64",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-outlet",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „outlet“ mean?",
+   "solution": "outlet – a place (e.g. a shop) from where goods are sold to the public",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "outlet: a place (e.g. a shop) from where goods are sold to the public",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the sale of drugs or medicines that don't need a doctor's prescription"
+    },
+    {
+     "id": "o1",
+     "text": "the place where sth. (e.g. a shipment of goods) is going to be sent"
+    },
+    {
+     "id": "o2",
+     "text": "the trade of goods through distribution channels that are legal but not intended by the original manufacturer"
+    },
+    {
+     "id": "o3",
+     "text": "a place (e.g. a shop) from where goods are sold to the public"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q65",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-over-the-counter (OTC)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the sale of drugs or medicines that don't need a doctor's prescription“",
+   "solution": "over-the-counter (OTC) – the sale of drugs or medicines that don't need a doctor's prescription",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "over-the-counter (OTC): the sale of drugs or medicines that don't need a doctor's prescription",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "grey market"
+    },
+    {
+     "id": "o1",
+     "text": "over-the-counter (OTC)"
+    },
+    {
+     "id": "o2",
+     "text": "department store"
+    },
+    {
+     "id": "o3",
+     "text": "retail outlet"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q66",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-over-the-counter (OTC)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „over-the-counter (OTC)“ mean?",
+   "solution": "over-the-counter (OTC) – the sale of drugs or medicines that don't need a doctor's prescription",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "over-the-counter (OTC): the sale of drugs or medicines that don't need a doctor's prescription",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a company or person that sells sth."
+    },
+    {
+     "id": "o1",
+     "text": "the sale of drugs or medicines that don't need a doctor's prescription"
+    },
+    {
+     "id": "o2",
+     "text": "a batch of goods destined for, or delivered to, a customer (also: consignment)"
+    },
+    {
+     "id": "o3",
+     "text": "a share in the profit or money (to take a cut of the sales)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q67",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-packaging",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„material in which goods are packed for sale“",
+   "solution": "packaging – material in which goods are packed for sale",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "packaging: material in which goods are packed for sale",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "complaint"
+    },
+    {
+     "id": "o1",
+     "text": "packaging"
+    },
+    {
+     "id": "o2",
+     "text": "cut"
+    },
+    {
+     "id": "o3",
+     "text": "grey market"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q68",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-packaging",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „packaging“ mean?",
+   "solution": "packaging – material in which goods are packed for sale",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "packaging: material in which goods are packed for sale",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or business that acts as a link between buyers and sellers (= middleman)"
+    },
+    {
+     "id": "o1",
+     "text": "material in which goods are packed for sale"
+    },
+    {
+     "id": "o2",
+     "text": "an agent who acts on behalf of importers, exporters or other companies to organise the safe, efficient and cost-effective transportation of goods"
+    },
+    {
+     "id": "o3",
+     "text": "a person who buys goods from producers and sells them to retailers or consumers"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q69",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-packing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„material in which goods are packed for delivery“",
+   "solution": "packing – material in which goods are packed for delivery",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "packing: material in which goods are packed for delivery",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "packing"
+    },
+    {
+     "id": "o1",
+     "text": "sales representative"
+    },
+    {
+     "id": "o2",
+     "text": "cut"
+    },
+    {
+     "id": "o3",
+     "text": "discount store"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q70",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-packing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „packing“ mean?",
+   "solution": "packing – material in which goods are packed for delivery",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "packing: material in which goods are packed for delivery",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "material in which goods are packed for delivery"
+    },
+    {
+     "id": "o1",
+     "text": "the sale of drugs or medicines that don't need a doctor's prescription"
+    },
+    {
+     "id": "o2",
+     "text": "the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth."
+    },
+    {
+     "id": "o3",
+     "text": "a company that transports goods (or people) by land, sea or air"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q71",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-perishable",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„fresh goods that are likely to deteriorate (go bad) very quickly (= short shelf life)“",
+   "solution": "perishable – fresh goods that are likely to deteriorate (go bad) very quickly (= short shelf life)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "perishable: fresh goods that are likely to deteriorate (go bad) very quickly (= short shelf life)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "complaint"
+    },
+    {
+     "id": "o1",
+     "text": "after-sales"
+    },
+    {
+     "id": "o2",
+     "text": "perishable"
+    },
+    {
+     "id": "o3",
+     "text": "retailer"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q72",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-perishable",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „perishable“ mean?",
+   "solution": "perishable – fresh goods that are likely to deteriorate (go bad) very quickly (= short shelf life)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "perishable: fresh goods that are likely to deteriorate (go bad) very quickly (= short shelf life)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "material in which goods are packed for delivery"
+    },
+    {
+     "id": "o1",
+     "text": "fresh goods that are likely to deteriorate (go bad) very quickly (= short shelf life)"
+    },
+    {
+     "id": "o2",
+     "text": "the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth."
+    },
+    {
+     "id": "o3",
+     "text": "a fee paid in advance to someone who might provide a service when required"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q73",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-principal",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„(in an agency contract) the company that an agent acts for and represents“",
+   "solution": "principal – (in an agency contract) the company that an agent acts for and represents",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "principal: (in an agency contract) the company that an agent acts for and represents",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "principal"
+    },
+    {
+     "id": "o1",
+     "text": "disintermediation"
+    },
+    {
+     "id": "o2",
+     "text": "enquiry"
+    },
+    {
+     "id": "o3",
+     "text": "cash on delivery (COD)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q74",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-principal",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „principal“ mean?",
+   "solution": "principal – (in an agency contract) the company that an agent acts for and represents",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "principal: (in an agency contract) the company that an agent acts for and represents",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or company that sells goods in large quantities to other businesses, who then sell them to the general public (wholesale price, wholesaling)"
+    },
+    {
+     "id": "o1",
+     "text": "the activity of dealing with every stage of a customer's order"
+    },
+    {
+     "id": "o2",
+     "text": "(in an agency contract) the company that an agent acts for and represents"
+    },
+    {
+     "id": "o3",
+     "text": "a company that transports goods by road"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q75",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-product recall",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„when a company asks customers to return a product because there may be sth. wrong with it“",
+   "solution": "product recall – when a company asks customers to return a product because there may be sth. wrong with it",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "product recall: when a company asks customers to return a product because there may be sth. wrong with it",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "representative"
+    },
+    {
+     "id": "o1",
+     "text": "perishable"
+    },
+    {
+     "id": "o2",
+     "text": "brick-and-mortar store"
+    },
+    {
+     "id": "o3",
+     "text": "product recall"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q76",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-product recall",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „product recall“ mean?",
+   "solution": "product recall – when a company asks customers to return a product because there may be sth. wrong with it",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "product recall: when a company asks customers to return a product because there may be sth. wrong with it",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a place in a building that customers go to (⇔ online store)"
+    },
+    {
+     "id": "o1",
+     "text": "a small initial order placed by the customer to test a product or service before committing to a larger order"
+    },
+    {
+     "id": "o2",
+     "text": "the act of asking for information (to make an enquiry) (also: AE inquiry)"
+    },
+    {
+     "id": "o3",
+     "text": "when a company asks customers to return a product because there may be sth. wrong with it"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q77",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-promotion",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„measures aimed at encouraging the sale of a product, e.g. special offers or gifts“",
+   "solution": "promotion – measures aimed at encouraging the sale of a product, e.g. special offers or gifts (to promote, promotional activities)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "promotion: measures aimed at encouraging the sale of a product, e.g. special offers or gifts (to promote, promotional activities)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "bulk-purchase discount"
+    },
+    {
+     "id": "o1",
+     "text": "promotion"
+    },
+    {
+     "id": "o2",
+     "text": "freight forwarder"
+    },
+    {
+     "id": "o3",
+     "text": "supplier"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q78",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-promotion",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „promotion“ mean?",
+   "solution": "promotion – measures aimed at encouraging the sale of a product, e.g. special offers or gifts (to promote, promotional activities)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "promotion: measures aimed at encouraging the sale of a product, e.g. special offers or gifts (to promote, promotional activities)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or company that provides a particular service, typically one that involves arranging transactions between two other parties (a travel agent)"
+    },
+    {
+     "id": "o1",
+     "text": "an agent of a company who visits customers in order to sell products (sales rep)"
+    },
+    {
+     "id": "o2",
+     "text": "a person or business that acts as a link between buyers and sellers (= middleman)"
+    },
+    {
+     "id": "o3",
+     "text": "measures aimed at encouraging the sale of a product, e.g. special offers or gifts (to promote, promotional activities)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q79",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-quantity discount",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a price reduction for large orders (= bulk-purchase discount)“",
+   "solution": "quantity discount – a price reduction for large orders (= bulk-purchase discount)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "quantity discount: a price reduction for large orders (= bulk-purchase discount)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "representative"
+    },
+    {
+     "id": "o1",
+     "text": "principal"
+    },
+    {
+     "id": "o2",
+     "text": "complaint"
+    },
+    {
+     "id": "o3",
+     "text": "quantity discount"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q80",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-quantity discount",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „quantity discount“ mean?",
+   "solution": "quantity discount – a price reduction for large orders (= bulk-purchase discount)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "quantity discount: a price reduction for large orders (= bulk-purchase discount)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "an agent who acts on behalf of importers, exporters or other companies to organise the safe, efficient and cost-effective transportation of goods"
+    },
+    {
+     "id": "o1",
+     "text": "the system of paying for goods when they are delivered (AE collect on delivery)"
+    },
+    {
+     "id": "o2",
+     "text": "a price reduction for large orders (= bulk-purchase discount)"
+    },
+    {
+     "id": "o3",
+     "text": "the place where sth. (e.g. a shipment of goods) is going to be sent"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q81",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-representative",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an agent of a company who visits customers in order to sell products (sales rep)“",
+   "solution": "representative – an agent of a company who visits customers in order to sell products (sales rep)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "representative: an agent of a company who visits customers in order to sell products (sales rep)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "intermediary"
+    },
+    {
+     "id": "o1",
+     "text": "representative"
+    },
+    {
+     "id": "o2",
+     "text": "quantity discount"
+    },
+    {
+     "id": "o3",
+     "text": "destination"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q82",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-representative",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „representative“ mean?",
+   "solution": "representative – an agent of a company who visits customers in order to sell products (sales rep)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "representative: an agent of a company who visits customers in order to sell products (sales rep)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "an agent of a company who visits customers in order to sell products (sales rep)"
+    },
+    {
+     "id": "o1",
+     "text": "a discount on the retail price agreed between traders"
+    },
+    {
+     "id": "o2",
+     "text": "an event at which many companies show and sell their products (= trade fair; ≈ exhibition)"
+    },
+    {
+     "id": "o3",
+     "text": "unpackaged goods delivered in one large amount, either dry goods (e.g. rice) or liquid goods (e.g. milk)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q83",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-retail outlet",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„places where individual customers make purchases, e.g. shops, stores, markets“",
+   "solution": "retail outlet – places where individual customers make purchases, e.g. shops, stores, markets",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "retail outlet: places where individual customers make purchases, e.g. shops, stores, markets",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "bulk delivery"
+    },
+    {
+     "id": "o1",
+     "text": "representative"
+    },
+    {
+     "id": "o2",
+     "text": "demonstration"
+    },
+    {
+     "id": "o3",
+     "text": "retail outlet"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q84",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-retail outlet",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „retail outlet“ mean?",
+   "solution": "retail outlet – places where individual customers make purchases, e.g. shops, stores, markets",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "retail outlet: places where individual customers make purchases, e.g. shops, stores, markets",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "an agent of a company who visits customers in order to sell products (sales rep)"
+    },
+    {
+     "id": "o1",
+     "text": "a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin"
+    },
+    {
+     "id": "o2",
+     "text": "when a company asks customers to return a product because there may be sth. wrong with it"
+    },
+    {
+     "id": "o3",
+     "text": "places where individual customers make purchases, e.g. shops, stores, markets"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q85",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-retailer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person or business that sells goods directly to the public“",
+   "solution": "retailer – a person or business that sells goods directly to the public",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "retailer: a person or business that sells goods directly to the public",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "retailer"
+    },
+    {
+     "id": "o1",
+     "text": "supplier"
+    },
+    {
+     "id": "o2",
+     "text": "trial order"
+    },
+    {
+     "id": "o3",
+     "text": "destination"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q86",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-retailer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „retailer“ mean?",
+   "solution": "retailer – a person or business that sells goods directly to the public",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "retailer: a person or business that sells goods directly to the public",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or business that sells goods directly to the public"
+    },
+    {
+     "id": "o1",
+     "text": "unpackaged goods delivered in one large amount, either dry goods (e.g. rice) or liquid goods (e.g. milk)"
+    },
+    {
+     "id": "o2",
+     "text": "to send off to a destination (also: despatch)"
+    },
+    {
+     "id": "o3",
+     "text": "a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q87",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-retainer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a fee paid in advance to someone who might provide a service when required“",
+   "solution": "retainer – a fee paid in advance to someone who might provide a service when required",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "retainer: a fee paid in advance to someone who might provide a service when required",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "retainer"
+    },
+    {
+     "id": "o1",
+     "text": "trader"
+    },
+    {
+     "id": "o2",
+     "text": "trade discount"
+    },
+    {
+     "id": "o3",
+     "text": "agent"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q88",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-retainer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „retainer“ mean?",
+   "solution": "retainer – a fee paid in advance to someone who might provide a service when required",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "retainer: a fee paid in advance to someone who might provide a service when required",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a condition that encourages the sale of a product, e.g. 'buy two, get one free'"
+    },
+    {
+     "id": "o1",
+     "text": "showing how sth. works or is performed (to demonstrate a product)"
+    },
+    {
+     "id": "o2",
+     "text": "a fee paid in advance to someone who might provide a service when required"
+    },
+    {
+     "id": "o3",
+     "text": "the way a product is made available and sold, including the organisations involved (= supply chain)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q89",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-sales representative",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a member of a company's sales force“",
+   "solution": "sales representative – a member of a company's sales force (= sales rep)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "sales representative: a member of a company's sales force (= sales rep)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "sales representative"
+    },
+    {
+     "id": "o1",
+     "text": "distributor"
+    },
+    {
+     "id": "o2",
+     "text": "value chain"
+    },
+    {
+     "id": "o3",
+     "text": "retail outlet"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q90",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-sales representative",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „sales representative“ mean?",
+   "solution": "sales representative – a member of a company's sales force (= sales rep)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "sales representative: a member of a company's sales force (= sales rep)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a member of a company's sales force (= sales rep)"
+    },
+    {
+     "id": "o1",
+     "text": "a company that transports goods by road"
+    },
+    {
+     "id": "o2",
+     "text": "(in an agency contract) the company that an agent acts for and represents"
+    },
+    {
+     "id": "o3",
+     "text": "a person or business that acts as a link between buyers and sellers (= middleman)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q91",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-shipment",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a batch of goods destined for, or delivered to, a customer (also: consignment)“",
+   "solution": "shipment – a batch of goods destined for, or delivered to, a customer (also: consignment)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "shipment: a batch of goods destined for, or delivered to, a customer (also: consignment)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "wholesaler"
+    },
+    {
+     "id": "o1",
+     "text": "product recall"
+    },
+    {
+     "id": "o2",
+     "text": "shipment"
+    },
+    {
+     "id": "o3",
+     "text": "cross-selling"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q92",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-shipment",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „shipment“ mean?",
+   "solution": "shipment – a batch of goods destined for, or delivered to, a customer (also: consignment)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "shipment: a batch of goods destined for, or delivered to, a customer (also: consignment)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a small initial order placed by the customer to test a product or service before committing to a larger order"
+    },
+    {
+     "id": "o1",
+     "text": "selling a different product/service to an existing customer"
+    },
+    {
+     "id": "o2",
+     "text": "the strategies that a company uses to optimise its interaction with current and future customers"
+    },
+    {
+     "id": "o3",
+     "text": "a batch of goods destined for, or delivered to, a customer (also: consignment)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q93",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-special offer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a condition that encourages the sale of a product, e.g. 'buy two, get one free'“",
+   "solution": "special offer – a condition that encourages the sale of a product, e.g. 'buy two, get one free'",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "special offer: a condition that encourages the sale of a product, e.g. 'buy two, get one free'",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "special offer"
+    },
+    {
+     "id": "o1",
+     "text": "outlet"
+    },
+    {
+     "id": "o2",
+     "text": "sales representative"
+    },
+    {
+     "id": "o3",
+     "text": "shipment"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q94",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-special offer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „special offer“ mean?",
+   "solution": "special offer – a condition that encourages the sale of a product, e.g. 'buy two, get one free'",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "special offer: a condition that encourages the sale of a product, e.g. 'buy two, get one free'",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or business that acts as a link between buyers and sellers (= middleman)"
+    },
+    {
+     "id": "o1",
+     "text": "a small shop selling groceries and general goods, in a residential area"
+    },
+    {
+     "id": "o2",
+     "text": "a statement (written or spoken) that sth. is unsatisfactory or unacceptable"
+    },
+    {
+     "id": "o3",
+     "text": "a condition that encourages the sale of a product, e.g. 'buy two, get one free'"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q95",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-supplier",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person or organisation that provides goods or services“",
+   "solution": "supplier – a person or organisation that provides goods or services",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "supplier: a person or organisation that provides goods or services",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "complaint"
+    },
+    {
+     "id": "o1",
+     "text": "vendor"
+    },
+    {
+     "id": "o2",
+     "text": "supplier"
+    },
+    {
+     "id": "o3",
+     "text": "destination"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q96",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-supplier",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „supplier“ mean?",
+   "solution": "supplier – a person or organisation that provides goods or services",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "supplier: a person or organisation that provides goods or services",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person who buys goods from producers and sells them to retailers or consumers"
+    },
+    {
+     "id": "o1",
+     "text": "to send off to a destination (also: despatch)"
+    },
+    {
+     "id": "o2",
+     "text": "the strategies that a company uses to optimise its interaction with current and future customers"
+    },
+    {
+     "id": "o3",
+     "text": "a person or organisation that provides goods or services"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q97",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-supply chain",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the processes and companies that are involved in making and selling a product“",
+   "solution": "supply chain – the processes and companies that are involved in making and selling a product",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "supply chain: the processes and companies that are involved in making and selling a product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "intermediary"
+    },
+    {
+     "id": "o1",
+     "text": "over-the-counter (OTC)"
+    },
+    {
+     "id": "o2",
+     "text": "supply chain"
+    },
+    {
+     "id": "o3",
+     "text": "distribution channel / chain"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q98",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-supply chain",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „supply chain“ mean?",
+   "solution": "supply chain – the processes and companies that are involved in making and selling a product",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "supply chain: the processes and companies that are involved in making and selling a product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the processes and companies that are involved in making and selling a product"
+    },
+    {
+     "id": "o1",
+     "text": "the strategies that a company uses to optimise its interaction with current and future customers"
+    },
+    {
+     "id": "o2",
+     "text": "a document issued to the purchaser of a product, promising to repair or replace it if necessary within a specified period of time (also: guarantee)"
+    },
+    {
+     "id": "o3",
+     "text": "a share in the profit or money (to take a cut of the sales)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q99",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-trade discount",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a discount on the retail price agreed between traders“",
+   "solution": "trade discount – a discount on the retail price agreed between traders",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "trade discount: a discount on the retail price agreed between traders",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "middleman"
+    },
+    {
+     "id": "o1",
+     "text": "distribution channel / chain"
+    },
+    {
+     "id": "o2",
+     "text": "perishable"
+    },
+    {
+     "id": "o3",
+     "text": "trade discount"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q100",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-trade discount",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „trade discount“ mean?",
+   "solution": "trade discount – a discount on the retail price agreed between traders",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "trade discount: a discount on the retail price agreed between traders",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a discount on the retail price agreed between traders"
+    },
+    {
+     "id": "o1",
+     "text": "a member of a company's sales force (= sales rep)"
+    },
+    {
+     "id": "o2",
+     "text": "the processes and companies that are involved in making and selling a product"
+    },
+    {
+     "id": "o3",
+     "text": "the sale of drugs or medicines that don't need a doctor's prescription"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q101",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-trade show",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an event at which many companies show and sell their products“",
+   "solution": "trade show – an event at which many companies show and sell their products (= trade fair; ≈ exhibition)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "trade show: an event at which many companies show and sell their products (= trade fair; ≈ exhibition)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "bulk delivery"
+    },
+    {
+     "id": "o1",
+     "text": "trade show"
+    },
+    {
+     "id": "o2",
+     "text": "perishable"
+    },
+    {
+     "id": "o3",
+     "text": "warranty"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q102",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-trade show",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „trade show“ mean?",
+   "solution": "trade show – an event at which many companies show and sell their products (= trade fair; ≈ exhibition)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "trade show: an event at which many companies show and sell their products (= trade fair; ≈ exhibition)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "an event at which many companies show and sell their products (= trade fair; ≈ exhibition)"
+    },
+    {
+     "id": "o1",
+     "text": "selling a different product/service to an existing customer"
+    },
+    {
+     "id": "o2",
+     "text": "a discount on the retail price agreed between traders"
+    },
+    {
+     "id": "o3",
+     "text": "the strategies that a company uses to optimise its interaction with current and future customers"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q103",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-trader",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person or company that buys things to sell at a profit (= dealer, distributor)“",
+   "solution": "trader – a person or company that buys things to sell at a profit (= dealer, distributor)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "trader: a person or company that buys things to sell at a profit (= dealer, distributor)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "trader"
+    },
+    {
+     "id": "o1",
+     "text": "packing"
+    },
+    {
+     "id": "o2",
+     "text": "middleman"
+    },
+    {
+     "id": "o3",
+     "text": "cross-selling"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q104",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-trader",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „trader“ mean?",
+   "solution": "trader – a person or company that buys things to sell at a profit (= dealer, distributor)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "trader: a person or company that buys things to sell at a profit (= dealer, distributor)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the process by which a company adds value to sth., e.g. through production or marketing or after-sales service"
+    },
+    {
+     "id": "o1",
+     "text": "fresh goods that are likely to deteriorate (go bad) very quickly (= short shelf life)"
+    },
+    {
+     "id": "o2",
+     "text": "an event at which many companies show and sell their products (= trade fair; ≈ exhibition)"
+    },
+    {
+     "id": "o3",
+     "text": "a person or company that buys things to sell at a profit (= dealer, distributor)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q105",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-trial order",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a small initial order placed by the customer to test a product or service before committing to a larger order“",
+   "solution": "trial order – a small initial order placed by the customer to test a product or service before committing to a larger order",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "trial order: a small initial order placed by the customer to test a product or service before committing to a larger order",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "freight forwarder"
+    },
+    {
+     "id": "o1",
+     "text": "sales representative"
+    },
+    {
+     "id": "o2",
+     "text": "packaging"
+    },
+    {
+     "id": "o3",
+     "text": "trial order"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q106",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-trial order",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „trial order“ mean?",
+   "solution": "trial order – a small initial order placed by the customer to test a product or service before committing to a larger order",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "trial order: a small initial order placed by the customer to test a product or service before committing to a larger order",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person or company that sells goods in large quantities to other businesses, who then sell them to the general public (wholesale price, wholesaling)"
+    },
+    {
+     "id": "o1",
+     "text": "a small initial order placed by the customer to test a product or service before committing to a larger order"
+    },
+    {
+     "id": "o2",
+     "text": "the practice of telephoning or visiting someone unexpectedly in order to try to sell them sth."
+    },
+    {
+     "id": "o3",
+     "text": "a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q107",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-value chain",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the process by which a company adds value to sth., e.g. through production or marketing or after-sales service“",
+   "solution": "value chain – the process by which a company adds value to sth., e.g. through production or marketing or after-sales service",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "value chain: the process by which a company adds value to sth., e.g. through production or marketing or after-sales service",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "department store"
+    },
+    {
+     "id": "o1",
+     "text": "order processing"
+    },
+    {
+     "id": "o2",
+     "text": "value chain"
+    },
+    {
+     "id": "o3",
+     "text": "trader"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q108",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-value chain",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „value chain“ mean?",
+   "solution": "value chain – the process by which a company adds value to sth., e.g. through production or marketing or after-sales service",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "value chain: the process by which a company adds value to sth., e.g. through production or marketing or after-sales service",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a company that transports goods by road"
+    },
+    {
+     "id": "o1",
+     "text": "measures aimed at encouraging the sale of a product, e.g. special offers or gifts (to promote, promotional activities)"
+    },
+    {
+     "id": "o2",
+     "text": "the trade of goods through distribution channels that are legal but not intended by the original manufacturer"
+    },
+    {
+     "id": "o3",
+     "text": "the process by which a company adds value to sth., e.g. through production or marketing or after-sales service"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q109",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-vending machine",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a machine from which you can buy drinks, cigarettes, etc. by putting money into it“",
+   "solution": "vending machine – a machine from which you can buy drinks, cigarettes, etc. by putting money into it",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "vending machine: a machine from which you can buy drinks, cigarettes, etc. by putting money into it",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "bulk delivery"
+    },
+    {
+     "id": "o1",
+     "text": "vending machine"
+    },
+    {
+     "id": "o2",
+     "text": "agent"
+    },
+    {
+     "id": "o3",
+     "text": "quantity discount"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q110",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-vending machine",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „vending machine“ mean?",
+   "solution": "vending machine – a machine from which you can buy drinks, cigarettes, etc. by putting money into it",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "vending machine: a machine from which you can buy drinks, cigarettes, etc. by putting money into it",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a company or person that sells sth."
+    },
+    {
+     "id": "o1",
+     "text": "a large shop selling many kinds of goods in different departments, e.g. Harrods in London, KaDeWe in Berlin"
+    },
+    {
+     "id": "o2",
+     "text": "a machine from which you can buy drinks, cigarettes, etc. by putting money into it"
+    },
+    {
+     "id": "o3",
+     "text": "material in which goods are packed for delivery"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q111",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-vendor",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a company or person that sells sth.“",
+   "solution": "vendor – a company or person that sells sth.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "vendor: a company or person that sells sth.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "vendor"
+    },
+    {
+     "id": "o1",
+     "text": "cut"
+    },
+    {
+     "id": "o2",
+     "text": "dealer"
+    },
+    {
+     "id": "o3",
+     "text": "agent"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q112",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-vendor",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „vendor“ mean?",
+   "solution": "vendor – a company or person that sells sth.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "vendor: a company or person that sells sth.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a shop that sells goods at reduced prices"
+    },
+    {
+     "id": "o1",
+     "text": "a condition that encourages the sale of a product, e.g. 'buy two, get one free'"
+    },
+    {
+     "id": "o2",
+     "text": "a company or person that sells sth."
+    },
+    {
+     "id": "o3",
+     "text": "when a company asks customers to return a product because there may be sth. wrong with it"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q113",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-warranty",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a document issued to the purchaser of a product, promising to repair or replace it if necessary within a specified period of time (also: guarantee)“",
+   "solution": "warranty – a document issued to the purchaser of a product, promising to repair or replace it if necessary within a specified period of time (also: guarantee)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "warranty: a document issued to the purchaser of a product, promising to repair or replace it if necessary within a specified period of time (also: guarantee)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "warranty"
+    },
+    {
+     "id": "o1",
+     "text": "destination"
+    },
+    {
+     "id": "o2",
+     "text": "wholesaler"
+    },
+    {
+     "id": "o3",
+     "text": "representative"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q114",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-warranty",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „warranty“ mean?",
+   "solution": "warranty – a document issued to the purchaser of a product, promising to repair or replace it if necessary within a specified period of time (also: guarantee)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "warranty: a document issued to the purchaser of a product, promising to repair or replace it if necessary within a specified period of time (also: guarantee)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a document issued to the purchaser of a product, promising to repair or replace it if necessary within a specified period of time (also: guarantee)"
+    },
+    {
+     "id": "o1",
+     "text": "reduction in the use of intermediaries between producers and consumers"
+    },
+    {
+     "id": "o2",
+     "text": "fresh goods that are likely to deteriorate (go bad) very quickly (= short shelf life)"
+    },
+    {
+     "id": "o3",
+     "text": "a place in a building that customers go to (⇔ online store)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q115",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-wholesaler",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person or company that sells goods in large quantities to other businesses, who then sell them to the general public“",
+   "solution": "wholesaler – a person or company that sells goods in large quantities to other businesses, who then sell them to the general public (wholesale price, wholesaling)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "wholesaler: a person or company that sells goods in large quantities to other businesses, who then sell them to the general public (wholesale price, wholesaling)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "wholesaler"
+    },
+    {
+     "id": "o1",
+     "text": "mail order"
+    },
+    {
+     "id": "o2",
+     "text": "perishable"
+    },
+    {
+     "id": "o3",
+     "text": "distribution channel / chain"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q116",
+   "objective": "Sales and distribution vocabulary",
+   "family": "v-wholesaler",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „wholesaler“ mean?",
+   "solution": "wholesaler – a person or company that sells goods in large quantities to other businesses, who then sell them to the general public (wholesale price, wholesaling)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "wholesaler: a person or company that sells goods in large quantities to other businesses, who then sell them to the general public (wholesale price, wholesaling)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the system of paying for goods when they are delivered (AE collect on delivery)"
+    },
+    {
+     "id": "o1",
+     "text": "material in which goods are packed for delivery"
+    },
+    {
+     "id": "o2",
+     "text": "a person or company that sells goods in large quantities to other businesses, who then sell them to the general public (wholesale price, wholesaling)"
+    },
+    {
+     "id": "o3",
+     "text": "a discount on the retail price agreed between traders"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  }
+ ]
+}

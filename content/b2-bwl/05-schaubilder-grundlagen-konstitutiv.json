@@ -1,0 +1,2697 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b2-05-schaubilder-grundlagen",
+ "title": "B2 · Schaubilder 1: Grundlagen + konstitutive Entscheidungen",
+ "course": "B2 Grundlagen der Betriebswirtschaftslehre",
+ "examType": "Klausur",
+ "topic": "Schaubilder",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Abb. 1-1 Haushalte und Betriebe",
+   "family": "abb1-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-1: Haushalte und Betriebe",
+   "solution": "Wirtschaftssubjekte teilen sich in zwei Äste:\n• Haushalte = Konsumtionswirtschaften (decken EIGENE Bedarfe) → private und öffentliche Haushalte\n• Betriebe = Produktionswirtschaften (decken FREMDE Bedarfe) → öffentliche Betriebe und Unternehmen\nMerksatz: Haushalt konsumiert für sich, Betrieb produziert für andere.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-1 Haushalte und Betriebe",
+   "page": 10,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q2",
+   "objective": "Abb. 1-1 Haushalte und Betriebe",
+   "family": "abb1-1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-1: Welche zwei Arten von Betrieben stehen unter „Betriebe“?",
+   "solution": "Betriebe → öffentliche Betriebe | Unternehmen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-1 Haushalte und Betriebe",
+   "page": 10,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kooperationen und Konzerne"
+    },
+    {
+     "id": "o1",
+     "text": "Sach- und Dienstleistungsbetriebe"
+    },
+    {
+     "id": "o2",
+     "text": "Öffentliche Betriebe und Unternehmen"
+    },
+    {
+     "id": "o3",
+     "text": "Private und öffentliche Haushalte"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Abb. 1-1 Haushalte und Betriebe",
+   "family": "abb1-1",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Zeichne Schaubild 1-1 (Haushalte und Betriebe) aus dem Kopf nach.",
+   "solution": "Wirtschaftssubjekte → (1) Haushalte: Konsumtionswirtschaften, eigene Bedarfe → private / öffentliche Haushalte; (2) Betriebe: Produktionswirtschaften, fremde Bedarfe → öffentliche Betriebe / Unternehmen.",
+   "rubric": "Beide Äste, je Kennzeichen (eigene/fremde Bedarfe), je zwei Unterarten.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-1 Haushalte und Betriebe",
+   "page": 10,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q4",
+   "objective": "Abb. 1-2 Unterteilung nach Güterart",
+   "family": "abb1-2",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-2: Unternehmen nach Güterart",
+   "solution": "Sachleistungsunternehmen bilden eine Kette:\nGewinnungsbetriebe (Urprodukte, z. B. Bergbau) → Aufbereitungsbetriebe (Zwischenprodukte, z. B. Stahlwerk) → Verarbeitungsbetriebe (Endprodukte, z. B. Autohersteller).\nDaneben stehen Dienstleistungsunternehmen, die auf jeder Stufe tätig sein können.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-2 Unterteilung nach Güterart",
+   "page": 12,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q5",
+   "objective": "Abb. 1-2 Unterteilung nach Güterart",
+   "family": "abb1-2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-2: Ein Stahlwerk, das Erz zu Stahlblech verarbeitet, ist …",
+   "solution": "Gewinnung → Aufbereitung → Verarbeitung; Stahl ist Zwischenprodukt.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-2 Unterteilung nach Güterart",
+   "page": 12,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "ein Gewinnungsbetrieb (Urprodukte)"
+    },
+    {
+     "id": "o1",
+     "text": "ein Verarbeitungsbetrieb (Endprodukte)"
+    },
+    {
+     "id": "o2",
+     "text": "ein Aufbereitungsbetrieb (Zwischenprodukte)"
+    },
+    {
+     "id": "o3",
+     "text": "ein Dienstleistungsunternehmen"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Abb. 1-2 Unterteilung nach Güterart",
+   "family": "abb1-2",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die drei Stufen der Sachleistungsunternehmen in Schaubild 1-2 in der richtigen Reihenfolge mit ihrem Produkt.",
+   "solution": "Gewinnungsbetriebe (Urprodukte) → Aufbereitungsbetriebe (Zwischenprodukte) → Verarbeitungsbetriebe (Endprodukte); daneben Dienstleistungsunternehmen.",
+   "rubric": "Drei Stufen, Reihenfolge, je Produktart.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-2 Unterteilung nach Güterart",
+   "page": 12,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q7",
+   "objective": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "family": "abb1-3",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-3: Lebens- und Entwicklungsphasen",
+   "solution": "Lebensphasen: Gründung → Umsatz → Auflösung.\nIn der Umsatzphase laufen die Entwicklungsphasen:\n1. Pionierphase\n2. Markterschließung\n3. Diversifikation (bis hier: innere Unternehmensentwicklung)\n4. Akquisition\n5. Kooperation (äußere Unternehmensentwicklung)\n6. Restrukturierung (innere UND äußere Entwicklung)\nEselsbrücke: „Pioniere Machen Dinge, Alle Kooperieren – Restart“.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "page": 13,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q8",
+   "objective": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "family": "abb1-3o",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-3: Welche Entwicklungsphase folgt auf die Markterschließung?",
+   "solution": "Pionier → Markterschließung → Diversifikation → Akquisition → Kooperation → Restrukturierung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "page": 13,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Pionierphase"
+    },
+    {
+     "id": "o1",
+     "text": "Restrukturierung"
+    },
+    {
+     "id": "o2",
+     "text": "Diversifikation"
+    },
+    {
+     "id": "o3",
+     "text": "Akquisition"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "family": "abb1-3m",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 1-3: Welche Entwicklungsphasen zählen zur ÄUSSEREN Unternehmensentwicklung?",
+   "solution": "Äußere: Akquisition, Kooperation. Innere: Pionier, Markterschließung, Diversifikation. Restrukturierung: beides.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "page": 13,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kooperation"
+    },
+    {
+     "id": "o1",
+     "text": "Akquisition"
+    },
+    {
+     "id": "o2",
+     "text": "Markterschließung"
+    },
+    {
+     "id": "o3",
+     "text": "Diversifikation"
+    },
+    {
+     "id": "o4",
+     "text": "Pionierphase"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "family": "abb1-3o",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-3: In welcher Lebensphase finden die Entwicklungsphasen statt?",
+   "solution": "Gründung → Umsatz (mit Entwicklungsphasen) → Auflösung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "page": 13,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Umsatzphase"
+    },
+    {
+     "id": "o1",
+     "text": "Gründungsphase"
+    },
+    {
+     "id": "o2",
+     "text": "Auflösungsphase"
+    },
+    {
+     "id": "o3",
+     "text": "In allen drei gleichermaßen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "family": "abb1-3",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Zähle alle sechs Entwicklungsphasen aus Schaubild 1-3 in Reihenfolge auf und ordne innere/äußere Entwicklung zu.",
+   "solution": "Pionierphase, Markterschließung, Diversifikation (innere); Akquisition, Kooperation (äußere); Restrukturierung (innere und äußere).",
+   "rubric": "Sechs Phasen in Reihenfolge, korrekte Zuordnung.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-3 Lebens- und Entwicklungsphasen",
+   "page": 13,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q12",
+   "objective": "Abb. 1-4 / 1-5 Transformation und Güterarten",
+   "family": "abb1-4",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-4: Transformationsprozess",
+   "solution": "Input (z. B. Mitarbeiter, Material) → Transformation (Fabrik) → Output (z. B. Auto).\nHintergrund: knappe Mittel stehen unendlichen Bedürfnissen gegenüber – dazwischen liegt das Wirtschaften.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-4 / 1-5 Transformation und Güterarten",
+   "page": 17,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q13",
+   "objective": "Abb. 1-4 / 1-5 Transformation und Güterarten",
+   "family": "abb1-5",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-5: Güterarten",
+   "solution": "Oberste Trennung: Realgüter vs. Nominalgüter (Geld).\nInputgüter (Gebrauchsgüter, Verbrauchsgüter) gehen in die Produktion des Betriebs (Investitionsgüter). Outputgüter: Verrichtungen, Erzeugnisse (unfertig/fertig), Eigenleistungen, Waren. Abgesetzt werden Dienstleistungen (aus Verrichtungen) und Sachleistungen (aus Erzeugnissen). Im Haushalt: Konsumgüter → Bedarfsdeckung.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-4 / 1-5 Transformation und Güterarten",
+   "page": 17,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q14",
+   "objective": "Abb. 1-4 / 1-5 Transformation und Güterarten",
+   "family": "abb1-5",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-5: Woraus entstehen beim Absatz Dienstleistungen?",
+   "solution": "Verrichtungen → Dienstleistungen; Erzeugnisse → Sachleistungen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-4 / 1-5 Transformation und Güterarten",
+   "page": 17,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Aus Erzeugnissen"
+    },
+    {
+     "id": "o1",
+     "text": "Aus Nominalgütern"
+    },
+    {
+     "id": "o2",
+     "text": "Aus Waren"
+    },
+    {
+     "id": "o3",
+     "text": "Aus Verrichtungen"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Abb. 1-4 / 1-5 Transformation und Güterarten",
+   "family": "abb1-5b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-5: Geld gehört zu den …",
+   "solution": "Realgüter vs. Nominalgüter (Geld, Forderungen).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-4 / 1-5 Transformation und Güterarten",
+   "page": 17,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Verbrauchsgütern"
+    },
+    {
+     "id": "o1",
+     "text": "Konsumgütern"
+    },
+    {
+     "id": "o2",
+     "text": "Realgütern"
+    },
+    {
+     "id": "o3",
+     "text": "Nominalgütern"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
+   "family": "abb1-6",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-6: Marktumfeld des Betriebs",
+   "solution": "Betrieb in der Mitte, vier Märkte drumherum:\n• oben Arbeitsmärkte\n• links Beschaffungsmärkte\n• rechts Absatzmärkte\n• unten Geld- und Kapitalmärkte",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
+   "page": 21,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q17",
+   "objective": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
+   "family": "abb1-6",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 1-6: Welche vier Märkte umgeben den Betrieb?",
+   "solution": "Arbeits-, Beschaffungs-, Absatz-, Geld-/Kapitalmärkte.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
+   "page": 21,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Arbeitsmärkte"
+    },
+    {
+     "id": "o1",
+     "text": "Rechtsmärkte"
+    },
+    {
+     "id": "o2",
+     "text": "Beschaffungsmärkte"
+    },
+    {
+     "id": "o3",
+     "text": "Standortmärkte"
+    },
+    {
+     "id": "o4",
+     "text": "Geld- und Kapitalmärkte"
+    },
+    {
+     "id": "o5",
+     "text": "Absatzmärkte"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o2",
+    "o4",
+    "o5"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
+   "family": "abb1-7",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-7: Anspruchsgruppen (Stakeholder)",
+   "solution": "Intern: Manager, Mitarbeiter.\nExtern: Staat und Gesellschaft, Konkurrenten, Lieferanten, Kunden, Fremdkapitalgeber, Eigenkapitalgeber.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
+   "page": 21,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q19",
+   "objective": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
+   "family": "abb1-7",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 1-7: Welche Stakeholder sind INTERN?",
+   "solution": "Intern nur Manager und Mitarbeiter; Eigenkapitalgeber stehen extern.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-6 Marktumfeld / Abb. 1-7 Stakeholder",
+   "page": 21,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kunden"
+    },
+    {
+     "id": "o1",
+     "text": "Mitarbeiter"
+    },
+    {
+     "id": "o2",
+     "text": "Eigenkapitalgeber"
+    },
+    {
+     "id": "o3",
+     "text": "Manager"
+    },
+    {
+     "id": "o4",
+     "text": "Lieferanten"
+    }
+   ],
+   "correct": [
+    "o1",
+    "o3"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Abb. 1-8 Einordnung der BWL",
+   "family": "abb1-8",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-8: Einordnung der BWL in die Wissenschaften",
+   "solution": "Wissenschaften → Realwissenschaften | Idealwissenschaften (Logik, Mathematik) | Metaphysische Wissenschaften (Philosophie, Theologie).\nRealwissenschaften → Naturwissenschaften und Geisteswissenschaften → Sozialwissenschaften → Wirtschaftswissenschaften → BWL und VWL (daneben Soziologie, Politologie; Recht, Kunst).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-8 Einordnung der BWL",
+   "page": 8,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q21",
+   "objective": "Abb. 1-8 Einordnung der BWL",
+   "family": "abb1-8",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-8: Zu welcher Gruppe gehört die Mathematik?",
+   "solution": "Idealwissenschaften: Logik, Mathematik.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-8 Einordnung der BWL",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Idealwissenschaften"
+    },
+    {
+     "id": "o1",
+     "text": "Sozialwissenschaften"
+    },
+    {
+     "id": "o2",
+     "text": "Realwissenschaften"
+    },
+    {
+     "id": "o3",
+     "text": "Metaphysische Wissenschaften"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q22",
+   "objective": "Abb. 1-8 Einordnung der BWL",
+   "family": "abb1-8b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-8: Welche Kette ist richtig?",
+   "solution": "BWL ist eine Real-, Geistes-, Sozial- und Wirtschaftswissenschaft.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-8 Einordnung der BWL",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Realwiss. → Geisteswiss. → Sozialwiss. → Wirtschaftswiss. → BWL"
+    },
+    {
+     "id": "o1",
+     "text": "Naturwiss. → Wirtschaftswiss. → BWL"
+    },
+    {
+     "id": "o2",
+     "text": "Metaphysische Wiss. → Wirtschaftswiss. → BWL"
+    },
+    {
+     "id": "o3",
+     "text": "Idealwiss. → Sozialwiss. → BWL"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q23",
+   "objective": "Abb. 1-9 Normativer Rahmen",
+   "family": "abb1-9",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-9: Elemente des normativen Rahmens (Weg-Bild)",
+   "solution": "Stell dir einen Weg vor:\n• Unternehmensidentität = wo das Unternehmen heute steht (Startpunkt)\n• Mission = der Weg / Zweck\n• Zielsystem = Etappen auf dem Weg\n• Vision = das Ziel am Horizont\n• Unternehmensgrundsätze = Leitplanken links und rechts des Weges.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-9 Normativer Rahmen",
+   "page": 25,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q24",
+   "objective": "Abb. 1-9 Normativer Rahmen",
+   "family": "abb1-9",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-9: Was bilden die Unternehmensgrundsätze im Weg-Bild?",
+   "solution": "Grundsätze = Leitplanken; Vision = Horizont; Identität = Start; Zielsystem = Etappen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-9 Normativer Rahmen",
+   "page": 25,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Die Etappen"
+    },
+    {
+     "id": "o1",
+     "text": "Den Startpunkt"
+    },
+    {
+     "id": "o2",
+     "text": "Die Leitplanken/den Korridor des Weges"
+    },
+    {
+     "id": "o3",
+     "text": "Den Horizont"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Abb. 1-9 Normativer Rahmen",
+   "family": "abb1-9b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-9: Was liegt „am Horizont“?",
+   "solution": "Vision = Zukunftsbild am Horizont.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-9 Normativer Rahmen",
+   "page": 25,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Vision"
+    },
+    {
+     "id": "o1",
+     "text": "Zielsystem"
+    },
+    {
+     "id": "o2",
+     "text": "Mission"
+    },
+    {
+     "id": "o3",
+     "text": "Unternehmensidentität"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Abb. 1-9 Normativer Rahmen",
+   "family": "abb1-9",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Beschreibe Schaubild 1-9 mit allen fünf Elementen und ihrer Lage im Weg-Bild.",
+   "solution": "Identität (heute, unten/Start) → Mission (Weg/Zweck) → Zielsystem (Etappen) → Vision (Horizont); Grundsätze = Leitplanken des Wegs.",
+   "rubric": "Fünf Elemente, je richtige Lage.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-9 Normativer Rahmen",
+   "page": 25,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q27",
+   "objective": "Abb. 1-10 Mögliche Handlungsziele",
+   "family": "abb1-10",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-10: Mögliche Handlungsziele",
+   "solution": "Sechs Zielgruppen:\n• Erfolgsziele: Gewinn, Eigenkapital-, Gesamtkapitalrentabilität\n• Finanzziele: Zahlungsfähigkeit, Kapitalstruktur, Kreditwürdigkeit, Unternehmenswert\n• Produkt- und Marktziele: Produktprogramm, Umsatzerlös, Marktanteil\n• Soziale Ziele: Arbeitszufriedenheit, Personalentwicklung, Arbeitsplätze, Einkommen/Pensionen\n• Macht- und Prestigeziele: Unabhängigkeit, politischer Einfluss, Image, Tradition\n• Ökologische Ziele: Umweltschutz, Ressourcenschonung",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-10 Mögliche Handlungsziele",
+   "page": 35,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q28",
+   "objective": "Abb. 1-10 Mögliche Handlungsziele",
+   "family": "abb1-10a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-10: „Kreditwürdigkeit“ gehört zu den …",
+   "solution": "Finanzziele: Zahlungsfähigkeit, Kapitalstruktur, Kreditwürdigkeit, Unternehmenswert.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-10 Mögliche Handlungsziele",
+   "page": 35,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Finanzzielen"
+    },
+    {
+     "id": "o1",
+     "text": "Sozialen Zielen"
+    },
+    {
+     "id": "o2",
+     "text": "Macht- und Prestigezielen"
+    },
+    {
+     "id": "o3",
+     "text": "Erfolgszielen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q29",
+   "objective": "Abb. 1-10 Mögliche Handlungsziele",
+   "family": "abb1-10b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-10: „Marktanteil“ gehört zu den …",
+   "solution": "Produkt-/Marktziele: Produktprogramm, Umsatzerlös, Marktanteil.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-10 Mögliche Handlungsziele",
+   "page": 35,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Produkt- und Marktzielen"
+    },
+    {
+     "id": "o1",
+     "text": "Macht- und Prestigezielen"
+    },
+    {
+     "id": "o2",
+     "text": "Finanzzielen"
+    },
+    {
+     "id": "o3",
+     "text": "Erfolgszielen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q30",
+   "objective": "Abb. 1-10 Mögliche Handlungsziele",
+   "family": "abb1-10c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-10: „Unternehmensimage“ gehört zu den …",
+   "solution": "Macht/Prestige: Unabhängigkeit, politischer Einfluss, Image, Tradition.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-10 Mögliche Handlungsziele",
+   "page": 35,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sozialen Zielen"
+    },
+    {
+     "id": "o1",
+     "text": "Macht- und Prestigezielen"
+    },
+    {
+     "id": "o2",
+     "text": "Produkt- und Marktzielen"
+    },
+    {
+     "id": "o3",
+     "text": "Ökologischen Zielen"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q31",
+   "objective": "Abb. 1-10 Mögliche Handlungsziele",
+   "family": "abb1-10d",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 1-10: Welche Ziele sind Erfolgsziele?",
+   "solution": "Zahlungsfähigkeit = Finanzziel, Umsatzerlös = Produkt-/Marktziel.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-10 Mögliche Handlungsziele",
+   "page": 35,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Eigenkapitalrentabilität"
+    },
+    {
+     "id": "o1",
+     "text": "Gesamtkapitalrentabilität"
+    },
+    {
+     "id": "o2",
+     "text": "Umsatzerlös"
+    },
+    {
+     "id": "o3",
+     "text": "Zahlungsfähigkeit"
+    },
+    {
+     "id": "o4",
+     "text": "Gewinn"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o4"
+   ]
+  },
+  {
+   "id": "q32",
+   "objective": "Abb. 1-10 Mögliche Handlungsziele",
+   "family": "abb1-10",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die sechs Zielgruppen aus Schaubild 1-10 mit je einem Beispiel.",
+   "solution": "Erfolgsziele (Gewinn), Finanzziele (Zahlungsfähigkeit), Produkt-/Marktziele (Marktanteil), Soziale Ziele (Arbeitszufriedenheit), Macht-/Prestigeziele (Image), Ökologische Ziele (Umweltschutz).",
+   "rubric": "Sechs Gruppen, passende Beispiele.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-10 Mögliche Handlungsziele",
+   "page": 35,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q33",
+   "objective": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "family": "abb1-12",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 1-12: Das 4-Ebenen-Modell (von außen nach innen)",
+   "solution": "I Konstitutive Entscheidungen (Entscheidungstheorie; Standort, Rechtsform, zwischenbetriebliche Verbindungen)\nII Unternehmensführung (Unternehmensverfassung; Organisation – Abläufe/Aufbau, Personalmanagement – Einsatz/Führung, Controlling – Planung/Kontrolle)\nIII Rechnungs- und Finanzwesen = Nominalgüter (internes Rewe; Investition, Finanzierung; externes Rewe)\nIV Leistungserstellung = Realgüter (Innovationsmanagement; Beschaffung, Logistik, Produktion, Marketing)\nAußen: Lieferanten (links), Kunden (rechts), Staat und Eigen-/Fremdkapitalgeber (unten).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "page": 38,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q34",
+   "objective": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "family": "abb1-12a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-12: Auf welcher Ebene liegt das Controlling?",
+   "solution": "Ebene II: Organisation, Personalmanagement, Controlling.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "IV Leistungserstellung"
+    },
+    {
+     "id": "o1",
+     "text": "II Unternehmensführung"
+    },
+    {
+     "id": "o2",
+     "text": "I Konstitutive Entscheidungen"
+    },
+    {
+     "id": "o3",
+     "text": "III Rechnungs- und Finanzwesen"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q35",
+   "objective": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "family": "abb1-12b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-12: Auf welcher Ebene liegt die Rechtsformentscheidung?",
+   "solution": "Ebene I: Standort, Rechtsform, zwischenbetriebliche Verbindungen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "III Rechnungs- und Finanzwesen"
+    },
+    {
+     "id": "o1",
+     "text": "II Unternehmensführung"
+    },
+    {
+     "id": "o2",
+     "text": "IV Leistungserstellung"
+    },
+    {
+     "id": "o3",
+     "text": "I Konstitutive Entscheidungen"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q36",
+   "objective": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "family": "abb1-12c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-12: Welche Ebene befasst sich mit Nominalgütern?",
+   "solution": "III = Nominalgüter (Geld), IV = Realgüter.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "II Unternehmensführung"
+    },
+    {
+     "id": "o1",
+     "text": "IV Leistungserstellung"
+    },
+    {
+     "id": "o2",
+     "text": "III Rechnungs- und Finanzwesen"
+    },
+    {
+     "id": "o3",
+     "text": "I Konstitutive Entscheidungen"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q37",
+   "objective": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "family": "abb1-12d",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 1-12: Was gehört zur Ebene IV Leistungserstellung?",
+   "solution": "Investition = III, Organisation = II.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "page": 38,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Beschaffung"
+    },
+    {
+     "id": "o1",
+     "text": "Marketing"
+    },
+    {
+     "id": "o2",
+     "text": "Innovationsmanagement"
+    },
+    {
+     "id": "o3",
+     "text": "Organisation"
+    },
+    {
+     "id": "o4",
+     "text": "Produktion"
+    },
+    {
+     "id": "o5",
+     "text": "Investition"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o4"
+   ]
+  },
+  {
+   "id": "q38",
+   "objective": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "family": "abb1-12e",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 1-12: Welche Begriffe stehen beim Personalmanagement?",
+   "solution": "Organisation: Abläufe/Aufbau; Personal: Einsatz/Führung; Controlling: Planung/Kontrolle.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Abläufe und Aufbau"
+    },
+    {
+     "id": "o1",
+     "text": "Planung und Kontrolle"
+    },
+    {
+     "id": "o2",
+     "text": "Einsatz und Führung"
+    },
+    {
+     "id": "o3",
+     "text": "Steuern und Zinsen"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q39",
+   "objective": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "family": "abb1-12",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Zeichne das 4-Ebenen-Modell grob nach: vier Ebenen mit Inhalten und die Akteure außen herum.",
+   "solution": "I Konstitutive Entscheidungen (Standort, Rechtsform, zw. Verbindungen); II Unternehmensführung (Verfassung; Organisation, Personal, Controlling); III Rechnungs-/Finanzwesen (internes Rewe, Investition, Finanzierung, externes Rewe); IV Leistungserstellung (Innovation, Beschaffung, Logistik, Produktion, Marketing). Lieferanten links, Kunden rechts, Staat und Kapitalgeber unten.",
+   "rubric": "Reihenfolge der Ebenen, Kerninhalte, Umfeld.",
+   "sourceTitle": "Moodle B2 · Vahs Grundlagen (Folien)",
+   "sourceQuote": "Abb. 1-12 4-Ebenen-Modell der BWL",
+   "page": 38,
+   "seconds": 240,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q40",
+   "objective": "Abb. I-1 Konstitutive Entscheidungen",
+   "family": "abbI-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild I-1: Konstitutive Entscheidungen",
+   "solution": "Oberste Ebene des 4-Ebenen-Modells. Definition: grundlegende, schwer revidierbare Entscheidungen, die den langfristigen Handlungsrahmen für viele Folgeentscheidungen festlegen.\nGründungsphase: Standort, Rechtsform.\nUmsatzphase: weitere Standorte, Wechsel der Rechtsform, Standorte/Rechtsformen von Töchtern, zwischenbetriebliche Verbindungen.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. I-1 Konstitutive Entscheidungen",
+   "page": 3,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q41",
+   "objective": "Abb. I-1 Konstitutive Entscheidungen",
+   "family": "abbI-1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche konstitutive Entscheidung fällt typischerweise erst in der Umsatzphase an?",
+   "solution": "Gründung: Standort + Rechtsform; Umsatzphase u. a. zwischenbetriebliche Verbindungen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. I-1 Konstitutive Entscheidungen",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Keine – alle fallen bei Gründung"
+    },
+    {
+     "id": "o1",
+     "text": "Erste Festlegung der Rechtsform"
+    },
+    {
+     "id": "o2",
+     "text": "Erste Festlegung des Standorts"
+    },
+    {
+     "id": "o3",
+     "text": "Entscheidung über zwischenbetriebliche Verbindungen"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q42",
+   "objective": "Hinweis Prüfungsrelevanz Kap. 3–5",
+   "family": "hinweis",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Achtung Prüfungsumfang (durchgestrichene Kapitel)",
+   "solution": "Auf den Folien hat der Dozent in den Kapitelnavigatoren durchgestrichen:\n• Kap. 3: 3.3 Operative Standortplanung und 3.4 Kennzahlen\n• Kap. 4: 4.2–4.5 (Einzelunternehmen, Personen-, Kapitalgesellschaften, Stiftungen)\n• Kap. 5: 5.2–5.4 (Formen der Kooperation/Konzentration, besondere Ausprägungen)\nSchwerpunkt also: jeweils die Grundlagen-Kapitel und deren Schaubilder.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Hinweis Prüfungsrelevanz Kap. 3–5",
+   "page": 7,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q43",
+   "objective": "Abb. 3-1 Internationalisierungsstufen",
+   "family": "abb3-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 3-1: Internationalisierungsstufen",
+   "solution": "1. Nationale Einbetrieb-U.: ein Standort im Inland\n2. Nationale Mehrbetrieb-U.: mehrere Standorte im Inland\n3. Internationale Mehrbetrieb-U.: mehrere Standorte im Inland + Export\n4. Multinationale Mehrbetrieb-U.: mehrere Standorte im In- und Ausland",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-1 Internationalisierungsstufen",
+   "page": 9,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q44",
+   "objective": "Abb. 3-1 Internationalisierungsstufen",
+   "family": "abb3-1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-1: Mehrere Standorte nur in Deutschland, aber Export ins Ausland – welche Stufe?",
+   "solution": "International = Inland + Export; multinational = Standorte auch im Ausland.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-1 Internationalisierungsstufen",
+   "page": 9,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Multinationales Mehrbetrieb-Unternehmen"
+    },
+    {
+     "id": "o1",
+     "text": "Internationales Mehrbetrieb-Unternehmen"
+    },
+    {
+     "id": "o2",
+     "text": "Nationales Einbetrieb-Unternehmen"
+    },
+    {
+     "id": "o3",
+     "text": "Nationales Mehrbetrieb-Unternehmen"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q45",
+   "objective": "Abb. 3-1 Internationalisierungsstufen",
+   "family": "abb3-1",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die vier Internationalisierungsstufen aus Schaubild 3-1 mit Kennzeichen.",
+   "solution": "Nationales Einbetrieb-U. (1 Standort Inland); nationales Mehrbetrieb-U. (mehrere Standorte Inland); internationales Mehrbetrieb-U. (mehrere Standorte Inland + Export); multinationales Mehrbetrieb-U. (Standorte im In- und Ausland).",
+   "rubric": "Vier Stufen in Reihenfolge mit Kennzeichen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-1 Internationalisierungsstufen",
+   "page": 9,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q46",
+   "objective": "Abb. 3-2 Ziele von Standortentscheidungen",
+   "family": "abb3-2",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 3-2: Ziele von Standortentscheidungen",
+   "solution": "• Wachstumsziele (Errichtung/Erweiterung): Beschaffungsquellen, Produktionskapazitäten, Produktsortiment, Absatzmärkte\n• Strukturveränderungsziele (Aufteilung/Verlagerung/Vereinigung): Erfahrungskurve, Arbeitskosten, Transportkosten, JIT-Belieferung, Verkehrssituation, Importbeschränkungen, Wechselkurse, Marktnähe, rechtliche Restriktionen, Subventionen, Steuern\n• Schrumpfungsziele ((Teil-)Stilllegung): Produktionskapazitäten, Produktsortiment",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-2 Ziele von Standortentscheidungen",
+   "page": 11,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q47",
+   "objective": "Abb. 3-2 Ziele von Standortentscheidungen",
+   "family": "abb3-2a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-2: Ein Werk wird ins Ausland verlagert, um Wechselkurseinflüsse zu vermeiden. Zielart?",
+   "solution": "Wechselkurse stehen bei den Strukturveränderungszielen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-2 Ziele von Standortentscheidungen",
+   "page": 11,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Wachstumsziel"
+    },
+    {
+     "id": "o1",
+     "text": "Strukturveränderungsziel"
+    },
+    {
+     "id": "o2",
+     "text": "Erfolgsziel"
+    },
+    {
+     "id": "o3",
+     "text": "Schrumpfungsziel"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q48",
+   "objective": "Abb. 3-2 Ziele von Standortentscheidungen",
+   "family": "abb3-2b",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 3-2: Was steht bei den Wachstumszielen?",
+   "solution": "Subventionen und Arbeitskosten = Strukturveränderungsziele.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-2 Ziele von Standortentscheidungen",
+   "page": 11,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Produktsortiment"
+    },
+    {
+     "id": "o1",
+     "text": "Absatzmärkte"
+    },
+    {
+     "id": "o2",
+     "text": "Produktionskapazitäten"
+    },
+    {
+     "id": "o3",
+     "text": "Beschaffungsquellen"
+    },
+    {
+     "id": "o4",
+     "text": "Arbeitskosten"
+    },
+    {
+     "id": "o5",
+     "text": "Subventionen"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q49",
+   "objective": "Abb. 3-2 Ziele von Standortentscheidungen",
+   "family": "abb3-2",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die drei Zielarten aus Schaubild 3-2 mit der zugehörigen Standortmaßnahme.",
+   "solution": "Wachstumsziele – Errichtung/Erweiterung; Strukturveränderungsziele – Aufteilung/Verlagerung/Vereinigung; Schrumpfungsziele – (Teil-)Stilllegung.",
+   "rubric": "Drei Zielarten mit Maßnahmen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-2 Ziele von Standortentscheidungen",
+   "page": 11,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q50",
+   "objective": "Abb. 3-3 Standortplanung",
+   "family": "abb3-3",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 3-3: Vorgehensweise der Standortplanung",
+   "solution": "STRATEGISCH (Staaten, Regionen): internationale Angebotsstruktur (wo soll was in welcher Menge angeboten werden?) → internationale Standortstruktur (Verteilung von Produkten, Funktionen, Produktionsstufen).\nOPERATIV (Regionen, Städte, Grundstücke): Ist- vs. Soll-Standortstruktur → Standortmaßnahmen (Wachstum, Strukturveränderung, Schrumpfung) → Stilllegung/Erweiterung + Errichtung → Standortbestimmung.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-3 Standortplanung",
+   "page": 13,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q51",
+   "objective": "Abb. 3-3 Standortplanung",
+   "family": "abb3-3a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-3: Was steht am Anfang der strategischen Standortplanung?",
+   "solution": "Angebotsstruktur → Standortstruktur → (operativ) Maßnahmen → Bestimmung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-3 Standortplanung",
+   "page": 13,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Die internationale Angebotsstruktur (wo soll was in welcher Menge angeboten werden?)"
+    },
+    {
+     "id": "o1",
+     "text": "Die Ist-Standortstruktur"
+    },
+    {
+     "id": "o2",
+     "text": "Die Standortbestimmung"
+    },
+    {
+     "id": "o3",
+     "text": "Die Stilllegung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q52",
+   "objective": "Abb. 3-3 Standortplanung",
+   "family": "abb3-3b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-3: Auf welcher Ebene wird über Grundstücke entschieden?",
+   "solution": "Strategisch: Staaten/Regionen; operativ: Regionen, Städte, Grundstücke.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-3 Standortplanung",
+   "page": 13,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Operative Standortplanung"
+    },
+    {
+     "id": "o1",
+     "text": "Normativer Rahmen"
+    },
+    {
+     "id": "o2",
+     "text": "Gar nicht"
+    },
+    {
+     "id": "o3",
+     "text": "Strategische Standortplanung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q53",
+   "objective": "Abb. 3-4 Grundformen der Standortstruktur",
+   "family": "abb3-4",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 3-4: Grundformen der Standortstruktur (2×2-Matrix)",
+   "solution": "x-Achse: Leistungsart (zusammengefasst ↔ aufgeteilt); y-Achse: Leistungsmenge (zusammengefasst ↔ aufgeteilt).\n• Art zus. + Menge zus. = Standorteinheit (alles an einem Ort)\n• Art aufgeteilt + Menge zus. = Standortteilung (verschiedene Funktionen an verschiedenen Orten)\n• Art zus. + Menge aufgeteilt = Standortspaltung (dasselbe an mehreren Orten)\n• beides aufgeteilt = Standortdiversifikation",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-4 Grundformen der Standortstruktur",
+   "page": 13,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q54",
+   "objective": "Abb. 3-4 Grundformen der Standortstruktur",
+   "family": "abb3-4a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-4: Leistungsart aufgeteilt, Leistungsmenge zusammengefasst ergibt …",
+   "solution": "Art aufgeteilt = Teilung; Menge aufgeteilt = Spaltung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-4 Grundformen der Standortstruktur",
+   "page": 13,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Standortteilung"
+    },
+    {
+     "id": "o1",
+     "text": "Standortdiversifikation"
+    },
+    {
+     "id": "o2",
+     "text": "Standortspaltung"
+    },
+    {
+     "id": "o3",
+     "text": "Standorteinheit"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q55",
+   "objective": "Abb. 3-4 Grundformen der Standortstruktur",
+   "family": "abb3-4b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-4: Beide Achsen „aufgeteilt“ ergibt …",
+   "solution": "Oben rechts in der Matrix.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-4 Grundformen der Standortstruktur",
+   "page": 13,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Standortspaltung"
+    },
+    {
+     "id": "o1",
+     "text": "Standortteilung"
+    },
+    {
+     "id": "o2",
+     "text": "Standortdiversifikation"
+    },
+    {
+     "id": "o3",
+     "text": "Standorteinheit"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q56",
+   "objective": "Abb. 3-4 Grundformen der Standortstruktur",
+   "family": "abb3-4c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Fallstudie Speedy: Hauptentwicklung in Stuttgart, landesspezifische Anpassung lokal; Komponenten aus Leipzig, Montage in USA und Asien. Welche Grundform?",
+   "solution": "Art und Menge sind aufgeteilt (Alternative 3 der Fallstudie).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-4 Grundformen der Standortstruktur",
+   "page": 13,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Standortdiversifikation"
+    },
+    {
+     "id": "o1",
+     "text": "Standortteilung"
+    },
+    {
+     "id": "o2",
+     "text": "Standorteinheit"
+    },
+    {
+     "id": "o3",
+     "text": "Standortspaltung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q57",
+   "objective": "Abb. 3-4 Grundformen der Standortstruktur",
+   "family": "abb3-4",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Zeichne die Matrix aus Schaubild 3-4 mit Achsen und den vier Feldern.",
+   "solution": "x: Leistungsart, y: Leistungsmenge (jeweils Zusammenfassung → Aufteilung). Unten links Standorteinheit, unten rechts Standortteilung, oben links Standortspaltung, oben rechts Standortdiversifikation.",
+   "rubric": "Achsen richtig, vier Felder richtig platziert.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-4 Grundformen der Standortstruktur",
+   "page": 13,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q58",
+   "objective": "Abb. 3-5 Anzahl der Standorte je Funktion",
+   "family": "abb3-5",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 3-5: Anzahl der Standorte je betrieblicher Funktion",
+   "solution": "• Lokal-differenziert: viele Standorte in Kundennähe → Vertrieb, Service\n• Global-lokal: wenige Standorte → Produktion, Einkauf\n• Global-integriert: ein Standort → Unternehmensführung, Personalwesen, Forschung",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-5 Anzahl der Standorte je Funktion",
+   "page": 14,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q59",
+   "objective": "Abb. 3-5 Anzahl der Standorte je Funktion",
+   "family": "abb3-5a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-5: Welche Funktion wird typischerweise „global-integriert“ (ein Standort) geführt?",
+   "solution": "Global-integriert: Führung, Personal, Forschung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-5 Anzahl der Standorte je Funktion",
+   "page": 14,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Service"
+    },
+    {
+     "id": "o1",
+     "text": "Vertrieb"
+    },
+    {
+     "id": "o2",
+     "text": "Forschung"
+    },
+    {
+     "id": "o3",
+     "text": "Einkauf"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q60",
+   "objective": "Abb. 3-5 Anzahl der Standorte je Funktion",
+   "family": "abb3-5b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-5: Vertrieb und Service sind typischerweise …",
+   "solution": "Kundennähe → viele Standorte.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-5 Anzahl der Standorte je Funktion",
+   "page": 14,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "lokal-differenziert (viele Standorte in Kundennähe)"
+    },
+    {
+     "id": "o1",
+     "text": "global-lokal"
+    },
+    {
+     "id": "o2",
+     "text": "global-integriert"
+    },
+    {
+     "id": "o3",
+     "text": "zentral in der Holding"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q61",
+   "objective": "Abb. 3-6 Standortmaßnahmen",
+   "family": "abb3-6",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 3-6: Standortmaßnahmen",
+   "solution": "Wachstum: Errichtung (Off-Site-Expansion), Erweiterung (On-Site-Expansion).\nStrukturveränderung (= Schrumpfung + Wachstum): Aufteilung (Teilstilllegung + Errichtung), Verlagerung (Stilllegung + Errichtung), Vereinigung (Stilllegung + Erweiterung).\nSchrumpfung: Teilstilllegung (On-Site-Contraction), Stilllegung (Off-Site-Contraction).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
+   "page": 14,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q62",
+   "objective": "Abb. 3-6 Standortmaßnahmen",
+   "family": "abb3-6a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-6: Eine Verlagerung besteht aus …",
+   "solution": "Aufteilung = Teilstilllegung + Errichtung; Vereinigung = Stilllegung + Erweiterung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
+   "page": 14,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Teilstilllegung + Errichtung"
+    },
+    {
+     "id": "o1",
+     "text": "Stilllegung + Erweiterung"
+    },
+    {
+     "id": "o2",
+     "text": "Erweiterung + Errichtung"
+    },
+    {
+     "id": "o3",
+     "text": "Stilllegung + Errichtung"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q63",
+   "objective": "Abb. 3-6 Standortmaßnahmen",
+   "family": "abb3-6b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-6: Eine Vereinigung von Standorten besteht aus …",
+   "solution": "Ein Standort schließt, der andere wird erweitert.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
+   "page": 14,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Nur Erweiterung"
+    },
+    {
+     "id": "o1",
+     "text": "Stilllegung + Errichtung"
+    },
+    {
+     "id": "o2",
+     "text": "Teilstilllegung + Errichtung"
+    },
+    {
+     "id": "o3",
+     "text": "Stilllegung + Erweiterung"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q64",
+   "objective": "Abb. 3-6 Standortmaßnahmen",
+   "family": "abb3-6c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-6: „On-Site-Expansion“ bedeutet …",
+   "solution": "On-Site = am bestehenden Ort; Off-Site = neuer Ort.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
+   "page": 14,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Errichtung eines neuen Standorts"
+    },
+    {
+     "id": "o1",
+     "text": "Erweiterung eines bestehenden Standorts"
+    },
+    {
+     "id": "o2",
+     "text": "Verlagerung"
+    },
+    {
+     "id": "o3",
+     "text": "Teilstilllegung"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q65",
+   "objective": "Abb. 3-6 Standortmaßnahmen",
+   "family": "abb3-6",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die drei Strukturveränderungsmaßnahmen aus Schaubild 3-6 und woraus sie jeweils bestehen.",
+   "solution": "Aufteilung = Teilstilllegung + Errichtung; Verlagerung = Stilllegung + Errichtung; Vereinigung = Stilllegung + Erweiterung.",
+   "rubric": "Drei Maßnahmen mit korrekter Zusammensetzung.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-6 Standortmaßnahmen",
+   "page": 14,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q66",
+   "objective": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "family": "abb3-7",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 3-7: Stufen der Standortbestimmung",
+   "solution": "Makrostandort: Staatengemeinschaft (EU, NAFTA) → Staat → nationale Standortfaktoren.\nMikrostandort: Region → Stadt/Gemeinde → Grundstück → regionale Standortfaktoren.\n(Teil von 3.3 operative Planung – laut Folie nicht prüfungsrelevant, aber schnell gelernt.)",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "page": 16,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q67",
+   "objective": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "family": "abb3-7",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-7: Die Wahl der Stadt gehört zur …",
+   "solution": "Makro: Staatengemeinschaft, Staat. Mikro: Region, Stadt, Grundstück.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "page": 16,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Rechtsformwahl"
+    },
+    {
+     "id": "o1",
+     "text": "Mikrostandortbestimmung"
+    },
+    {
+     "id": "o2",
+     "text": "Makrostandortbestimmung"
+    },
+    {
+     "id": "o3",
+     "text": "Strategischen Angebotsstruktur"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q68",
+   "objective": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "family": "abb3-8",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 3-8: Standortfaktoren",
+   "solution": "Definition: entscheidungsrelevante Kriterien, mit denen die Eignung eines Ortes für eine Betriebsstätte geprüft wird.\n• Unternehmensbezogen: gesellschaftliche, politische, rechtliche Situation, Wirtschaftspolitik, staatliche Verwaltung\n• Produktionsbezogen: Arbeitskräfte, Grundstücke/Gebäude, Kapital, öffentliche Infrastruktur, Zuliefererinfrastruktur, Importmöglichkeiten, Klima/Geologie\n• Absatzbezogen: lokale Nachfrage, Konkurrenzsituation, Absatzinfrastruktur, Exportmöglichkeiten",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "page": 16,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q69",
+   "objective": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "family": "abb3-8a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-8: „Konkurrenzsituation“ ist ein …",
+   "solution": "Absatzbezogen: Nachfrage, Konkurrenz, Absatzinfrastruktur, Export.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "page": 16,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "produktionsbezogener Standortfaktor"
+    },
+    {
+     "id": "o1",
+     "text": "absatzbezogener Standortfaktor"
+    },
+    {
+     "id": "o2",
+     "text": "Schrumpfungsziel"
+    },
+    {
+     "id": "o3",
+     "text": "unternehmensbezogener Standortfaktor"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q70",
+   "objective": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "family": "abb3-8b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-8: „Zuliefererinfrastruktur“ ist ein …",
+   "solution": "Produktionsbezogen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "page": 16,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "produktionsbezogener Standortfaktor"
+    },
+    {
+     "id": "o1",
+     "text": "unternehmensbezogener Standortfaktor"
+    },
+    {
+     "id": "o2",
+     "text": "Wachstumsziel"
+    },
+    {
+     "id": "o3",
+     "text": "absatzbezogener Standortfaktor"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q71",
+   "objective": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "family": "abb3-8c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 3-8: „Politische Situation“ ist ein …",
+   "solution": "Unternehmensbezogen: gesellschaftlich, politisch, rechtlich, Wirtschaftspolitik, Verwaltung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "page": 16,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "produktionsbezogener Standortfaktor"
+    },
+    {
+     "id": "o1",
+     "text": "unternehmensbezogener Standortfaktor"
+    },
+    {
+     "id": "o2",
+     "text": "Strukturveränderungsziel"
+    },
+    {
+     "id": "o3",
+     "text": "absatzbezogener Standortfaktor"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q72",
+   "objective": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "family": "lim",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Fallstudie Kap. 3: Was ist ein LIMITATIONALER Standortfaktor?",
+   "solution": "Limitational = K.-o.-Kriterium (z. B. Verfügbarkeit von Ingenieuren); substitutional = ausgleichbar (z. B. Steuerhöhe).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "page": 16,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Ein Schrumpfungsziel"
+    },
+    {
+     "id": "o1",
+     "text": "Ein Faktor, der durch andere Faktoren ersetzt werden kann"
+    },
+    {
+     "id": "o2",
+     "text": "Ein Muss-Kriterium, das nicht durch andere Vorteile ausgeglichen werden kann"
+    },
+    {
+     "id": "o3",
+     "text": "Ein Faktor, der nur für den Vertrieb gilt"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q73",
+   "objective": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "family": "lim2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Fallstudie Kap. 3 (Produktion Off-Road): „Höhe der Steuern“ ist …",
+   "solution": "Steuern können durch andere Vorteile ausgeglichen werden.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 3-7 / 3-8 Standortbestimmung und Standortfaktoren",
+   "page": 16,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "substitutional"
+    },
+    {
+     "id": "o1",
+     "text": "ein Wachstumsziel"
+    },
+    {
+     "id": "o2",
+     "text": "eine Standortmaßnahme"
+    },
+    {
+     "id": "o3",
+     "text": "limitational"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q74",
+   "objective": "Abb. 4-1 / 4-9 Rechtsformen",
+   "family": "abb4-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 4-1: Rechtsformen des privaten Rechts",
+   "solution": "• Einzelunternehmen\n• Personengesellschaften: GbR (CH: einfache Gesellschaft), OHG (A: OG, CH: Kollektivgesellschaft), EWIV, KG\n• Kapitalgesellschaften: GmbH; AG und Societas Europaea (SE)\n• Stiftungen\nDaneben Rechtsformen des öffentlichen Rechts für öffentliche Betriebe.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
+   "page": 30,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q75",
+   "objective": "Abb. 4-1 / 4-9 Rechtsformen",
+   "family": "abb4-1a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 4-1: Zu welcher Gruppe gehört die KG?",
+   "solution": "GbR, OHG, EWIV, KG = Personengesellschaften.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Stiftungen"
+    },
+    {
+     "id": "o1",
+     "text": "Personengesellschaften"
+    },
+    {
+     "id": "o2",
+     "text": "Kapitalgesellschaften"
+    },
+    {
+     "id": "o3",
+     "text": "Öffentliches Recht"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q76",
+   "objective": "Abb. 4-1 / 4-9 Rechtsformen",
+   "family": "abb4-1b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 4-1: Zu welcher Gruppe gehört die Societas Europaea (SE)?",
+   "solution": "Steht neben der AG.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Stiftungen"
+    },
+    {
+     "id": "o1",
+     "text": "Einzelunternehmen"
+    },
+    {
+     "id": "o2",
+     "text": "Personengesellschaften"
+    },
+    {
+     "id": "o3",
+     "text": "Kapitalgesellschaften"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q77",
+   "objective": "Abb. 4-1 / 4-9 Rechtsformen",
+   "family": "abb4-1",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Zeichne Schaubild 4-1: die vier Gruppen privatrechtlicher Rechtsformen mit Beispielen.",
+   "solution": "Einzelunternehmen; Personengesellschaften (GbR, OHG, EWIV, KG); Kapitalgesellschaften (GmbH, AG/SE); Stiftungen.",
+   "rubric": "Vier Gruppen, richtige Beispiele.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
+   "page": 30,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q78",
+   "objective": "Abb. 4-1 / 4-9 Rechtsformen",
+   "family": "abb4-9",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 4-9: Merkmale der GmbH",
+   "solution": "• Mindestens ein Gesellschafter, leistet Stammeinlage\n• Stammkapital mind. 25.000 € (D) / 35.000 € (A) / 20.000 CHF\n• Gewinn/Verlust nach Anteilen\n• Gesellschafter haften nur mittelbar mit ihrer Einlage; die GmbH haftet unbeschränkt gegenüber Gläubigern\n• Geschäftsführung (Gesellschafter oder Dritte) vertritt die Gesellschaft\n• Gesellschafterversammlung bestellt/beruft die Geschäftsführung ab\n• Evtl. Aufsichtsrat/Revisionsstelle",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
+   "page": 30,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q79",
+   "objective": "Abb. 4-1 / 4-9 Rechtsformen",
+   "family": "abb4-9a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 4-9: Wie hoch ist das Mindest-Stammkapital einer GmbH in Deutschland?",
+   "solution": "D 25.000 €, A 35.000 €, CH 20.000 CHF.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "25.000 €"
+    },
+    {
+     "id": "o1",
+     "text": "50.000 €"
+    },
+    {
+     "id": "o2",
+     "text": "35.000 €"
+    },
+    {
+     "id": "o3",
+     "text": "1 €"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q80",
+   "objective": "Abb. 4-1 / 4-9 Rechtsformen",
+   "family": "abb4-9b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 4-9: Wer bestellt und beruft die Geschäftsführung der GmbH ab?",
+   "solution": "Gesellschafterversammlung → Bestellung/Abberufung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Das Handelsregister"
+    },
+    {
+     "id": "o1",
+     "text": "Die Gläubiger"
+    },
+    {
+     "id": "o2",
+     "text": "Die Gesellschafterversammlung"
+    },
+    {
+     "id": "o3",
+     "text": "Der Aufsichtsrat zwingend"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q81",
+   "objective": "Abb. 4-1 / 4-9 Rechtsformen",
+   "family": "abb4-9c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 4-9: Wie haften die GmbH-Gesellschafter?",
+   "solution": "Die GmbH selbst haftet unbeschränkt mit ihrem Vermögen, die Gesellschafter nur mittelbar mit der Einlage.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 4-1 / 4-9 Rechtsformen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Unbeschränkt mit Privatvermögen"
+    },
+    {
+     "id": "o1",
+     "text": "Gar nicht, auch nicht mit der Einlage"
+    },
+    {
+     "id": "o2",
+     "text": "Mittelbar mit ihrer Einlage"
+    },
+    {
+     "id": "o3",
+     "text": "Gesamtschuldnerisch wie bei der OHG"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q82",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 5-1: Merkmale zwischenbetrieblicher Verbindungen",
+   "solution": "• Dauer: befristet / unbefristet\n• Ebene: vertikal / horizontal / diagonal\n• Reichweite: unternehmensweit / bereichsbezogen / funktionsbezogen\n• Wirtschaftliche und rechtliche Selbstständigkeit: Einschränkung / Verlust\n• Bindungsinstrumente: Koordinierung / Strukturveränderung\n• Wettbewerbswirkung: fördernd / neutral / beschränkend",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q83",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-1a",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 5-1: Welche Ausprägungen hat das Merkmal „Reichweite“?",
+   "solution": "Horizontal = Ebene; befristet = Dauer.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Horizontal"
+    },
+    {
+     "id": "o1",
+     "text": "Unternehmensweit"
+    },
+    {
+     "id": "o2",
+     "text": "Bereichsbezogen"
+    },
+    {
+     "id": "o3",
+     "text": "Funktionsbezogen"
+    },
+    {
+     "id": "o4",
+     "text": "Befristet"
+    }
+   ],
+   "correct": [
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q84",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-1b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 5-1: Welche Ausprägungen hat „wirtschaftliche und rechtliche Selbstständigkeit“?",
+   "solution": "Kooperation: Einschränkung; Konzentration: Verlust.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Koordinierung oder Strukturveränderung"
+    },
+    {
+     "id": "o1",
+     "text": "Befristet oder unbefristet"
+    },
+    {
+     "id": "o2",
+     "text": "Einschränkung oder Verlust"
+    },
+    {
+     "id": "o3",
+     "text": "Fördernd oder beschränkend"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q85",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-1",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne möglichst viele der sechs Merkmale aus Schaubild 5-1 mit Ausprägungen.",
+   "solution": "Dauer (befristet/unbefristet); Ebene (vertikal/horizontal/diagonal); Reichweite (unternehmensweit/bereichs-/funktionsbezogen); Selbstständigkeit (Einschränkung/Verlust); Bindungsinstrumente (Koordinierung/Strukturveränderung); Wettbewerbswirkung (fördernd/neutral/beschränkend).",
+   "rubric": "Mind. 5 Merkmale mit Ausprägungen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q86",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-4",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 5-4: Bindungsintensität",
+   "solution": "Von niedrig nach hoch:\nKooperation: Unternehmensverbände → Gelegenheitsgesellschaften → Kartelle → Franchiseunternehmen → Genossenschaften → Gemeinschaftsunternehmen\nKonzentration: Konzerne → fusionierte Unternehmen (höchste Bindung).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q87",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-4a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 5-4: Welche Verbindung hat die NIEDRIGSTE Bindungsintensität?",
+   "solution": "Ganz oben: Unternehmensverbände; ganz unten: Fusion.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Gemeinschaftsunternehmen"
+    },
+    {
+     "id": "o1",
+     "text": "Unternehmensverbände"
+    },
+    {
+     "id": "o2",
+     "text": "Konzerne"
+    },
+    {
+     "id": "o3",
+     "text": "Fusionierte Unternehmen"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q88",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-4b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 5-4: Zu welcher Gruppe gehören Konzerne?",
+   "solution": "Konzentration: Konzerne, fusionierte Unternehmen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kooperation"
+    },
+    {
+     "id": "o1",
+     "text": "Konzentration"
+    },
+    {
+     "id": "o2",
+     "text": "Verbände"
+    },
+    {
+     "id": "o3",
+     "text": "Kartelle"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q89",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-4c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 5-4: Was hat eine höhere Bindungsintensität?",
+   "solution": "Gemeinschaftsunternehmen = stärkste Form der Kooperation.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Gemeinschaftsunternehmen"
+    },
+    {
+     "id": "o1",
+     "text": "Kartell"
+    },
+    {
+     "id": "o2",
+     "text": "Unternehmensverband"
+    },
+    {
+     "id": "o3",
+     "text": "Gelegenheitsgesellschaft"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q90",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-6",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 5-6: Zielpentagon",
+   "solution": "Fünf Ziele zwischenbetrieblicher Verbindungen:\n• Risiken teilen (F&E, Vermarktung, Diversifikation, Übernahmen)\n• Ressourcen kombinieren (Kompetenzen, Kapital)\n• Zeiten verkürzen (Produkt-/Prozessentwicklung, Markterschließung)\n• Kosten reduzieren (Kosten teilen, Erfahrungskurve, Einkaufsmacht)\n• Marktstellung verbessern (Produkt-/Marktentwicklung, Standards, Kartelle)",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q91",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-6a",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 5-6: Welche Ecken hat das Zielpentagon?",
+   "solution": "Fünf Ecken; „Steuern sparen“ ist keine.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Zeiten verkürzen"
+    },
+    {
+     "id": "o1",
+     "text": "Kosten reduzieren"
+    },
+    {
+     "id": "o2",
+     "text": "Steuern sparen"
+    },
+    {
+     "id": "o3",
+     "text": "Risiken teilen"
+    },
+    {
+     "id": "o4",
+     "text": "Marktstellung verbessern"
+    },
+    {
+     "id": "o5",
+     "text": "Ressourcen kombinieren"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o3",
+    "o4",
+    "o5"
+   ]
+  },
+  {
+   "id": "q92",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-6b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 5-6: „Einkaufsmacht“ steht bei welchem Ziel?",
+   "solution": "Kosten reduzieren: Kosten teilen, Erfahrungskurve, Einkaufsmacht.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Risiken teilen"
+    },
+    {
+     "id": "o1",
+     "text": "Kosten reduzieren"
+    },
+    {
+     "id": "o2",
+     "text": "Marktstellung verbessern"
+    },
+    {
+     "id": "o3",
+     "text": "Ressourcen kombinieren"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q93",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "abb5-6",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die fünf Ziele des Zielpentagons (Schaubild 5-6) mit je einem Beispiel.",
+   "solution": "Risiken teilen (F&E), Ressourcen kombinieren (Kapital), Zeiten verkürzen (Markterschließung), Kosten reduzieren (Einkaufsmacht), Marktstellung verbessern (Standards).",
+   "rubric": "Fünf Ziele, je passendes Beispiel.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q94",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "fs5a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Fallstudie Kap. 5: Speedy finanziert über Lieferanten. Welche Richtung?",
+   "solution": "Lieferant = vorgelagerte Stufe.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Vertikal"
+    },
+    {
+     "id": "o1",
+     "text": "Horizontal"
+    },
+    {
+     "id": "o2",
+     "text": "Diagonal"
+    },
+    {
+     "id": "o3",
+     "text": "Keine Verbindung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q95",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "fs5b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Fallstudie Kap. 5: Gemeinsame Werbung mit einem Mineralölunternehmen. Welche Richtung?",
+   "solution": "Andere Branche, nicht vor-/nachgelagert = diagonal.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Horizontal"
+    },
+    {
+     "id": "o1",
+     "text": "Konzentration"
+    },
+    {
+     "id": "o2",
+     "text": "Vertikal"
+    },
+    {
+     "id": "o3",
+     "text": "Diagonal"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q96",
+   "objective": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "family": "fs5c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Fallstudie Kap. 5: Gemeinsame Produktion mit VW oder Porsche. Welche Richtung?",
+   "solution": "Gleiche Wertschöpfungsstufe.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Standort, Recht, zw. Entscheidungen (Folien)",
+   "sourceQuote": "Abb. 5-1 / 5-4 / 5-6 Zwischenbetriebliche Verbindungen",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Lateral-vertikal"
+    },
+    {
+     "id": "o1",
+     "text": "Diagonal"
+    },
+    {
+     "id": "o2",
+     "text": "Horizontal"
+    },
+    {
+     "id": "o3",
+     "text": "Vertikal"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  }
+ ]
+}

@@ -7,6 +7,19 @@ Die Version steht an drei Stellen und muss übereinstimmen (prüft `tests/versio
 
 ## [Unreleased]
 
+## [0.8.0] – 2026-11-17
+
+Schaubilder, alle B3-Folien und die Englisch-Vokabeln.
+
+### Hinzugefügt
+- B2: drei Schaubild-Pakete (283 Karten) zu allen Abbildungen aus den Vahs-Folien – Grundlagen, Standort/Rechtsform/Verbindungen, Unternehmensverfassung, Organisation, Personal, Controlling, externes Rechnungswesen und Finanzierungs-Exkurs. Pro Schaubild eine Erklärkarte plus Abfrage- und Nachzeichen-Karten; Rechenübungen aus den Zwischenübungen und Fallstudien.
+- Englisch: Vokabelpakete aus dem Glossary (Marketing, Sales and distribution, Finance) – je Begriff „Definition → Begriff“ und „Begriff → Definition“.
+- B3: alle bisher hochgeladenen Folien der Sitzungen 1–4 durchgearbeitet; deutlich mehr Karten zu interpersonaler Kommunikation, Journalismus/PR/Werbung und Öffentlichkeit.
+
+### Geändert
+- Antwortoptionen stehen jetzt in gemischter Reihenfolge – die richtige Antwort ist nicht mehr meistens die erste.
+- Auf den Folien durchgestrichene Kapitel sind als nicht prüfungsrelevant markiert.
+
 ## [0.7.0] – 2026-11-16
 
 Erste echte Lerninhalte.

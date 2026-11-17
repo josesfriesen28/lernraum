@@ -23,25 +23,25 @@
    "options": [
     {
      "id": "o0",
-     "text": "Auswahl (Selektion)"
-    },
-    {
-     "id": "o1",
      "text": "Herstellung"
     },
     {
+     "id": "o1",
+     "text": "Selbstdarstellung im Auftrag einer Organisation"
+    },
+    {
      "id": "o2",
-     "text": "Präsentation"
+     "text": "Auswahl (Selektion)"
     },
     {
      "id": "o3",
-     "text": "Selbstdarstellung im Auftrag einer Organisation"
+     "text": "Präsentation"
     }
    ],
    "correct": [
     "o0",
-    "o1",
-    "o2"
+    "o2",
+    "o3"
    ]
   },
   {
@@ -60,7 +60,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Bericht über tatsächliche Ereignisse und Sachverhalte"
+     "text": "Übernahme von Pressemitteilungen"
     },
     {
      "id": "o1",
@@ -68,15 +68,15 @@
     },
     {
      "id": "o2",
-     "text": "Wiedergabe der Meinung des Verlags"
+     "text": "Bericht über tatsächliche Ereignisse und Sachverhalte"
     },
     {
      "id": "o3",
-     "text": "Übernahme von Pressemitteilungen"
+     "text": "Wiedergabe der Meinung des Verlags"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -99,15 +99,15 @@
     },
     {
      "id": "o1",
-     "text": "Ein Gesetz, das Zensur regelt"
-    },
-    {
-     "id": "o2",
      "text": "Ein Werbestandard für Anzeigen"
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "Ein PR-Leitfaden für Pressemitteilungen"
+    },
+    {
+     "id": "o3",
+     "text": "Ein Gesetz, das Zensur regelt"
     }
    ],
    "correct": [
@@ -146,23 +146,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Redaktioneller Journalismus (Mitte 19. Jh.)"
-    },
-    {
-     "id": "o1",
-     "text": "Korrespondierender Journalismus (15.–17. Jh.)"
-    },
-    {
-     "id": "o2",
      "text": "Präjournalistische Periode"
     },
     {
-     "id": "o3",
+     "id": "o1",
+     "text": "Redaktioneller Journalismus (Mitte 19. Jh.)"
+    },
+    {
+     "id": "o2",
      "text": "Schriftstellerischer Journalismus (18. Jh.)"
+    },
+    {
+     "id": "o3",
+     "text": "Korrespondierender Journalismus (15.–17. Jh.)"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -181,15 +181,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "Schriftstellerischer Journalismus (18./19. Jh.)"
-    },
-    {
-     "id": "o1",
      "text": "Redaktionstechnischer Journalismus"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "Korrespondierender Journalismus"
+    },
+    {
+     "id": "o2",
+     "text": "Schriftstellerischer Journalismus (18./19. Jh.)"
     },
     {
      "id": "o3",
@@ -197,7 +197,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -236,11 +236,11 @@
     },
     {
      "id": "o1",
-     "text": "Medien bestimmen, was Menschen denken"
+     "text": "Rezipient*innen setzen die Themen der Medien"
     },
     {
      "id": "o2",
-     "text": "Rezipient*innen setzen die Themen der Medien"
+     "text": "Medien bestimmen, was Menschen denken"
     },
     {
      "id": "o3",
@@ -267,23 +267,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Weil Journalismus Ziel und Mittel von PR ist (Earned Media)"
-    },
-    {
-     "id": "o1",
      "text": "Weil Journalismus Paid Media ist"
     },
     {
+     "id": "o1",
+     "text": "Weil Journalismus Owned Media ist"
+    },
+    {
      "id": "o2",
-     "text": "Weil Werbung Teil des Journalismus ist"
+     "text": "Weil Journalismus Ziel und Mittel von PR ist (Earned Media)"
     },
     {
      "id": "o3",
-     "text": "Weil Journalismus Owned Media ist"
+     "text": "Weil Werbung Teil des Journalismus ist"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -302,23 +302,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Vertretung spezifischer Interessen in der Öffentlichkeit / öffentlichen Kommunikation"
+     "text": "Neutrale Berichterstattung"
     },
     {
      "id": "o1",
-     "text": "Unabhängige Fremdbeobachtung der Gesellschaft"
+     "text": "Vertretung spezifischer Interessen in der Öffentlichkeit / öffentlichen Kommunikation"
     },
     {
      "id": "o2",
-     "text": "Absatz von Waren über bezahlte Anzeigen"
+     "text": "Unabhängige Fremdbeobachtung der Gesellschaft"
     },
     {
      "id": "o3",
-     "text": "Neutrale Berichterstattung"
+     "text": "Absatz von Waren über bezahlte Anzeigen"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -337,7 +337,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Im 19. Jahrhundert (Kritik an industriellen Großbetrieben, Einflussnahme auf Berichterstattung)"
+     "text": "Im 15. Jahrhundert"
     },
     {
      "id": "o1",
@@ -345,15 +345,15 @@
     },
     {
      "id": "o2",
-     "text": "Mit Social Media"
+     "text": "Im 19. Jahrhundert (Kritik an industriellen Großbetrieben, Einflussnahme auf Berichterstattung)"
     },
     {
      "id": "o3",
-     "text": "Im 15. Jahrhundert"
+     "text": "Mit Social Media"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -372,11 +372,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Investor Relations → Aktionär*innen"
+     "text": "Community Relations → Akteure in der Nachbarschaft"
     },
     {
      "id": "o1",
-     "text": "Community Relations → Akteure in der Nachbarschaft"
+     "text": "Public Affairs → direkt an Gesetzgeber*innen, ohne Journalist*innen"
     },
     {
      "id": "o2",
@@ -384,7 +384,7 @@
     },
     {
      "id": "o3",
-     "text": "Public Affairs → direkt an Gesetzgeber*innen, ohne Journalist*innen"
+     "text": "Investor Relations → Aktionär*innen"
     },
     {
      "id": "o4",
@@ -434,7 +434,7 @@
     },
     {
      "id": "o1",
-     "text": "Marketingorientierter Ansatz"
+     "text": "Determinationsansatz"
     },
     {
      "id": "o2",
@@ -442,7 +442,7 @@
     },
     {
      "id": "o3",
-     "text": "Determinationsansatz"
+     "text": "Marketingorientierter Ansatz"
     }
    ],
    "correct": [
@@ -465,11 +465,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Marketingorientierter Ansatz"
+     "text": "Managementansatz"
     },
     {
      "id": "o1",
-     "text": "Managementansatz"
+     "text": "Intereffikationsansatz"
     },
     {
      "id": "o2",
@@ -477,11 +477,11 @@
     },
     {
      "id": "o3",
-     "text": "Intereffikationsansatz"
+     "text": "Marketingorientierter Ansatz"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -516,11 +516,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Öffentlichkeitsarbeit determiniert die journalistische Berichterstattung – PR kontrolliert Themen und Timing"
+     "text": "Journalismus und PR beeinflussen sich wechselseitig"
     },
     {
      "id": "o1",
-     "text": "Journalismus und PR beeinflussen sich wechselseitig"
+     "text": "Öffentlichkeitsarbeit determiniert die journalistische Berichterstattung – PR kontrolliert Themen und Timing"
     },
     {
      "id": "o2",
@@ -532,7 +532,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -551,11 +551,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Rund zwei Drittel"
+     "text": "Rund ein Zehntel"
     },
     {
      "id": "o1",
-     "text": "Rund ein Zehntel"
+     "text": "Fast alles (über 95 %)"
     },
     {
      "id": "o2",
@@ -563,11 +563,11 @@
     },
     {
      "id": "o3",
-     "text": "Fast alles (über 95 %)"
+     "text": "Rund zwei Drittel"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -586,24 +586,24 @@
    "options": [
     {
      "id": "o0",
-     "text": "Unklar, was „übernehmen“ heißt"
-    },
-    {
-     "id": "o1",
-     "text": "Unklar, was als PR gilt"
-    },
-    {
-     "id": "o2",
      "text": "Die Studie hat Journalismus gar nicht untersucht"
     },
     {
-     "id": "o3",
+     "id": "o1",
+     "text": "Unklar, was „übernehmen“ heißt"
+    },
+    {
+     "id": "o2",
      "text": "Sie ignoriert, dass PR überhaupt existiert"
+    },
+    {
+     "id": "o3",
+     "text": "Unklar, was als PR gilt"
     }
    ],
    "correct": [
-    "o0",
-    "o1"
+    "o1",
+    "o3"
    ]
   },
   {
@@ -642,7 +642,7 @@
     },
     {
      "id": "o1",
-     "text": "Adaption (Anpassung an die andere Seite)"
+     "text": "Determination durch PR"
     },
     {
      "id": "o2",
@@ -650,13 +650,13 @@
     },
     {
      "id": "o3",
-     "text": "Determination durch PR"
+     "text": "Adaption (Anpassung an die andere Seite)"
     }
    ],
    "correct": [
     "o0",
-    "o1",
-    "o2"
+    "o2",
+    "o3"
    ]
   },
   {
@@ -699,17 +699,17 @@
     },
     {
      "id": "o2",
-     "text": "Machtverhältnisse werden ausgeblendet"
+     "text": "Es behauptet, PR habe keinerlei Einfluss"
     },
     {
      "id": "o3",
-     "text": "Es behauptet, PR habe keinerlei Einfluss"
+     "text": "Machtverhältnisse werden ausgeblendet"
     }
    ],
    "correct": [
     "o0",
     "o1",
-    "o2"
+    "o3"
    ]
   },
   {
@@ -736,11 +736,11 @@
     },
     {
      "id": "o2",
-     "text": "Unabhängige Kontrolle der Mächtigen"
+     "text": "Faktentreue Berichterstattung"
     },
     {
      "id": "o3",
-     "text": "Faktentreue Berichterstattung"
+     "text": "Unabhängige Kontrolle der Mächtigen"
     }
    ],
    "correct": [
@@ -780,7 +780,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Sachliche Ausblendungsregel"
+     "text": "Determinationshypothese"
     },
     {
      "id": "o1",
@@ -788,15 +788,15 @@
     },
     {
      "id": "o2",
-     "text": "Determinationshypothese"
+     "text": "Pressekodex"
     },
     {
      "id": "o3",
-     "text": "Pressekodex"
+     "text": "Sachliche Ausblendungsregel"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -819,7 +819,7 @@
     },
     {
      "id": "o1",
-     "text": "Sachliche Ausblendungsregel"
+     "text": "Spin-Doctoring"
     },
     {
      "id": "o2",
@@ -827,7 +827,7 @@
     },
     {
      "id": "o3",
-     "text": "Spin-Doctoring"
+     "text": "Sachliche Ausblendungsregel"
     }
    ],
    "correct": [
@@ -850,7 +850,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Sichtbarkeit (meist als Werbung erkennbar, Ausnahmen: Schleichwerbung, Product Placement)"
+     "text": "Werbemittel wie Anzeige, Spot, Placement, Mailing"
     },
     {
      "id": "o1",
@@ -858,22 +858,22 @@
     },
     {
      "id": "o2",
-     "text": "Zielgruppenspezifisch (Streuverluste minimieren)"
+     "text": "Pflicht zur Ausgewogenheit"
     },
     {
      "id": "o3",
-     "text": "Werbemittel wie Anzeige, Spot, Placement, Mailing"
+     "text": "Zielgruppenspezifisch (Streuverluste minimieren)"
     },
     {
      "id": "o4",
-     "text": "Pflicht zur Ausgewogenheit"
+     "text": "Sichtbarkeit (meist als Werbung erkennbar, Ausnahmen: Schleichwerbung, Product Placement)"
     }
    ],
    "correct": [
     "o0",
     "o1",
-    "o2",
-    "o3"
+    "o3",
+    "o4"
    ]
   },
   {
@@ -896,15 +896,15 @@
     },
     {
      "id": "o1",
-     "text": "Earned Media"
-    },
-    {
-     "id": "o2",
      "text": "Owned Media"
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "Shared Media"
+    },
+    {
+     "id": "o3",
+     "text": "Earned Media"
     }
    ],
    "correct": [
@@ -926,6 +926,510 @@
    "seconds": 180,
    "options": [],
    "correct": []
+  },
+  {
+   "id": "q31",
+   "objective": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "family": "q31",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild: Einflussfaktoren nach Donsbach (1987)",
+   "solution": "Vier Sphären wirken auf die MEDIENINHALTE: Subjektsphäre (Psychologie des Journalisten: subjektive Werte/politische Einstellungen, Berufsmotive, Aufgabenverständnis, Publikumsbild, gesellschaftliche Position). Professionssphäre (Berufsnormen, Nachrichtenfaktoren, Standards der Informationsbeschaffung, ethische Prinzipien, Ausbildung, Kollegenorientierung). Institutionssphäre (innere Pressefreiheit, Arbeitszufriedenheit, institutionelle Zwecke, Arbeitsmarkt, technische Strukturen). Gesellschaftssphäre (Pressefreiheit, Kommunikationspolitik, politische Kultur, soziale Bindungen und Netzwerke, lokale Integration, öffentliche Meinung/Zeitgeist).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 6 (Schaubild)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "page": 6,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q32",
+   "objective": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "family": "donsbach",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche vier Sphären wirken nach Donsbach (1987) auf Medieninhalte?",
+   "solution": "Subjekt, Profession, Institution, Gesellschaft.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 6 (Schaubild)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "page": 6,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Subjektsphäre"
+    },
+    {
+     "id": "o1",
+     "text": "Rezipientensphäre"
+    },
+    {
+     "id": "o2",
+     "text": "Institutionssphäre"
+    },
+    {
+     "id": "o3",
+     "text": "Professionssphäre"
+    },
+    {
+     "id": "o4",
+     "text": "Gesellschaftssphäre"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o2",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q33",
+   "objective": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "family": "donsbach-zu",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Zu welcher Sphäre gehören bei Donsbach „Nachrichtenfaktoren“ und „Kollegenorientierung“?",
+   "solution": "Berufsnormen, Nachrichtenfaktoren, Standards, Ethik, Ausbildung, Kollegenorientierung = Profession.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 6 (Schaubild)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "page": 6,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Gesellschaftssphäre"
+    },
+    {
+     "id": "o1",
+     "text": "Institutionssphäre"
+    },
+    {
+     "id": "o2",
+     "text": "Subjektsphäre"
+    },
+    {
+     "id": "o3",
+     "text": "Professionssphäre"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q34",
+   "objective": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "family": "donsbach-zu",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Zu welcher Sphäre gehören bei Donsbach „Berufsmotive“ und „Publikumsbild“?",
+   "solution": "Psychologie des Journalisten = Subjektsphäre.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 6 (Schaubild)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "page": 6,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Institutionssphäre"
+    },
+    {
+     "id": "o1",
+     "text": "Professionssphäre"
+    },
+    {
+     "id": "o2",
+     "text": "Gesellschaftssphäre"
+    },
+    {
+     "id": "o3",
+     "text": "Subjektsphäre"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q35",
+   "objective": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "family": "donsbach-zu",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Zu welcher Sphäre gehören bei Donsbach „innere Pressefreiheit“ und „Arbeitsmarkt“?",
+   "solution": "Medienorganisation = Institutionssphäre.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 6 (Schaubild)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "page": 6,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Professionssphäre"
+    },
+    {
+     "id": "o1",
+     "text": "Subjektsphäre"
+    },
+    {
+     "id": "o2",
+     "text": "Gesellschaftssphäre"
+    },
+    {
+     "id": "o3",
+     "text": "Institutionssphäre"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q36",
+   "objective": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "family": "donsbach-zu",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Zu welcher Sphäre gehören bei Donsbach „Pressefreiheit“ und „öffentliche Meinung/Zeitgeist“?",
+   "solution": "Gesellschaftssphäre.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 6 (Schaubild)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Donsbach 1987)",
+   "page": 6,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Professionssphäre"
+    },
+    {
+     "id": "o1",
+     "text": "Institutionssphäre"
+    },
+    {
+     "id": "o2",
+     "text": "Gesellschaftssphäre"
+    },
+    {
+     "id": "o3",
+     "text": "Subjektsphäre"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q37",
+   "objective": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "family": "q37",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild: Zwiebelmodell nach Weischenberg (1994)",
+   "solution": "Vier ineinanderliegende Kreise von außen nach innen: 1) Mediensysteme – Normenkontext (gesellschaftliche Rahmenbedingungen, historische und rechtliche Grundlagen, Kommunikationspolitik, professionelle und ethische Standards). 2) Medieninstitutionen – Strukturkontext (ökonomische, politische, technologische Imperative). 3) Medienaussagen – Funktionskontext (Informationsquellen und Referenzgruppen, Berichterstattungsmuster und Darstellungsformen, Konstruktionen von Wirklichkeit, „Wirkungen“ und „Rückwirkungen“). 4) Medienakteure – Rollenkontext, innen (demographische Merkmale, soziale und politische Einstellungen, Rollenselbstverständnis und Publikumsimage, Professionalisierung und Sozialisation).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 7 (Zwiebelmodell)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "page": 7,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q38",
+   "objective": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "family": "q38",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die vier Schichten des Zwiebelmodells von Weischenberg (von außen nach innen) mit ihrem jeweiligen Kontext.",
+   "solution": "Mediensysteme (Normenkontext) → Medieninstitutionen (Strukturkontext) → Medienaussagen (Funktionskontext) → Medienakteure (Rollenkontext).",
+   "rubric": "Vier Schichten in richtiger Reihenfolge mit Normen-, Struktur-, Funktions-, Rollenkontext.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 7 (Zwiebelmodell)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "page": 7,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q39",
+   "objective": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "family": "weisch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welcher Kontext gehört bei Weischenberg zu den Medieninstitutionen (ökonomische, politische, technologische Imperative)?",
+   "solution": "Medieninstitutionen = Strukturkontext.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 7 (Zwiebelmodell)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "page": 7,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Strukturkontext"
+    },
+    {
+     "id": "o1",
+     "text": "Rollenkontext"
+    },
+    {
+     "id": "o2",
+     "text": "Normenkontext"
+    },
+    {
+     "id": "o3",
+     "text": "Funktionskontext"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q40",
+   "objective": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "family": "weisch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Rollenselbstverständnis, Publikumsimage und Sozialisation der Journalisten gehören bei Weischenberg zum …",
+   "solution": "Medienakteure = innerster Kreis, Rollenkontext.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 7 (Zwiebelmodell)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "page": 7,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Rollenkontext (Medienakteure)"
+    },
+    {
+     "id": "o1",
+     "text": "Strukturkontext (Medieninstitutionen)"
+    },
+    {
+     "id": "o2",
+     "text": "Normenkontext (Mediensysteme)"
+    },
+    {
+     "id": "o3",
+     "text": "Funktionskontext (Medienaussagen)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q41",
+   "objective": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "family": "weisch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Kommunikationspolitik sowie historische und rechtliche Grundlagen gehören bei Weischenberg zum …",
+   "solution": "Äußerster Kreis.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 7 (Zwiebelmodell)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "page": 7,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Normenkontext (Mediensysteme)"
+    },
+    {
+     "id": "o1",
+     "text": "Rollenkontext"
+    },
+    {
+     "id": "o2",
+     "text": "Strukturkontext"
+    },
+    {
+     "id": "o3",
+     "text": "Funktionskontext"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q42",
+   "objective": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "family": "weisch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Berichterstattungsmuster, Darstellungsformen und Informationsquellen gehören bei Weischenberg zum …",
+   "solution": "Medienaussagen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 7 (Zwiebelmodell)",
+   "sourceQuote": "Einflussfaktoren im Journalismus (Weischenberg 1994)",
+   "page": 7,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Rollenkontext"
+    },
+    {
+     "id": "o1",
+     "text": "Strukturkontext"
+    },
+    {
+     "id": "o2",
+     "text": "Normenkontext"
+    },
+    {
+     "id": "o3",
+     "text": "Funktionskontext (Medienaussagen)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q43",
+   "objective": "Qualitätsmaßstäbe (Ruß-Mohl 1992)",
+   "family": "q43",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild: Qualitätsmaßstäbe nach Ruß-Mohl (1992)",
+   "solution": "Qualitätsmaßstäbe im Journalismus sind abhängig von: Selbstverständnis der Journalisten („Vermittler“, „Anwalt“, „Erklärer“), Medium (Zeitung, Zeitschrift, Radio, Fernsehen), Aktualität/Periodizität (live, täglich, wöchentlich), Genre (Nachricht, Reportage, Feature, Kommentar), Zielgruppe/Publikum (Alter, Bildung, Interessen, Schicht), Funktionen (Information, Orientierung, Unterhaltung).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 8 (Schaubild)",
+   "sourceQuote": "Qualitätsmaßstäbe (Ruß-Mohl 1992)",
+   "page": 8,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q44",
+   "objective": "Qualitätsmaßstäbe (Ruß-Mohl 1992)",
+   "family": "q44",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Wovon sind Qualitätsmaßstäbe im Journalismus nach Ruß-Mohl (1992) abhängig?",
+   "solution": "Alle sechs Faktoren.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 8 (Schaubild)",
+   "sourceQuote": "Qualitätsmaßstäbe (Ruß-Mohl 1992)",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Genre"
+    },
+    {
+     "id": "o1",
+     "text": "Funktionen (Information, Orientierung, Unterhaltung)"
+    },
+    {
+     "id": "o2",
+     "text": "Selbstverständnis der Journalisten (Vermittler, Anwalt, Erklärer)"
+    },
+    {
+     "id": "o3",
+     "text": "Zielgruppe/Publikum"
+    },
+    {
+     "id": "o4",
+     "text": "Medium"
+    },
+    {
+     "id": "o5",
+     "text": "Aktualität/Periodizität"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3",
+    "o4",
+    "o5"
+   ]
+  },
+  {
+   "id": "q45",
+   "objective": "Qualitätsmaßstäbe (Ruß-Mohl 1992)",
+   "family": "q45",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Kommentar in einer Wochenzeitung wird nach anderen Kriterien bewertet als eine Live-Nachricht im Radio. Welches Modell erklärt das?",
+   "solution": "Qualität ist relativ zu Genre, Medium, Aktualität usw.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 8 (Schaubild)",
+   "sourceQuote": "Qualitätsmaßstäbe (Ruß-Mohl 1992)",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Qualitätsmaßstäbe nach Ruß-Mohl (abhängig von Genre, Medium, Periodizität …)"
+    },
+    {
+     "id": "o1",
+     "text": "Donsbachs Sphärenmodell"
+    },
+    {
+     "id": "o2",
+     "text": "Doppelte Ausblendungsregel"
+    },
+    {
+     "id": "o3",
+     "text": "Determinationshypothese"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q46",
+   "objective": "Agenda Setting (Schaubild)",
+   "family": "q46",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie stellt die Folie Agenda Setting dar?",
+   "solution": "Die Medienagenda beeinflusst die Publikumsagenda.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 3. Sitzung, Folie 9",
+   "sourceQuote": "Agenda Setting (Schaubild)",
+   "page": 9,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Medienagenda → Publikumsagenda"
+    },
+    {
+     "id": "o1",
+     "text": "PR-Agenda → Werbeagenda"
+    },
+    {
+     "id": "o2",
+     "text": "Politikagenda ↔ Medienagenda (gleichgewichtig)"
+    },
+    {
+     "id": "o3",
+     "text": "Publikumsagenda → Medienagenda"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
   }
  ]
 }

@@ -55,11 +55,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Kritische Öffentlichkeit (rationaler, kritischer Diskurs als Basis demokratischer Entscheidungen)"
+     "text": "Arena-Galerie-Modell"
     },
     {
      "id": "o1",
-     "text": "Spiegelmodell"
+     "text": "Kritische Öffentlichkeit (rationaler, kritischer Diskurs als Basis demokratischer Entscheidungen)"
     },
     {
      "id": "o2",
@@ -67,11 +67,11 @@
     },
     {
      "id": "o3",
-     "text": "Arena-Galerie-Modell"
+     "text": "Spiegelmodell"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -90,23 +90,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Spiegelmodell – Gerhards und Luhmann"
-    },
-    {
-     "id": "o1",
      "text": "Kritische Öffentlichkeit – Habermas"
     },
     {
+     "id": "o1",
+     "text": "Spiegelmodell – Gerhards und Luhmann"
+    },
+    {
      "id": "o2",
-     "text": "Kybernetisches Modell – Etzioni"
+     "text": "Intereffikationsmodell – Bentele"
     },
     {
      "id": "o3",
-     "text": "Intereffikationsmodell – Bentele"
+     "text": "Kybernetisches Modell – Etzioni"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -129,15 +129,15 @@
     },
     {
      "id": "o1",
-     "text": "Spiegelmodell"
+     "text": "Determinationsmodell"
     },
     {
      "id": "o2",
-     "text": "Kritische Öffentlichkeit"
+     "text": "Spiegelmodell"
     },
     {
      "id": "o3",
-     "text": "Determinationsmodell"
+     "text": "Kritische Öffentlichkeit"
     }
    ],
    "correct": [
@@ -180,15 +180,15 @@
     },
     {
      "id": "o1",
-     "text": "Advokat*innen"
-    },
-    {
-     "id": "o2",
      "text": "Expert*innen"
     },
     {
+     "id": "o2",
+     "text": "Advokat*innen"
+    },
+    {
      "id": "o3",
-     "text": "Intellektuelle"
+     "text": "Rezipient*innen"
     },
     {
      "id": "o4",
@@ -196,15 +196,15 @@
     },
     {
      "id": "o5",
-     "text": "Rezipient*innen"
+     "text": "Intellektuelle"
     }
    ],
    "correct": [
     "o0",
     "o1",
     "o2",
-    "o3",
-    "o4"
+    "o4",
+    "o5"
    ]
   },
   {
@@ -227,11 +227,11 @@
     },
     {
      "id": "o1",
-     "text": "Expert*innen"
+     "text": "Repräsentant*innen"
     },
     {
      "id": "o2",
-     "text": "Repräsentant*innen"
+     "text": "Expert*innen"
     },
     {
      "id": "o3",
@@ -262,15 +262,15 @@
     },
     {
      "id": "o1",
-     "text": "Gewählte offizielle Vertreter von Organisationen"
-    },
-    {
-     "id": "o2",
      "text": "Wissenschaftler mit Fachwissen"
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "Journalist*innen, die kommentieren"
+    },
+    {
+     "id": "o3",
+     "text": "Gewählte offizielle Vertreter von Organisationen"
     }
    ],
    "correct": [
@@ -309,23 +309,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Spin-Doctoring"
-    },
-    {
-     "id": "o1",
      "text": "Agenda-Setting"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "Earned Media"
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "Determination"
+    },
+    {
+     "id": "o3",
+     "text": "Spin-Doctoring"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -348,19 +348,19 @@
     },
     {
      "id": "o1",
-     "text": "Pressekonferenzen"
-    },
-    {
-     "id": "o2",
-     "text": "Hintergrundgespräche"
-    },
-    {
-     "id": "o3",
      "text": "Exklusivinformationen"
     },
     {
-     "id": "o4",
+     "id": "o2",
      "text": "Social Media"
+    },
+    {
+     "id": "o3",
+     "text": "Hintergrundgespräche"
+    },
+    {
+     "id": "o4",
+     "text": "Pressekonferenzen"
     }
    ],
    "correct": [
@@ -403,7 +403,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Globale Vernetzung lokaler Gegenöffentlichkeiten"
+     "text": "Einseitige Massenkommunikation wird abgelöst"
     },
     {
      "id": "o1",
@@ -411,22 +411,22 @@
     },
     {
      "id": "o2",
-     "text": "Auflösung der Arena-Galerie-Konstellation"
+     "text": "Globale Vernetzung lokaler Gegenöffentlichkeiten"
     },
     {
      "id": "o3",
-     "text": "Einseitige Massenkommunikation wird abgelöst"
+     "text": "Nur noch one-to-many"
     },
     {
      "id": "o4",
-     "text": "Nur noch one-to-many"
+     "text": "Auflösung der Arena-Galerie-Konstellation"
     }
    ],
    "correct": [
     "o0",
     "o1",
     "o2",
-    "o3"
+    "o4"
    ]
   },
   {
@@ -461,15 +461,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "Earned Media"
+     "text": "Owned Media"
     },
     {
      "id": "o1",
-     "text": "Paid Media"
+     "text": "Earned Media"
     },
     {
      "id": "o2",
-     "text": "Owned Media"
+     "text": "Paid Media"
     },
     {
      "id": "o3",
@@ -477,7 +477,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -496,15 +496,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "Owned Media"
+     "text": "Paid Media"
     },
     {
      "id": "o1",
-     "text": "Earned Media"
+     "text": "Owned Media"
     },
     {
      "id": "o2",
-     "text": "Paid Media"
+     "text": "Earned Media"
     },
     {
      "id": "o3",
@@ -512,7 +512,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -531,11 +531,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Shared Media"
+     "text": "Owned Media"
     },
     {
      "id": "o1",
-     "text": "Owned Media"
+     "text": "Shared Media"
     },
     {
      "id": "o2",
@@ -547,7 +547,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -565,6 +565,297 @@
    "seconds": 180,
    "options": [],
    "correct": []
+  },
+  {
+   "id": "q20",
+   "objective": "Individualisierung der Botschaft",
+   "family": "q20",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was zeigt das Spotify-Plakat („Dear person who played ‚Sorry‘ 42 times on Valentine’s Day …“) laut Folie?",
+   "solution": "Datenbasierte, individualisierte Botschaften.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung, Folie 11",
+   "sourceQuote": "Individualisierung der Botschaft",
+   "page": 11,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Massenkommunikation ist einseitig"
+    },
+    {
+     "id": "o1",
+     "text": "Plakatwerbung ist Earned Media"
+    },
+    {
+     "id": "o2",
+     "text": "Auf die Individualisierung der Empfängerseite folgt auch eine Individualisierung der Botschaft"
+    },
+    {
+     "id": "o3",
+     "text": "Werbung verzichtet auf Daten"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "family": "q21",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild: Maletzkes Feldschema der Massenkommunikation (1963)",
+   "solution": "Kette C (Kommunikator) → M (Aussage) → Medium → R (Rezipient). Kommunikator: Selbstbild, Persönlichkeit, im Team, in der Institution, in sonstigen sozialen Beziehungen, Zwang der Öffentlichkeit; er trifft Stoffauswahl und Gestaltung unter dem Zwang der Aussage bzw. des Programms und dem Zwang des Mediums. Rezipient: Selbstbild, Persönlichkeit, als Glied des Publikums, in sonstigen sozialen Beziehungen; Auswahl aus dem Angebot, Erleben/Wirkung, Zwang des Mediums, Bild vom Medium. Wechselseitig: Bild vom Rezipienten beim Kommunikator und Bild vom Kommunikator beim Rezipienten; Rückkopplung über spontane Antworten des Rezipienten.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung, Folie 12 (Schaubild)",
+   "sourceQuote": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "page": 12,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q22",
+   "objective": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "family": "q22",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Elemente enthält Maletzkes Feldschema der Massenkommunikation?",
+   "solution": "C → M → Medium → R.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung, Folie 12 (Schaubild)",
+   "sourceQuote": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "page": 12,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Algorithmus"
+    },
+    {
+     "id": "o1",
+     "text": "Aussage (M)"
+    },
+    {
+     "id": "o2",
+     "text": "Kommunikator (C)"
+    },
+    {
+     "id": "o3",
+     "text": "Rezipient (R)"
+    },
+    {
+     "id": "o4",
+     "text": "Medium"
+    }
+   ],
+   "correct": [
+    "o1",
+    "o2",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q23",
+   "objective": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "family": "q23",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Einflüsse wirken in Maletzkes Feldschema auf den Rezipienten?",
+   "solution": "Zwang der Öffentlichkeit wirkt auf den Kommunikator.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung, Folie 12 (Schaubild)",
+   "sourceQuote": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "page": 12,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sonstige soziale Beziehungen"
+    },
+    {
+     "id": "o1",
+     "text": "Rolle als Glied des Publikums"
+    },
+    {
+     "id": "o2",
+     "text": "Selbstbild und Persönlichkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Zwang der Öffentlichkeit"
+    },
+    {
+     "id": "o4",
+     "text": "Zwang des Mediums und Bild vom Medium"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o4"
+   ]
+  },
+  {
+   "id": "q24",
+   "objective": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "family": "q24",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist im Feldschema mit „Bild vom Rezipienten beim Kommunikator“ gemeint?",
+   "solution": "Wechselseitige Bilder prägen Kommunikation.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung, Folie 12 (Schaubild)",
+   "sourceQuote": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "page": 12,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Ein Foto des Publikums"
+    },
+    {
+     "id": "o1",
+     "text": "Die Vorstellung, die sich der Kommunikator von seinem Publikum macht – sie beeinflusst Stoffauswahl und Gestaltung"
+    },
+    {
+     "id": "o2",
+     "text": "Der Pressekodex"
+    },
+    {
+     "id": "o3",
+     "text": "Die Einschaltquote"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "family": "q25",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie berücksichtigt Maletzke Rückmeldungen des Publikums?",
+   "solution": "Rückkopplungspfeil oben im Schema.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung, Folie 12 (Schaubild)",
+   "sourceQuote": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "page": 12,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Über „spontane Antworten des Rezipienten“ zurück zum Kommunikator"
+    },
+    {
+     "id": "o1",
+     "text": "Nur über Werbung"
+    },
+    {
+     "id": "o2",
+     "text": "Über das Medium allein"
+    },
+    {
+     "id": "o3",
+     "text": "Gar nicht – das Modell ist rein linear"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "family": "q26",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Erkläre Maletzkes Feldschema in 3–4 Sätzen (Freitext).",
+   "solution": "Massenkommunikation verläuft vom Kommunikator über die Aussage und das Medium zum Rezipienten. Kommunikator und Rezipient sind von Selbstbild, Persönlichkeit und sozialen Beziehungen geprägt; der Kommunikator zusätzlich von Team, Institution und Zwang der Öffentlichkeit. Das Medium übt Zwänge auf beide aus, und beide haben ein Bild voneinander und vom Medium. Rückkopplung erfolgt über spontane Antworten des Rezipienten.",
+   "rubric": "C→M→Medium→R; Einflüsse auf C und R; Zwang des Mediums; wechselseitige Bilder; Rückkopplung.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung, Folie 12 (Schaubild)",
+   "sourceQuote": "Feldschema der Massenkommunikation (Maletzke 1963)",
+   "page": 12,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q27",
+   "objective": "PESO-Schaubild",
+   "family": "peso2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie definiert die Folie „Paid Media“?",
+   "solution": "Paid.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung, Folie 13",
+   "sourceQuote": "PESO-Schaubild",
+   "page": 13,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Inhalte, die auf Social Media geteilt werden"
+    },
+    {
+     "id": "o1",
+     "text": "Werbeinhalte aus Empfehlungen"
+    },
+    {
+     "id": "o2",
+     "text": "Unternehmensexterne Kanäle, die gegen Geld für das Unternehmen werben"
+    },
+    {
+     "id": "o3",
+     "text": "Kanäle, die direkt zum Unternehmen gehören"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q28",
+   "objective": "PESO-Schaubild",
+   "family": "peso2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie definiert die Folie „Earned Media“?",
+   "solution": "Earned.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 4. Sitzung, Folie 13",
+   "sourceQuote": "PESO-Schaubild",
+   "page": 13,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Eigene Kanäle des Unternehmens"
+    },
+    {
+     "id": "o1",
+     "text": "Inhalte, die nur intern kursieren"
+    },
+    {
+     "id": "o2",
+     "text": "Werbeinhalte, die meist aus Empfehlungen entstehen"
+    },
+    {
+     "id": "o3",
+     "text": "Bezahlte externe Kanäle"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
   }
  ]
 }

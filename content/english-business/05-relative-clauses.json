@@ -23,23 +23,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "who"
-    },
-    {
-     "id": "o1",
-     "text": "which"
-    },
-    {
-     "id": "o2",
      "text": "whose"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "whom"
+    },
+    {
+     "id": "o2",
+     "text": "which"
+    },
+    {
+     "id": "o3",
+     "text": "who"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -58,23 +58,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "whose"
+     "text": "whom"
     },
     {
      "id": "o1",
-     "text": "who"
+     "text": "whose"
     },
     {
      "id": "o2",
-     "text": "which"
+     "text": "who"
     },
     {
      "id": "o3",
-     "text": "whom"
+     "text": "which"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -93,11 +93,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "whom"
+     "text": "who"
     },
     {
      "id": "o1",
-     "text": "who"
+     "text": "that"
     },
     {
      "id": "o2",
@@ -105,11 +105,11 @@
     },
     {
      "id": "o3",
-     "text": "that"
+     "text": "whom"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -128,23 +128,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "which"
+     "text": "who"
     },
     {
      "id": "o1",
-     "text": "that"
-    },
-    {
-     "id": "o2",
      "text": "what"
     },
     {
+     "id": "o2",
+     "text": "that"
+    },
+    {
      "id": "o3",
-     "text": "who"
+     "text": "which"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -163,15 +163,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "What"
-    },
-    {
-     "id": "o1",
      "text": "Which"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "That"
+    },
+    {
+     "id": "o2",
+     "text": "What"
     },
     {
      "id": "o3",
@@ -179,7 +179,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -198,23 +198,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "in which"
-    },
-    {
-     "id": "o1",
      "text": "in that"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "which in"
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "in what"
+    },
+    {
+     "id": "o3",
+     "text": "in which"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -249,11 +249,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "I have only one sister (non-defining clause = extra information)"
+     "text": "I have several sisters"
     },
     {
      "id": "o1",
-     "text": "I have several sisters"
+     "text": "I have only one sister (non-defining clause = extra information)"
     },
     {
      "id": "o2",
@@ -265,7 +265,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -284,23 +284,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "He has more than one brother"
-    },
-    {
-     "id": "o1",
-     "text": "He has only one brother"
-    },
-    {
-     "id": "o2",
      "text": "The clause is extra information"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "The sentence needs “that” instead"
+    },
+    {
+     "id": "o2",
+     "text": "He has only one brother"
+    },
+    {
+     "id": "o3",
+     "text": "He has more than one brother"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -319,7 +319,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Allen, who scored three goals, was the only player to perform well."
+     "text": "Allen, scored three goals, was the only player to perform well."
     },
     {
      "id": "o1",
@@ -331,11 +331,11 @@
     },
     {
      "id": "o3",
-     "text": "Allen, scored three goals, was the only player to perform well."
+     "text": "Allen, who scored three goals, was the only player to perform well."
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -354,7 +354,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "They’re the people (who) she met at Jon’s party."
+     "text": "Clare, (who) I work with, is running the marathon."
     },
     {
      "id": "o1",
@@ -362,15 +362,15 @@
     },
     {
      "id": "o2",
-     "text": "Clare, (who) I work with, is running the marathon."
+     "text": "She’s the lady (who) lent me her phone."
     },
     {
      "id": "o3",
-     "text": "She’s the lady (who) lent me her phone."
+     "text": "They’re the people (who) she met at Jon’s party."
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -389,23 +389,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "She’s the lady who she lent me her phone."
-    },
-    {
-     "id": "o1",
-     "text": "She’s the lady who lent me her phone."
-    },
-    {
-     "id": "o2",
      "text": "She’s the lady that lent me her phone."
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "The lady who lent me her phone is nice."
+    },
+    {
+     "id": "o2",
+     "text": "She’s the lady who lent me her phone."
+    },
+    {
+     "id": "o3",
+     "text": "She’s the lady who she lent me her phone."
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {

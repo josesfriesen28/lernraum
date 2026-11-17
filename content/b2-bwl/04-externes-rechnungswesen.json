@@ -23,23 +23,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "An Externe wie Eigentümer, Gläubiger, Finanzamt und Öffentlichkeit (gesetzlich geregelt)"
-    },
-    {
-     "id": "o1",
-     "text": "Nur an die interne Kostenplanung"
-    },
-    {
-     "id": "o2",
      "text": "Nur an die Mitarbeiter"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "An Kunden zur Preisfindung"
+    },
+    {
+     "id": "o2",
+     "text": "An Externe wie Eigentümer, Gläubiger, Finanzamt und Öffentlichkeit (gesetzlich geregelt)"
+    },
+    {
+     "id": "o3",
+     "text": "Nur an die interne Kostenplanung"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -58,11 +58,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Bilanz"
+     "text": "Gewinn- und Verlustrechnung"
     },
     {
      "id": "o1",
-     "text": "Gewinn- und Verlustrechnung"
+     "text": "Bilanz"
     },
     {
      "id": "o2",
@@ -95,23 +95,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Das Vermögen (Mittelverwendung)"
+     "text": "Einzahlungen und Auszahlungen"
     },
     {
      "id": "o1",
-     "text": "Das Kapital (Mittelherkunft)"
-    },
-    {
-     "id": "o2",
      "text": "Aufwendungen und Erträge"
     },
     {
+     "id": "o2",
+     "text": "Das Vermögen (Mittelverwendung)"
+    },
+    {
      "id": "o3",
-     "text": "Einzahlungen und Auszahlungen"
+     "text": "Das Kapital (Mittelherkunft)"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -165,11 +165,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Aufwendungen und Erträge einer Periode und damit den Erfolg (Gewinn/Verlust)"
+     "text": "Vermögen und Kapital zu einem Stichtag"
     },
     {
      "id": "o1",
-     "text": "Vermögen und Kapital zu einem Stichtag"
+     "text": "Die Organisationsstruktur"
     },
     {
      "id": "o2",
@@ -177,11 +177,11 @@
     },
     {
      "id": "o3",
-     "text": "Die Organisationsstruktur"
+     "text": "Aufwendungen und Erträge einer Periode und damit den Erfolg (Gewinn/Verlust)"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -200,15 +200,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "Einzahlungen und Auszahlungen (Liquiditätsentwicklung)"
+     "text": "Vermögen und Kapital"
     },
     {
      "id": "o1",
-     "text": "Aufwand und Ertrag"
+     "text": "Einzahlungen und Auszahlungen (Liquiditätsentwicklung)"
     },
     {
      "id": "o2",
-     "text": "Vermögen und Kapital"
+     "text": "Aufwand und Ertrag"
     },
     {
      "id": "o3",
@@ -216,7 +216,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -235,23 +235,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Fremdkapital / Eigenkapital"
+     "text": "Gewinn / Umsatz"
     },
     {
      "id": "o1",
-     "text": "Eigenkapital / Bilanzsumme"
-    },
-    {
-     "id": "o2",
      "text": "Umlaufvermögen / kurzfristige Verbindlichkeiten"
     },
     {
+     "id": "o2",
+     "text": "Fremdkapital / Eigenkapital"
+    },
+    {
      "id": "o3",
-     "text": "Gewinn / Umsatz"
+     "text": "Eigenkapital / Bilanzsumme"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -274,15 +274,15 @@
     },
     {
      "id": "o1",
-     "text": "Eigenkapital muss immer größer als Fremdkapital sein"
+     "text": "Kurzfristige Schulden finanzieren Gebäude"
     },
     {
      "id": "o2",
-     "text": "Der Gewinn muss ausgeschüttet werden"
+     "text": "Eigenkapital muss immer größer als Fremdkapital sein"
     },
     {
      "id": "o3",
-     "text": "Kurzfristige Schulden finanzieren Gebäude"
+     "text": "Der Gewinn muss ausgeschüttet werden"
     }
    ],
    "correct": [
@@ -313,11 +313,11 @@
     },
     {
      "id": "o2",
-     "text": "Den Marktanteil"
+     "text": "Die Produktivität"
     },
     {
      "id": "o3",
-     "text": "Die Produktivität"
+     "text": "Den Marktanteil"
     }
    ],
    "correct": [

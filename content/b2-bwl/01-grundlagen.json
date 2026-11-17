@@ -23,23 +23,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Präsentation der Gruppenarbeit (40 Punkte) + 90-min-Klausur (60 Punkte)"
+     "text": "Präsentation (60) + Klausur (40)"
     },
     {
      "id": "o1",
-     "text": "Nur eine 90-min-Klausur (100 Punkte)"
-    },
-    {
-     "id": "o2",
      "text": "Hausarbeit (50) + mündliche Prüfung (50)"
     },
     {
+     "id": "o2",
+     "text": "Nur eine 90-min-Klausur (100 Punkte)"
+    },
+    {
      "id": "o3",
-     "text": "Präsentation (60) + Klausur (40)"
+     "text": "Präsentation der Gruppenarbeit (40 Punkte) + 90-min-Klausur (60 Punkte)"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -74,23 +74,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Haushalte konsumieren zur Deckung eigener Bedarfe, Betriebe produzieren für fremde Bedarfe"
-    },
-    {
-     "id": "o1",
      "text": "Haushalte sind immer öffentlich, Betriebe immer privat"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "Betriebe konsumieren, Haushalte produzieren"
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "Es gibt keinen Unterschied"
+    },
+    {
+     "id": "o3",
+     "text": "Haushalte konsumieren zur Deckung eigener Bedarfe, Betriebe produzieren für fremde Bedarfe"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -109,29 +109,29 @@
    "options": [
     {
      "id": "o0",
-     "text": "Prinzip des Privateigentums"
-    },
-    {
-     "id": "o1",
-     "text": "Autonomieprinzip"
-    },
-    {
-     "id": "o2",
-     "text": "Erwerbswirtschaftliches Prinzip (Gewinnmaximierung)"
-    },
-    {
-     "id": "o3",
      "text": "Organprinzip"
     },
     {
-     "id": "o4",
+     "id": "o1",
      "text": "Prinzip der Gemeinnützigkeit"
+    },
+    {
+     "id": "o2",
+     "text": "Prinzip des Privateigentums"
+    },
+    {
+     "id": "o3",
+     "text": "Erwerbswirtschaftliches Prinzip (Gewinnmaximierung)"
+    },
+    {
+     "id": "o4",
+     "text": "Autonomieprinzip"
     }
    ],
    "correct": [
-    "o0",
-    "o1",
-    "o2"
+    "o2",
+    "o3",
+    "o4"
    ]
   },
   {
@@ -150,7 +150,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Prinzip des Gemeineigentums"
+     "text": "Prinzip der Gemeinnützigkeit"
     },
     {
      "id": "o1",
@@ -158,21 +158,21 @@
     },
     {
      "id": "o2",
-     "text": "Prinzip der Gemeinnützigkeit"
+     "text": "Erwerbswirtschaftliches Prinzip"
     },
     {
      "id": "o3",
-     "text": "Autonomieprinzip"
+     "text": "Prinzip des Gemeineigentums"
     },
     {
      "id": "o4",
-     "text": "Erwerbswirtschaftliches Prinzip"
+     "text": "Autonomieprinzip"
     }
    ],
    "correct": [
     "o0",
     "o1",
-    "o2"
+    "o3"
    ]
   },
   {
@@ -223,7 +223,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Bilanzsumme"
+     "text": "Anzahl der Produkte"
     },
     {
      "id": "o1",
@@ -235,7 +235,7 @@
     },
     {
      "id": "o3",
-     "text": "Anzahl der Produkte"
+     "text": "Bilanzsumme"
     },
     {
      "id": "o4",
@@ -243,9 +243,9 @@
     }
    ],
    "correct": [
-    "o0",
     "o1",
-    "o2"
+    "o2",
+    "o3"
    ]
   },
   {
@@ -264,23 +264,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Soziokulturelle NPO"
-    },
-    {
-     "id": "o1",
      "text": "Wirtschaftliche NPO"
     },
     {
+     "id": "o1",
+     "text": "Karitative NPO"
+    },
+    {
      "id": "o2",
-     "text": "Politische NPO"
+     "text": "Soziokulturelle NPO"
     },
     {
      "id": "o3",
-     "text": "Karitative NPO"
+     "text": "Politische NPO"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -299,15 +299,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "Maximumprinzip"
+     "text": "Extremumprinzip"
     },
     {
      "id": "o1",
-     "text": "Minimumprinzip"
+     "text": "Maximumprinzip"
     },
     {
      "id": "o2",
-     "text": "Extremumprinzip"
+     "text": "Minimumprinzip"
     },
     {
      "id": "o3",
@@ -315,7 +315,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -385,7 +385,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Das Wirtschaften von Betrieben"
+     "text": "Die Geldpolitik der Zentralbank"
     },
     {
      "id": "o1",
@@ -393,7 +393,7 @@
     },
     {
      "id": "o2",
-     "text": "Die Geldpolitik der Zentralbank"
+     "text": "Das Wirtschaften von Betrieben"
     },
     {
      "id": "o3",
@@ -401,7 +401,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -420,23 +420,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "freie Güter (kein Gegenstand des Wirtschaftens)"
-    },
-    {
-     "id": "o1",
-     "text": "knappe Wirtschaftsgüter"
-    },
-    {
-     "id": "o2",
      "text": "Investitionsgüter"
     },
     {
-     "id": "o3",
+     "id": "o1",
+     "text": "freie Güter (kein Gegenstand des Wirtschaftens)"
+    },
+    {
+     "id": "o2",
      "text": "Dienstleistungen"
+    },
+    {
+     "id": "o3",
+     "text": "knappe Wirtschaftsgüter"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -471,30 +471,30 @@
    "options": [
     {
      "id": "o0",
-     "text": "Absatzmärkte"
-    },
-    {
-     "id": "o1",
      "text": "Beschaffungsmärkte"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "Arbeitsmärkte"
     },
     {
+     "id": "o2",
+     "text": "Wählermärkte"
+    },
+    {
      "id": "o3",
-     "text": "Geld- und Kapitalmärkte"
+     "text": "Absatzmärkte"
     },
     {
      "id": "o4",
-     "text": "Wählermärkte"
+     "text": "Geld- und Kapitalmärkte"
     }
    ],
    "correct": [
     "o0",
     "o1",
-    "o2",
-    "o3"
+    "o3",
+    "o4"
    ]
   },
   {
@@ -517,15 +517,15 @@
     },
     {
      "id": "o1",
-     "text": "Absatzmarkt"
-    },
-    {
-     "id": "o2",
      "text": "Beschaffungsmarkt"
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "Geld- und Kapitalmarkt"
+    },
+    {
+     "id": "o3",
+     "text": "Absatzmarkt"
     }
    ],
    "correct": [
@@ -548,11 +548,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Absatzmarkt"
+     "text": "Arbeitsmarkt"
     },
     {
      "id": "o1",
-     "text": "Arbeitsmarkt"
+     "text": "Geld- und Kapitalmarkt"
     },
     {
      "id": "o2",
@@ -560,11 +560,11 @@
     },
     {
      "id": "o3",
-     "text": "Geld- und Kapitalmarkt"
+     "text": "Absatzmarkt"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -583,7 +583,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Geld- und Kapitalmarkt"
+     "text": "Beschaffungsmarkt"
     },
     {
      "id": "o1",
@@ -595,11 +595,11 @@
     },
     {
      "id": "o3",
-     "text": "Beschaffungsmarkt"
+     "text": "Geld- und Kapitalmarkt"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -622,15 +622,15 @@
     },
     {
      "id": "o1",
-     "text": "Absatzmarkt"
-    },
-    {
-     "id": "o2",
      "text": "Arbeitsmarkt"
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "Geld- und Kapitalmarkt"
+    },
+    {
+     "id": "o3",
+     "text": "Absatzmarkt"
     }
    ],
    "correct": [
@@ -725,11 +725,11 @@
     },
     {
      "id": "o2",
-     "text": "„Wer sind wir?“"
+     "text": "„Nach welchen Grundsätzen handeln wir?“"
     },
     {
      "id": "o3",
-     "text": "„Nach welchen Grundsätzen handeln wir?“"
+     "text": "„Wer sind wir?“"
     }
    ],
    "correct": [
@@ -752,11 +752,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "„Warum gibt es uns?“"
+     "text": "„Wo sehen wir uns langfristig?“"
     },
     {
      "id": "o1",
-     "text": "„Wo sehen wir uns langfristig?“"
+     "text": "„Welche Kennzahlen erreichen wir?“"
     },
     {
      "id": "o2",
@@ -764,11 +764,11 @@
     },
     {
      "id": "o3",
-     "text": "„Welche Kennzahlen erreichen wir?“"
+     "text": "„Warum gibt es uns?“"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -787,11 +787,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "eine Vision"
+     "text": "einen Verhaltenskodex"
     },
     {
      "id": "o1",
-     "text": "eine Mission"
+     "text": "eine Vision"
     },
     {
      "id": "o2",
@@ -799,11 +799,11 @@
     },
     {
      "id": "o3",
-     "text": "einen Verhaltenskodex"
+     "text": "eine Mission"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -822,23 +822,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "die Mission (Business Mission)"
+     "text": "die Corporate Identity"
     },
     {
      "id": "o1",
-     "text": "die Vision"
-    },
-    {
-     "id": "o2",
      "text": "ein Unternehmensgrundsatz"
     },
     {
+     "id": "o2",
+     "text": "die Mission (Business Mission)"
+    },
+    {
      "id": "o3",
-     "text": "die Corporate Identity"
+     "text": "die Vision"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -857,7 +857,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Corporate Design (Logo, Farben, Architektur …)"
+     "text": "Corporate Governance"
     },
     {
      "id": "o1",
@@ -869,13 +869,13 @@
     },
     {
      "id": "o3",
-     "text": "Corporate Governance"
+     "text": "Corporate Design (Logo, Farben, Architektur …)"
     }
    ],
    "correct": [
-    "o0",
     "o1",
-    "o2"
+    "o2",
+    "o3"
    ]
   },
   {
@@ -894,23 +894,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Corporate Behaviour"
-    },
-    {
-     "id": "o1",
      "text": "Corporate Design"
     },
     {
+     "id": "o1",
+     "text": "Corporate Governance"
+    },
+    {
      "id": "o2",
-     "text": "Corporate Communication"
+     "text": "Corporate Behaviour"
     },
     {
      "id": "o3",
-     "text": "Corporate Governance"
+     "text": "Corporate Communication"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -929,24 +929,24 @@
    "options": [
     {
      "id": "o0",
-     "text": "Unternehmensverfassung (Corporate Governance)"
-    },
-    {
-     "id": "o1",
      "text": "Verhaltenskodizes (Codes of Conduct)"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "Logo und Hausfarben"
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "Umsatzziele"
+    },
+    {
+     "id": "o3",
+     "text": "Unternehmensverfassung (Corporate Governance)"
     }
    ],
    "correct": [
     "o0",
-    "o1"
+    "o3"
    ]
   },
   {
@@ -997,7 +997,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Eigenkapitalrentabilität maximieren"
+     "text": "Den Firmensitz umgestalten"
     },
     {
      "id": "o1",
@@ -1005,15 +1005,15 @@
     },
     {
      "id": "o2",
-     "text": "Den Firmensitz umgestalten"
+     "text": "Mitarbeiterkleidung vereinheitlichen"
     },
     {
      "id": "o3",
-     "text": "Mitarbeiterkleidung vereinheitlichen"
+     "text": "Eigenkapitalrentabilität maximieren"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -1067,15 +1067,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "Reale Sachverhalte beschreiben (Deskription)"
+     "text": "Umsetzbare Handlungsempfehlungen geben (Präskription)"
     },
     {
      "id": "o1",
-     "text": "Ursache-Wirkungs-Zusammenhänge erklären (Kausalität)"
+     "text": "Reale Sachverhalte beschreiben (Deskription)"
     },
     {
      "id": "o2",
-     "text": "Umsetzbare Handlungsempfehlungen geben (Präskription)"
+     "text": "Ursache-Wirkungs-Zusammenhänge erklären (Kausalität)"
     },
     {
      "id": "o3",
@@ -1128,11 +1128,11 @@
     },
     {
      "id": "o2",
-     "text": "Gewinn / Eigenkapital"
+     "text": "Umsatz − Kosten"
     },
     {
      "id": "o3",
-     "text": "Umsatz − Kosten"
+     "text": "Gewinn / Eigenkapital"
     }
    ],
    "correct": [
@@ -1155,23 +1155,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Bewertete Outputmenge / bewertete Inputmenge"
-    },
-    {
-     "id": "o1",
-     "text": "Outputmenge / Inputmenge"
-    },
-    {
-     "id": "o2",
      "text": "Gewinn / Umsatz"
     },
     {
-     "id": "o3",
+     "id": "o1",
+     "text": "Bewertete Outputmenge / bewertete Inputmenge"
+    },
+    {
+     "id": "o2",
      "text": "Fremdkapital / Eigenkapital"
+    },
+    {
+     "id": "o3",
+     "text": "Outputmenge / Inputmenge"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -1206,23 +1206,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Je 1 € Personalaufwand werden rund 10 € Umsatz erzielt"
-    },
-    {
-     "id": "o1",
      "text": "Jeder Mitarbeiter produziert 10 Fahrzeuge"
     },
     {
+     "id": "o1",
+     "text": "Die Kosten sind zehnmal so hoch wie der Umsatz"
+    },
+    {
      "id": "o2",
-     "text": "Der Gewinn beträgt 10 %"
+     "text": "Je 1 € Personalaufwand werden rund 10 € Umsatz erzielt"
     },
     {
      "id": "o3",
-     "text": "Die Kosten sind zehnmal so hoch wie der Umsatz"
+     "text": "Der Gewinn beträgt 10 %"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -1249,11 +1249,11 @@
     },
     {
      "id": "o2",
-     "text": "Produktivität und Wirtschaftlichkeit messen dasselbe"
+     "text": "Mercedes verkauft mehr Fahrzeuge"
     },
     {
      "id": "o3",
-     "text": "Mercedes verkauft mehr Fahrzeuge"
+     "text": "Produktivität und Wirtschaftlichkeit messen dasselbe"
     }
    ],
    "correct": [

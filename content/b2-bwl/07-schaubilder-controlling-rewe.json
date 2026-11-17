@@ -1,0 +1,2939 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b2-07-schaubilder-controlling-rewe",
+ "title": "B2 · Schaubilder 3: Controlling + Externes Rechnungswesen",
+ "course": "B2 Grundlagen der Betriebswirtschaftslehre",
+ "examType": "Klausur",
+ "topic": "Schaubilder",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "ctr",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Controlling – Definition",
+   "solution": "Controlling koordiniert sämtliche Planungs-, Kontroll- und Informationsaktivitäten zur Steuerung von Unternehmen.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q2",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "abb9-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-1: Phasen des Führungsprozesses",
+   "solution": "PLANEN: Zielbildung → Problemanalyse → Alternativen aufstellen\nENTSCHEIDEN: Alternativen bewerten und entscheiden → Soll-Werte\nREALISIEREN: Durchsetzen → Ausführen → Wird-/Ist-Werte\nKONTROLLIEREN: Abweichungsanalyse (Soll vs. Ist) → Anpassen",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q3",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "abb9-1a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-1: In welcher Phase entstehen die Soll-Werte?",
+   "solution": "Soll aus Entscheidung, Ist aus Realisierung, Vergleich in der Kontrolle.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Planen"
+    },
+    {
+     "id": "o1",
+     "text": "Kontrollieren"
+    },
+    {
+     "id": "o2",
+     "text": "Realisieren"
+    },
+    {
+     "id": "o3",
+     "text": "Entscheiden"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "abb9-1b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-1: Was passiert in der Kontrollphase?",
+   "solution": "Kontrolle = Soll-Ist-Vergleich.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Alternativen aufstellen"
+    },
+    {
+     "id": "o1",
+     "text": "Abweichungsanalyse von Soll und Ist, danach Anpassen"
+    },
+    {
+     "id": "o2",
+     "text": "Zielbildung"
+    },
+    {
+     "id": "o3",
+     "text": "Durchsetzen"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "abb9-1",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die vier Phasen des Führungsprozesses (Schaubild 9-1) mit ihren Schritten.",
+   "solution": "Planen (Zielbildung, Problemanalyse, Alternativen aufstellen); Entscheiden (bewerten und entscheiden → Soll-Werte); Realisieren (Durchsetzen, Ausführen → Ist-Werte); Kontrollieren (Abweichungsanalyse, Anpassen).",
+   "rubric": "Vier Phasen, Schritte, Soll/Ist.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q6",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "tab9-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Tabelle 9-1: Strategische, taktische, operative Planung",
+   "solution": "Strategisch: > 5 Jahre, ein Gesamtplan, niedriger Detaillierungsgrad (Kernprobleme), schlecht definierte Probleme (z. B. Produktionsstandorte, Absatzmärkte).\nTaktisch: 1–5 Jahre, wenige Teilpläne, mittlerer Detaillierungsgrad, gut definierte Probleme (z. B. Investitions-, Produktprogrammplanung).\nOperativ: < 1 Jahr, viele Teilpläne, hoher Detaillierungsgrad, sehr gut definierte Probleme (z. B. Kapazitätsplanung).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q7",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "tab9-1a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Tabelle 9-1: Die Investitionsplanung ist typischerweise …",
+   "solution": "Taktisch: Investitions- und Produktprogrammplanung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "taktische Planung (1–5 Jahre)"
+    },
+    {
+     "id": "o1",
+     "text": "keine Planung"
+    },
+    {
+     "id": "o2",
+     "text": "strategische Planung"
+    },
+    {
+     "id": "o3",
+     "text": "operative Planung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "tab9-1b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Tabelle 9-1: Welche Planung hat EINEN Gesamtplan und niedrigen Detaillierungsgrad?",
+   "solution": "Operativ: viele Teilpläne, hoher Detailgrad.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kapazitätsplanung"
+    },
+    {
+     "id": "o1",
+     "text": "Strategische Planung"
+    },
+    {
+     "id": "o2",
+     "text": "Operative Planung"
+    },
+    {
+     "id": "o3",
+     "text": "Taktische Planung"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "tab9-1c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Tabelle 9-1: Die Kapazitätsplanung ist …",
+   "solution": "Sehr gut definierte Probleme.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "taktische Planung"
+    },
+    {
+     "id": "o1",
+     "text": "operative Planung (< 1 Jahr)"
+    },
+    {
+     "id": "o2",
+     "text": "normative Planung"
+    },
+    {
+     "id": "o3",
+     "text": "strategische Planung"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "abb9-7",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Strategie und Schaubild 9-7: Vorgehensweise der strategischen Planung",
+   "solution": "Strategie = rational geplantes Entscheidungs-, Maßnahmen- und Verhaltensbündel zur langfristigen Sicherung des Unternehmenserfolgs.\nInitiierung → Situationsanalyse:\n• ressourcenorientiert (Unternehmen): SWOT/TOWS, Wertkettenmodell, Benchmarking, PIMS-Studie, 7-S-Modell, Kernkompetenzenansatz\n• marktorientiert (Umwelt): SWOT/TOWS, Branchenstrukturanalyse, Szenariotechnik, Marktwachstum-Marktanteil-Portfolio, Marktattraktivität-Wettbewerbsvorteil-Matrix (Shareholder-Value-Ansatz ist auf der Folie durchgestrichen)\n→ Formulierung: Strategien der internen Wertschöpfung ↔ der externen Positionierung → Implementierung: Realisierung → Performance-Messung.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q11",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "abb9-7a",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 9-7: Welche Instrumente gehören zur RESSOURCENorientierten Sicht?",
+   "solution": "Branchenstruktur und BCG sind marktorientiert.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Wertkettenmodell"
+    },
+    {
+     "id": "o1",
+     "text": "BCG-Portfolio"
+    },
+    {
+     "id": "o2",
+     "text": "7-S-Modell"
+    },
+    {
+     "id": "o3",
+     "text": "Branchenstrukturanalyse"
+    },
+    {
+     "id": "o4",
+     "text": "Kernkompetenzenansatz"
+    },
+    {
+     "id": "o5",
+     "text": "Benchmarking"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o2",
+    "o4",
+    "o5"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "abb9-7b",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 9-7: Welche Instrumente gehören zur MARKTorientierten Sicht?",
+   "solution": "PIMS ist ressourcenorientiert.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Marktwachstum-Marktanteil-Portfolio"
+    },
+    {
+     "id": "o1",
+     "text": "Marktattraktivität-Wettbewerbsvorteil-Matrix"
+    },
+    {
+     "id": "o2",
+     "text": "PIMS-Studie"
+    },
+    {
+     "id": "o3",
+     "text": "Branchenstrukturanalyse"
+    },
+    {
+     "id": "o4",
+     "text": "Szenariotechnik"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Kap. 9 Controlling: Grundlagen",
+   "family": "abb9-7c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welches Instrument steht in BEIDEN Spalten von Schaubild 9-7?",
+   "solution": "SWOT verbindet intern und extern.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Controlling: Grundlagen",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "SWOT-Analyse/TOWS-Matrix"
+    },
+    {
+     "id": "o1",
+     "text": "Szenariotechnik"
+    },
+    {
+     "id": "o2",
+     "text": "7-S-Modell"
+    },
+    {
+     "id": "o3",
+     "text": "Benchmarking"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-8",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-8: SWOT-Analyse und TOWS-Matrix",
+   "solution": "SWOT: intern Strengths (+) / Weaknesses (−); extern Opportunities (+) / Threats (−).\nTOWS-Strategien:\n• SO: Stärken zur Nutzung von Gelegenheiten einsetzen\n• WO: Schwächen durch Nutzung von Gelegenheiten überwinden\n• ST: Stärken zur präventiven Abwehr von Bedrohungen einsetzen\n• WT: Schwächen durch Vermeidung von Bedrohungen einschränken",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q15",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-8a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-8: „Schwächen durch Nutzung von Gelegenheiten überwinden“ ist eine …",
+   "solution": "Weakness + Opportunity.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "ST-Strategie"
+    },
+    {
+     "id": "o1",
+     "text": "SO-Strategie"
+    },
+    {
+     "id": "o2",
+     "text": "WT-Strategie"
+    },
+    {
+     "id": "o3",
+     "text": "WO-Strategie"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-8b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-8: „Stärken zur präventiven Abwehr von Bedrohungen einsetzen“ ist eine …",
+   "solution": "Strength + Threat.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "ST-Strategie"
+    },
+    {
+     "id": "o1",
+     "text": "WT-Strategie"
+    },
+    {
+     "id": "o2",
+     "text": "SO-Strategie"
+    },
+    {
+     "id": "o3",
+     "text": "WO-Strategie"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-8c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "SWOT: Welche Faktoren sind UNTERNEHMENSEXTERN?",
+   "solution": "S/W intern, O/T extern.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Strengths und Opportunities"
+    },
+    {
+     "id": "o1",
+     "text": "Strengths und Weaknesses"
+    },
+    {
+     "id": "o2",
+     "text": "Weaknesses und Threats"
+    },
+    {
+     "id": "o3",
+     "text": "Opportunities und Threats"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-9",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-9: Wertkettenmodell (Porter)",
+   "solution": "Untersucht alle Prozesse auf ihren Einfluss auf die Gewinnspanne. Gewinnspanne steigt, wenn man strategisch relevante Aktivitäten günstiger als Wettbewerber erbringt ODER sich darin unterscheidet.\nSekundäre (unterstützende) Aktivitäten: Unternehmensinfrastruktur, Personalwirtschaft, Technologieentwicklung, Beschaffung.\nPrimäre Aktivitäten: Eingangslogistik, Produktion, Marketing, Ausgangslogistik, Kundendienst.\nRechts: Pfeil „Gewinnspanne“.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q19",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-9a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-9: Die Personalwirtschaft ist in der Wertkette eine …",
+   "solution": "Sekundär: Infrastruktur, Personal, Technologie, Beschaffung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Gewinnspanne"
+    },
+    {
+     "id": "o1",
+     "text": "Kernkompetenz"
+    },
+    {
+     "id": "o2",
+     "text": "unterstützende (sekundäre) Aktivität"
+    },
+    {
+     "id": "o3",
+     "text": "primäre Aktivität"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-9b",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 9-9: Welche Aktivitäten sind SEKUNDÄR?",
+   "solution": "Kundendienst/Logistik sind primär.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Ausgangslogistik"
+    },
+    {
+     "id": "o1",
+     "text": "Unternehmensinfrastruktur"
+    },
+    {
+     "id": "o2",
+     "text": "Beschaffung"
+    },
+    {
+     "id": "o3",
+     "text": "Kundendienst"
+    },
+    {
+     "id": "o4",
+     "text": "Personalwirtschaft"
+    },
+    {
+     "id": "o5",
+     "text": "Technologieentwicklung"
+    }
+   ],
+   "correct": [
+    "o1",
+    "o2",
+    "o4",
+    "o5"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-10",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-10: Arten des Benchmarking",
+   "solution": "• unternehmensintern (eigene Werke vergleichen)\n• branchenintern (anderer Autohersteller)\n• branchenextern (andere Branche)\nVorgehen: Bereiche wählen → Benchmarks wählen → Vergleichspartner wählen → Vergleich durchführen (Best Practices) → Strategien ableiten.\nBeispiel-Benchmark: Arbeitsstunden pro Auto (Ford Fiesta Köln 14,95 vs. Audi TT Györ 80,60).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q22",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-10",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-10: Ein Autohersteller vergleicht seine Logistik mit einem Online-Händler. Welche Art?",
+   "solution": "Andere Branche.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kein Benchmarking"
+    },
+    {
+     "id": "o1",
+     "text": "Branchenexternes Benchmarking"
+    },
+    {
+     "id": "o2",
+     "text": "Unternehmensinternes Benchmarking"
+    },
+    {
+     "id": "o3",
+     "text": "Brancheninternes Benchmarking"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q23",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-11",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "PIMS-Studie und 7-S-Modell",
+   "solution": "PIMS = Profit Impact of Market Strategy (General Electric + Harvard, seit 1960ern, ca. 3.000 Geschäftseinheiten). Einflussfaktoren auf ROI und Cashflow: Marktanteil, Produktqualität, Produktivität <> Investitionsintensität, Innovationsrate.\n7-S-Modell (Peters & Waterman/McKinsey, 1980er, 62 US-Unternehmen) – Schaubild 9-11:\nharte Faktoren: Structure, Strategy, Systems\nweiche Faktoren: Skills, Style, Staff\nMitte: Superordinate Goals / Shared Values (übergeordnete Ziele).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q24",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-11a",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 9-11: Welche S sind „harte“ Faktoren?",
+   "solution": "Weich: Skills, Style, Staff.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Structure"
+    },
+    {
+     "id": "o1",
+     "text": "Staff"
+    },
+    {
+     "id": "o2",
+     "text": "Style"
+    },
+    {
+     "id": "o3",
+     "text": "Strategy"
+    },
+    {
+     "id": "o4",
+     "text": "Systems"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-11b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-11: Was steht in der Mitte des 7-S-Modells?",
+   "solution": "Gemeinsame Werte/übergeordnete Ziele.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Strategy"
+    },
+    {
+     "id": "o1",
+     "text": "Staff"
+    },
+    {
+     "id": "o2",
+     "text": "Superordinate Goals (übergeordnete Ziele)"
+    },
+    {
+     "id": "o3",
+     "text": "Structure"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "pims",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welcher Faktor beeinflusst laut PIMS den ROI NICHT?",
+   "solution": "PIMS: Marktanteil, Qualität, Produktivität/Investitionsintensität, Innovationsrate.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Innovationsrate"
+    },
+    {
+     "id": "o1",
+     "text": "Rechtsform"
+    },
+    {
+     "id": "o2",
+     "text": "Marktanteil"
+    },
+    {
+     "id": "o3",
+     "text": "Produktqualität"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q27",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-12",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-12: Kernkompetenzenansatz",
+   "solution": "Kernkompetenzen = kollektiv erworbene Fähigkeiten und Wissen, über Jahre/Jahrzehnte durch Weiterentwicklung von Produkten und Prozessen aufgebaut.\nBaum-Bild von unten nach oben: Kernkompetenzen → Kernprodukte → Geschäftsfelder → Produkte.\nSpeedy: Fahrwerk + Motorenbau → Off-Roader; Motorenbau + Design → Sportwagen.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q28",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-12",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-12: Was liegt direkt über den Kernkompetenzen?",
+   "solution": "Kernkompetenzen → Kernprodukte → Geschäftsfelder → Produkte.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kernprodukte"
+    },
+    {
+     "id": "o1",
+     "text": "Kunden"
+    },
+    {
+     "id": "o2",
+     "text": "Geschäftsfelder"
+    },
+    {
+     "id": "o3",
+     "text": "Produkte"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q29",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-13",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-13: Branchenstrukturanalyse (Five Forces, Porter)",
+   "solution": "Mitte: Branche – Intensität des Wettbewerbs unter bestehenden Konkurrenten.\nOben: Einsteiger (Bedrohung durch neue Anbieter).\nLinks: Zulieferer (Verhandlungsstärke).\nRechts: Kunden (Verhandlungsstärke).\nUnten: Ersatzprodukte (Bedrohung).\nDie Rentabilität wird von der STÄRKSTEN Wettbewerbskraft bestimmt.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q30",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-13a",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 9-13: Welche Kräfte gehören zu den Five Forces?",
+   "solution": "Steuern sind keine Wettbewerbskraft.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Wettbewerb unter bestehenden Konkurrenten"
+    },
+    {
+     "id": "o1",
+     "text": "Bedrohung durch Einsteiger"
+    },
+    {
+     "id": "o2",
+     "text": "Höhe der Steuern"
+    },
+    {
+     "id": "o3",
+     "text": "Verhandlungsstärke der Zulieferer"
+    },
+    {
+     "id": "o4",
+     "text": "Bedrohung durch Ersatzprodukte"
+    },
+    {
+     "id": "o5",
+     "text": "Verhandlungsstärke der Kunden"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o3",
+    "o4",
+    "o5"
+   ]
+  },
+  {
+   "id": "q31",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-13b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Fallstudie 9-2 (Off-Road): Was ist die stärkste Wettbewerbskraft?",
+   "solution": "Einsteiger derzeit keine bekannt.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bedrohung durch Einsteiger"
+    },
+    {
+     "id": "o1",
+     "text": "Verhandlungsstärke der Zulieferer"
+    },
+    {
+     "id": "o2",
+     "text": "Ersatzprodukte wie Fahrräder"
+    },
+    {
+     "id": "o3",
+     "text": "Brancheninterner Wettbewerb (viele renommierte Anbieter)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q32",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-14",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-14: Szenariotechnik (Szenario-Trichter)",
+   "solution": "Kahn, 1950er. Prognosetechnik schreibt Vergangenheit fort; Szenariotechnik beschreibt die Zukunft unter ALTERNATIVEN Rahmenbedingungen („Was passiert, wenn …?“).\nTrichter von Gegenwart zu Zukunft: Best-Case (oben), Worst-Case (unten), Trend-Szenario (Mitte), typisches Szenario mit Störereignis und Gegenmaßnahme.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q33",
+   "objective": "Kap. 9 Strategische Instrumente",
+   "family": "abb9-14",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was unterscheidet die Szenariotechnik von einer Prognose?",
+   "solution": "„Was passiert, wenn …?“",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Strategische Instrumente",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sie ist eine Kennzahl"
+    },
+    {
+     "id": "o1",
+     "text": "Sie betrachtet nur die Vergangenheit"
+    },
+    {
+     "id": "o2",
+     "text": "Sie beschreibt mehrere Zukünfte unter alternativen Rahmenbedingungen statt die Vergangenheit fortzuschreiben"
+    },
+    {
+     "id": "o3",
+     "text": "Sie ist immer genauer"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q34",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-15",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-15: BCG-Portfolio (Marktwachstum-Marktanteil)",
+   "solution": "y: Marktwachstum, x: RELATIVER Marktanteil.\n• oben links: Question-Marks – investieren oder desinvestieren (Einführung)\n• oben rechts: Stars – investieren (Wachstum)\n• unten rechts: Cash-Cows – abschöpfen (Reife)\n• unten links: Dogs – desinvestieren (Degeneration)\nNormstrategien: Offensiv (QM → Star oder vorzeitig → Dog), Investition (Stars), Abschöpfung (Cash-Cows), Desinvestition (Dogs).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q35",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-15a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-15: Hoher relativer Marktanteil, niedriges Marktwachstum → ?",
+   "solution": "Unten rechts.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Cash-Cow"
+    },
+    {
+     "id": "o1",
+     "text": "Star"
+    },
+    {
+     "id": "o2",
+     "text": "Dog"
+    },
+    {
+     "id": "o3",
+     "text": "Question-Mark"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q36",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-15b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-15: Niedriger Marktanteil, hohes Marktwachstum → ?",
+   "solution": "Oben links.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Question-Mark"
+    },
+    {
+     "id": "o1",
+     "text": "Star"
+    },
+    {
+     "id": "o2",
+     "text": "Dog"
+    },
+    {
+     "id": "o3",
+     "text": "Cash-Cow"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q37",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-15c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-15: Normstrategie für Cash-Cows?",
+   "solution": "Cash-Cows liefern Geld für Stars/QMs.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Offensiv"
+    },
+    {
+     "id": "o1",
+     "text": "Abschöpfen"
+    },
+    {
+     "id": "o2",
+     "text": "Desinvestieren"
+    },
+    {
+     "id": "o3",
+     "text": "Investieren"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q38",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-15d",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Fallstudie 9-3: Der Speedster City steckt in der Sättigung (hoher Marktanteil, geringes Wachstum). Einordnung?",
+   "solution": "Strategie: Lebenszyklus verlängern (Überarbeitung/Relaunch).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Dog"
+    },
+    {
+     "id": "o1",
+     "text": "Star"
+    },
+    {
+     "id": "o2",
+     "text": "Cash-Cow (droht zum Dog zu werden)"
+    },
+    {
+     "id": "o3",
+     "text": "Question-Mark"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q39",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-15e",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Fallstudie 9-3: Der neue Speedster Off-Road ist …",
+   "solution": "Neues Produkt im wachsenden Markt mit kleinem Anteil.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "ein Question-Mark"
+    },
+    {
+     "id": "o1",
+     "text": "eine Cash-Cow"
+    },
+    {
+     "id": "o2",
+     "text": "ein Dog"
+    },
+    {
+     "id": "o3",
+     "text": "ein Star"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q40",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-15",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Zeichne das BCG-Portfolio (Schaubild 9-15) mit Achsen, Feldern und Normstrategien.",
+   "solution": "y Marktwachstum, x relativer Marktanteil. QM oben links (investieren/desinvestieren), Star oben rechts (investieren), Cash-Cow unten rechts (abschöpfen), Dog unten links (desinvestieren).",
+   "rubric": "Achsen, vier Felder richtig platziert, Strategien.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 150,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q41",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-16",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-16: Produktlebenszyklus",
+   "solution": "Entwicklungsperiode (Entstehung der Produktidee, Deckungsbeitrag negativ) → Markteinführung → Marktperiode: Einführung → Wachstum → Reife → Sättigung → Degeneration (dann Relaunch oder Elimination).\nAbsatzmenge steigt S-förmig, Gesamtdeckungsbeitrag zunächst negativ, Maximum in Reife/Sättigung.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q42",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-16a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-16: Welche Phase folgt auf die Reife?",
+   "solution": "Einführung → Wachstum → Reife → Sättigung → Degeneration.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Einführung"
+    },
+    {
+     "id": "o1",
+     "text": "Degeneration"
+    },
+    {
+     "id": "o2",
+     "text": "Sättigung"
+    },
+    {
+     "id": "o3",
+     "text": "Wachstum"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q43",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-16b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-16: Welche zwei Möglichkeiten gibt es in der Degeneration?",
+   "solution": "Wiederbelebung oder Herausnahme.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Fusion oder Kooperation"
+    },
+    {
+     "id": "o1",
+     "text": "Verlagerung oder Vereinigung"
+    },
+    {
+     "id": "o2",
+     "text": "Relaunch oder Elimination"
+    },
+    {
+     "id": "o3",
+     "text": "Investition oder Finanzierung"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q44",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-17",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-17: Erfahrungskurve (BCG)",
+   "solution": "Stückkosten sinken mit jeder Verdopplung der kumulierten Produktionsmenge (= Erfahrung) um einen festen Prozentsatz.\nUrsachen: dynamische Skaleneffekte (Lernkurve, technischer Fortschritt, Rationalisierung) und statische Skaleneffekte (Fixkostendegression, Betriebsgrößeneffekte).\nFormeln: k(x) = k(1) / x^Kostenelastizität; Kostenelastizität = |(ln k2 − ln k1) / (ln x2 − ln x1)|; Erfahrungsrate = 1 − 1/2^Kostenelastizität.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q45",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-17a",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Ursachen der Erfahrungskurve sind DYNAMISCHE Skaleneffekte?",
+   "solution": "Fixkostendegression und Betriebsgröße = statisch.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Fixkostendegression"
+    },
+    {
+     "id": "o1",
+     "text": "Technischer Fortschritt"
+    },
+    {
+     "id": "o2",
+     "text": "Rationalisierungseffekte"
+    },
+    {
+     "id": "o3",
+     "text": "Betriebsgrößeneffekte"
+    },
+    {
+     "id": "o4",
+     "text": "Lernkurveneffekte"
+    }
+   ],
+   "correct": [
+    "o1",
+    "o2",
+    "o4"
+   ]
+  },
+  {
+   "id": "q46",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "q46",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Speedy-Motor: 1. Motor 10.000 €, 10. Motor 6.309,57 €. Berechne Kostenelastizität, Erfahrungsrate und k(200.000).",
+   "solution": "Kostenelastizität = (ln 6.309,57 − ln 10.000)/(ln 10 − ln 1) = −0,2 → 0,2. Erfahrungsrate = 1 − 1/2^0,2 ≈ 12,9 %. k(200.000) = 10.000 / 200.000^0,2 ≈ 870,55 €. (k(100) ≈ 3.981 €, k(100.000) = 1.000 €.)",
+   "rubric": "Elastizität 0,2; Rate ≈ 12,9 %; 870,55 €.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Zwischenübung 9.2.2.3.3.2",
+   "page": 29,
+   "seconds": 300,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q47",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "q47",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Fallstudie 9-5: 1. Stück 2.000 €, 20. Stück 900 €. Kostenelastizität, Erfahrungsrate, k(100.000)?",
+   "solution": "Elastizität = (ln 900 − ln 2.000)/ln 20 ≈ −0,2665 → 0,2665; Erfahrungsrate = 1 − 1/2^0,2665 ≈ 16,9 %; k(100.000) = 2.000/100.000^0,2665 ≈ 92,96 €.",
+   "rubric": "0,2665; ≈ 16,9 %; 92,96 €.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Fallstudie 9-5",
+   "page": 29,
+   "seconds": 300,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q48",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-18",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-18: Marktattraktivität-Wettbewerbsvorteil-Matrix (GE-/McKinsey-Matrix)",
+   "solution": "3×3-Matrix, y: Marktattraktivität, x: relative Wettbewerbsvorteile – differenzierter als BCG.\n• oben rechts: Investitions- und Wachstumsstrategie (Zone der Mittelbindung)\n• unten links: Abschöpfungs- und Desinvestitionsstrategie (Zone der Mittelfreisetzung)\n• Diagonale = selektive Strategien: oben links Offensivstrategie, Mitte Übergangsstrategie, unten rechts Defensivstrategie",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q49",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-18a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-18: Hohe Marktattraktivität, aber NIEDRIGER Wettbewerbsvorteil → ?",
+   "solution": "Feld oben links.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Selektive Offensivstrategie"
+    },
+    {
+     "id": "o1",
+     "text": "Defensivstrategie"
+    },
+    {
+     "id": "o2",
+     "text": "Desinvestition"
+    },
+    {
+     "id": "o3",
+     "text": "Investitions- und Wachstumsstrategie"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q50",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-18b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-18: Niedrige Marktattraktivität, aber HOHER Wettbewerbsvorteil → ?",
+   "solution": "Feld unten rechts.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Offensivstrategie"
+    },
+    {
+     "id": "o1",
+     "text": "Selektive Defensivstrategie"
+    },
+    {
+     "id": "o2",
+     "text": "Übergangsstrategie"
+    },
+    {
+     "id": "o3",
+     "text": "Investitionsstrategie"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q51",
+   "objective": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "family": "abb9-18c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-18: Wie heißt die Zone oben rechts?",
+   "solution": "Unten links = Mittelfreisetzung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9 Portfolios, Lebenszyklus, Erfahrungskurve",
+   "page": 29,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Zone der Selektion"
+    },
+    {
+     "id": "o1",
+     "text": "Zone der Degeneration"
+    },
+    {
+     "id": "o2",
+     "text": "Zone der Mittelbindung"
+    },
+    {
+     "id": "o3",
+     "text": "Zone der Mittelfreisetzung"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q52",
+   "objective": "Kap. 9.4 Kennzahlen und ROI-System",
+   "family": "abb9-22",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-22: Arten von Kennzahlen",
+   "solution": "Kennzahlen bilden betriebliche Sachverhalte in konzentrierter Form ab.\n• Absolute Kennzahlen: Einzelwerte, Summen, Differenzen, Mittelwerte\n• Verhältniszahlen: Gliederungszahlen (Teil/Ganzes gleicher Art, z. B. EK-Quote), Indexzahlen (zeitliche Entwicklung, z. B. Umsatz 2025 = 100 %), Beziehungszahlen (verschiedenartige Größen, z. B. Umsatz je Mitarbeiter)",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
+   "page": 43,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q53",
+   "objective": "Kap. 9.4 Kennzahlen und ROI-System",
+   "family": "abb9-22a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-22: „Umsatz je Mitarbeiter“ ist eine …",
+   "solution": "Zwei verschiedenartige Größen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
+   "page": 43,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Beziehungszahl"
+    },
+    {
+     "id": "o1",
+     "text": "Indexzahl"
+    },
+    {
+     "id": "o2",
+     "text": "Absolute Kennzahl"
+    },
+    {
+     "id": "o3",
+     "text": "Gliederungszahl"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q54",
+   "objective": "Kap. 9.4 Kennzahlen und ROI-System",
+   "family": "abb9-22b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-22: Die Eigenkapitalquote (EK/Gesamtkapital) ist eine …",
+   "solution": "Teil eines Ganzen gleicher Art.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
+   "page": 43,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Indexzahl"
+    },
+    {
+     "id": "o1",
+     "text": "Gliederungszahl"
+    },
+    {
+     "id": "o2",
+     "text": "Summe"
+    },
+    {
+     "id": "o3",
+     "text": "Beziehungszahl"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q55",
+   "objective": "Kap. 9.4 Kennzahlen und ROI-System",
+   "family": "abb9-23",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 9-23: ROI-Kennzahlensystem (DuPont)",
+   "solution": "ROI = Kapitalumschlag × Umsatzrentabilität\nKapitalumschlag = Umsatzerlöse / Gesamtkapital (Anlagevermögen + Umlaufvermögen: Vorräte, Forderungen, flüssige Mittel)\nUmsatzrentabilität = Gewinn / Umsatzerlöse\nGewinn = Deckungsbeitrag − fixe Kosten (Fertigungs-/Materialgemein-, Verwaltungs-, Vertriebsgemeinkosten)\nDeckungsbeitrag = Umsatzerlöse − variable Kosten (Fertigungsmaterial, Fertigungslöhne, sonstige variable Gemeinkosten)",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
+   "page": 43,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q56",
+   "objective": "Kap. 9.4 Kennzahlen und ROI-System",
+   "family": "abb9-23a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-23: Woraus setzt sich der ROI zusammen?",
+   "solution": "= Gewinn/Gesamtkapital.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
+   "page": 43,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Eigenkapital / Fremdkapital"
+    },
+    {
+     "id": "o1",
+     "text": "Gewinn + Zinsen"
+    },
+    {
+     "id": "o2",
+     "text": "Umsatz − variable Kosten"
+    },
+    {
+     "id": "o3",
+     "text": "Kapitalumschlag × Umsatzrentabilität"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q57",
+   "objective": "Kap. 9.4 Kennzahlen und ROI-System",
+   "family": "abb9-23b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 9-23: Wie berechnet man den Deckungsbeitrag?",
+   "solution": "Gewinn = DB − Fixkosten.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Kap. 9.4 Kennzahlen und ROI-System",
+   "page": 43,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Gewinn / Umsatz"
+    },
+    {
+     "id": "o1",
+     "text": "Umsatzerlöse − fixe Kosten"
+    },
+    {
+     "id": "o2",
+     "text": "Umsatz / Gesamtkapital"
+    },
+    {
+     "id": "o3",
+     "text": "Umsatzerlöse − variable Kosten"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q58",
+   "objective": "Kap. 9.4 Kennzahlen und ROI-System",
+   "family": "q58",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Umsatz 800.000 €, variable Kosten 450.000 €, fixe Kosten 250.000 €, AV 250.000 €, UV 500.000 €. Berechne Umsatzrentabilität, Kapitalumschlag und ROI.",
+   "solution": "DB = 350.000; Gewinn = 100.000; Umsatzrentabilität = 12,5 %; Gesamtkapital = 750.000; Kapitalumschlag = 106,7 %; ROI = 12,5 % × 106,7 % = 13,3 %.",
+   "rubric": "Zwischenschritte; ROI 13,3 %.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Zwischenübung 9.4.2.2.1",
+   "page": 43,
+   "seconds": 240,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q59",
+   "objective": "Kap. 9.4 Kennzahlen und ROI-System",
+   "family": "q59",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Fallstudie 9-6 (Speedy 0001): Fertigungsmaterial 498.200, Fertigungslöhne 66.650, Umsatz 1.150.000, Gemeinkosten 300.337 + 115.786 + 42.477, UV 655.000, AV 335.000 (T€). ROI?",
+   "solution": "Variable Kosten 564.850; DB 585.150; fixe Kosten 458.600; Gewinn 126.550; Umsatzrentabilität 11,0 %; Gesamtkapital 990.000; Kapitalumschlag 116,2 %; ROI 12,8 %.",
+   "rubric": "Rechenweg; ROI 12,8 %.",
+   "sourceTitle": "Moodle B2 · Vahs Controlling (Folien)",
+   "sourceQuote": "Fallstudie 9-6",
+   "page": 43,
+   "seconds": 300,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q60",
+   "objective": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "family": "rw-hinweis",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Achtung Prüfungsumfang Rechnungswesen",
+   "solution": "Auf Schaubild III-1 sind Investition und Finanzierung rot durchgestrichen. Kap. 10 behandelt 10.1 Grundlagen, 10.2 Buchführung, 10.3 Jahresabschluss, 10.5 Kennzahlen; dazu ein Exkurs Finanzierung (Kapitalstruktur, Liquiditätsgrade).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "page": 3,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q61",
+   "objective": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "family": "rw0",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Rechnungswesen, Finanzwesen, externes Rewe",
+   "solution": "Rechnungswesen = Ermittlung und Bereitstellung von Informationen über monetäre Größen und zugrunde liegende Mengen (informationelle Schnittstelle).\nFinanzwesen = Bereitstellung und Verwendung finanzieller Mittel.\nExternes Rewe = informiert Adressaten AUSSERHALB des Unternehmens (Eigen-, Fremdkapitalgeber, Lieferanten, Finanzbehörden) über Zustand und Veränderungen.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "page": 3,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q62",
+   "objective": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "family": "rw0a",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Wer sind laut Folie Informationsadressaten des externen Rechnungswesens?",
+   "solution": "Interne Adressaten (Management, Marketing) nutzen das interne Rewe.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "page": 3,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Finanzbehörden"
+    },
+    {
+     "id": "o1",
+     "text": "Lieferanten"
+    },
+    {
+     "id": "o2",
+     "text": "Eigenkapitalgeber"
+    },
+    {
+     "id": "o3",
+     "text": "Fremdkapitalgeber"
+    },
+    {
+     "id": "o4",
+     "text": "Abteilungsleiter Marketing"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q63",
+   "objective": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "family": "abb10-3",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 10-3: Teilbereiche des Rechnungswesens",
+   "solution": "Leistungserstellung → Belege (Rechnungen, Lieferscheine, Materialentnahmescheine, Lohnlisten, Anlagenspiegel, Quittungen, Kontoauszüge) → Buchführung.\nExternes Rewe (Finanz-/Geschäftsbuchführung): Jahresabschluss → Anteilseigner, Gläubiger, Finanzbehörden.\nInternes Rewe (Betriebsbuchführung): Kostenrechnung (Kalkulation, Erfolgs-, Entscheidungs-, Kontrollrechnungen) + Betriebsstatistik → Management, Finanzwesen, Marketing.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "page": 3,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q64",
+   "objective": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "family": "abb10-3a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-3: Die Kalkulation gehört zum …",
+   "solution": "Betriebsbuchführung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "externen Rechnungswesen"
+    },
+    {
+     "id": "o1",
+     "text": "Jahresabschluss"
+    },
+    {
+     "id": "o2",
+     "text": "Finanzwesen"
+    },
+    {
+     "id": "o3",
+     "text": "internen Rechnungswesen (Kostenrechnung)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q65",
+   "objective": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "family": "abb10-3b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie lautet das Belegprinzip?",
+   "solution": "Belege verbinden Geschäftsvorfälle und Buchungen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Soll gleich Haben"
+    },
+    {
+     "id": "o1",
+     "text": "Keine Buchung ohne Beleg"
+    },
+    {
+     "id": "o2",
+     "text": "Jeder Beleg zweimal"
+    },
+    {
+     "id": "o3",
+     "text": "Vorsicht vor Gewinn"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q66",
+   "objective": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "family": "konto",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Konto und doppelte Buchführung",
+   "solution": "Konto = zweiseitige Rechnung (Staffel- oder T-Form). Beispiel Kasse: Soll links (Anfangsbestand 900, Einzahlungen 100/200/300), Haben rechts (Auszahlungen 400/500, Endbestand = Saldo 600); Kontosummen 1.500; Leerraum mit „Buchhalternase“.\nDoppelte Buchführung: Eintragung in zwei Büchern, jeder Geschäftsfall betrifft mindestens zwei Konten, Soll = Haben.\nSchaubild 10-5: Belege → Grundbuch → Hauptbuch (Aktiv-, Passiv-, Aufwands-, Ertragskonten) + Nebenbücher (Anlagen-, Kontokorrent-, Lager-, Lohn-/Gehaltsbuchführung) → Berichte/XBRL.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "page": 3,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q67",
+   "objective": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "family": "konto1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Auf welcher Seite steht beim Aktivkonto „Kasse“ der Endbestand (Saldo)?",
+   "solution": "Saldo auf der kleineren Seite → Haben.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Gar nicht"
+    },
+    {
+     "id": "o1",
+     "text": "Haben (rechts)"
+    },
+    {
+     "id": "o2",
+     "text": "In der GuV"
+    },
+    {
+     "id": "o3",
+     "text": "Soll (links)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q68",
+   "objective": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "family": "konto2",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Kennzeichen der doppelten Buchführung?",
+   "solution": "Grundbuch + Hauptbuch; Soll = Haben.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. III/10 Rechnungswesen: Grundlagen",
+   "page": 3,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Eintragung in zwei Büchern"
+    },
+    {
+     "id": "o1",
+     "text": "Nur ein Konto pro Vorfall"
+    },
+    {
+     "id": "o2",
+     "text": "Soll und Haben in gleicher Höhe"
+    },
+    {
+     "id": "o3",
+     "text": "Jeder Geschäftsfall betrifft mindestens zwei Konten"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q69",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-6",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 10-6: Jahres(abschluss)rechnungen",
+   "solution": "Bilanz → Vermögenslage (Zeitpunktrechnung)\nGewinn- und Verlust-/Erfolgsrechnung → Ertragslage (Zeitraumrechnung)\nKapital-/Geldflussrechnung → Finanzlage (nur sehr große Unternehmen)\nErgänzend: Anhang, Lagebericht.\nAufgaben: Information, Rechenschaftslegung, Zahlungsbemessung (Ausschüttungen, Steuern).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q70",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-6a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-6: Welche Rechnung informiert über die Ertragslage?",
+   "solution": "Bilanz → Vermögenslage, KFR → Finanzlage.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kapitalflussrechnung"
+    },
+    {
+     "id": "o1",
+     "text": "Bilanz"
+    },
+    {
+     "id": "o2",
+     "text": "Gewinn- und Verlustrechnung"
+    },
+    {
+     "id": "o3",
+     "text": "Anhang"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q71",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-6b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-6: Welche Rechnung informiert über die Finanzlage?",
+   "solution": "Cashflows.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "GuV"
+    },
+    {
+     "id": "o1",
+     "text": "Lagebericht"
+    },
+    {
+     "id": "o2",
+     "text": "Kapital-/Geldflussrechnung"
+    },
+    {
+     "id": "o3",
+     "text": "Bilanz"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q72",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-6",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Ordne den drei Jahres(abschluss)rechnungen die jeweilige „Lage“ zu.",
+   "solution": "Bilanz – Vermögenslage; GuV – Ertragslage; Kapitalflussrechnung – Finanzlage.",
+   "rubric": "Drei richtige Zuordnungen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q73",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-7",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 10-7: Aufbau der Bilanz",
+   "solution": "Aktivseite = Mittelverwendung: Anlagevermögen (aus Investitionsprozessen), Umlaufvermögen (aus Umsatzprozessen).\nPassivseite = Mittelherkunft: Eigenkapital, Fremdkapital (aus Finanzierungsprozessen).\nBilanzgleichung: Aktivseite = Passivseite. Bilanz = Zeitpunktrechnung.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q74",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-7a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-7: Die Passivseite zeigt …",
+   "solution": "Aktiv = Verwendung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "die Mittelherkunft (Eigen- und Fremdkapital)"
+    },
+    {
+     "id": "o1",
+     "text": "die Erträge"
+    },
+    {
+     "id": "o2",
+     "text": "die Mittelverwendung"
+    },
+    {
+     "id": "o3",
+     "text": "die Cashflows"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q75",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-7b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Speedy-Bilanz 0002: AV 450.000, UV 760.000 T€. Wie hoch ist die Passivseite?",
+   "solution": "Aktiva = Passiva.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "1.210.000 T€"
+    },
+    {
+     "id": "o1",
+     "text": "450.000 T€"
+    },
+    {
+     "id": "o2",
+     "text": "760.000 T€"
+    },
+    {
+     "id": "o3",
+     "text": "990.000 T€"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q76",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-8",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 10-8 / 10-9: Bilanzänderungen",
+   "solution": "• Bilanzverlängerung (Aktiv-Passiv-Mehrung): + Aktiv, + Passiv – z. B. Gründung mit Bareinlage, Kreditaufnahme\n• Bilanzverkürzung (Aktiv-Passiv-Minderung): − Aktiv, − Passiv – z. B. Tilgung einer Verbindlichkeit\n• Aktivtausch: + und − auf der Aktivseite – z. B. Barkauf einer Anlage\n• Passivtausch: + und − auf der Passivseite – z. B. Umwandlung einer Verbindlichkeit",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q77",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-8a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-9: Barkauf einer Maschine ist ein …",
+   "solution": "AV +, flüssige Mittel −.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bilanzverlängerung"
+    },
+    {
+     "id": "o1",
+     "text": "Bilanzverkürzung"
+    },
+    {
+     "id": "o2",
+     "text": "Aktivtausch"
+    },
+    {
+     "id": "o3",
+     "text": "Passivtausch"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q78",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-8b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-9: Aufnahme eines Bankkredits ist eine …",
+   "solution": "Flüssige Mittel + und Fremdkapital +.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Aktivtausch"
+    },
+    {
+     "id": "o1",
+     "text": "Bilanzverlängerung"
+    },
+    {
+     "id": "o2",
+     "text": "Bilanzverkürzung"
+    },
+    {
+     "id": "o3",
+     "text": "Passivtausch"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q79",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-8c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Bezahlung einer Lieferantenrechnung per Überweisung ist eine …",
+   "solution": "Flüssige Mittel − und Verbindlichkeiten −.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Passivtausch"
+    },
+    {
+     "id": "o1",
+     "text": "Bilanzverlängerung"
+    },
+    {
+     "id": "o2",
+     "text": "Aktivtausch"
+    },
+    {
+     "id": "o3",
+     "text": "Bilanzverkürzung"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q80",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-8d",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Kunde zahlt eine offene Forderung. Bilanzänderung?",
+   "solution": "Forderungen −, flüssige Mittel +.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bilanzverlängerung"
+    },
+    {
+     "id": "o1",
+     "text": "Bilanzverkürzung"
+    },
+    {
+     "id": "o2",
+     "text": "Passivtausch"
+    },
+    {
+     "id": "o3",
+     "text": "Aktivtausch"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q81",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-10",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Rechengrößen (Schaubild 10-10 und 10-12)",
+   "solution": "Auszahlung/Einzahlung = Ab-/Zugang flüssiger Mittel (Bar-/Buchgeld).\nAusgabe/Einnahme = Minderung/Mehrung des Geldvermögens (flüssige Mittel + Forderungen − Verbindlichkeiten).\nAufwand/Ertrag = Minderung/Mehrung des Eigenkapitals (nicht durch Entnahmen/Einlagen).\nSchaubild 10-12 (Leistungsprozess): Rohstoffe geliefert = Ausgabe; Lieferanten bezahlt = Auszahlung; Rohstoffe verbraucht = Aufwand; Erzeugnisse hergestellt/eingelagert = Ertrag; Erzeugnisse an Kunden geliefert = Einnahme; Geld vom Kunden = Einzahlung.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q82",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-12a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-12: Rohstoffe werden auf Rechnung geliefert (noch nicht bezahlt). Welche Rechengröße?",
+   "solution": "Geldvermögen sinkt (Verbindlichkeit), flüssige Mittel noch nicht.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Auszahlung"
+    },
+    {
+     "id": "o1",
+     "text": "Ertrag"
+    },
+    {
+     "id": "o2",
+     "text": "Ausgabe"
+    },
+    {
+     "id": "o3",
+     "text": "Aufwand"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q83",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-12b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-12: Rohstoffe werden aus dem Lager in die Produktion gegeben. Welche Rechengröße?",
+   "solution": "Verbrauch mindert das Eigenkapital.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Auszahlung"
+    },
+    {
+     "id": "o1",
+     "text": "Einnahme"
+    },
+    {
+     "id": "o2",
+     "text": "Ausgabe"
+    },
+    {
+     "id": "o3",
+     "text": "Aufwand"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q84",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-12c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-12: Fertige Erzeugnisse werden an den Kunden geliefert (Rechnung offen). Welche Rechengröße?",
+   "solution": "Forderung erhöht das Geldvermögen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Einzahlung"
+    },
+    {
+     "id": "o1",
+     "text": "Ertrag aus Bestandserhöhung"
+    },
+    {
+     "id": "o2",
+     "text": "Einnahme"
+    },
+    {
+     "id": "o3",
+     "text": "Auszahlung"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q85",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-10a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Rechengröße verändert die flüssigen Mittel?",
+   "solution": "Ausgabe/Einnahme → Geldvermögen; Aufwand/Ertrag → Eigenkapital.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Auszahlung/Einzahlung"
+    },
+    {
+     "id": "o1",
+     "text": "Keine"
+    },
+    {
+     "id": "o2",
+     "text": "Aufwand/Ertrag"
+    },
+    {
+     "id": "o3",
+     "text": "Ausgabe/Einnahme"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q86",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-11",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 10-11 / Tabelle 10-2: Kapitalflussrechnung",
+   "solution": "Cashflow = Einzahlungen − Auszahlungen.\nCashflow aus laufender Geschäftstätigkeit (Umsatzprozesse) + aus Investitionstätigkeit + aus Finanzierungstätigkeit = zahlungswirksame Veränderung des Finanzmittelbestandes.\nSpeedy 0002: 185.000 − 175.000 + 0 = 10.000 T€ (0001: 108.000 − 130.000 + 50.000 = 28.000).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q87",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-11a",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 10-11: Aus welchen drei Teilrechnungen besteht die Kapitalflussrechnung?",
+   "solution": "Summe = Veränderung des Finanzmittelbestands.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Cashflow aus Finanzierungstätigkeit"
+    },
+    {
+     "id": "o1",
+     "text": "Cashflow aus Bestandsveränderungen"
+    },
+    {
+     "id": "o2",
+     "text": "Cashflow aus laufender Geschäftstätigkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Cashflow aus Investitionstätigkeit"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q88",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-11b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Speedy 0002: Cashflow lfd. 185.000, Investition −175.000, Finanzierung 0. Veränderung des Finanzmittelbestands?",
+   "solution": "185.000 − 175.000.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "+185.000 T€"
+    },
+    {
+     "id": "o1",
+     "text": "+10.000 T€"
+    },
+    {
+     "id": "o2",
+     "text": "−10.000 T€"
+    },
+    {
+     "id": "o3",
+     "text": "+360.000 T€"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q89",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-13",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 10-13 / Tabelle 10-3: Gewinn- und Verlustrechnung",
+   "solution": "Zeitabschnittsrechnung über die Veränderung des Eigenkapitals. Ergebnis = Erträge − Aufwendungen.\nAufbau: Betriebsergebnis (selbst genutztes Vermögen) + Finanzergebnis (Kapitalanlage/Finanzierung) = Ergebnis der gewöhnlichen Geschäftstätigkeit − Steuern = Jahresüberschuss − Einstellung in Gewinnrücklagen = Bilanzgewinn.\nSpeedy 0002: Betriebsergebnis 290.000 + Finanzergebnis 55.000 = 345.000; − Steuern 125.000 = Jahresüberschuss 220.000; − 100.000 Rücklagen = Bilanzgewinn 120.000 T€.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q90",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-13a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-13: Betriebsergebnis + Finanzergebnis = …",
+   "solution": "Danach Steuern abziehen → Jahresüberschuss.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bilanzgewinn"
+    },
+    {
+     "id": "o1",
+     "text": "Jahresüberschuss"
+    },
+    {
+     "id": "o2",
+     "text": "Ergebnis der gewöhnlichen Geschäftstätigkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Cashflow"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q91",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-13b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Speedy 0002: Jahresüberschuss 220.000, Einstellung in Gewinnrücklagen 100.000. Bilanzgewinn?",
+   "solution": "Steht dann auf der Passivseite im Eigenkapital.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "120.000 T€"
+    },
+    {
+     "id": "o1",
+     "text": "220.000 T€"
+    },
+    {
+     "id": "o2",
+     "text": "100.000 T€"
+    },
+    {
+     "id": "o3",
+     "text": "320.000 T€"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q92",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-14",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 10-14: Zusammenhang der Rechnungen",
+   "solution": "Eröffnungsbilanz → im Geschäftsjahr erklären\n• die Kapitalflussrechnung die Veränderung der flüssigen Mittel (Speedy: 390.000 + 10.000 = 400.000)\n• die GuV die Veränderung des Eigenkapitals (Speedy: Jahresüberschuss 220.000 → Gewinnrücklagen +100.000, Bilanzgewinn 120.000)\n→ Schlussbilanz.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q93",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "abb10-14",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 10-14: Welche Bilanzposition erklärt die Kapitalflussrechnung?",
+   "solution": "Die GuV erklärt die Veränderung des Eigenkapitals.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Kap. 10.3 Jahresabschluss",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Eigenkapital"
+    },
+    {
+     "id": "o1",
+     "text": "Sachanlagen"
+    },
+    {
+     "id": "o2",
+     "text": "Flüssige Mittel"
+    },
+    {
+     "id": "o3",
+     "text": "Rückstellungen"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q94",
+   "objective": "Kap. 10.3 Jahresabschluss",
+   "family": "q94",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Ordne zu (Speedy, Januar 0003): (1) Kauf einer Sachanlage bar 350, (2) Löhne bar 300, (3) Verkauf auf Ziel 998, (4) Kunde bezahlt die Forderung 998, (5) Kreditaufnahme 100. Welche Bilanzänderung und welche Rechengrößen?",
+   "solution": "(1) Aktivtausch; Auszahlung + Ausgabe. (2) Bilanzverkürzung; Auszahlung, Ausgabe, Aufwand. (3) Bilanzverlängerung; Einnahme, Ertrag. (4) Aktivtausch; Einzahlung. (5) Bilanzverlängerung; Einzahlung.",
+   "rubric": "Je Vorfall Bilanzänderung + Rechengrößen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Fallstudie Kapitel 10",
+   "page": 19,
+   "seconds": 300,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q95",
+   "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "family": "abb12-7",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 12-7: Kapitalstruktur",
+   "solution": "Horizontal (Aktiv ↔ Passiv):\n• Anlagevermögen ↔ Eigenkapital (+ langfr. FK) = goldene Finanzierungsregel / goldene Bilanzregel\n• Umlaufvermögen ↔ (kurzfristiges) Fremdkapital = Liquiditätsgrade\nVertikal (nur Passivseite): Eigenkapital ↔ Fremdkapital = vertikale Kapitalstrukturregel, Leverage-Effekt.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "page": 30,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q96",
+   "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "family": "abb12-7a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 12-7: Liquiditätsgrade setzen was in Beziehung?",
+   "solution": "Horizontale Kapitalstruktur unten.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Anlagevermögen und Eigenkapital"
+    },
+    {
+     "id": "o1",
+     "text": "Eigenkapital und Fremdkapital"
+    },
+    {
+     "id": "o2",
+     "text": "Umsatz und Gewinn"
+    },
+    {
+     "id": "o3",
+     "text": "Umlaufvermögen (bzw. Teile davon) und kurzfristiges Fremdkapital"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q97",
+   "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "family": "abb12-7b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 12-7: Der Verschuldungsgrad gehört zur …",
+   "solution": "EK ↔ FK.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "horizontalen Kapitalstruktur"
+    },
+    {
+     "id": "o1",
+     "text": "Erfolgsrechnung"
+    },
+    {
+     "id": "o2",
+     "text": "Liquiditätsanalyse"
+    },
+    {
+     "id": "o3",
+     "text": "vertikalen Kapitalstruktur"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q98",
+   "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "family": "kz",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kennzahlen Kapitalstruktur",
+   "solution": "Liquidität 1. Grades = liquide Mittel / kurzfr. FK\nLiquidität 2. Grades = (liquide Mittel + Forderungen aLuL) / kurzfr. FK\nLiquidität 3. Grades = Umlaufvermögen / kurzfr. FK (Ziel > 200 %)\nGoldene Bilanzregel: (EK + langfr. FK) / AV ≥ 1\nVerschuldungsgrad = FK / EK (Ziel < 100 %)\nEigenkapitalquote = EK / (EK + FK) (Ziel > 50 %)\nKurzfr. FK = Bilanzgewinn, 50 % Rückstellungen, Verb. LuL, übrige Verb., passive RAP. Langfr. FK = 50 % Rückstellungen, Anleihen, Verb. ggü. Kreditinstituten.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "page": 30,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q99",
+   "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "family": "kz1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Liquiditätskennzahl verwendet das gesamte Umlaufvermögen im Zähler?",
+   "solution": "Ziel > 200 %.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Liquidität 1. Grades"
+    },
+    {
+     "id": "o1",
+     "text": "Liquidität 3. Grades"
+    },
+    {
+     "id": "o2",
+     "text": "Goldene Bilanzregel"
+    },
+    {
+     "id": "o3",
+     "text": "Liquidität 2. Grades"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q100",
+   "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "family": "kz2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welcher Zielwert gilt laut Folie für den Verschuldungsgrad?",
+   "solution": "EK-Quote > 50 %, L3 > 200 %, GBR ≥ 1.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "> 50 %"
+    },
+    {
+     "id": "o1",
+     "text": "≥ 1"
+    },
+    {
+     "id": "o2",
+     "text": "< 100 %"
+    },
+    {
+     "id": "o3",
+     "text": "> 200 %"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q101",
+   "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "family": "kz3",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie werden die Rückstellungen bei der Kennzahlenrechnung aufgeteilt?",
+   "solution": "Halbe-halbe-Annahme.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "100 % kurzfristig"
+    },
+    {
+     "id": "o1",
+     "text": "Gar nicht berücksichtigt"
+    },
+    {
+     "id": "o2",
+     "text": "50 % kurzfristiges, 50 % langfristiges Fremdkapital"
+    },
+    {
+     "id": "o3",
+     "text": "100 % Eigenkapital"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q102",
+   "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "family": "q102",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Speedy 0002 (T€): flüssige Mittel 400.000, Forderungen 285.000, UV 760.000, AV 450.000, EK 493.000, Rückstellungen 460.000, Verb. ggü. Kreditinstituten 150.000, Verb. LuL 107.000, Bilanzgewinn 120.000. Berechne L1, L2, L3, goldene Bilanzregel, Verschuldungsgrad, EK-Quote.",
+   "solution": "Kurzfr. FK = 120.000 + 230.000 + 107.000 = 457.000; langfr. FK = 230.000 + 150.000 = 380.000. L1 = 88 %; L2 = 685.000/457.000 = 150 %; L3 = 760.000/457.000 = 166 %; GBR = (493.000 + 380.000)/450.000 = 1,9; VG = 717.000/493.000 = 145 %; EKQ = 493.000/1.210.000 ≈ 41 %.",
+   "rubric": "kurzfr./langfr. FK richtig; alle sechs Werte.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Fallstudie Kapitel 12",
+   "page": 30,
+   "seconds": 420,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q103",
+   "objective": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "family": "kz4",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Erfolgskennzahl: Eigenkapitalrentabilität = …",
+   "solution": "ROI = Jahresüberschuss / Gesamtkapital.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Externes Rechnungswesen (Folien)",
+   "sourceQuote": "Exkurs Finanzierung: Kapitalstruktur und Kennzahlen",
+   "page": 30,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Eigenkapital / Gesamtkapital"
+    },
+    {
+     "id": "o1",
+     "text": "Umsatz / Eigenkapital"
+    },
+    {
+     "id": "o2",
+     "text": "Jahresüberschuss / Gesamtkapital"
+    },
+    {
+     "id": "o3",
+     "text": "Jahresüberschuss / Eigenkapital"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  }
+ ]
+}

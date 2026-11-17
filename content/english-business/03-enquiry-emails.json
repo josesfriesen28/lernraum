@@ -23,23 +23,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Dear Ms Starr – Sincerely yours"
-    },
-    {
-     "id": "o1",
-     "text": "Dear James – Best wishes"
-    },
-    {
-     "id": "o2",
      "text": "Hi Ms Starr – Cheers"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "Dear Sir or Madam – Love"
+    },
+    {
+     "id": "o2",
+     "text": "Dear Ms Starr – Sincerely yours"
+    },
+    {
+     "id": "o3",
+     "text": "Dear James – Best wishes"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -58,23 +58,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Dear Sales team / Dear Bicycles Inc. team – Kind regards"
-    },
-    {
-     "id": "o1",
-     "text": "Dear James – Best wishes"
-    },
-    {
-     "id": "o2",
      "text": "Hey there – Cheers"
     },
     {
-     "id": "o3",
+     "id": "o1",
+     "text": "Dear Sales team / Dear Bicycles Inc. team – Kind regards"
+    },
+    {
+     "id": "o2",
      "text": "To whom it may concern – Yours lovingly"
+    },
+    {
+     "id": "o3",
+     "text": "Dear James – Best wishes"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -93,11 +93,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Enquiry about your … (desks/chairs/stationery)"
+     "text": "Hello"
     },
     {
      "id": "o1",
-     "text": "Hello"
+     "text": "Question"
     },
     {
      "id": "o2",
@@ -105,11 +105,11 @@
     },
     {
      "id": "o3",
-     "text": "Question"
+     "text": "Enquiry about your … (desks/chairs/stationery)"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -224,23 +224,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "We look forward to hearing from you soon."
-    },
-    {
-     "id": "o1",
      "text": "Write back fast."
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "That’s all."
     },
     {
-     "id": "o3",
+     "id": "o2",
      "text": "Bye for now!"
+    },
+    {
+     "id": "o3",
+     "text": "We look forward to hearing from you soon."
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -259,11 +259,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Please find attached our online catalogue."
+     "text": "Please find attach our catalogue."
     },
     {
      "id": "o1",
-     "text": "Please find attach our catalogue."
+     "text": "Find our catalogue is attached please."
     },
     {
      "id": "o2",
@@ -271,11 +271,11 @@
     },
     {
      "id": "o3",
-     "text": "Find our catalogue is attached please."
+     "text": "Please find attached our online catalogue."
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -298,7 +298,7 @@
     },
     {
      "id": "o1",
-     "text": "We would be pleased if you will send us a copy."
+     "text": "We are pleased if you would to send us a copy."
     },
     {
      "id": "o2",
@@ -306,7 +306,7 @@
     },
     {
      "id": "o3",
-     "text": "We are pleased if you would to send us a copy."
+     "text": "We would be pleased if you will send us a copy."
     }
    ],
    "correct": [

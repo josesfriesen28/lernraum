@@ -1,0 +1,1341 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "en-08-vocab-finance",
+ "title": "English · Glossary: Finance vocabulary",
+ "course": "English for Business Communication (B2.2)",
+ "examType": "Klausur",
+ "topic": "Finance",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Finance vocabulary",
+   "family": "v-mortgage",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a loan to buy or build property“",
+   "solution": "mortgage – a loan to buy or build property",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "mortgage: a loan to buy or build property",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "rebate"
+    },
+    {
+     "id": "o1",
+     "text": "savings account"
+    },
+    {
+     "id": "o2",
+     "text": "mortgage"
+    },
+    {
+     "id": "o3",
+     "text": "standing order"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Finance vocabulary",
+   "family": "v-mortgage",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „mortgage“ mean?",
+   "solution": "mortgage – a loan to buy or build property",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "mortgage: a loan to buy or build property",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the price for a single item of a product"
+    },
+    {
+     "id": "o1",
+     "text": "a loan to buy or build property"
+    },
+    {
+     "id": "o2",
+     "text": "the maximum amount of money that a holder of a bank account is allowed to borrow from that account (to overdraw = to spend more money than is in the account)"
+    },
+    {
+     "id": "o3",
+     "text": "to pay back money borrowed, plus interest"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Finance vocabulary",
+   "family": "v-outgoings",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the regular expenditure of a business“",
+   "solution": "outgoings – the regular expenditure of a business",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "outgoings: the regular expenditure of a business",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "standing order"
+    },
+    {
+     "id": "o1",
+     "text": "reminder"
+    },
+    {
+     "id": "o2",
+     "text": "savings"
+    },
+    {
+     "id": "o3",
+     "text": "outgoings"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Finance vocabulary",
+   "family": "v-outgoings",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „outgoings“ mean?",
+   "solution": "outgoings – the regular expenditure of a business",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "outgoings: the regular expenditure of a business",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the maximum amount of money that a holder of a bank account is allowed to borrow from that account (to overdraw = to spend more money than is in the account)"
+    },
+    {
+     "id": "o1",
+     "text": "the regular expenditure of a business"
+    },
+    {
+     "id": "o2",
+     "text": "offering benefits at a lower price than one might expect"
+    },
+    {
+     "id": "o3",
+     "text": "to pay back money borrowed, plus interest"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Finance vocabulary",
+   "family": "v-overdraft facility",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the maximum amount of money that a holder of a bank account is allowed to borrow from that account“",
+   "solution": "overdraft facility – the maximum amount of money that a holder of a bank account is allowed to borrow from that account (to overdraw = to spend more money than is in the account)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "overdraft facility: the maximum amount of money that a holder of a bank account is allowed to borrow from that account (to overdraw = to spend more money than is in the account)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "to pay off a loan"
+    },
+    {
+     "id": "o1",
+     "text": "mortgage"
+    },
+    {
+     "id": "o2",
+     "text": "overdraft facility"
+    },
+    {
+     "id": "o3",
+     "text": "revenue"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Finance vocabulary",
+   "family": "v-overdraft facility",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „overdraft facility“ mean?",
+   "solution": "overdraft facility – the maximum amount of money that a holder of a bank account is allowed to borrow from that account (to overdraw = to spend more money than is in the account)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "overdraft facility: the maximum amount of money that a holder of a bank account is allowed to borrow from that account (to overdraw = to spend more money than is in the account)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the maximum amount of money that a holder of a bank account is allowed to borrow from that account (to overdraw = to spend more money than is in the account)"
+    },
+    {
+     "id": "o1",
+     "text": "a letter sent to someone who has not paid on the agreed date"
+    },
+    {
+     "id": "o2",
+     "text": "the length of time that the loan will last"
+    },
+    {
+     "id": "o3",
+     "text": "a printed (or written) statement acknowledging that sth. has been paid for"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Finance vocabulary",
+   "family": "v-to owe",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„to have to pay back sth. that is borrowed, e.g. a loan“",
+   "solution": "to owe – to have to pay back sth. that is borrowed, e.g. a loan",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to owe: to have to pay back sth. that is borrowed, e.g. a loan",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "profit"
+    },
+    {
+     "id": "o1",
+     "text": "wealth"
+    },
+    {
+     "id": "o2",
+     "text": "to owe"
+    },
+    {
+     "id": "o3",
+     "text": "rebate"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Finance vocabulary",
+   "family": "v-to owe",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „to owe“ mean?",
+   "solution": "to owe – to have to pay back sth. that is borrowed, e.g. a loan",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to owe: to have to pay back sth. that is borrowed, e.g. a loan",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "offering benefits at a lower price than one might expect"
+    },
+    {
+     "id": "o1",
+     "text": "a letter sent to someone who has not paid on the agreed date"
+    },
+    {
+     "id": "o2",
+     "text": "to have to pay back sth. that is borrowed, e.g. a loan"
+    },
+    {
+     "id": "o3",
+     "text": "a loan to buy or build property"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Finance vocabulary",
+   "family": "v-to pay off a loan",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„to pay back money borrowed, plus interest“",
+   "solution": "to pay off a loan – to pay back money borrowed, plus interest",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to pay off a loan: to pay back money borrowed, plus interest",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "revenue"
+    },
+    {
+     "id": "o1",
+     "text": "mortgage"
+    },
+    {
+     "id": "o2",
+     "text": "to pay off a loan"
+    },
+    {
+     "id": "o3",
+     "text": "savings"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Finance vocabulary",
+   "family": "v-to pay off a loan",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „to pay off a loan“ mean?",
+   "solution": "to pay off a loan – to pay back money borrowed, plus interest",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to pay off a loan: to pay back money borrowed, plus interest",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "to have to pay back sth. that is borrowed, e.g. a loan"
+    },
+    {
+     "id": "o1",
+     "text": "to pay back money borrowed, plus interest"
+    },
+    {
+     "id": "o2",
+     "text": "the length of time that the loan will last"
+    },
+    {
+     "id": "o3",
+     "text": "a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Finance vocabulary",
+   "family": "v-profit",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the amount of money gained after the costs of making or getting it have been paid“",
+   "solution": "profit – the amount of money gained after the costs of making or getting it have been paid (a profitable business; ⇔ loss)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "profit: the amount of money gained after the costs of making or getting it have been paid (a profitable business; ⇔ loss)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "value-for-money"
+    },
+    {
+     "id": "o1",
+     "text": "profit"
+    },
+    {
+     "id": "o2",
+     "text": "rebate"
+    },
+    {
+     "id": "o3",
+     "text": "unit price"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Finance vocabulary",
+   "family": "v-profit",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „profit“ mean?",
+   "solution": "profit – the amount of money gained after the costs of making or getting it have been paid (a profitable business; ⇔ loss)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "profit: the amount of money gained after the costs of making or getting it have been paid (a profitable business; ⇔ loss)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the amount of money gained after the costs of making or getting it have been paid (a profitable business; ⇔ loss)"
+    },
+    {
+     "id": "o1",
+     "text": "a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)"
+    },
+    {
+     "id": "o2",
+     "text": "a sum of money paid back to someone who has paid too much (e.g. for tax or rent)"
+    },
+    {
+     "id": "o3",
+     "text": "to pay back money borrowed, plus interest"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Finance vocabulary",
+   "family": "v-rebate",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a sum of money paid back to someone who has paid too much (e.g. for tax or rent)“",
+   "solution": "rebate – a sum of money paid back to someone who has paid too much (e.g. for tax or rent)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "rebate: a sum of money paid back to someone who has paid too much (e.g. for tax or rent)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "overdraft facility"
+    },
+    {
+     "id": "o1",
+     "text": "refund"
+    },
+    {
+     "id": "o2",
+     "text": "outgoings"
+    },
+    {
+     "id": "o3",
+     "text": "rebate"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "Finance vocabulary",
+   "family": "v-rebate",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „rebate“ mean?",
+   "solution": "rebate – a sum of money paid back to someone who has paid too much (e.g. for tax or rent)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "rebate: a sum of money paid back to someone who has paid too much (e.g. for tax or rent)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a sum of money paid back to someone who has paid too much (e.g. for tax or rent)"
+    },
+    {
+     "id": "o1",
+     "text": "an instruction to a bank by an account holder to make regular fixed payments to a particular person or organisation"
+    },
+    {
+     "id": "o2",
+     "text": "money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)"
+    },
+    {
+     "id": "o3",
+     "text": "a letter sent to someone who has not paid on the agreed date"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Finance vocabulary",
+   "family": "v-receipt",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a printed (or written) statement acknowledging that sth. has been paid for“",
+   "solution": "receipt – a printed (or written) statement acknowledging that sth. has been paid for",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "receipt: a printed (or written) statement acknowledging that sth. has been paid for",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "outgoings"
+    },
+    {
+     "id": "o1",
+     "text": "wealth"
+    },
+    {
+     "id": "o2",
+     "text": "receipt"
+    },
+    {
+     "id": "o3",
+     "text": "value-for-money"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "Finance vocabulary",
+   "family": "v-receipt",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „receipt“ mean?",
+   "solution": "receipt – a printed (or written) statement acknowledging that sth. has been paid for",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "receipt: a printed (or written) statement acknowledging that sth. has been paid for",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the length of time that the loan will last"
+    },
+    {
+     "id": "o1",
+     "text": "the regular expenditure of a business"
+    },
+    {
+     "id": "o2",
+     "text": "a long-term bank account that pays interest, but where money can only be taken out by arrangement"
+    },
+    {
+     "id": "o3",
+     "text": "a printed (or written) statement acknowledging that sth. has been paid for"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Finance vocabulary",
+   "family": "v-refund",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„money returned to a customer who is not satisfied with the product or service that they purchased“",
+   "solution": "refund – money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "refund: money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "rebate"
+    },
+    {
+     "id": "o1",
+     "text": "profit"
+    },
+    {
+     "id": "o2",
+     "text": "savings account"
+    },
+    {
+     "id": "o3",
+     "text": "refund"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Finance vocabulary",
+   "family": "v-refund",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „refund“ mean?",
+   "solution": "refund – money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "refund: money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)"
+    },
+    {
+     "id": "o1",
+     "text": "the money that a person or business saves, e.g. in a bank"
+    },
+    {
+     "id": "o2",
+     "text": "money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)"
+    },
+    {
+     "id": "o3",
+     "text": "the price for a single item of a product"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Finance vocabulary",
+   "family": "v-reminder",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a letter sent to someone who has not paid on the agreed date“",
+   "solution": "reminder – a letter sent to someone who has not paid on the agreed date",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "reminder: a letter sent to someone who has not paid on the agreed date",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "value-for-money"
+    },
+    {
+     "id": "o1",
+     "text": "receipt"
+    },
+    {
+     "id": "o2",
+     "text": "value added tax (VAT)"
+    },
+    {
+     "id": "o3",
+     "text": "reminder"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Finance vocabulary",
+   "family": "v-reminder",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „reminder“ mean?",
+   "solution": "reminder – a letter sent to someone who has not paid on the agreed date",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "reminder: a letter sent to someone who has not paid on the agreed date",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the length of time that the loan will last"
+    },
+    {
+     "id": "o1",
+     "text": "the regular expenditure of a business"
+    },
+    {
+     "id": "o2",
+     "text": "the income that an organisation (or state) earns, usually a large amount"
+    },
+    {
+     "id": "o3",
+     "text": "a letter sent to someone who has not paid on the agreed date"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Finance vocabulary",
+   "family": "v-revenue",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the income that an organisation (or state) earns, usually a large amount“",
+   "solution": "revenue – the income that an organisation (or state) earns, usually a large amount",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "revenue: the income that an organisation (or state) earns, usually a large amount",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "term (of a loan)"
+    },
+    {
+     "id": "o1",
+     "text": "reminder"
+    },
+    {
+     "id": "o2",
+     "text": "revenue"
+    },
+    {
+     "id": "o3",
+     "text": "rebate"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q22",
+   "objective": "Finance vocabulary",
+   "family": "v-revenue",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „revenue“ mean?",
+   "solution": "revenue – the income that an organisation (or state) earns, usually a large amount",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "revenue: the income that an organisation (or state) earns, usually a large amount",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the amount of money gained after the costs of making or getting it have been paid (a profitable business; ⇔ loss)"
+    },
+    {
+     "id": "o1",
+     "text": "the income that an organisation (or state) earns, usually a large amount"
+    },
+    {
+     "id": "o2",
+     "text": "the maximum amount of money that a holder of a bank account is allowed to borrow from that account (to overdraw = to spend more money than is in the account)"
+    },
+    {
+     "id": "o3",
+     "text": "a loan to buy or build property"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q23",
+   "objective": "Finance vocabulary",
+   "family": "v-savings",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the money that a person or business saves, e.g. in a bank“",
+   "solution": "savings – the money that a person or business saves, e.g. in a bank",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "savings: the money that a person or business saves, e.g. in a bank",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "savings account"
+    },
+    {
+     "id": "o1",
+     "text": "savings"
+    },
+    {
+     "id": "o2",
+     "text": "reminder"
+    },
+    {
+     "id": "o3",
+     "text": "to pay off a loan"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q24",
+   "objective": "Finance vocabulary",
+   "family": "v-savings",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „savings“ mean?",
+   "solution": "savings – the money that a person or business saves, e.g. in a bank",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "savings: the money that a person or business saves, e.g. in a bank",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)"
+    },
+    {
+     "id": "o1",
+     "text": "the money that a person or business saves, e.g. in a bank"
+    },
+    {
+     "id": "o2",
+     "text": "a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)"
+    },
+    {
+     "id": "o3",
+     "text": "a loan to buy or build property"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Finance vocabulary",
+   "family": "v-savings account",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a long-term bank account that pays interest, but where money can only be taken out by arrangement“",
+   "solution": "savings account – a long-term bank account that pays interest, but where money can only be taken out by arrangement",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "savings account: a long-term bank account that pays interest, but where money can only be taken out by arrangement",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "standing order"
+    },
+    {
+     "id": "o1",
+     "text": "savings account"
+    },
+    {
+     "id": "o2",
+     "text": "unit price"
+    },
+    {
+     "id": "o3",
+     "text": "value added tax (VAT)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Finance vocabulary",
+   "family": "v-savings account",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „savings account“ mean?",
+   "solution": "savings account – a long-term bank account that pays interest, but where money can only be taken out by arrangement",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "savings account: a long-term bank account that pays interest, but where money can only be taken out by arrangement",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a long-term bank account that pays interest, but where money can only be taken out by arrangement"
+    },
+    {
+     "id": "o1",
+     "text": "the maximum amount of money that a holder of a bank account is allowed to borrow from that account (to overdraw = to spend more money than is in the account)"
+    },
+    {
+     "id": "o2",
+     "text": "an instruction to a bank by an account holder to make regular fixed payments to a particular person or organisation"
+    },
+    {
+     "id": "o3",
+     "text": "the length of time that the loan will last"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q27",
+   "objective": "Finance vocabulary",
+   "family": "v-standing order",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an instruction to a bank by an account holder to make regular fixed payments to a particular person or organisation“",
+   "solution": "standing order – an instruction to a bank by an account holder to make regular fixed payments to a particular person or organisation",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "standing order: an instruction to a bank by an account holder to make regular fixed payments to a particular person or organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "unit price"
+    },
+    {
+     "id": "o1",
+     "text": "standing order"
+    },
+    {
+     "id": "o2",
+     "text": "refund"
+    },
+    {
+     "id": "o3",
+     "text": "reminder"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q28",
+   "objective": "Finance vocabulary",
+   "family": "v-standing order",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „standing order“ mean?",
+   "solution": "standing order – an instruction to a bank by an account holder to make regular fixed payments to a particular person or organisation",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "standing order: an instruction to a bank by an account holder to make regular fixed payments to a particular person or organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the length of time that the loan will last"
+    },
+    {
+     "id": "o1",
+     "text": "to have to pay back sth. that is borrowed, e.g. a loan"
+    },
+    {
+     "id": "o2",
+     "text": "having a lot of money, possessions or resources (= rich, prosperous, well-to-do)"
+    },
+    {
+     "id": "o3",
+     "text": "an instruction to a bank by an account holder to make regular fixed payments to a particular person or organisation"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q29",
+   "objective": "Finance vocabulary",
+   "family": "v-term (of a loan)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the length of time that the loan will last“",
+   "solution": "term (of a loan) – the length of time that the loan will last",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "term (of a loan): the length of time that the loan will last",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "savings account"
+    },
+    {
+     "id": "o1",
+     "text": "term (of a loan)"
+    },
+    {
+     "id": "o2",
+     "text": "refund"
+    },
+    {
+     "id": "o3",
+     "text": "to owe"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q30",
+   "objective": "Finance vocabulary",
+   "family": "v-term (of a loan)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „term (of a loan)“ mean?",
+   "solution": "term (of a loan) – the length of time that the loan will last",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "term (of a loan): the length of time that the loan will last",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)"
+    },
+    {
+     "id": "o1",
+     "text": "an instruction to a bank by an account holder to make regular fixed payments to a particular person or organisation"
+    },
+    {
+     "id": "o2",
+     "text": "the income that an organisation (or state) earns, usually a large amount"
+    },
+    {
+     "id": "o3",
+     "text": "the length of time that the loan will last"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q31",
+   "objective": "Finance vocabulary",
+   "family": "v-unit price",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the price for a single item of a product“",
+   "solution": "unit price – the price for a single item of a product",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "unit price: the price for a single item of a product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "unit price"
+    },
+    {
+     "id": "o1",
+     "text": "value added tax (VAT)"
+    },
+    {
+     "id": "o2",
+     "text": "reminder"
+    },
+    {
+     "id": "o3",
+     "text": "revenue"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q32",
+   "objective": "Finance vocabulary",
+   "family": "v-unit price",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „unit price“ mean?",
+   "solution": "unit price – the price for a single item of a product",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "unit price: the price for a single item of a product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the money that a person or business saves, e.g. in a bank"
+    },
+    {
+     "id": "o1",
+     "text": "having a lot of money, possessions or resources (= rich, prosperous, well-to-do)"
+    },
+    {
+     "id": "o2",
+     "text": "the price for a single item of a product"
+    },
+    {
+     "id": "o3",
+     "text": "money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q33",
+   "objective": "Finance vocabulary",
+   "family": "v-value added tax (VAT)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)“",
+   "solution": "value added tax (VAT) – a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "value added tax (VAT): a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "value added tax (VAT)"
+    },
+    {
+     "id": "o1",
+     "text": "standing order"
+    },
+    {
+     "id": "o2",
+     "text": "term (of a loan)"
+    },
+    {
+     "id": "o3",
+     "text": "rebate"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q34",
+   "objective": "Finance vocabulary",
+   "family": "v-value added tax (VAT)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „value added tax (VAT)“ mean?",
+   "solution": "value added tax (VAT) – a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "value added tax (VAT): a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a letter sent to someone who has not paid on the agreed date"
+    },
+    {
+     "id": "o1",
+     "text": "to have to pay back sth. that is borrowed, e.g. a loan"
+    },
+    {
+     "id": "o2",
+     "text": "having a lot of money, possessions or resources (= rich, prosperous, well-to-do)"
+    },
+    {
+     "id": "o3",
+     "text": "a tax that is added to the price of many goods and services, based on the idea that value is added at each stage of production or distribution, etc. (≈ AE sales tax)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q35",
+   "objective": "Finance vocabulary",
+   "family": "v-value-for-money",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„offering benefits at a lower price than one might expect“",
+   "solution": "value-for-money – offering benefits at a lower price than one might expect",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "value-for-money: offering benefits at a lower price than one might expect",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "profit"
+    },
+    {
+     "id": "o1",
+     "text": "value-for-money"
+    },
+    {
+     "id": "o2",
+     "text": "overdraft facility"
+    },
+    {
+     "id": "o3",
+     "text": "outgoings"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q36",
+   "objective": "Finance vocabulary",
+   "family": "v-value-for-money",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „value-for-money“ mean?",
+   "solution": "value-for-money – offering benefits at a lower price than one might expect",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "value-for-money: offering benefits at a lower price than one might expect",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "to pay back money borrowed, plus interest"
+    },
+    {
+     "id": "o1",
+     "text": "offering benefits at a lower price than one might expect"
+    },
+    {
+     "id": "o2",
+     "text": "money returned to a customer who is not satisfied with the product or service that they purchased (to refund a customer)"
+    },
+    {
+     "id": "o3",
+     "text": "the amount of money gained after the costs of making or getting it have been paid (a profitable business; ⇔ loss)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q37",
+   "objective": "Finance vocabulary",
+   "family": "v-wealth",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„having a lot of money, possessions or resources (= rich, prosperous, well-to-do)“",
+   "solution": "wealth – having a lot of money, possessions or resources (= rich, prosperous, well-to-do)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "wealth: having a lot of money, possessions or resources (= rich, prosperous, well-to-do)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "wealth"
+    },
+    {
+     "id": "o1",
+     "text": "savings"
+    },
+    {
+     "id": "o2",
+     "text": "standing order"
+    },
+    {
+     "id": "o3",
+     "text": "rebate"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q38",
+   "objective": "Finance vocabulary",
+   "family": "v-wealth",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „wealth“ mean?",
+   "solution": "wealth – having a lot of money, possessions or resources (= rich, prosperous, well-to-do)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "wealth: having a lot of money, possessions or resources (= rich, prosperous, well-to-do)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "having a lot of money, possessions or resources (= rich, prosperous, well-to-do)"
+    },
+    {
+     "id": "o1",
+     "text": "offering benefits at a lower price than one might expect"
+    },
+    {
+     "id": "o2",
+     "text": "to pay back money borrowed, plus interest"
+    },
+    {
+     "id": "o3",
+     "text": "a letter sent to someone who has not paid on the agreed date"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  }
+ ]
+}

@@ -55,23 +55,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Wegen der Inhomogenität der Fläche – Orte unterscheiden sich in Kosten, Arbeitskräften, Nähe zu Kunden usw."
-    },
-    {
-     "id": "o1",
      "text": "Weil das Gesetz es vorschreibt"
     },
     {
+     "id": "o1",
+     "text": "Wegen der Inhomogenität der Fläche – Orte unterscheiden sich in Kosten, Arbeitskräften, Nähe zu Kunden usw."
+    },
+    {
      "id": "o2",
-     "text": "Weil jedes Unternehmen genau einen Standort braucht"
+     "text": "Wegen der Rechtsformwahl"
     },
     {
      "id": "o3",
-     "text": "Wegen der Rechtsformwahl"
+     "text": "Weil jedes Unternehmen genau einen Standort braucht"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -106,23 +106,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Ein Mindestkriterium, das erfüllt sein muss – fehlt es, scheidet der Standort aus"
-    },
-    {
-     "id": "o1",
-     "text": "Ein Faktor, der durch andere Vorteile ausgeglichen werden kann"
-    },
-    {
-     "id": "o2",
      "text": "Ein Faktor, der nur für Dienstleister gilt"
     },
     {
-     "id": "o3",
+     "id": "o1",
+     "text": "Ein Mindestkriterium, das erfüllt sein muss – fehlt es, scheidet der Standort aus"
+    },
+    {
+     "id": "o2",
      "text": "Ein rein qualitativer Faktor"
+    },
+    {
+     "id": "o3",
+     "text": "Ein Faktor, der durch andere Vorteile ausgeglichen werden kann"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -145,11 +145,11 @@
     },
     {
      "id": "o1",
-     "text": "Geringe Verhandlungsstärke der Gewerkschaften"
+     "text": "Höhe der Steuern"
     },
     {
      "id": "o2",
-     "text": "Höhe der Steuern"
+     "text": "Geringe Verhandlungsstärke der Gewerkschaften"
     },
     {
      "id": "o3",
@@ -176,7 +176,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Standorteinheit"
+     "text": "Standortverschmelzung"
     },
     {
      "id": "o1",
@@ -184,22 +184,22 @@
     },
     {
      "id": "o2",
-     "text": "Standortspaltung"
+     "text": "Standorteinheit"
     },
     {
      "id": "o3",
-     "text": "Standortdiversifikation"
+     "text": "Standortspaltung"
     },
     {
      "id": "o4",
-     "text": "Standortverschmelzung"
+     "text": "Standortdiversifikation"
     }
    ],
    "correct": [
-    "o0",
     "o1",
     "o2",
-    "o3"
+    "o3",
+    "o4"
    ]
   },
   {
@@ -218,23 +218,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Standortteilung (Funktionen auf verschiedene Orte verteilt)"
+     "text": "Standortdiversifikation"
     },
     {
      "id": "o1",
-     "text": "Standorteinheit"
-    },
-    {
-     "id": "o2",
      "text": "Standortspaltung"
     },
     {
+     "id": "o2",
+     "text": "Standorteinheit"
+    },
+    {
      "id": "o3",
-     "text": "Standortdiversifikation"
+     "text": "Standortteilung (Funktionen auf verschiedene Orte verteilt)"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -288,30 +288,30 @@
    "options": [
     {
      "id": "o0",
-     "text": "Erschließung neuer Absatzmärkte durch Produktion in Kundennähe"
-    },
-    {
-     "id": "o1",
-     "text": "Umgehung von Importbeschränkungen"
-    },
-    {
-     "id": "o2",
-     "text": "Vermeidung von Wechselkurseinflüssen"
-    },
-    {
-     "id": "o3",
      "text": "Realisierung von Erfahrungskurveneffekten"
     },
     {
-     "id": "o4",
+     "id": "o1",
      "text": "Wahl einer neuen Rechtsform"
+    },
+    {
+     "id": "o2",
+     "text": "Umgehung von Importbeschränkungen"
+    },
+    {
+     "id": "o3",
+     "text": "Vermeidung von Wechselkurseinflüssen"
+    },
+    {
+     "id": "o4",
+     "text": "Erschließung neuer Absatzmärkte durch Produktion in Kundennähe"
     }
    ],
    "correct": [
     "o0",
-    "o1",
     "o2",
-    "o3"
+    "o3",
+    "o4"
    ]
   },
   {
@@ -362,23 +362,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Man kann nur zwischen den gesetzlich vorgesehenen Rechtsformen wählen"
+     "text": "Die Zahl der Gesellschafter ist begrenzt"
     },
     {
      "id": "o1",
-     "text": "Jedes Unternehmen erfindet seine Rechtsform"
+     "text": "Man kann nur zwischen den gesetzlich vorgesehenen Rechtsformen wählen"
     },
     {
      "id": "o2",
-     "text": "Nur Kapitalgesellschaften sind erlaubt"
+     "text": "Jedes Unternehmen erfindet seine Rechtsform"
     },
     {
      "id": "o3",
-     "text": "Die Zahl der Gesellschafter ist begrenzt"
+     "text": "Nur Kapitalgesellschaften sind erlaubt"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -397,23 +397,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Einzelunternehmen (ca. 68 %)"
-    },
-    {
-     "id": "o1",
      "text": "GmbH"
     },
     {
+     "id": "o1",
+     "text": "Einzelunternehmen (ca. 68 %)"
+    },
+    {
      "id": "o2",
-     "text": "AG"
+     "text": "KG"
     },
     {
      "id": "o3",
-     "text": "KG"
+     "text": "AG"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -436,25 +436,25 @@
     },
     {
      "id": "o1",
-     "text": "AG"
-    },
-    {
-     "id": "o2",
-     "text": "KGaA"
-    },
-    {
-     "id": "o3",
      "text": "OHG"
     },
     {
-     "id": "o4",
+     "id": "o2",
      "text": "GbR"
+    },
+    {
+     "id": "o3",
+     "text": "KGaA"
+    },
+    {
+     "id": "o4",
+     "text": "AG"
     }
    ],
    "correct": [
     "o0",
-    "o1",
-    "o2"
+    "o3",
+    "o4"
    ]
   },
   {
@@ -473,7 +473,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "GmbH"
+     "text": "Einzelunternehmen"
     },
     {
      "id": "o1",
@@ -481,15 +481,15 @@
     },
     {
      "id": "o2",
-     "text": "Einzelunternehmen"
+     "text": "GbR"
     },
     {
      "id": "o3",
-     "text": "GbR"
+     "text": "GmbH"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -524,23 +524,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Bei Kooperation bleiben die Unternehmen grundsätzlich selbstständig und stimmen ausgewählte Aktivitäten ab; Konzentration ist eine weitergehende Verbindung (Verlust der wirtschaftlichen Selbstständigkeit)"
+     "text": "Es gibt keinen Unterschied"
     },
     {
      "id": "o1",
-     "text": "Kooperation ist immer international, Konzentration national"
+     "text": "Bei Kooperation bleiben die Unternehmen grundsätzlich selbstständig und stimmen ausgewählte Aktivitäten ab; Konzentration ist eine weitergehende Verbindung (Verlust der wirtschaftlichen Selbstständigkeit)"
     },
     {
      "id": "o2",
-     "text": "Bei Konzentration bleiben alle selbstständig"
+     "text": "Kooperation ist immer international, Konzentration national"
     },
     {
      "id": "o3",
-     "text": "Es gibt keinen Unterschied"
+     "text": "Bei Konzentration bleiben alle selbstständig"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -563,11 +563,11 @@
     },
     {
      "id": "o1",
-     "text": "Vertikal (vor- oder nachgelagerte Stufe)"
+     "text": "Diagonal/lateral (andere Branche)"
     },
     {
      "id": "o2",
-     "text": "Diagonal/lateral (andere Branche)"
+     "text": "Vertikal (vor- oder nachgelagerte Stufe)"
     },
     {
      "id": "o3",
@@ -604,11 +604,11 @@
     },
     {
      "id": "o2",
-     "text": "Diagonal"
+     "text": "Keine Verbindung"
     },
     {
      "id": "o3",
-     "text": "Keine Verbindung"
+     "text": "Diagonal"
     }
    ],
    "correct": [

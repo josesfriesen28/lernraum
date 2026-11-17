@@ -23,23 +23,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "word-of-mouth advertising"
-    },
-    {
-     "id": "o1",
-     "text": "institutional advertising"
-    },
-    {
-     "id": "o2",
      "text": "counter-cyclical advertising"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "comparative parity"
+    },
+    {
+     "id": "o2",
+     "text": "institutional advertising"
+    },
+    {
+     "id": "o3",
+     "text": "word-of-mouth advertising"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -58,7 +58,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "institutional (prestige) advertising"
+     "text": "classified advertising"
     },
     {
      "id": "o1",
@@ -66,15 +66,15 @@
     },
     {
      "id": "o2",
-     "text": "classified advertising"
+     "text": "a commercial"
     },
     {
      "id": "o3",
-     "text": "a commercial"
+     "text": "institutional (prestige) advertising"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -93,23 +93,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "account"
+     "text": "OTS"
     },
     {
      "id": "o1",
-     "text": "brief"
-    },
-    {
-     "id": "o2",
      "text": "media plan"
     },
     {
+     "id": "o2",
+     "text": "brief"
+    },
+    {
      "id": "o3",
-     "text": "OTS"
+     "text": "account"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -128,23 +128,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "brief"
-    },
-    {
-     "id": "o1",
-     "text": "budget"
-    },
-    {
-     "id": "o2",
      "text": "account"
     },
     {
-     "id": "o3",
+     "id": "o1",
+     "text": "brief"
+    },
+    {
+     "id": "o2",
      "text": "threshold effect"
+    },
+    {
+     "id": "o3",
+     "text": "budget"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -163,23 +163,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "media plan"
-    },
-    {
-     "id": "o1",
      "text": "brief"
     },
     {
+     "id": "o1",
+     "text": "media plan"
+    },
+    {
      "id": "o2",
-     "text": "account"
+     "text": "invoice"
     },
     {
      "id": "o3",
-     "text": "invoice"
+     "text": "account"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -198,7 +198,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "threshold effect"
+     "text": "buyer turnover"
     },
     {
      "id": "o1",
@@ -210,11 +210,11 @@
     },
     {
      "id": "o3",
-     "text": "buyer turnover"
+     "text": "threshold effect"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -233,11 +233,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "comparative-parity method"
+     "text": "counter-cyclical method"
     },
     {
      "id": "o1",
-     "text": "counter-cyclical method"
+     "text": "threshold method"
     },
     {
      "id": "o2",
@@ -245,11 +245,11 @@
     },
     {
      "id": "o3",
-     "text": "threshold method"
+     "text": "comparative-parity method"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -272,11 +272,11 @@
     },
     {
      "id": "o1",
-     "text": "word-of-mouth advertising"
+     "text": "prestige advertising"
     },
     {
      "id": "o2",
-     "text": "prestige advertising"
+     "text": "word-of-mouth advertising"
     },
     {
      "id": "o3",
@@ -303,15 +303,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "Cost per thousand – the cost of reaching 1,000 members of the target audience"
+     "text": "Customer purchase motivation"
     },
     {
      "id": "o1",
-     "text": "Cost per month"
+     "text": "Cost per thousand – the cost of reaching 1,000 members of the target audience"
     },
     {
      "id": "o2",
-     "text": "Customer purchase motivation"
+     "text": "Cost per month"
     },
     {
      "id": "o3",
@@ -319,7 +319,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -338,11 +338,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Opportunities to see"
+     "text": "Order to sell"
     },
     {
      "id": "o1",
-     "text": "Order to sell"
+     "text": "Opportunities to see"
     },
     {
      "id": "o2",
@@ -354,7 +354,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -405,7 +405,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "A classified advertisement"
+     "text": "A billboard"
     },
     {
      "id": "o1",
@@ -413,7 +413,7 @@
     },
     {
      "id": "o2",
-     "text": "A billboard"
+     "text": "A classified advertisement"
     },
     {
      "id": "o3",
@@ -421,7 +421,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -440,15 +440,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "billboard"
+     "text": "placard"
     },
     {
      "id": "o1",
-     "text": "board-sign"
+     "text": "billboard"
     },
     {
      "id": "o2",
-     "text": "placard"
+     "text": "board-sign"
     },
     {
      "id": "o3",
@@ -456,7 +456,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   }
  ]

@@ -39,23 +39,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "will stay"
-    },
-    {
-     "id": "o1",
      "text": "would stay"
     },
     {
+     "id": "o1",
+     "text": "stayed"
+    },
+    {
      "id": "o2",
-     "text": "would have stayed"
+     "text": "will stay"
     },
     {
      "id": "o3",
-     "text": "stayed"
+     "text": "would have stayed"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -78,7 +78,7 @@
     },
     {
      "id": "o1",
-     "text": "have"
+     "text": "had had"
     },
     {
      "id": "o2",
@@ -86,7 +86,7 @@
     },
     {
      "id": "o3",
-     "text": "had had"
+     "text": "have"
     }
    ],
    "correct": [
@@ -109,15 +109,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "would have passed"
-    },
-    {
-     "id": "o1",
      "text": "would pass"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "will pass"
+    },
+    {
+     "id": "o2",
+     "text": "would have passed"
     },
     {
      "id": "o3",
@@ -125,7 +125,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -144,15 +144,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "melts"
-    },
-    {
-     "id": "o1",
      "text": "will have melted"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "would melt"
+    },
+    {
+     "id": "o2",
+     "text": "melts"
     },
     {
      "id": "o3",
@@ -160,7 +160,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -179,23 +179,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "If I will see him, I will tell him."
+     "text": "If I had seen him, I would have told him."
     },
     {
      "id": "o1",
-     "text": "If I see him, I will tell him."
+     "text": "If I will see him, I will tell him."
     },
     {
      "id": "o2",
-     "text": "If I saw him, I would tell him."
+     "text": "If I see him, I will tell him."
     },
     {
      "id": "o3",
-     "text": "If I had seen him, I would have told him."
+     "text": "If I saw him, I would tell him."
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -214,23 +214,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Type III"
-    },
-    {
-     "id": "o1",
-     "text": "Type II"
-    },
-    {
-     "id": "o2",
      "text": "Type I"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "Type 0"
+    },
+    {
+     "id": "o2",
+     "text": "Type II"
+    },
+    {
+     "id": "o3",
+     "text": "Type III"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -249,23 +249,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Mixed: past condition (III) with present result (II)"
-    },
-    {
-     "id": "o1",
-     "text": "Type II"
-    },
-    {
-     "id": "o2",
      "text": "Type III"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "Mixed: present condition with past result"
+    },
+    {
+     "id": "o2",
+     "text": "Mixed: past condition (III) with present result (II)"
+    },
+    {
+     "id": "o3",
+     "text": "Type II"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -284,23 +284,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Present condition (II) with past result (III)"
+     "text": "Type 0"
     },
     {
      "id": "o1",
-     "text": "Past condition with present result"
+     "text": "Present condition (II) with past result (III)"
     },
     {
      "id": "o2",
-     "text": "Type I"
+     "text": "Past condition with present result"
     },
     {
      "id": "o3",
-     "text": "Type 0"
+     "text": "Type I"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -319,23 +319,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "might have"
+     "text": "had"
     },
     {
      "id": "o1",
-     "text": "might have had"
+     "text": "might have"
     },
     {
      "id": "o2",
-     "text": "will have"
+     "text": "might have had"
     },
     {
      "id": "o3",
-     "text": "had"
+     "text": "will have"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {

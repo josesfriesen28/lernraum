@@ -1,0 +1,2344 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b2-06-schaubilder-fuehrung",
+ "title": "B2 · Schaubilder 2: Unternehmensverfassung, Organisation, Personal",
+ "course": "B2 Grundlagen der Betriebswirtschaftslehre",
+ "examType": "Klausur",
+ "topic": "Schaubilder",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "abbII-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Unternehmensführung (Ebene II)",
+   "solution": "Funktional: übergeordnete, grundlegende Gestaltung und Steuerung von Unternehmen. Institutionell: die Träger dieser Aufgaben (Unternehmensleitung, Management, mindestens die oberste Hierarchieebene).\nBestandteile: Unternehmensverfassung + Führungsinstrumente (Organisation, Personalmanagement, Controlling).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q2",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "abbII-1",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Was sind laut Folie die Führungsinstrumente der Unternehmensführung?",
+   "solution": "Die Unternehmensverfassung ist der zweite Bestandteil, aber kein Führungsinstrument.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Rechtsform"
+    },
+    {
+     "id": "o1",
+     "text": "Personalmanagement"
+    },
+    {
+     "id": "o2",
+     "text": "Controlling"
+    },
+    {
+     "id": "o3",
+     "text": "Organisation"
+    },
+    {
+     "id": "o4",
+     "text": "Unternehmensverfassung"
+    }
+   ],
+   "correct": [
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "abb6-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 6-1: Positionierung der Unternehmensverfassung",
+   "solution": "Dreieck aus Eigentum (oben), Leitung (rechts) und Überwachung (links). In der Mitte die Unternehmensverfassung, die alle drei REGELT.\nDefinition: rechtlicher und faktischer Ordnungsrahmen für Leitung und Überwachung von Unternehmen. Synonyme: Spitzenverfassung, Corporate-Governance-System.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q4",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "abb6-1",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 6-1: Welche drei Bereiche regelt die Unternehmensverfassung?",
+   "solution": "Eigentum – Leitung – Überwachung.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Produktion"
+    },
+    {
+     "id": "o1",
+     "text": "Marketing"
+    },
+    {
+     "id": "o2",
+     "text": "Leitung"
+    },
+    {
+     "id": "o3",
+     "text": "Eigentum"
+    },
+    {
+     "id": "o4",
+     "text": "Überwachung"
+    }
+   ],
+   "correct": [
+    "o2",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "abb6-1b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist ein Synonym für Unternehmensverfassung?",
+   "solution": "Auch: Spitzenverfassung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Aufbauorganisation"
+    },
+    {
+     "id": "o1",
+     "text": "Corporate-Governance-System"
+    },
+    {
+     "id": "o2",
+     "text": "Leitbild"
+    },
+    {
+     "id": "o3",
+     "text": "Kapitalstruktur"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "lh",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Lufthansa: Unternehmensverfassung (Lösung Zwischenübung)",
+   "solution": "AG nach deutschem Recht, dualistisches System (Two-Tier) = strikte Trennung von Leitung und Überwachung.\n• Vorstand (Leitung, CEO Carsten Spohr; berichtet dem Aufsichtsrat)\n• Aufsichtsrat (Überwachung; bestellt, überwacht, berät den Vorstand; 20 Mitglieder, paritätisch 10/10 nach Mitbestimmungsgesetz; wichtige Geschäfte wie Flugzeugbestellungen brauchen seine Zustimmung)\n• Hauptversammlung (Eigentümer; Entlastung, Gewinnverwendung; je Stückaktie eine Stimme)",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q7",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "lh1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Lufthansa: Wer bestellt und überwacht den Vorstand?",
+   "solution": "Aufsichtsrat = Überwachungsorgan.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Die Hauptversammlung direkt"
+    },
+    {
+     "id": "o1",
+     "text": "Der CEO selbst"
+    },
+    {
+     "id": "o2",
+     "text": "Der Aufsichtsrat"
+    },
+    {
+     "id": "o3",
+     "text": "Die EU-Kommission"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "lh2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Lufthansa folgt dem dualistischen System. Was heißt das?",
+   "solution": "Two-Tier-System.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Nur die Hauptversammlung entscheidet"
+    },
+    {
+     "id": "o1",
+     "text": "Es gibt zwei Vorstände"
+    },
+    {
+     "id": "o2",
+     "text": "Leitung (Vorstand) und Überwachung (Aufsichtsrat) sind institutionell getrennt"
+    },
+    {
+     "id": "o3",
+     "text": "Ein Board übernimmt Leitung und Überwachung"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "lh3",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie ist der Lufthansa-Aufsichtsrat besetzt?",
+   "solution": "Mitbestimmungsgesetz.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "12 Mitglieder, alle Anteilseigner"
+    },
+    {
+     "id": "o1",
+     "text": "Nur Vorstandsmitglieder"
+    },
+    {
+     "id": "o2",
+     "text": "20 Mitglieder, paritätisch: 10 Anteilseigner und 10 Arbeitnehmer"
+    },
+    {
+     "id": "o3",
+     "text": "Je ein Vertreter pro Großaktionär"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "rw",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Regelwerke der Unternehmensverfassung (6.2)",
+   "solution": "Nach Verpflichtungsgrad: gesetzliche vs. untergesetzliche Regelwerke (Soft Laws = Selbstverpflichtung).\nNach Geltungsbereich: transnational (OECD-Grundsätze – empfehlend; EU-Abschlussprüferrichtlinie – verpflichtend), national (z. B. Deutscher Corporate Governance Kodex), unternehmensintern.\nDCGK: Hinweise auf Gesetze, Empfehlungen darüber hinaus, unverbindliche Anregungen; börsennotierte AGs geben jährlich eine Entsprechenserklärung ab.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q11",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "rw1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welcher Charakter haben die OECD-Corporate-Governance-Grundsätze?",
+   "solution": "EU-Abschlussprüferrichtlinie = verpflichtend; europäischer CG-Rahmen = Entwurf.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Nur im Entwurfsstadium"
+    },
+    {
+     "id": "o1",
+     "text": "Verpflichtend"
+    },
+    {
+     "id": "o2",
+     "text": "Strafrechtlich"
+    },
+    {
+     "id": "o3",
+     "text": "Empfehlend"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "rw2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was müssen Vorstand und Aufsichtsrat börsennotierter AGs jährlich zum DCGK abgeben?",
+   "solution": "Sie erklären, ob sie den Empfehlungen entsprechen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Einen Organisationsplan"
+    },
+    {
+     "id": "o1",
+     "text": "Ein Zielpentagon"
+    },
+    {
+     "id": "o2",
+     "text": "Eine Entsprechenserklärung"
+    },
+    {
+     "id": "o3",
+     "text": "Eine Kapitalflussrechnung"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "family": "rw3",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Lufthansa: Warum hat sie vinkulierte Namensaktien (LuftNaSiG)?",
+   "solution": "EU-Luftverkehrsverordnung verlangt >50 % EU-Eigentum/-Kontrolle.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Abb. II-1 / Kap. 6 Unternehmensverfassung",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Um den Aufsichtsrat zu verkleinern"
+    },
+    {
+     "id": "o1",
+     "text": "Um Aktienkäufe durch Nicht-EU-Ausländer zu beschränken und so die Landerechte zu sichern"
+    },
+    {
+     "id": "o2",
+     "text": "Um die Dividende zu erhöhen"
+    },
+    {
+     "id": "o3",
+     "text": "Um Steuern zu sparen"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "Kap. 7 Organisation",
+   "family": "org",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Organisation – Definition",
+   "solution": "Funktional: zielorientierte, ganzheitliche Gestaltung von Prozessen und Strukturen innerhalb von Betrieben. Institutionell: das Ergebnis dieser Tätigkeit.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q15",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 7-1: Analyse-Synthese-Konzept",
+   "solution": "Gesamtaufgabe → ORGANISATORISCHE DIFFERENZIERUNG:\n• Strukturen: Aufgabenanalyse → Teilaufgaben\n• Prozesse: Arbeitsanalyse → Arbeitsgänge\n→ ORGANISATORISCHE INTEGRATION:\n• Aufgabensynthese → Organisationseinheiten → Abteilungen → Aufbauorganisation\n• Arbeitssynthese → Prozesse → Prozessketten → Ablauforganisation\nBeides zusammen = Gesamtorganisation.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q16",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-1a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-1: Was entsteht durch die Aufgabensynthese?",
+   "solution": "Aufgaben-Synthese = Struktur (Aufbau), Arbeits-Synthese = Prozess (Ablauf).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Organisationseinheiten → Abteilungen → Aufbauorganisation"
+    },
+    {
+     "id": "o1",
+     "text": "Teilaufgaben"
+    },
+    {
+     "id": "o2",
+     "text": "Prozesse → Prozessketten → Ablauforganisation"
+    },
+    {
+     "id": "o3",
+     "text": "Arbeitsgänge"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-1b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-1: Was entsteht durch die Arbeitsanalyse?",
+   "solution": "Aufgabenanalyse → Teilaufgaben; Arbeitsanalyse → Arbeitsgänge.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Abteilungen"
+    },
+    {
+     "id": "o1",
+     "text": "Arbeitsgänge"
+    },
+    {
+     "id": "o2",
+     "text": "Teilaufgaben"
+    },
+    {
+     "id": "o3",
+     "text": "Organisationseinheiten"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-1",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Zeichne das Analyse-Synthese-Konzept (Schaubild 7-1) mit beiden Strängen.",
+   "solution": "Gesamtaufgabe; Differenzierung: Aufgabenanalyse → Teilaufgaben | Arbeitsanalyse → Arbeitsgänge; Integration: Aufgabensynthese → Organisationseinheiten → Abteilungen → Aufbauorganisation | Arbeitssynthese → Prozesse → Prozessketten → Ablauforganisation; zusammen Gesamtorganisation.",
+   "rubric": "Beide Stränge, Differenzierung/Integration, Endprodukte.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q19",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-2",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 7-2: Aufgaben- und Arbeitsanalyse (Motorenproduktion)",
+   "solution": "Aufgabenanalyse fragt „WAS?“: Gesamtaufgabe Produktion und Absatz von Automobilen → Teilaufgabe 1. Ordnung (Zweckbeziehung): Leistungsaufgabe → 2. Ordnung (Verrichtung): Produktion → 3. Ordnung (Phase): Produktionsdurchführung → 4. Ordnung (Objekt): Motorenproduktion → Elementaraufgabe = Arbeitsgang: Verfahrensentscheidung.\nArbeitsanalyse fragt „WIE?“: Arbeitsteil 1. Ordnung (Verrichtung): Alternativen suchen → Arbeitsteil 2. Ordnung = Gangelement: Informieren.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q20",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-2a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-2: Nach welchem Kriterium wird die Teilaufgabe 4. Ordnung („Motorenproduktion“) gebildet?",
+   "solution": "1. Zweck, 2. Verrichtung, 3. Phase, 4. Objekt.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Objekt"
+    },
+    {
+     "id": "o1",
+     "text": "Phase"
+    },
+    {
+     "id": "o2",
+     "text": "Verrichtung"
+    },
+    {
+     "id": "o3",
+     "text": "Zweckbeziehung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-2b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-2: Welche Frage stellt die Arbeitsanalyse?",
+   "solution": "Aufgabenanalyse „Was?“, Arbeitsanalyse „Wie?“.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Was?"
+    },
+    {
+     "id": "o1",
+     "text": "Wo?"
+    },
+    {
+     "id": "o2",
+     "text": "Wer?"
+    },
+    {
+     "id": "o3",
+     "text": "Wie?"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q22",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-3",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Prozess und Schaubild 7-3: Prozessmerkmale",
+   "solution": "Prozess = zielgerichtete Erstellung einer Leistung durch eine Folge logisch zusammenhängender Arbeitsgänge, innerhalb einer Zeitspanne, nach bestimmten Regeln.\nSchaubild: Startereignis + Inputgüter → Arbeitsgang → Arbeitsgang → Endereignis + Outputgüter; darüber Prozessaufgaben/-ziele, darunter Ressourcen, verantwortet von einer Organisationseinheit; Dauer = Prozessdurchlaufzeit. Mehrere Prozesse = Prozesskette.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q23",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-3",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 7-3: Welche Elemente gehören zu einem Prozess?",
+   "solution": "Leitungsspanne gehört zur Aufbauorganisation.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Ressourcen"
+    },
+    {
+     "id": "o1",
+     "text": "Startereignis und Inputgüter"
+    },
+    {
+     "id": "o2",
+     "text": "Leitungsspanne"
+    },
+    {
+     "id": "o3",
+     "text": "Endereignis und Outputgüter"
+    },
+    {
+     "id": "o4",
+     "text": "Arbeitsgänge"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q24",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-7",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 7-7: Arten von Organisationseinheiten",
+   "solution": "Organisationseinheiten entstehen durch dauerhafte Zuordnung von Teilaufgaben auf (gedachte) Personen.\n• Stellen: Linienstellen (Leitungsstellen, Ausführungsstellen) und unterstützende Stellen (Stabsstellen, Assistenzstellen, Dienstleistungsstellen)\n• Gremien: Leitungsgruppen, Arbeitsgruppen, Problemlösegruppen, Ausschüsse, Projektgruppen",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q25",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-7a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-7: Eine Stabsstelle ist …",
+   "solution": "Unterstützend: Stab, Assistenz, Dienstleistung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "eine Linienstelle"
+    },
+    {
+     "id": "o1",
+     "text": "eine Abteilung"
+    },
+    {
+     "id": "o2",
+     "text": "eine unterstützende Stelle"
+    },
+    {
+     "id": "o3",
+     "text": "ein Gremium"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-7b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-7: Ein Ausschuss ist …",
+   "solution": "Gremien: Leitungs-, Arbeits-, Problemlösegruppen, Ausschüsse, Projektgruppen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "eine Ausführungsstelle"
+    },
+    {
+     "id": "o1",
+     "text": "ein Gremium"
+    },
+    {
+     "id": "o2",
+     "text": "eine Leitungsstelle"
+    },
+    {
+     "id": "o3",
+     "text": "eine Stabsstelle"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q27",
+   "objective": "Kap. 7 Organisation",
+   "family": "abt",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie entsteht eine Abteilung?",
+   "solution": "Abteilungsbildung fasst Organisationseinheiten zur Aufbauorganisation zusammen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Durch einen Gesellschafterbeschluss"
+    },
+    {
+     "id": "o1",
+     "text": "Durch befristete Projektarbeit"
+    },
+    {
+     "id": "o2",
+     "text": "Durch Arbeitsanalyse"
+    },
+    {
+     "id": "o3",
+     "text": "Durch unbefristete Unterstellung von Organisationseinheiten unter eine gemeinsame Leitungsstelle"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q28",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-8",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 7-8: Gestaltungsdimensionen von Aufbauorganisationen",
+   "solution": "• Organisationsumfang: Leitungsspanne, Leitungstiefe\n• Leitungsbeziehungen: Einlinien-, Mehrliniensysteme\n• Strukturierungsgegenstand: Primär-, Sekundärorganisation\n• Strukturierungsebenen: eindimensional, mehrdimensional\n• Strukturierungsmerkmale: Verrichtungen, Produkte, Kundengruppen, Regionen, Projekte, Prozesse, strategische Geschäftsfelder\n• Aufgabenverteilung: zentral, dezentral",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q29",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-8a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-8: Zu welcher Dimension gehören „Einliniensystem“ und „Mehrliniensystem“?",
+   "solution": "Umfang = Spanne/Tiefe.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Organisationsumfang"
+    },
+    {
+     "id": "o1",
+     "text": "Strukturierungsebenen"
+    },
+    {
+     "id": "o2",
+     "text": "Leitungsbeziehungen"
+    },
+    {
+     "id": "o3",
+     "text": "Aufgabenverteilung"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q30",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-8b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-8: Zu welcher Dimension gehören „Leitungsspanne“ und „Leitungstiefe“?",
+   "solution": "Organisationsumfang.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Leitungsbeziehungen"
+    },
+    {
+     "id": "o1",
+     "text": "Strukturierungsmerkmale"
+    },
+    {
+     "id": "o2",
+     "text": "Organisationsumfang"
+    },
+    {
+     "id": "o3",
+     "text": "Strukturierungsgegenstand"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q31",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-8c",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Schaubild 7-8: Welche Strukturierungsmerkmale nennt die Folie?",
+   "solution": "Außerdem Prozesse und strategische Geschäftsfelder; Rechtsformen nicht.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kundengruppen"
+    },
+    {
+     "id": "o1",
+     "text": "Verrichtungen"
+    },
+    {
+     "id": "o2",
+     "text": "Regionen"
+    },
+    {
+     "id": "o3",
+     "text": "Produkte"
+    },
+    {
+     "id": "o4",
+     "text": "Projekte"
+    },
+    {
+     "id": "o5",
+     "text": "Rechtsformen"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q32",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-8",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die sechs Gestaltungsdimensionen aus Schaubild 7-8 mit ihren Ausprägungen.",
+   "solution": "Organisationsumfang (Leitungsspanne, -tiefe); Leitungsbeziehungen (Ein-/Mehrlinien); Strukturierungsgegenstand (Primär-/Sekundärorganisation); Strukturierungsebenen (ein-/mehrdimensional); Strukturierungsmerkmale (Verrichtungen, Produkte, Kundengruppen, Regionen, Projekte, Prozesse, SGF); Aufgabenverteilung (zentral/dezentral).",
+   "rubric": "Sechs Dimensionen mit Ausprägungen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q33",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-9",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 7-9: Managementpyramide",
+   "solution": "Top-Management (obere Instanzen) → Middle-Management (mittlere) → Lower-Management (untere) → Ausführungsebene.\nLeitungsspanne = Zahl der direkt unterstellten Stellen (Breite). Leitungstiefe = Zahl der Hierarchieebenen (Höhe).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q34",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-9",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-9: Ein Teamleiter hat 8 direkt unterstellte Mitarbeiter. Das beschreibt die …",
+   "solution": "Spanne = horizontal, Tiefe = Anzahl Ebenen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Leitungstiefe"
+    },
+    {
+     "id": "o1",
+     "text": "Leitungsspanne"
+    },
+    {
+     "id": "o2",
+     "text": "Sekundärorganisation"
+    },
+    {
+     "id": "o3",
+     "text": "Mehrlinienorganisation"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q35",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-10",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 7-10: Ein- und Mehrliniensystem",
+   "solution": "Einliniensystem: jede untergeordnete Einheit hat genau EINE übergeordnete Einheit (Einheit der Auftragserteilung).\nMehrliniensystem: untergeordnete Einheiten haben MEHRERE übergeordnete Einheiten (z. B. Matrix).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q36",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-10",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-10: Eine Mitarbeiterin bekommt Weisungen von der Produktleitung UND von der Funktionsleitung. Welches System?",
+   "solution": "Mehrere übergeordnete Einheiten.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Einliniensystem"
+    },
+    {
+     "id": "o1",
+     "text": "Eindimensional"
+    },
+    {
+     "id": "o2",
+     "text": "Mehrliniensystem"
+    },
+    {
+     "id": "o3",
+     "text": "Stabsliniensystem"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q37",
+   "objective": "Kap. 7 Organisation",
+   "family": "prim",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Primär- und Sekundärorganisation; Strukturierungsebenen",
+   "solution": "Primärorganisation = Grundgerüst der Aufbauorganisation für die marktbezogenen Kernleistungen.\nSekundärorganisation = ergänzende bereichsübergreifende, flexible Strukturen (Planungs-, Koordinations-, Realisations-, Kontrollaufgaben).\nEindimensional = ein Strukturierungsmerkmal; mehrdimensional: zwei Merkmale = Matrixorganisation, drei+ = Tensororganisation.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q38",
+   "objective": "Kap. 7 Organisation",
+   "family": "prim1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Zwei Strukturierungsmerkmale gleichzeitig ergeben eine …",
+   "solution": "Drei und mehr = Tensor.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Funktionale Organisation"
+    },
+    {
+     "id": "o1",
+     "text": "Stablinienorganisation"
+    },
+    {
+     "id": "o2",
+     "text": "Tensororganisation"
+    },
+    {
+     "id": "o3",
+     "text": "Matrixorganisation"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q39",
+   "objective": "Kap. 7 Organisation",
+   "family": "prim2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist die Primärorganisation?",
+   "solution": "Sekundär = ergänzend, bereichsübergreifend.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Das Grundgerüst der Aufbauorganisation für die marktbezogenen Kernleistungen"
+    },
+    {
+     "id": "o1",
+     "text": "Die Ablauforganisation"
+    },
+    {
+     "id": "o2",
+     "text": "Die Projektorganisation"
+    },
+    {
+     "id": "o3",
+     "text": "Der Lenkungsausschuss"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q40",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-11",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 7-11: Matrixorganisation",
+   "solution": "Matrixleitung oben; Strukturierungsebene 1 (z. B. Funktionen) als Zeilen-Matrixstellen, Strukturierungsebene 2 (z. B. Produkte/Projekte) als Spalten-Matrixstellen; an den Kreuzungen Matrixschnittstellen.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q41",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-11",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-11: Wie heißen die Kreuzungspunkte in der Matrixorganisation?",
+   "solution": "Dort treffen beide Dimensionen aufeinander.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Stabsstellen"
+    },
+    {
+     "id": "o1",
+     "text": "Gangelemente"
+    },
+    {
+     "id": "o2",
+     "text": "Profit-Center"
+    },
+    {
+     "id": "o3",
+     "text": "Matrixschnittstellen"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q42",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-12",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 7-12: Strukturierungsalternativen (Autobeispiel)",
+   "solution": "• Verrichtungen: F&E, Produktion, Marketing\n• Produkte: Pkw, Lkw, Ersatzteile\n• Kundengruppen: Unternehmen, Familien, Singles\n• Regionen: Europa, Nordamerika, Asien\n• Projekte: Neuentwicklung Pkw, Nachfolgemodell, neuer Produktionsstandort\n• Prozesse: Produktentwicklung, Auftragsabwicklung, Gewinnung neuer Kunden",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q43",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-12a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-12: Bereiche „Pkw, Lkw, Ersatzteile“ – nach welchem Merkmal wird strukturiert?",
+   "solution": "Produktorientiert = divisional.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Produkte"
+    },
+    {
+     "id": "o1",
+     "text": "Prozesse"
+    },
+    {
+     "id": "o2",
+     "text": "Verrichtungen"
+    },
+    {
+     "id": "o3",
+     "text": "Kundengruppen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q44",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-12b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-12: Bereiche „F&E, Produktion, Marketing“ – nach welchem Merkmal?",
+   "solution": "Funktionale Organisation.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Regionen"
+    },
+    {
+     "id": "o1",
+     "text": "Produkte"
+    },
+    {
+     "id": "o2",
+     "text": "Verrichtungen (funktional)"
+    },
+    {
+     "id": "o3",
+     "text": "Projekte"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q45",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-12c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-12: Bereiche „Produktentwicklung, Auftragsabwicklung, Gewinnung neuer Kunden“ – nach welchem Merkmal?",
+   "solution": "Prozessorientierung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Prozesse"
+    },
+    {
+     "id": "o1",
+     "text": "Projekte"
+    },
+    {
+     "id": "o2",
+     "text": "Verrichtungen"
+    },
+    {
+     "id": "o3",
+     "text": "Kundengruppen"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q46",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-13",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubilder 7-13 / 7-14: Verrichtungen und Produkte",
+   "solution": "Verrichtungen: Primär = funktionale Organisation; Sekundär = Funktionsmanagement.\nProdukte: Primär = divisionale Organisation (Divisionen/Sparten/Geschäftsbereiche; Cost-, Profit-, Investment-Center); Sekundär = Produktmanagement (Linien-, Stabs-, Matrix-Produktmanagement, Produktausschuss).\n7-14: Linien-Produktmanagement in funktionaler Organisation – unter Marketing hängen Produktmanager Pkw, Lkw, Ersatzteile.\n7-13: Funktionsmanagement in divisionaler Organisation – Divisionen Pkw/Lkw mit Bereichscontrolling; Zentralcontrolling gibt fachliche Weisungen über „Dotted Lines“.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q47",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-13a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-13: Wie steuert das Zentralcontrolling die Bereichscontroller in den Divisionen?",
+   "solution": "Gestrichelte Linien = fachliche Weisung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Fachliche Weisung über „Dotted Lines“"
+    },
+    {
+     "id": "o1",
+     "text": "Über die Hauptversammlung"
+    },
+    {
+     "id": "o2",
+     "text": "Disziplinarisch als direkter Vorgesetzter"
+    },
+    {
+     "id": "o3",
+     "text": "Gar nicht"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q48",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-13b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Primärorganisation gehört zur Strukturierung nach Produkten?",
+   "solution": "Produkte → divisional; Verrichtungen → funktional.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Divisionale Organisation (Sparten)"
+    },
+    {
+     "id": "o1",
+     "text": "Matrix-Prozessmanagement"
+    },
+    {
+     "id": "o2",
+     "text": "Projektorganisation"
+    },
+    {
+     "id": "o3",
+     "text": "Funktionale Organisation"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q49",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-15",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubilder 7-15 bis 7-17: Projekte und Prozesse",
+   "solution": "Projekte (v. a. Sekundärorganisation): reine Projektorganisation (7-15: Projekte als eigene Einheiten mit eigenem Personal neben F&E/Produktion/Marketing), Stabs-Projektorganisation, Matrix-Projektorganisation (7-16: Lenkungsausschuss + Projektadministration; Projekte quer zu den Funktionen).\nProzesse (7-17): Matrix-Prozessmanagement – Prozesse Produktentwicklung, Auftragsabwicklung, Kundengewinnung quer über die Funktionsbereiche.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q50",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-15a",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Grundformen des Projektmanagements nennt die Folie?",
+   "solution": "Drei Grundformen.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Divisionale Projektorganisation"
+    },
+    {
+     "id": "o1",
+     "text": "Reine Projektorganisation"
+    },
+    {
+     "id": "o2",
+     "text": "Matrix-Projektorganisation"
+    },
+    {
+     "id": "o3",
+     "text": "Stabs-Projektorganisation"
+    }
+   ],
+   "correct": [
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q51",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-16",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-16: Welche Gremien stehen über den Projekten der Matrix-Projektorganisation?",
+   "solution": "Lenkungsausschuss + Projektadministration.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Zentralcontrolling und Revision"
+    },
+    {
+     "id": "o1",
+     "text": "Lenkungsausschuss und Projektadministration"
+    },
+    {
+     "id": "o2",
+     "text": "Hauptversammlung und Aufsichtsrat"
+    },
+    {
+     "id": "o3",
+     "text": "Betriebsrat und Gewerkschaft"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q52",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-19",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 7-19: Neuere Organisationsformen",
+   "solution": "y-Achse: Dynamik des Unternehmensumfeldes; x-Achse: Komplexität und Neuartigkeit der Wertschöpfungsbeziehungen.\n• niedrig/niedrig: klassisch-hierarchische Organisation\n• niedrige Dynamik, hohe Komplexität: hybrid-modulare Organisation\n• hohe Dynamik, niedrige Komplexität: digital-vernetzte Organisation\n• hoch/hoch: virtuell-agile Organisation",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q53",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-19a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-19: Hohe Umfelddynamik UND hohe Komplexität der Wertschöpfung → welche Organisationsform?",
+   "solution": "Oben rechts.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Klassisch-hierarchische Organisation"
+    },
+    {
+     "id": "o1",
+     "text": "Virtuell-agile Organisation"
+    },
+    {
+     "id": "o2",
+     "text": "Digital-vernetzte Organisation"
+    },
+    {
+     "id": "o3",
+     "text": "Hybrid-modulare Organisation"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q54",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-19b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-19: Niedrige Dynamik, aber hohe Komplexität der Wertschöpfungsbeziehungen → ?",
+   "solution": "Unten rechts.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Klassisch-hierarchische Organisation"
+    },
+    {
+     "id": "o1",
+     "text": "Hybrid-modulare Organisation"
+    },
+    {
+     "id": "o2",
+     "text": "Virtuell-agile Organisation"
+    },
+    {
+     "id": "o3",
+     "text": "Digital-vernetzte Organisation"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q55",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-20",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubilder 7-20 / 7-21: Organisatorischer Wandel",
+   "solution": "Wandel 1. Ordnung = evolutionär (KVP, kontinuierliche Verbesserung) – flacher Anstieg der Leistungsfähigkeit.\nWandel 2. Ordnung = revolutionär (Business-Process-Reengineering) – steiler Sprung.\nAnsätze (7-21): Organisationsgestaltung (technologischer Ansatz, Strukturen) + Organisationsentwicklung (verhaltensorientierter Ansatz, Menschen) → Change Management (ganzheitlicher Ansatz).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q56",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-20a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Business-Process-Reengineering ist ein Wandel …",
+   "solution": "KVP = 1. Ordnung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "2. Ordnung (revolutionär)"
+    },
+    {
+     "id": "o1",
+     "text": "nur der Rechtsform"
+    },
+    {
+     "id": "o2",
+     "text": "ohne Veränderung"
+    },
+    {
+     "id": "o3",
+     "text": "1. Ordnung (evolutionär)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q57",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-21",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 7-21: Was verbindet Organisationsgestaltung und Organisationsentwicklung?",
+   "solution": "Technologischer + verhaltensorientierter Ansatz = Change Management.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Benchmarking"
+    },
+    {
+     "id": "o1",
+     "text": "Wertkettenmodell"
+    },
+    {
+     "id": "o2",
+     "text": "Change Management (ganzheitlicher Ansatz)"
+    },
+    {
+     "id": "o3",
+     "text": "Personalfreisetzung"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q58",
+   "objective": "Kap. 7 Organisation",
+   "family": "abb7-21b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Organisationsentwicklung ist der …",
+   "solution": "Organisationsgestaltung = technologisch.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 7 Organisation",
+   "page": 24,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "technologische Ansatz"
+    },
+    {
+     "id": "o1",
+     "text": "rechtliche Ansatz"
+    },
+    {
+     "id": "o2",
+     "text": "finanzwirtschaftliche Ansatz"
+    },
+    {
+     "id": "o3",
+     "text": "verhaltensorientierte Ansatz"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q59",
+   "objective": "Kap. 7 Organisation",
+   "family": "q59",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Fallstudie 7-2 (Speedy): Bereichsegoismen – F&E achtet nicht auf Kosten, Beschaffung nicht auf Qualität, Off-Road-Entwicklung langsam, Auslandsabsatz stagniert. Schlage eine Aufbauorganisation vor.",
+   "solution": "Variante 1: funktionale Organisation + Matrix-Projektmanagement mit Projekten „Entwicklung Off-Road“, „Qualität und Kosten“, „Auslandsabsatz“; Stäbe Recht, Controlling, Personal, Finanzen. Variante 2: Matrix aus Funktionen (F&E, Materialwirtschaft, Produktion, Marketing, jeweils mit Qualitätsstelle) und Produkt-/Regionsbereichen (City Europa, Family Rest Welt, Off-Road Amerika, Ersatzteile/Dienstleistungen) + Stab Qualitätsmanagement. Ziel: bereichsübergreifende Koordination statt Egoismen.",
+   "rubric": "Problem erkannt; Matrix/Projekt-Lösung; Begründung.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Fallstudie 7-2",
+   "page": 24,
+   "seconds": 240,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q60",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "pm",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Personalmanagement: Gegenstand und Ziele",
+   "solution": "Gegenstand: Planung, Beschaffung und Gestaltung des Einsatzes der Mitarbeiter (Synonyme: Personalwirtschaft, HRM).\nSachziel: ausreichende Anzahl, angemessene Qualifikation, richtige Zeit, richtiger Ort.\nFormalziel: Kosten, Arbeitsleistung.\nSozialziel: Bedürfnisse und Interessen der Mitarbeiter.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q61",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "pm1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Mitarbeiter in angemessener Qualifikation zur richtigen Zeit am richtigen Ort“ ist welches Ziel?",
+   "solution": "Formalziel = Kosten/Arbeitsleistung, Sozialziel = Mitarbeiterinteressen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sachziel"
+    },
+    {
+     "id": "o1",
+     "text": "Sozialziel"
+    },
+    {
+     "id": "o2",
+     "text": "Formalziel"
+    },
+    {
+     "id": "o3",
+     "text": "Finanzziel"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q62",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "ar",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kollektives vs. individuelles Arbeitsrecht",
+   "solution": "Kollektiv (Gruppen von AN, Schutz der Schwächeren): staatliche Ebene (Arbeitszeiten, Urlaub, Altersversorgung, Entgeltfortzahlung, Arbeitssicherheit); bestimmte Gruppen (Tarifverträge; Schutz Behinderter, Jugendlicher, Schwangerer); betriebliche Ebene (Lage der Arbeitszeiten, Entlohnungsgrundsätze, Akkord-/Prämiensätze).\nIndividuell: Arbeitsvertrag zwischen einzelnem AN und AG (Beginn/Ende, Ort, Aufgaben, Vergütung, Arbeitszeit, Urlaub, Kündigungsfristen).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q63",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "ar1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Tarifvertrag für die Metallbranche gehört zu …",
+   "solution": "Branchenspezifische Arbeitsbedingungen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Regelungen für bestimmte Gruppen (kollektives Arbeitsrecht)"
+    },
+    {
+     "id": "o1",
+     "text": "dem Gesellschaftsrecht"
+    },
+    {
+     "id": "o2",
+     "text": "dem individuellen Arbeitsrecht"
+    },
+    {
+     "id": "o3",
+     "text": "der betrieblichen Ebene"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q64",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 8-1: Aufgaben des Personalmanagements",
+   "solution": "Personalbeschaffung (Personalplanung, Personalbereitstellung) → Personaleinsatz (Einarbeitung, Arbeitsbedingungen, Zeitwirtschaft, Vergütung, Personalführung, Personalverwaltung) → Personalbeurteilung → Personalentwicklung → Personalfreisetzung.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q65",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-1a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 8-1: Wozu gehört die Personalführung?",
+   "solution": "Personaleinsatz umfasst auch Vergütung, Zeitwirtschaft, Verwaltung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Personalbeschaffung"
+    },
+    {
+     "id": "o1",
+     "text": "Personalbeurteilung"
+    },
+    {
+     "id": "o2",
+     "text": "Personalfreisetzung"
+    },
+    {
+     "id": "o3",
+     "text": "Personaleinsatz"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q66",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-1",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die fünf Aufgaben aus Schaubild 8-1 in Reihenfolge.",
+   "solution": "Personalbeschaffung → Personaleinsatz → Personalbeurteilung → Personalentwicklung → Personalfreisetzung.",
+   "rubric": "Fünf Schritte in Reihenfolge.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q67",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-2",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 8-2: Personalplanung",
+   "solution": "Unternehmensplanung (Absatzplanung → Produktions-, Beschaffungs-, Erfolgsplanung) liefert den Brutto-Personalbedarf (quant./qual. – Anforderungsprofile).\nPersonalbestand (Qualifikationsprofile) ± Personalzu- und -abgänge (sicher/prognostiziert).\n→ Netto-Personalbedarf bzw. -überhang → erforderliche Personalbereitstellung, -entwicklung, -freisetzung.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q68",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "tab8-1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Tabelle 8-1: Netto-Personalbedarf berechnen",
+   "solution": "  Brutto-Personalbedarf am Jahresende\n− Personalbestand am Jahresanfang\n+ Personalabgänge im Jahr (Pensionierung; Fluktuation/Invalidität/Tod; Beförderungen/Versetzungen)\n− feststehende Personalzugänge (bereits geschlossene Verträge)\n= Netto-Personalbedarf (positiv) bzw. -überhang (negativ)\nPersonalbedarf allgemein = benötigte Arbeitsstunden / durchschnittliche Arbeitszeit je MA.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q69",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "q69",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Speedy-Beschaffung: Brutto-Bedarf nächstes Jahr 7 MA, aktuell 5 MA. Einer geht in den Vorruhestand, einer wechselt in eine andere Gruppe. Eine Studentin hat bereits zugesagt. Netto-Personalbedarf?",
+   "solution": "7 − 5 + 2 − 1 = 3 Mitarbeiter.",
+   "rubric": "Schema korrekt; Abgänge 2, Zugang 1; Ergebnis 3.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Zwischenübung 8.2.1.1",
+   "page": 67,
+   "seconds": 150,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q70",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "q70",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Fallstudie 8-1: 100.000 Speedster City (0,0070 Lohnempf./Fzg), 75.000 Family (0,0091), 206 fixe Lohnempfänger. Bestand 1.463, Fluktuation 10 %, 58 Pensionierungen, 20 Neueinstellungen. Netto-Bedarf Lohnempfänger?",
+   "solution": "Brutto: 700 + 683 + 206 = 1.589; − 1.463 + (146 + 58 = 204) − 20 = 310 Lohnempfänger. (Gehaltsempfänger analog: 1.365 − 1.350 + 135 − 11 = 139.)",
+   "rubric": "Brutto 1.589; Abgänge 204; Ergebnis 310.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Fallstudie 8-1",
+   "page": 67,
+   "seconds": 240,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q71",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-5",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schaubild 8-5: Bestimmungsfaktoren der Arbeitsleistung",
+   "solution": "Arbeitsleistung hängt ab von:\n• Leistungsvermögen (= Leistungsfähigkeit + Leistungsdisposition)\n• Leistungsbereitschaft/Motivation\n• Leistungsbedingungen",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q72",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-5",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 8-5: Woraus setzt sich das Leistungsvermögen zusammen?",
+   "solution": "Daneben wirken Motivation und Bedingungen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Motivation und Leistungsbedingungen"
+    },
+    {
+     "id": "o1",
+     "text": "Lohn und Prämie"
+    },
+    {
+     "id": "o2",
+     "text": "Leistungsfähigkeit und Leistungsdisposition"
+    },
+    {
+     "id": "o3",
+     "text": "Leitungsspanne und -tiefe"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q73",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-9",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Führungsstile – Definition und Schaubild 8-9",
+   "solution": "Führungsstil = langfristig relativ stabiles, von der Situation unabhängiges Verhalten eines Vorgesetzten. Merkmale: Taktik der Willensdurchsetzung, Ausmaß der Partizipation, Art der Kontrolle.\nKontinuum (Willensbildung beim Vorgesetzten → bei den Mitarbeitern):\n1 autoritär (entscheidet, ordnet an)\n2 patriarchalisch (entscheidet, setzt mit MANIPULATION durch)\n3 informierend (entscheidet, setzt mit ÜBERZEUGUNG durch)\n4 beratend (informiert, berücksichtigt Meinungen)\n5 kooperativ (wählt Vorschläge der Gruppe aus)\n6 partizipativ (gibt Rahmen vor, Gruppe entscheidet darin)\n7 demokratisch (koordiniert, Gruppe entscheidet autonom)",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q74",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-9a",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 8-9: Vorgesetzter entscheidet und setzt mit Überzeugung durch – welcher Stil?",
+   "solution": "Patriarchalisch = Manipulation; informierend = Überzeugung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Informierend"
+    },
+    {
+     "id": "o1",
+     "text": "Patriarchalisch"
+    },
+    {
+     "id": "o2",
+     "text": "Autoritär"
+    },
+    {
+     "id": "o3",
+     "text": "Beratend"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q75",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-9b",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 8-9: Vorgesetzter wählt aus Vorschlägen der Gruppe aus – welcher Stil?",
+   "solution": "Beratend: er hört nur Meinungen an; partizipativ: Gruppe entscheidet im Rahmen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Partizipativ"
+    },
+    {
+     "id": "o1",
+     "text": "Kooperativ"
+    },
+    {
+     "id": "o2",
+     "text": "Demokratisch"
+    },
+    {
+     "id": "o3",
+     "text": "Beratend"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q76",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-9c",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Schaubild 8-9: Vorgesetzter gibt einen Rahmen vor, in dem die Gruppe autonom entscheidet – welcher Stil?",
+   "solution": "Demokratisch: Vorgesetzter koordiniert nur.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Informierend"
+    },
+    {
+     "id": "o1",
+     "text": "Kooperativ"
+    },
+    {
+     "id": "o2",
+     "text": "Partizipativ"
+    },
+    {
+     "id": "o3",
+     "text": "Demokratisch"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q77",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-9d",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Was sind laut Folie die drei Merkmale eines Führungsstils?",
+   "solution": "Drei Merkmale.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Art der Kontrolle"
+    },
+    {
+     "id": "o1",
+     "text": "Taktik bei der Willensdurchsetzung"
+    },
+    {
+     "id": "o2",
+     "text": "Höhe der Vergütung"
+    },
+    {
+     "id": "o3",
+     "text": "Leitungsspanne"
+    },
+    {
+     "id": "o4",
+     "text": "Ausmaß der Partizipation"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o4"
+   ]
+  },
+  {
+   "id": "q78",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "abb8-9",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die sieben Führungsstile aus Schaubild 8-9 in der richtigen Reihenfolge.",
+   "solution": "Autoritär, patriarchalisch, informierend, beratend, kooperativ, partizipativ, demokratisch (von Willensbildung beim Vorgesetzten zu Willensbildung bei den Mitarbeitern).",
+   "rubric": "Alle sieben, korrekte Reihenfolge.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 120,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q79",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "mbx",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Managementprinzipien („Management by …“)",
+   "solution": "• by Delegation: Führung durch Aufgabenübertragung\n• by Decision Rules: Vorgabe von Entscheidungsregeln\n• by Exception: Ausnahmeprinzip – eingreifen nur bei Abweichungen\n• by Results: Führung durch Ergebnisüberwachung (Ziel vorgegeben)\n• by Objectives: Führung durch Zielvereinbarung (Ziel gemeinsam festgelegt)",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q80",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "mbx1",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Frau Kim, Sie führen die Qualitätsprüfung eigenständig durch. Melden Sie sich nur, wenn die Ausschussquote über 2 % steigt.“",
+   "solution": "Eingreifen nur bei Abweichung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Management by Delegation"
+    },
+    {
+     "id": "o1",
+     "text": "Management by Exception"
+    },
+    {
+     "id": "o2",
+     "text": "Management by Results"
+    },
+    {
+     "id": "o3",
+     "text": "Management by Objectives"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q81",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "mbx2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Herr Weber, bis 50 € dürfen Sie Gutschriften sofort genehmigen, darüber melden Sie sich bei mir.“",
+   "solution": "Klare Entscheidungsregel.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Management by Results"
+    },
+    {
+     "id": "o1",
+     "text": "Management by Exception"
+    },
+    {
+     "id": "o2",
+     "text": "Management by Decision Rules"
+    },
+    {
+     "id": "o3",
+     "text": "Management by Objectives"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q82",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "mbx3",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Frau Meier, was halten Sie davon, die Kundenzufriedenheit um 10 % zu steigern? – Gute Idee, das vereinbaren wir gemeinsam.“",
+   "solution": "Gemeinsam vereinbartes Ziel.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Management by Delegation"
+    },
+    {
+     "id": "o1",
+     "text": "Management by Results"
+    },
+    {
+     "id": "o2",
+     "text": "Management by Exception"
+    },
+    {
+     "id": "o3",
+     "text": "Management by Objectives"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q83",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "mbx4",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Herr Schuster, Ihr Umsatzziel für das Quartal liegt bei 250.000 €. Wie Sie es erreichen, ist Ihre Entscheidung.“",
+   "solution": "Ziel vorgegeben, Ergebnis wird überwacht.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Management by Exception"
+    },
+    {
+     "id": "o1",
+     "text": "Management by Results"
+    },
+    {
+     "id": "o2",
+     "text": "Management by Decision Rules"
+    },
+    {
+     "id": "o3",
+     "text": "Management by Objectives"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q84",
+   "objective": "Kap. 8 Personalmanagement",
+   "family": "mbx5",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was unterscheidet Management by Results von Management by Objectives?",
+   "solution": "Vorgabe vs. Vereinbarung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B2 · Vahs Unternehmensverfassung, Organisation, Personal (Folien)",
+   "sourceQuote": "Kap. 8 Personalmanagement",
+   "page": 67,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bei Results wird das Ziel vorgegeben und das Ergebnis überwacht, bei Objectives wird das Ziel gemeinsam vereinbart"
+    },
+    {
+     "id": "o1",
+     "text": "Bei Results gibt es keine Ziele"
+    },
+    {
+     "id": "o2",
+     "text": "Bei Objectives entscheidet nur der Chef"
+    },
+    {
+     "id": "o3",
+     "text": "Es gibt keinen Unterschied"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  }
+ ]
+}

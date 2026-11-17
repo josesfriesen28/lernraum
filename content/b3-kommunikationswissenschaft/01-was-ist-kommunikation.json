@@ -39,11 +39,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Flüchtiges Phänomen (Prozess, keine Substanz)"
+     "text": "Selbstbezüglichkeit"
     },
     {
      "id": "o1",
-     "text": "Alltägliche Aktivität"
+     "text": "Flüchtiges Phänomen (Prozess, keine Substanz)"
     },
     {
      "id": "o2",
@@ -51,18 +51,18 @@
     },
     {
      "id": "o3",
-     "text": "Selbstbezüglichkeit"
+     "text": "Kommunikation ist nur technisch messbar"
     },
     {
      "id": "o4",
-     "text": "Kommunikation ist nur technisch messbar"
+     "text": "Alltägliche Aktivität"
     }
    ],
    "correct": [
     "o0",
     "o1",
     "o2",
-    "o3"
+    "o4"
    ]
   },
   {
@@ -97,23 +97,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Die Beteiligten konstruieren gemeinsam Bedeutung, absichtsvoll und kooperativ"
-    },
-    {
-     "id": "o1",
-     "text": "Informationen werden möglichst fehlerfrei vom Sender zum Empfänger transportiert"
-    },
-    {
-     "id": "o2",
      "text": "Sie findet nur über technische Medien statt"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "Sie besteht ausschließlich aus Sprache"
+    },
+    {
+     "id": "o2",
+     "text": "Die Beteiligten konstruieren gemeinsam Bedeutung, absichtsvoll und kooperativ"
+    },
+    {
+     "id": "o3",
+     "text": "Informationen werden möglichst fehlerfrei vom Sender zum Empfänger transportiert"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -132,7 +132,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Es beschreibt Kommunikation als technische Signalübertragung vom Sender zum Empfänger und blendet gemeinsame Bedeutungskonstruktion und Beziehung aus"
+     "text": "Es berücksichtigt nur nonverbale Zeichen"
     },
     {
      "id": "o1",
@@ -140,15 +140,15 @@
     },
     {
      "id": "o2",
-     "text": "Es berücksichtigt nur nonverbale Zeichen"
+     "text": "Es gilt nur für Massenmedien"
     },
     {
      "id": "o3",
-     "text": "Es gilt nur für Massenmedien"
+     "text": "Es beschreibt Kommunikation als technische Signalübertragung vom Sender zum Empfänger und blendet gemeinsame Bedeutungskonstruktion und Beziehung aus"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -199,7 +199,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Index"
+     "text": "Signalcode"
     },
     {
      "id": "o1",
@@ -211,11 +211,11 @@
     },
     {
      "id": "o3",
-     "text": "Signalcode"
+     "text": "Index"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -234,23 +234,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Ikon"
-    },
-    {
-     "id": "o1",
      "text": "Index"
     },
     {
+     "id": "o1",
+     "text": "Indiz"
+    },
+    {
      "id": "o2",
-     "text": "Symbol"
+     "text": "Ikon"
     },
     {
      "id": "o3",
-     "text": "Indiz"
+     "text": "Symbol"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -269,15 +269,15 @@
    "options": [
     {
      "id": "o0",
-     "text": "Symbol"
-    },
-    {
-     "id": "o1",
      "text": "Ikon"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "Index"
+    },
+    {
+     "id": "o2",
+     "text": "Symbol"
     },
     {
      "id": "o3",
@@ -285,7 +285,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -304,23 +304,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Symbol, weil er die Darstellung abstrakter Ideen ermöglicht"
-    },
-    {
-     "id": "o1",
-     "text": "Index, weil er immer eindeutig ist"
-    },
-    {
-     "id": "o2",
      "text": "Ikon, weil es ohne Lernen verstanden wird"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "Index, weil er eine Kommunikationsabsicht hat"
+    },
+    {
+     "id": "o2",
+     "text": "Index, weil er immer eindeutig ist"
+    },
+    {
+     "id": "o3",
+     "text": "Symbol, weil er die Darstellung abstrakter Ideen ermöglicht"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -339,7 +339,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Ihre Bedeutung ist arbiträr"
+     "text": "Auch Schrift gehört dazu"
     },
     {
      "id": "o1",
@@ -347,7 +347,7 @@
     },
     {
      "id": "o2",
-     "text": "Auch Schrift gehört dazu"
+     "text": "Ihre Bedeutung ist arbiträr"
     },
     {
      "id": "o3",
@@ -396,11 +396,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Sie müssen nicht deckungsgleich sein – eine gemeinsame Schnittmenge reicht; je größer sie ist, desto wahrscheinlicher gelingt Kommunikation"
+     "text": "Sie müssen vollständig identisch sein"
     },
     {
      "id": "o1",
-     "text": "Sie müssen vollständig identisch sein"
+     "text": "Sie müssen nicht deckungsgleich sein – eine gemeinsame Schnittmenge reicht; je größer sie ist, desto wahrscheinlicher gelingt Kommunikation"
     },
     {
      "id": "o2",
@@ -412,7 +412,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -482,19 +482,19 @@
    "options": [
     {
      "id": "o0",
-     "text": "Medien und Journalismus"
+     "text": "Steuerberatung"
     },
     {
      "id": "o1",
-     "text": "Marktforschung und Analyse"
+     "text": "Medien und Journalismus"
     },
     {
      "id": "o2",
-     "text": "Marketing und Werbung"
+     "text": "Unternehmenskommunikation"
     },
     {
      "id": "o3",
-     "text": "Unternehmenskommunikation"
+     "text": "Marketing und Werbung"
     },
     {
      "id": "o4",
@@ -502,15 +502,15 @@
     },
     {
      "id": "o5",
-     "text": "Steuerberatung"
+     "text": "Marktforschung und Analyse"
     }
    ],
    "correct": [
-    "o0",
     "o1",
     "o2",
     "o3",
-    "o4"
+    "o4",
+    "o5"
    ]
   }
  ]

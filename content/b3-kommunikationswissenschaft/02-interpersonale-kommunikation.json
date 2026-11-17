@@ -23,19 +23,19 @@
    "options": [
     {
      "id": "o0",
-     "text": "Der/Die Handelnde (Ego) möchte bei seinem Gegenüber (Alter) etwas bewirken"
-    },
-    {
-     "id": "o1",
      "text": "Die Handlungstheorie betont die Wichtigkeit von Mimik und Gestik"
     },
     {
-     "id": "o2",
+     "id": "o1",
      "text": "Kommunikation gelingt, wenn der/die Sprecher*in das Ziel beim Gegenüber erreicht"
+    },
+    {
+     "id": "o2",
+     "text": "Der/Die Handelnde (Ego) möchte bei seinem Gegenüber (Alter) etwas bewirken"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -70,7 +70,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Kommunikation als intentionales Handeln"
+     "text": "Kommunikation ist ein autopoietisches System ohne Bewusstsein"
     },
     {
      "id": "o1",
@@ -78,21 +78,21 @@
     },
     {
      "id": "o2",
-     "text": "Gelingen setzt voraus, dass der Empfänger die Intention versteht"
+     "text": "Kommunikation ist eine Reiz-Reaktions-Kette"
     },
     {
      "id": "o3",
-     "text": "Kommunikation ist ein autopoietisches System ohne Bewusstsein"
+     "text": "Kommunikation als intentionales Handeln"
     },
     {
      "id": "o4",
-     "text": "Kommunikation ist eine Reiz-Reaktions-Kette"
+     "text": "Gelingen setzt voraus, dass der Empfänger die Intention versteht"
     }
    ],
    "correct": [
-    "o0",
     "o1",
-    "o2"
+    "o3",
+    "o4"
    ]
   },
   {
@@ -135,26 +135,26 @@
     },
     {
      "id": "o2",
-     "text": "Wahrhaftigkeit"
+     "text": "Effizienz"
     },
     {
      "id": "o3",
-     "text": "Richtigkeit"
-    },
-    {
-     "id": "o4",
      "text": "Lautstärke"
     },
     {
+     "id": "o4",
+     "text": "Wahrhaftigkeit"
+    },
+    {
      "id": "o5",
-     "text": "Effizienz"
+     "text": "Richtigkeit"
     }
    ],
    "correct": [
     "o0",
     "o1",
-    "o2",
-    "o3"
+    "o4",
+    "o5"
    ]
   },
   {
@@ -173,23 +173,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Wahrhaftigkeit"
-    },
-    {
-     "id": "o1",
-     "text": "Wahrheit"
-    },
-    {
-     "id": "o2",
      "text": "Verständlichkeit"
     },
     {
-     "id": "o3",
+     "id": "o1",
      "text": "Richtigkeit"
+    },
+    {
+     "id": "o2",
+     "text": "Wahrhaftigkeit"
+    },
+    {
+     "id": "o3",
+     "text": "Wahrheit"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -208,11 +208,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Richtigkeit"
+     "text": "Wahrhaftigkeit"
     },
     {
      "id": "o1",
-     "text": "Wahrhaftigkeit"
+     "text": "Richtigkeit"
     },
     {
      "id": "o2",
@@ -224,7 +224,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -243,23 +243,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "paraverbalen Kommunikation"
-    },
-    {
-     "id": "o1",
-     "text": "nonverbalen Kommunikation"
-    },
-    {
-     "id": "o2",
      "text": "verbalen Kommunikation"
     },
     {
-     "id": "o3",
+     "id": "o1",
+     "text": "paraverbalen Kommunikation"
+    },
+    {
+     "id": "o2",
      "text": "symbolischen Interaktion"
+    },
+    {
+     "id": "o3",
+     "text": "nonverbalen Kommunikation"
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -314,7 +314,7 @@
     },
     {
      "id": "o1",
-     "text": "Selbstoffenbarung"
+     "text": "Kontext"
     },
     {
      "id": "o2",
@@ -322,22 +322,22 @@
     },
     {
      "id": "o3",
-     "text": "Appell"
-    },
-    {
-     "id": "o4",
      "text": "Metakommunikation"
     },
     {
+     "id": "o4",
+     "text": "Appell"
+    },
+    {
      "id": "o5",
-     "text": "Kontext"
+     "text": "Selbstoffenbarung"
     }
    ],
    "correct": [
     "o0",
-    "o1",
     "o2",
-    "o3"
+    "o4",
+    "o5"
    ]
   },
   {
@@ -356,23 +356,23 @@
    "options": [
     {
      "id": "o0",
-     "text": "Appell"
+     "text": "Selbstoffenbarung"
     },
     {
      "id": "o1",
-     "text": "Sachinhalt"
-    },
-    {
-     "id": "o2",
      "text": "Beziehung"
     },
     {
+     "id": "o2",
+     "text": "Appell"
+    },
+    {
      "id": "o3",
-     "text": "Selbstoffenbarung"
+     "text": "Sachinhalt"
     }
    ],
    "correct": [
-    "o0"
+    "o2"
    ]
   },
   {
@@ -391,11 +391,11 @@
    "options": [
     {
      "id": "o0",
-     "text": "Beziehung"
+     "text": "Appell"
     },
     {
      "id": "o1",
-     "text": "Appell"
+     "text": "Beziehung"
     },
     {
      "id": "o2",
@@ -407,7 +407,7 @@
     }
    ],
    "correct": [
-    "o0"
+    "o1"
    ]
   },
   {
@@ -462,11 +462,11 @@
     },
     {
      "id": "o1",
-     "text": "Allein vom Wortlaut"
+     "text": "Von der Lautstärke"
     },
     {
      "id": "o2",
-     "text": "Von der Lautstärke"
+     "text": "Allein vom Wortlaut"
     },
     {
      "id": "o3",
@@ -493,25 +493,25 @@
    "options": [
     {
      "id": "o0",
-     "text": "Konstruktion sozialer Wirklichkeit"
-    },
-    {
-     "id": "o1",
-     "text": "Geteilte Wissensbestände"
-    },
-    {
-     "id": "o2",
      "text": "Typisierungen und Rollenerwartungen"
     },
     {
-     "id": "o3",
+     "id": "o1",
+     "text": "Konstruktion sozialer Wirklichkeit"
+    },
+    {
+     "id": "o2",
      "text": "Kommunikation als Transport von Information"
+    },
+    {
+     "id": "o3",
+     "text": "Geteilte Wissensbestände"
     }
    ],
    "correct": [
     "o0",
     "o1",
-    "o2"
+    "o3"
    ]
   },
   {
@@ -534,7 +534,7 @@
     },
     {
      "id": "o1",
-     "text": "Alle Menschen verstehen Signale identisch"
+     "text": "Wirklichkeit existiert unabhängig von Wahrnehmung und wird abgebildet"
     },
     {
      "id": "o2",
@@ -542,7 +542,7 @@
     },
     {
      "id": "o3",
-     "text": "Wirklichkeit existiert unabhängig von Wahrnehmung und wird abgebildet"
+     "text": "Alle Menschen verstehen Signale identisch"
     }
    ],
    "correct": [
@@ -565,7 +565,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Kommunikation als autopoietisches (selbsterhaltendes) System"
+     "text": "Das Bewusstsein spielt keine aktive Rolle im System"
     },
     {
      "id": "o1",
@@ -573,7 +573,7 @@
     },
     {
      "id": "o2",
-     "text": "Das Bewusstsein spielt keine aktive Rolle im System"
+     "text": "Kommunikation als autopoietisches (selbsterhaltendes) System"
     },
     {
      "id": "o3",
@@ -634,7 +634,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Radstruktur"
+     "text": "Vollstruktur"
     },
     {
      "id": "o1",
@@ -646,11 +646,11 @@
     },
     {
      "id": "o3",
-     "text": "Vollstruktur"
+     "text": "Radstruktur"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -669,24 +669,24 @@
    "options": [
     {
      "id": "o0",
-     "text": "Wie im Theater gibt es eine nicht sichtbare Hinterbühne, auf der das Ensemble aus der Rolle fallen darf"
+     "text": "Die Zuschauer*innen können ein eigenes Ensemble bilden"
     },
     {
      "id": "o1",
-     "text": "Ensemble = gemeinsame Interaktion einer Gruppe, um eine Situationsbestimmung aufrechtzuerhalten"
-    },
-    {
-     "id": "o2",
      "text": "In einem Ensemble haben alle Teilnehmenden den gleichen Status"
     },
     {
+     "id": "o2",
+     "text": "Wie im Theater gibt es eine nicht sichtbare Hinterbühne, auf der das Ensemble aus der Rolle fallen darf"
+    },
+    {
      "id": "o3",
-     "text": "Die Zuschauer*innen können ein eigenes Ensemble bilden"
+     "text": "Ensemble = gemeinsame Interaktion einer Gruppe, um eine Situationsbestimmung aufrechtzuerhalten"
     }
    ],
    "correct": [
     "o0",
-    "o1",
+    "o2",
     "o3"
    ]
   },
@@ -706,7 +706,7 @@
    "options": [
     {
      "id": "o0",
-     "text": "Horizontal (gleiche Hierarchieebene)"
+     "text": "Zirkulär nur nach außen"
     },
     {
      "id": "o1",
@@ -714,17 +714,17 @@
     },
     {
      "id": "o2",
-     "text": "Diagonal (andere Abteilung und andere Ebene)"
+     "text": "Horizontal (gleiche Hierarchieebene)"
     },
     {
      "id": "o3",
-     "text": "Zirkulär nur nach außen"
+     "text": "Diagonal (andere Abteilung und andere Ebene)"
     }
    ],
    "correct": [
-    "o0",
     "o1",
-    "o2"
+    "o2",
+    "o3"
    ]
   },
   {
@@ -785,32 +785,32 @@
    "type": "single",
    "track": "recognize",
    "prompt": "Welche Erwiderung auf die Substitutionstheorie ist richtig?",
-   "solution": "Die Erwiderung: Medien ersetzen Face-to-Face nicht einfach – der Anspruch an Kommunikation bleibt unabhängig vom Medium gleich.",
+   "solution": "Lösung der Folie: Die Wahl des Mediums ist eine rationale Entscheidung (Medienwahl statt Substitution). Falsch: „Anspruch bleibt gleich“ – man erwartet von Brief, Telefonat, Mail und Face-to-Face Unterschiedliches.",
    "rubric": "Genau die richtige Option wählen.",
    "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
-   "sourceQuote": "Beispielhafte Klausurfrage, Single Choice.",
+   "sourceQuote": "Beispielhafte Klausurfrage, Single Choice (Lösung Folie 41).",
    "page": 40,
    "seconds": 40,
    "options": [
     {
      "id": "o0",
-     "text": "Unabhängig von der Wahl des Mediums bleibt der Anspruch an die Kommunikation in der Regel gleich"
-    },
-    {
-     "id": "o1",
      "text": "Die empirischen Beweise der Substitutionstheorie sind veraltet"
     },
     {
+     "id": "o1",
+     "text": "Unabhängig von der Wahl des Mediums bleibt der Anspruch an die Kommunikation in der Regel gleich"
+    },
+    {
      "id": "o2",
-     "text": "Die Wahl des Mediums ist eine rationale Entscheidung"
+     "text": "Telefonate, Mails und Videocalls ersetzen persönliche Treffen"
     },
     {
      "id": "o3",
-     "text": "Telefonate, Mails und Videocalls ersetzen persönliche Treffen"
+     "text": "Die Wahl des Mediums ist eine rationale Entscheidung"
     }
    ],
    "correct": [
-    "o0"
+    "o3"
    ]
   },
   {
@@ -819,9 +819,9 @@
    "family": "q28",
    "type": "recall",
    "track": "recall",
-   "prompt": "Was besagt die Kritik an technisch vermittelter Kommunikation (Substitutionsthese) – und wie wird sie erwidert?",
-   "solution": "Kritik: Technisch vermittelte Kommunikation (Telefon, Mail, Video) ersetze persönliche Begegnung und sei ärmer an Zeichen/Beziehung. Erwiderung: Medien ersetzen Face-to-Face nicht einfach; der Anspruch an Kommunikation bleibt unabhängig vom Medium in der Regel gleich, Menschen gleichen fehlende Hinweise aus.",
-   "rubric": "Kritik (Ersetzung, Verarmung) und Erwiderung (Anspruch bleibt gleich) nennen.",
+   "prompt": "Was besagt der Ansatz „Medienwahl statt Substitution“? Nenne die vier Punkte der Folie.",
+   "solution": "Kein empirischer Beweis für Ersatz: Telefonate, Mails, Videocalls begleiten persönliche Treffen (Ergänzung statt Verdrängung). Eigene Ansprüche: Von Brief, Telefonat, Mail oder Face-to-Face erwartet man jeweils anderes – Medienwahl ist eine rationale Entscheidung. Auswahl des Mediums nach (1) objektiven Medieneigenschaften, (2) Informativität durch kollektive Entscheidung, (3) subjektiv nach Erfahrungen/Einstellungen. Gelingen nur durch Befolgen der standardisierten Regeln eines Mediums (pragmatische Regeln organisieren Erwartungen).",
+   "rubric": "Ergänzung statt Verdrängung; eigene Ansprüche je Medium; drei Auswahlkriterien; Medienregeln.",
    "sourceTitle": "Moodle B3 · 2. Sitzung (Beispielklausurfrage)",
    "sourceQuote": "Technisch vermittelte Kommunikation",
    "page": 40,
@@ -849,7 +849,7 @@
     },
     {
      "id": "o1",
-     "text": "Ein Reiz-Reaktions-Schema wie bei Tieren"
+     "text": "Kommunikation ohne nonverbale Zeichen"
     },
     {
      "id": "o2",
@@ -857,12 +857,1335 @@
     },
     {
      "id": "o3",
-     "text": "Kommunikation ohne nonverbale Zeichen"
+     "text": "Ein Reiz-Reaktions-Schema wie bei Tieren"
     }
    ],
    "correct": [
     "o0"
    ]
+  },
+  {
+   "id": "q30",
+   "objective": "Symbolischer Interaktionismus (G. H. Mead)",
+   "family": "q30",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche drei Elemente nennt die Folie zum Symbolischen Interaktionismus (Mead)?",
+   "solution": "Symbole, Rollenübernahme/Perspektivwechsel, signifikante Symbole. Autopoiesis = Luhmann; Geltungsansprüche = Habermas.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 3",
+   "sourceQuote": "Symbolischer Interaktionismus (G. H. Mead)",
+   "page": 3,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Autopoiesis"
+    },
+    {
+     "id": "o1",
+     "text": "Vier Geltungsansprüche"
+    },
+    {
+     "id": "o2",
+     "text": "Bewusster Gebrauch von Symbolen (Sprache, Gesten, Zeichen)"
+    },
+    {
+     "id": "o3",
+     "text": "Rollenübernahme und Perspektivwechsel"
+    },
+    {
+     "id": "o4",
+     "text": "Signifikante Symbole aus einem sozialen Repertoire"
+    }
+   ],
+   "correct": [
+    "o2",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q31",
+   "objective": "Symbolischer Interaktionismus (G. H. Mead)",
+   "family": "q31",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was betont der Symbolische Interaktionismus (Mead)? (Fazit der Folie)",
+   "solution": "Die zentrale Rolle von Symbolen, insbesondere der Sprache, bei der gemeinsamen Konstruktion einer geteilten sozialen Wirklichkeit durch kommunizierende Individuen. Dazu gehört Rollenübernahme: die Rolle des anderen einnehmen und die Wirkung der eigenen Äußerung antizipieren.",
+   "rubric": "Symbole/Sprache; gemeinsame Konstruktion geteilter Wirklichkeit; Rollenübernahme.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 3",
+   "sourceQuote": "Symbolischer Interaktionismus (G. H. Mead)",
+   "page": 3,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q32",
+   "objective": "Symbolischer Interaktionismus (G. H. Mead)",
+   "family": "q32",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Kommunizierende können die Rolle des Anderen einnehmen und so die Wirkung ihrer Äußerungen antizipieren.“ Zu welchem Ansatz gehört das?",
+   "solution": "Rollenübernahme und Perspektivwechsel = Mead.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 3",
+   "sourceQuote": "Symbolischer Interaktionismus (G. H. Mead)",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Luhmanns Systemtheorie"
+    },
+    {
+     "id": "o1",
+     "text": "Symbolischer Interaktionismus (Mead)"
+    },
+    {
+     "id": "o2",
+     "text": "Bürokratiemodell (Weber)"
+    },
+    {
+     "id": "o3",
+     "text": "Shannon/Weaver"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q33",
+   "objective": "Habermas: strategisches Handeln",
+   "family": "q33",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was liegt laut Folie vor, wenn die vier Geltungsansprüche nicht erfüllt werden sollen?",
+   "solution": "Habermas: Gegenbegriff zum kommunikativen Handeln = strategisches Handeln.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 8",
+   "sourceQuote": "Habermas: strategisches Handeln",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Metakommunikation"
+    },
+    {
+     "id": "o1",
+     "text": "Symbolischer Interaktionismus"
+    },
+    {
+     "id": "o2",
+     "text": "Strategisches Handeln, bei dem der andere instrumentalisiert wird"
+    },
+    {
+     "id": "o3",
+     "text": "Kanalreduktion"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q34",
+   "objective": "Nonverbale Kommunikation",
+   "family": "q34",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Aussagen zu nonverbalen Zeichen stimmen laut Folie?",
+   "solution": "Non-/paraverbale Zeichen ersetzen Sprache nicht, sie geben Hinweise, wie sie gemeint ist.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 9",
+   "sourceQuote": "Nonverbale Kommunikation",
+   "page": 9,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sie können bewusst (als Handlung) oder unwillkürlich (als Verhalten) gesendet werden"
+    },
+    {
+     "id": "o1",
+     "text": "Sie geben Hinweise auf Emotionen, Einstellungen und soziale Rollen"
+    },
+    {
+     "id": "o2",
+     "text": "Sie ersetzen die sprachliche Äußerung vollständig"
+    },
+    {
+     "id": "o3",
+     "text": "Sie sind mehrdeutig und kulturell verschieden"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o3"
+   ]
+  },
+  {
+   "id": "q35",
+   "objective": "Nonverbale Kommunikation",
+   "family": "q35",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Funktion haben non- und paraverbale Zeichen laut Folie?",
+   "solution": "Ergänzende, deutende Funktion.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 9",
+   "sourceQuote": "Nonverbale Kommunikation",
+   "page": 9,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sie ersetzen die Sprache nicht, sondern geben – oft mehrdeutige – Hinweise, wie die Aussage gemeint ist; dazu Selbstdarstellung und Vermittlung von Gefühlen"
+    },
+    {
+     "id": "o1",
+     "text": "Sie sind immer eindeutig"
+    },
+    {
+     "id": "o2",
+     "text": "Sie übertragen die eigentliche Information"
+    },
+    {
+     "id": "o3",
+     "text": "Sie sind nur in schriftlicher Kommunikation wichtig"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q36",
+   "objective": "Nonverbale Kommunikation",
+   "family": "q36",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ermöglicht Sprache laut Folie besonders?",
+   "solution": "Sprache = intentionales Symbolsystem.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 9",
+   "sourceQuote": "Nonverbale Kommunikation",
+   "page": 9,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Abstrakte, nicht gegenwärtige oder sogar fiktive Inhalte zu kommunizieren (intentionales Symbolsystem)"
+    },
+    {
+     "id": "o1",
+     "text": "Unwillkürliches Verhalten"
+    },
+    {
+     "id": "o2",
+     "text": "Nur Gefühle auszudrücken"
+    },
+    {
+     "id": "o3",
+     "text": "Reiz-Reaktion"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q37",
+   "objective": "Situationsdefinition (Goffman)",
+   "family": "q37",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wie beschreibt Goffman die nötige gemeinsame Definition der Situation?",
+   "solution": "Goffman: gemeinsame Definition dessen, was hier vorgeht.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 10",
+   "sourceQuote": "Situationsdefinition (Goffman)",
+   "page": 10,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "„Kommunikation kommuniziert“"
+    },
+    {
+     "id": "o1",
+     "text": "„Das Medium ist die Botschaft“"
+    },
+    {
+     "id": "o2",
+     "text": "„dessen, was hier vorgeht“"
+    },
+    {
+     "id": "o3",
+     "text": "„Man kann nicht nicht kommunizieren“"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q38",
+   "objective": "Vier-Ohren-Modell: Übungen",
+   "family": "q38",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Analysiere nach Schulz von Thun: „Ich habe dir doch gesagt, du sollst mir rechtzeitig Bescheid geben.“",
+   "solution": "Sache: Ich hatte dich gebeten, mir rechtzeitig Bescheid zu geben (und das ist nicht passiert). Selbstoffenbarung: Ich bin verärgert/enttäuscht. Beziehung: Du hältst dich nicht an Absprachen, ich muss dich erinnern. Appell: Gib mir künftig rechtzeitig Bescheid.",
+   "rubric": "Alle vier Seiten plausibel.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 12–14",
+   "sourceQuote": "Übung 1 der 2. Sitzung",
+   "page": 12,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q39",
+   "objective": "Vier-Ohren-Modell: Übungen",
+   "family": "q39",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Ordne zu: Welche Leitfragen passen zu den vier Seiten (Folie Übung 2)?",
+   "solution": "Appell = Ziel, Beziehung = Sicht auf den Hörer.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 12–14",
+   "sourceQuote": "Vier-Ohren-Modell: Übungen",
+   "page": 12,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Beziehung – Was will der Sprecher erreichen?"
+    },
+    {
+     "id": "o1",
+     "text": "Beziehung – Wie sieht der Sprecher den Hörer?"
+    },
+    {
+     "id": "o2",
+     "text": "Sachinhalt – Was wird objektiv ausgesagt?"
+    },
+    {
+     "id": "o3",
+     "text": "Appell – Was will der Sprecher erreichen?"
+    },
+    {
+     "id": "o4",
+     "text": "Selbstoffenbarung – Was sagt das über den Sprecher?"
+    }
+   ],
+   "correct": [
+    "o1",
+    "o2",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q40",
+   "objective": "Vier-Ohren-Modell: Übungen",
+   "family": "hoertyp",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Ich fühle mich oft angegriffen, obwohl es nur sachlich gemeint war.“ Welches Ohr ist bei dieser Person stark ausgeprägt?",
+   "solution": "Hör-Typ aus Übung 3.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 12–14",
+   "sourceQuote": "Vier-Ohren-Modell: Übungen",
+   "page": 12,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Selbstoffenbarungsohr"
+    },
+    {
+     "id": "o1",
+     "text": "Appellohr"
+    },
+    {
+     "id": "o2",
+     "text": "Sachohr"
+    },
+    {
+     "id": "o3",
+     "text": "Beziehungsohr"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q41",
+   "objective": "Vier-Ohren-Modell: Übungen",
+   "family": "hoertyp",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Ich höre eher, was der andere von mir will.“ Welches Ohr?",
+   "solution": "Hör-Typ aus Übung 3.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 12–14",
+   "sourceQuote": "Vier-Ohren-Modell: Übungen",
+   "page": 12,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Beziehungsohr"
+    },
+    {
+     "id": "o1",
+     "text": "Selbstoffenbarungsohr"
+    },
+    {
+     "id": "o2",
+     "text": "Appellohr"
+    },
+    {
+     "id": "o3",
+     "text": "Sachohr"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q42",
+   "objective": "Vier-Ohren-Modell: Übungen",
+   "family": "hoertyp",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Ich frage mich oft: Was sagt das über die Person aus?“ Welches Ohr?",
+   "solution": "Hör-Typ aus Übung 3.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 12–14",
+   "sourceQuote": "Vier-Ohren-Modell: Übungen",
+   "page": 12,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Appellohr"
+    },
+    {
+     "id": "o1",
+     "text": "Sachohr"
+    },
+    {
+     "id": "o2",
+     "text": "Beziehungsohr"
+    },
+    {
+     "id": "o3",
+     "text": "Selbstoffenbarungsohr"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q43",
+   "objective": "Radikaler Konstruktivismus und Hejl",
+   "family": "q43",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was besagt der radikale Konstruktivismus laut Folie?",
+   "solution": "Individuelle, soziokulturelle und situative Unterschiede beim Verstehen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 15–16",
+   "sourceQuote": "Radikaler Konstruktivismus und Hejl",
+   "page": 15,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Medien programmieren die Meinungen der Menschen"
+    },
+    {
+     "id": "o1",
+     "text": "Bedeutungen werden „in unserem Kopf“ erzeugt; wir informieren uns selbst und werden nicht durch Informationen von außen „programmiert“"
+    },
+    {
+     "id": "o2",
+     "text": "Kommunikation ist reine Signalübertragung"
+    },
+    {
+     "id": "o3",
+     "text": "Alle Menschen verstehen Signale gleich"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q44",
+   "objective": "Radikaler Konstruktivismus und Hejl",
+   "family": "q44",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was ist Hejls Alternative zu Luhmann?",
+   "solution": "Das kognitive System des Menschen (Sinnesorgane, Nerven, Gehirn) ist autopoietisch geschlossen, aber durch die gemeinsame Geschichte als Spezies (Evolution), geteilte Erfahrungen (Lebenswelt) und verwendete Symbolsysteme (Kultur) sind die kognitiven Systeme der Kommunizierenden ähnlich strukturiert – deshalb ist Verständigung möglich.",
+   "rubric": "Kognitives System geschlossen; Ähnlichkeit durch Evolution, Lebenswelt, Kultur; Mensch bleibt im Modell.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 15–16",
+   "sourceQuote": "Radikaler Konstruktivismus und Hejl",
+   "page": 15,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q45",
+   "objective": "Radikaler Konstruktivismus und Hejl",
+   "family": "q45",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Rolle spielt das Bewusstsein bei Luhmann laut Folie?",
+   "solution": "Bewusstsein = Irritationsquelle.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 15–16",
+   "sourceQuote": "Radikaler Konstruktivismus und Hejl",
+   "page": 15,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Es ersetzt die Mitteilung"
+    },
+    {
+     "id": "o1",
+     "text": "Es steuert die Kommunikation"
+    },
+    {
+     "id": "o2",
+     "text": "Keine aktive Rolle – es wird lediglich als „Irritationsquelle“ betrachtet"
+    },
+    {
+     "id": "o3",
+     "text": "Es ist das Zentrum des Systems"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q46",
+   "objective": "Gruppen",
+   "family": "q46",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Wie ist eine Gruppe definiert und welche Merkmale hat sie (Folie „Einführung“)?",
+   "solution": "Kleine Zahl von Personen, bei der jedEr mit jedEm unmittelbar in Verbindung treten kann. Merkmale: emotionaler Zusammenhalt (Kohäsion), Abgrenzung nach außen, Konformitätsdruck nach innen (soziale Kontrolle), Gruppenhierarchie.",
+   "rubric": "Definition (unmittelbarer Kontakt aller) + mind. drei Merkmale.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 19",
+   "sourceQuote": "Gruppen",
+   "page": 19,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q47",
+   "objective": "Gruppen",
+   "family": "q47",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Eine Arbeitsgruppe im Unternehmen ist eine …",
+   "solution": "Formell: Arbeitsgruppen, Ausschüsse. Informell: Freundschaftscliquen, Jugendgruppen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 19",
+   "sourceQuote": "Gruppen",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "formelle Gruppe"
+    },
+    {
+     "id": "o1",
+     "text": "informelle Gruppe"
+    },
+    {
+     "id": "o2",
+     "text": "Ensemble ohne Status"
+    },
+    {
+     "id": "o3",
+     "text": "Netzwerköffentlichkeit"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q48",
+   "objective": "Gruppen",
+   "family": "q48",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Warum ist „nicht alles Kommunikation“ in einer Gruppe?",
+   "solution": "Kommunikation = ein Teil der Interaktionen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 19",
+   "sourceQuote": "Gruppen",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Mitglieder stehen in vielfältigen Beziehungen; symbolische Interaktion ist nur ein Teil – es werden auch Güter, Geld, Dienst- und Hilfeleistungen ausgetauscht"
+    },
+    {
+     "id": "o1",
+     "text": "Weil Gruppen keine Hierarchie haben"
+    },
+    {
+     "id": "o2",
+     "text": "Weil Kommunikation nur in Organisationen stattfindet"
+    },
+    {
+     "id": "o3",
+     "text": "Weil Gruppen nur nonverbal kommunizieren"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q49",
+   "objective": "Gruppen",
+   "family": "q49",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Richtung hat Kommunikation zwischen einer Führungskraft in Bereich A und Mitarbeitenden in Bereich B?",
+   "solution": "Andere Ebene + anderer Bereich = diagonal.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 19",
+   "sourceQuote": "Gruppen",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Diagonal"
+    },
+    {
+     "id": "o1",
+     "text": "Horizontal"
+    },
+    {
+     "id": "o2",
+     "text": "Vertikal bottom-up"
+    },
+    {
+     "id": "o3",
+     "text": "Vertikal top-down"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q50",
+   "objective": "Gruppen",
+   "family": "q50",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Strukturen von Gruppenkommunikation zeigt die Folie?",
+   "solution": "Voll, Kreis, Rad, Kette, Ypsilon.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 19",
+   "sourceQuote": "Gruppen",
+   "page": 19,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Radstruktur"
+    },
+    {
+     "id": "o1",
+     "text": "Vollstruktur"
+    },
+    {
+     "id": "o2",
+     "text": "Ypsilon-Struktur"
+    },
+    {
+     "id": "o3",
+     "text": "Pyramidenstruktur"
+    },
+    {
+     "id": "o4",
+     "text": "Kettenstruktur"
+    },
+    {
+     "id": "o5",
+     "text": "Kreisstruktur"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o4",
+    "o5"
+   ]
+  },
+  {
+   "id": "q51",
+   "objective": "Gruppen",
+   "family": "q51",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Bei welcher Struktur kann jedes Gruppenmitglied direkt mit jedem anderen kommunizieren?",
+   "solution": "Vollstruktur.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 19",
+   "sourceQuote": "Gruppen",
+   "page": 19,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Vollstruktur"
+    },
+    {
+     "id": "o1",
+     "text": "Radstruktur"
+    },
+    {
+     "id": "o2",
+     "text": "Kettenstruktur"
+    },
+    {
+     "id": "o3",
+     "text": "Ypsilon-Struktur"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q52",
+   "objective": "Konformitätsdruck",
+   "family": "q52",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Wie kann Konformitätsdruck der Problemlösung in Gruppen im Weg stehen?",
+   "solution": "Hat sich schon eine Mehrheitsmeinung gebildet oder haben sich (Meinungs-)Führer positioniert, fällt es anderen schwer, ihre Meinung öffentlich zu äußern. Vertreter einer Minderheitenmeinung erhalten weniger Unterstützung, sodass die Chancen sinken, dass sich andere noch zu dieser Ansicht bekennen.",
+   "rubric": "Mehrheitsmeinung/Meinungsführer; Hemmung, Minderheit wird geschwächt.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 23",
+   "sourceQuote": "Konformitätsdruck",
+   "page": 23,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q53",
+   "objective": "Netzwerke und Organisationen",
+   "family": "q53",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Wozu dienen Netzwerkanalysen laut Folie?",
+   "solution": "Beispiel: Twitter-Netzwerk der Parteien (netzpolitik.org 2017).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 27–35",
+   "sourceQuote": "Netzwerke und Organisationen",
+   "page": 27,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Pressekodex-Verstöße zu prüfen"
+    },
+    {
+     "id": "o1",
+     "text": "Werbebudgets zu planen"
+    },
+    {
+     "id": "o2",
+     "text": "Kommunikationsstrukturen und -beziehungen in Gruppen, Organisationen und die eines Individuums zu untersuchen"
+    },
+    {
+     "id": "o3",
+     "text": "Zeichentypen zu bestimmen"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q54",
+   "objective": "Netzwerke und Organisationen",
+   "family": "q54",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Aussagen über Kommunikation in Organisationen stimmen laut Folie?",
+   "solution": "Informelle Kommunikation ist funktional, nicht schädlich.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 27–35",
+   "sourceQuote": "Netzwerke und Organisationen",
+   "page": 27,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Sie ist viel formeller als in Gruppen, weil Organisationen dauerhaft ein Ziel verfolgen und formale Strukturen haben"
+    },
+    {
+     "id": "o1",
+     "text": "Je größer die Organisation, desto mehr explizite, verschriftlichte Kommunikationsregeln"
+    },
+    {
+     "id": "o2",
+     "text": "Organisieren bedeutet in hohem Maße Kommunizieren"
+    },
+    {
+     "id": "o3",
+     "text": "Informelle Kommunikation hat sich als funktional für Kooperation erwiesen"
+    },
+    {
+     "id": "o4",
+     "text": "Informelle Kommunikation schadet den Organisationszielen immer"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q55",
+   "objective": "Netzwerke und Organisationen",
+   "family": "q55",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was ist die kommunikationswissenschaftliche Kernthese zu Organisationen?",
+   "solution": "Kommunikation ist konstitutives Element von Organisation.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 27–35",
+   "sourceQuote": "Netzwerke und Organisationen",
+   "page": 27,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Organisationen werden erst durch Kommunikation – v. a. performative Sprechakte wie Bewertungen und Entscheidungen – erzeugt und konstituiert"
+    },
+    {
+     "id": "o1",
+     "text": "Organisationen kommen ohne Kommunikation aus"
+    },
+    {
+     "id": "o2",
+     "text": "Kommunikation ist nur ein Werkzeug der Organisation"
+    },
+    {
+     "id": "o3",
+     "text": "Organisationen bestehen aus Gebäuden und Kapital"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q56",
+   "objective": "Netzwerke und Organisationen",
+   "family": "q56",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Vier Kommunikationsfehler in Organisationen",
+   "solution": "1) Gleichsetzung von Hierarchie und Kommunikationsstruktur – Kommunikation laufe strikt entlang des Organigramms; informelle Netzwerke werden ignoriert. 2) Veraltetes Kommunikationsverständnis – Kommunikation als bloße Informationsübertragung → unrealistische Erwartungen an Steuerbarkeit; Interpretation und Kontext unterschätzt. 3) Taktische Kommunikation – Informationen für Machtvorteile zurückhalten oder manipulieren → Misstrauen, Konflikte, Mobbing. 4) Bürokratiemodell (Max Weber) – komplett schriftliche Kommunikation und formale Hierarchien; für viele Aufgaben wenig leistungsfähig.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 27–35",
+   "sourceQuote": "Netzwerke und Organisationen",
+   "page": 27,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q57",
+   "objective": "Netzwerke und Organisationen",
+   "family": "q57",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Kommunikationsfehler in Organisationen nennt die Vorlesung?",
+   "solution": "Vier Fehler; informelle Kommunikation gilt als funktional.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 27–35",
+   "sourceQuote": "Netzwerke und Organisationen",
+   "page": 27,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Veraltetes Kommunikationsverständnis (bloße Informationsübertragung)"
+    },
+    {
+     "id": "o1",
+     "text": "Gleichsetzung von Hierarchie und Kommunikationsstruktur"
+    },
+    {
+     "id": "o2",
+     "text": "Zu viel informelle Kommunikation"
+    },
+    {
+     "id": "o3",
+     "text": "Taktische Kommunikation"
+    },
+    {
+     "id": "o4",
+     "text": "Bürokratiemodell (Max Weber)"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q58",
+   "objective": "Netzwerke und Organisationen",
+   "family": "q58",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ein Abteilungsleiter hält Informationen zurück, um sich einen Machtvorteil zu sichern. Welcher Kommunikationsfehler?",
+   "solution": "Folgen: Unsicherheit, Misstrauen, Konflikte, Mobbing.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 27–35",
+   "sourceQuote": "Netzwerke und Organisationen",
+   "page": 27,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Gleichsetzung von Hierarchie und Kommunikationsstruktur"
+    },
+    {
+     "id": "o1",
+     "text": "Taktische Kommunikation"
+    },
+    {
+     "id": "o2",
+     "text": "Bürokratiemodell"
+    },
+    {
+     "id": "o3",
+     "text": "Veraltetes Kommunikationsverständnis"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q59",
+   "objective": "Netzwerke und Organisationen",
+   "family": "q59",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was ist das Zwischenfazit zu Kommunikation in Gruppen und Organisationen?",
+   "solution": "Organisationen versuchen Kommunikation oft zu steuern, aber vor allem informelle Kommunikation ist zentral – für Problemlösung, Motivation, Koordination und das soziale Miteinander. Kommunikation ist nicht nur Mittel, sondern konstitutives Element von Organisation.",
+   "rubric": "Informelle Kommunikation zentral; Kommunikation konstitutiv.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 27–35",
+   "sourceQuote": "Netzwerke und Organisationen",
+   "page": 27,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q60",
+   "objective": "Technisch vermittelte Kommunikation",
+   "family": "kanal-sub",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was besagt die Kanalreduktions-These?",
+   "solution": "Kanalreduktion.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 36–37",
+   "sourceQuote": "Technisch vermittelte Kommunikation",
+   "page": 37,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Nur Face-to-Face ist echte Kommunikation"
+    },
+    {
+     "id": "o1",
+     "text": "Face-to-Face wird durch Medien ersetzt"
+    },
+    {
+     "id": "o2",
+     "text": "Medien vermehren die Kanäle"
+    },
+    {
+     "id": "o3",
+     "text": "In technisch vermittelter Kommunikation werden nur bestimmte Codes (Text, Stimme) übermittelt, körperliche Signale fallen weg"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q61",
+   "objective": "Technisch vermittelte Kommunikation",
+   "family": "kanal-sub",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was besagt die Substitutions-These?",
+   "solution": "Substitution.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 36–37",
+   "sourceQuote": "Technisch vermittelte Kommunikation",
+   "page": 37,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Körperliche Signale fallen weg"
+    },
+    {
+     "id": "o1",
+     "text": "Kommunikation ist autopoietisch"
+    },
+    {
+     "id": "o2",
+     "text": "Medien ergänzen Face-to-Face"
+    },
+    {
+     "id": "o3",
+     "text": "Face-to-Face-Kommunikation wird immer mehr durch mediatisierte Kommunikation ersetzt; Medien verdrängen das persönliche Gespräch"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q62",
+   "objective": "Technisch vermittelte Kommunikation",
+   "family": "q62",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Welchen Grundsatz stellt die Vorlesung der Kritik an technisch vermittelter Kommunikation voran?",
+   "solution": "Face-to-Face ist zwar die evolutionsbiologisch und kulturgeschichtlich älteste Form der Humankommunikation, aber nicht die „beste“, „vollständigste“ oder einzig „wahre“. Kanalreduktions- und Substitutions-These lassen sich widerlegen.",
+   "rubric": "Älteste ≠ beste/wahre Form; beide Thesen widerlegbar.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 36–37",
+   "sourceQuote": "Technisch vermittelte Kommunikation",
+   "page": 37,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q63",
+   "objective": "Vorteile der Kanalreduktion",
+   "family": "q63",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Vorteile der Reduktion der Sinneskanäle nennt die Folie?",
+   "solution": "Vier Vorteile, jeweils mit Einschränkungen.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 38",
+   "sourceQuote": "Vorteile der Kanalreduktion",
+   "page": 38,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Kontrolle über Gefühle und Kontexte (z. B. Angst verschweigen)"
+    },
+    {
+     "id": "o1",
+     "text": "Mehr Körpersignale als Face-to-Face"
+    },
+    {
+     "id": "o2",
+     "text": "Neue Kanäle durch technischen Fortschritt – aber Videocalls ermüden schnell"
+    },
+    {
+     "id": "o3",
+     "text": "Enthemmung (Nivellierung von Hierarchie, Anonymität) – aber Missbrauchsgefahr"
+    },
+    {
+     "id": "o4",
+     "text": "Höheres Verstehen der Sachbotschaft (weniger Irritation durch Verhalten, schrittweises Verstehen)"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o2",
+    "o3",
+    "o4"
+   ]
+  },
+  {
+   "id": "q64",
+   "objective": "Vorteile der Kanalreduktion",
+   "family": "q64",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welcher Vorteil technisch vermittelter Kommunikation ist die „Enthemmung“?",
+   "solution": "Enthemmung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 38",
+   "sourceQuote": "Vorteile der Kanalreduktion",
+   "page": 38,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Es gibt immer weniger Kanalreduktion"
+    },
+    {
+     "id": "o1",
+     "text": "Hierarchie- und Machtstrukturen werden nivelliert, Anonymität ermöglicht Austausch privater Details – aber Missbrauchsgefahr"
+    },
+    {
+     "id": "o2",
+     "text": "Man kann Gefühle verbergen"
+    },
+    {
+     "id": "o3",
+     "text": "Man versteht die Sachbotschaft besser"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q65",
+   "objective": "Medienwahl",
+   "family": "q65",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Wonach wird ein Medium laut Folie ausgewählt?",
+   "solution": "Drei Kriterien.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 39",
+   "sourceQuote": "Medienwahl",
+   "page": 39,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Informativität durch kollektive Entscheidung"
+    },
+    {
+     "id": "o1",
+     "text": "Zufall"
+    },
+    {
+     "id": "o2",
+     "text": "Objektive Medieneigenschaften"
+    },
+    {
+     "id": "o3",
+     "text": "Subjektiv nach individuellen Erfahrungen und Einstellungen"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q66",
+   "objective": "Medienregeln beim Telefonieren",
+   "family": "q66",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche Medienregeln beim Telefonieren nennt die Folie?",
+   "solution": "Erreichbarkeit, Sprecherwechsel, Verabschiedung.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 42",
+   "sourceQuote": "Medienregeln beim Telefonieren",
+   "page": 42,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Verabschiedung: der Anrufer beendet in der Regel das Gespräch"
+    },
+    {
+     "id": "o1",
+     "text": "Regelungen zur Erreichbarkeit (abhängig von Beziehungsqualität und Dringlichkeit)"
+    },
+    {
+     "id": "o2",
+     "text": "Der Angerufene muss immer zuerst auflegen"
+    },
+    {
+     "id": "o3",
+     "text": "Sprecherwechsel durch Senken der Stimme (Intonation)"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o3"
+   ]
+  },
+  {
+   "id": "q67",
+   "objective": "Medienregeln beim Telefonieren",
+   "family": "q67",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Warum ist der Sprecherwechsel am Telefon oft reibungsloser als face-to-face?",
+   "solution": "Intonation ersetzt nonverbale Signale.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folie 42",
+   "sourceQuote": "Medienregeln beim Telefonieren",
+   "page": 42,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Nonverbale Mittel fehlen, daher achten die Kommunizierenden sehr sensibel auf paraverbale Intonationssignale (Senken der Stimme)"
+    },
+    {
+     "id": "o1",
+     "text": "Weil es feste Redezeiten gibt"
+    },
+    {
+     "id": "o2",
+     "text": "Weil immer der Anrufer spricht"
+    },
+    {
+     "id": "o3",
+     "text": "Weil Telefonate kürzer sind"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q68",
+   "objective": "Social Media als Intermediäre",
+   "family": "q68",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Was kennzeichnet Social Media als „neue Intermediäre“ laut Folie?",
+   "solution": "Vier Merkmale.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 43–45",
+   "sourceQuote": "Social Media als Intermediäre",
+   "page": 43,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Arbeiten nicht für „die Allgemeinheit“, sondern für Individuen"
+    },
+    {
+     "id": "o1",
+     "text": "Greifen im Gegensatz zu anderen in Inhalte der Kommunikation ein"
+    },
+    {
+     "id": "o2",
+     "text": "Produzieren keine eigenen Inhalte, sondern vermitteln Journalismus, Werbung, PR und User Generated Content"
+    },
+    {
+     "id": "o3",
+     "text": "Produzieren vor allem eigene journalistische Inhalte"
+    },
+    {
+     "id": "o4",
+     "text": "Zentrale Rolle des Algorithmus"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o1",
+    "o2",
+    "o4"
+   ]
+  },
+  {
+   "id": "q69",
+   "objective": "Social Media als Intermediäre",
+   "family": "q69",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was zeigt die Bitkom-Grafik zu digitalem Marketing?",
+   "solution": "Steigende Ausgaben, ROAS 2,50 €.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 43–45",
+   "sourceQuote": "Social Media als Intermediäre",
+   "page": 43,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Die Ausgaben sinken seit 2018"
+    },
+    {
+     "id": "o1",
+     "text": "Die Ausgaben steigen seit Jahren (2018: 16,41 Mrd. € → 2024: 30,9 Mrd. €); ROAS: je eingesetztem Euro 2,50 € Umsatz"
+    },
+    {
+     "id": "o2",
+     "text": "Ausgaben stagnieren bei 20 Mrd. €"
+    },
+    {
+     "id": "o3",
+     "text": "Digitales Marketing ist unrentabel"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q70",
+   "objective": "Social Media als Intermediäre",
+   "family": "q70",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Formuliere das Fazit zur technisch vermittelten Kommunikation.",
+   "solution": "Technisch vermittelte Kommunikation ergänzt und unterstützt vor allem die Face-to-Face-Kommunikation, ohne sie wesentlich zu verdrängen. Die Reduktion von Sinneseindrücken hat auch Vorteile. Medienregeln bestimmen die Wahl des Mediums (Medienwahlregeln) und den Umgang damit (prozedurale Regeln). Social Media gehört dazu; seine Regeln sollen v. a. attraktiv für Nutzer*innen und im zweiten Schritt für digitales Marketing sein.",
+   "rubric": "Ergänzung statt Verdrängung; Vorteile der Reduktion; Medienwahl- vs. prozedurale Regeln; Social Media.",
+   "sourceTitle": "Moodle B3 · 2. Sitzung, Folien 43–45",
+   "sourceQuote": "Social Media als Intermediäre",
+   "page": 43,
+   "seconds": 90,
+   "options": [],
+   "correct": []
   }
  ]
 }

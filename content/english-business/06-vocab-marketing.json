@@ -1,0 +1,5751 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "en-06-vocab-marketing",
+ "title": "English · Glossary: Marketing vocabulary (Units 4–6)",
+ "course": "English for Business Communication (B2.2)",
+ "examType": "Klausur",
+ "topic": "Marketing",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Marketing vocabulary",
+   "family": "v-advertisement",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an announcement, picture or short film promoting a company, product, event or job vacancy“",
+   "solution": "advertisement – an announcement, picture or short film promoting a company, product, event or job vacancy (= ad/advert; to place an ad in the newspaper, to advertise on TV)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "advertisement: an announcement, picture or short film promoting a company, product, event or job vacancy (= ad/advert; to place an ad in the newspaper, to advertise on TV)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "advertisement"
+    },
+    {
+     "id": "o1",
+     "text": "merchandise"
+    },
+    {
+     "id": "o2",
+     "text": "demand"
+    },
+    {
+     "id": "o3",
+     "text": "marketing mix"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q2",
+   "objective": "Marketing vocabulary",
+   "family": "v-advertisement",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „advertisement“ mean?",
+   "solution": "advertisement – an announcement, picture or short film promoting a company, product, event or job vacancy (= ad/advert; to place an ad in the newspaper, to advertise on TV)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "advertisement: an announcement, picture or short film promoting a company, product, event or job vacancy (= ad/advert; to place an ad in the newspaper, to advertise on TV)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "manufactured goods that are expected to have a long life after purchase (e.g. cars)"
+    },
+    {
+     "id": "o1",
+     "text": "1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character"
+    },
+    {
+     "id": "o2",
+     "text": "a part of a market or social group (e.g. the luxury segment) (to segment the market)"
+    },
+    {
+     "id": "o3",
+     "text": "an announcement, picture or short film promoting a company, product, event or job vacancy (= ad/advert; to place an ad in the newspaper, to advertise on TV)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Marketing vocabulary",
+   "family": "v-advertising campaign",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a programme of activities aimed at increasing sales or the awareness of a product/service“",
+   "solution": "advertising campaign – a programme of activities aimed at increasing sales or the awareness of a product/service (to plan/conduct an advertising campaign)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "advertising campaign: a programme of activities aimed at increasing sales or the awareness of a product/service (to plan/conduct an advertising campaign)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "knock-down prices"
+    },
+    {
+     "id": "o1",
+     "text": "upmarket"
+    },
+    {
+     "id": "o2",
+     "text": "advertising campaign"
+    },
+    {
+     "id": "o3",
+     "text": "word-of-mouth"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q4",
+   "objective": "Marketing vocabulary",
+   "family": "v-advertising campaign",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „advertising campaign“ mean?",
+   "solution": "advertising campaign – a programme of activities aimed at increasing sales or the awareness of a product/service (to plan/conduct an advertising campaign)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "advertising campaign: a programme of activities aimed at increasing sales or the awareness of a product/service (to plan/conduct an advertising campaign)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)"
+    },
+    {
+     "id": "o1",
+     "text": "the arguments used by a person who is trying to sell sth."
+    },
+    {
+     "id": "o2",
+     "text": "a programme of activities aimed at increasing sales or the awareness of a product/service (to plan/conduct an advertising campaign)"
+    },
+    {
+     "id": "o3",
+     "text": "a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Marketing vocabulary",
+   "family": "v-advertising copy",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the written material used in an advertisement“",
+   "solution": "advertising copy – the written material used in an advertisement",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "advertising copy: the written material used in an advertisement",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "advertising copy"
+    },
+    {
+     "id": "o1",
+     "text": "consumer"
+    },
+    {
+     "id": "o2",
+     "text": "bias"
+    },
+    {
+     "id": "o3",
+     "text": "differentiation"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q6",
+   "objective": "Marketing vocabulary",
+   "family": "v-advertising copy",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „advertising copy“ mean?",
+   "solution": "advertising copy – the written material used in an advertisement",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "advertising copy: the written material used in an advertisement",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the written material used in an advertisement"
+    },
+    {
+     "id": "o1",
+     "text": "introducing a new company or product to the public for the first time (to launch a product on/onto the market)"
+    },
+    {
+     "id": "o2",
+     "text": "advertising that is sent directly to potential customers"
+    },
+    {
+     "id": "o3",
+     "text": "a part of a market such as a particular industry or group of customers"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Marketing vocabulary",
+   "family": "v-appeal",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the quality that makes sth. attractive or interesting“",
+   "solution": "appeal – the quality that makes sth. attractive or interesting (to have snob/sex appeal, to appeal to customers)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "appeal: the quality that makes sth. attractive or interesting (to have snob/sex appeal, to appeal to customers)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "word-of-mouth"
+    },
+    {
+     "id": "o1",
+     "text": "competition"
+    },
+    {
+     "id": "o2",
+     "text": "copywriter"
+    },
+    {
+     "id": "o3",
+     "text": "appeal"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Marketing vocabulary",
+   "family": "v-appeal",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „appeal“ mean?",
+   "solution": "appeal – the quality that makes sth. attractive or interesting (to have snob/sex appeal, to appeal to customers)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "appeal: the quality that makes sth. attractive or interesting (to have snob/sex appeal, to appeal to customers)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person who buys a product or service"
+    },
+    {
+     "id": "o1",
+     "text": "a part of a market or social group (e.g. the luxury segment) (to segment the market)"
+    },
+    {
+     "id": "o2",
+     "text": "a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales"
+    },
+    {
+     "id": "o3",
+     "text": "the quality that makes sth. attractive or interesting (to have snob/sex appeal, to appeal to customers)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Marketing vocabulary",
+   "family": "v-banner ad",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an advertisement in the form of a box that is spread across a webpage, magazine or newspaper“",
+   "solution": "banner ad – an advertisement in the form of a box that is spread across a webpage, magazine or newspaper",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "banner ad: an advertisement in the form of a box that is spread across a webpage, magazine or newspaper",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "hype"
+    },
+    {
+     "id": "o1",
+     "text": "banner ad"
+    },
+    {
+     "id": "o2",
+     "text": "brand stretching"
+    },
+    {
+     "id": "o3",
+     "text": "brand loyalty"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q10",
+   "objective": "Marketing vocabulary",
+   "family": "v-banner ad",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „banner ad“ mean?",
+   "solution": "banner ad – an advertisement in the form of a box that is spread across a webpage, magazine or newspaper",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "banner ad: an advertisement in the form of a box that is spread across a webpage, magazine or newspaper",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "an advertisement in the form of a box that is spread across a webpage, magazine or newspaper"
+    },
+    {
+     "id": "o1",
+     "text": "1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms (to compete against a rival); 2. an event in which many people take part to find out who is the best at a particular activity"
+    },
+    {
+     "id": "o2",
+     "text": "a part of the market dominated by a particular company or product"
+    },
+    {
+     "id": "o3",
+     "text": "the percentage of people who reply to a survey"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Marketing vocabulary",
+   "family": "v-benchmarking",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„evaluating sth. by comparing it to industry standards and the best practices of other companies“",
+   "solution": "benchmarking – evaluating sth. by comparing it to industry standards and the best practices of other companies",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "benchmarking: evaluating sth. by comparing it to industry standards and the best practices of other companies",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "advertising copy"
+    },
+    {
+     "id": "o1",
+     "text": "mission statement"
+    },
+    {
+     "id": "o2",
+     "text": "benchmarking"
+    },
+    {
+     "id": "o3",
+     "text": "product line"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Marketing vocabulary",
+   "family": "v-benchmarking",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „benchmarking“ mean?",
+   "solution": "benchmarking – evaluating sth. by comparing it to industry standards and the best practices of other companies",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "benchmarking: evaluating sth. by comparing it to industry standards and the best practices of other companies",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the name given to a particular product or group of products"
+    },
+    {
+     "id": "o1",
+     "text": "highly developed (⇔ crude, basic)"
+    },
+    {
+     "id": "o2",
+     "text": "evaluating sth. by comparing it to industry standards and the best practices of other companies"
+    },
+    {
+     "id": "o3",
+     "text": "a person who writes the text of advertisements or other publicity material (≠ copyright)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Marketing vocabulary",
+   "family": "v-bias",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a preference for one thing over another, often considered to be unfair or unreasonable“",
+   "solution": "bias – a preference for one thing over another, often considered to be unfair or unreasonable",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "bias: a preference for one thing over another, often considered to be unfair or unreasonable",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "billboard"
+    },
+    {
+     "id": "o1",
+     "text": "competitor"
+    },
+    {
+     "id": "o2",
+     "text": "bias"
+    },
+    {
+     "id": "o3",
+     "text": "buzz marketing"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "Marketing vocabulary",
+   "family": "v-bias",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „bias“ mean?",
+   "solution": "bias – a preference for one thing over another, often considered to be unfair or unreasonable",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "bias: a preference for one thing over another, often considered to be unfair or unreasonable",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a preference for one thing over another, often considered to be unfair or unreasonable"
+    },
+    {
+     "id": "o1",
+     "text": "dividing possible customers according to their income, gender, age, class, etc."
+    },
+    {
+     "id": "o2",
+     "text": "a total failure (⇔ success, hit)"
+    },
+    {
+     "id": "o3",
+     "text": "an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Marketing vocabulary",
+   "family": "v-billboard",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a large sign used for advertising (BE hoarding)“",
+   "solution": "billboard – a large sign used for advertising (BE hoarding)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "billboard: a large sign used for advertising (BE hoarding)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "knock-down prices"
+    },
+    {
+     "id": "o1",
+     "text": "billboard"
+    },
+    {
+     "id": "o2",
+     "text": "upmarket"
+    },
+    {
+     "id": "o3",
+     "text": "market sector"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "Marketing vocabulary",
+   "family": "v-billboard",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „billboard“ mean?",
+   "solution": "billboard – a large sign used for advertising (BE hoarding)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "billboard: a large sign used for advertising (BE hoarding)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a part of the market dominated by a particular company or product"
+    },
+    {
+     "id": "o1",
+     "text": "a programme of activities aimed at increasing sales or the awareness of a product/service (to plan/conduct an advertising campaign)"
+    },
+    {
+     "id": "o2",
+     "text": "a large sign used for advertising (BE hoarding)"
+    },
+    {
+     "id": "o3",
+     "text": "a short written statement of the aims, purpose and future activities of an organisation"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Marketing vocabulary",
+   "family": "v-brand",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the name given to a particular product or group of products“",
+   "solution": "brand – the name given to a particular product or group of products",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brand: the name given to a particular product or group of products",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "brand"
+    },
+    {
+     "id": "o1",
+     "text": "reputation"
+    },
+    {
+     "id": "o2",
+     "text": "advertisement"
+    },
+    {
+     "id": "o3",
+     "text": "hype"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Marketing vocabulary",
+   "family": "v-brand",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „brand“ mean?",
+   "solution": "brand – the name given to a particular product or group of products",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brand: the name given to a particular product or group of products",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the name given to a particular product or group of products"
+    },
+    {
+     "id": "o1",
+     "text": "an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products"
+    },
+    {
+     "id": "o2",
+     "text": "the opinion that people have about what a person or thing is like, based on what happened in the past (to have a reputation for …)"
+    },
+    {
+     "id": "o3",
+     "text": "income left to spend after necessary payments (e.g. taxes and other charges) have been made (= discretionary income)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Marketing vocabulary",
+   "family": "v-brand image",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the associations a product creates in the minds of the public“",
+   "solution": "brand image – the associations a product creates in the minds of the public",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brand image: the associations a product creates in the minds of the public",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "brand image"
+    },
+    {
+     "id": "o1",
+     "text": "product line"
+    },
+    {
+     "id": "o2",
+     "text": "to phase out"
+    },
+    {
+     "id": "o3",
+     "text": "mystery shopper"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Marketing vocabulary",
+   "family": "v-brand image",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „brand image“ mean?",
+   "solution": "brand image – the associations a product creates in the minds of the public",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brand image: the associations a product creates in the minds of the public",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "an official statement issued to the media on a particular matter"
+    },
+    {
+     "id": "o1",
+     "text": "the tendency for some consumers to continue buying the same brand of goods rather than competing brands"
+    },
+    {
+     "id": "o2",
+     "text": "the associations a product creates in the minds of the public"
+    },
+    {
+     "id": "o3",
+     "text": "an announcement, picture or short film promoting a company, product, event or job vacancy (= ad/advert; to place an ad in the newspaper, to advertise on TV)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Marketing vocabulary",
+   "family": "v-brand loyalty",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the tendency for some consumers to continue buying the same brand of goods rather than competing brands“",
+   "solution": "brand loyalty – the tendency for some consumers to continue buying the same brand of goods rather than competing brands",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brand loyalty: the tendency for some consumers to continue buying the same brand of goods rather than competing brands",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "commercial (n.)"
+    },
+    {
+     "id": "o1",
+     "text": "market share"
+    },
+    {
+     "id": "o2",
+     "text": "brand loyalty"
+    },
+    {
+     "id": "o3",
+     "text": "sophisticated"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q22",
+   "objective": "Marketing vocabulary",
+   "family": "v-brand loyalty",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „brand loyalty“ mean?",
+   "solution": "brand loyalty – the tendency for some consumers to continue buying the same brand of goods rather than competing brands",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brand loyalty: the tendency for some consumers to continue buying the same brand of goods rather than competing brands",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character"
+    },
+    {
+     "id": "o1",
+     "text": "a person who writes the text of advertisements or other publicity material (≠ copyright)"
+    },
+    {
+     "id": "o2",
+     "text": "the tendency for some consumers to continue buying the same brand of goods rather than competing brands"
+    },
+    {
+     "id": "o3",
+     "text": "sth. that is given free for promotional purposes (= freebie)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q23",
+   "objective": "Marketing vocabulary",
+   "family": "v-brand stretching",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„using an established brand name on new products, in order to increase sales“",
+   "solution": "brand stretching – using an established brand name on new products, in order to increase sales",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brand stretching: using an established brand name on new products, in order to increase sales",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "brand stretching"
+    },
+    {
+     "id": "o1",
+     "text": "demand"
+    },
+    {
+     "id": "o2",
+     "text": "endorsement"
+    },
+    {
+     "id": "o3",
+     "text": "field research"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q24",
+   "objective": "Marketing vocabulary",
+   "family": "v-brand stretching",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „brand stretching“ mean?",
+   "solution": "brand stretching – using an established brand name on new products, in order to increase sales",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "brand stretching: using an established brand name on new products, in order to increase sales",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)"
+    },
+    {
+     "id": "o1",
+     "text": "the different products offered by a company"
+    },
+    {
+     "id": "o2",
+     "text": "manufactured goods that are expected to have a long life after purchase (e.g. cars)"
+    },
+    {
+     "id": "o3",
+     "text": "using an established brand name on new products, in order to increase sales"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Marketing vocabulary",
+   "family": "v-to break into a market",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„to start to operate in a particular area of business (= to enter/penetrate a market)“",
+   "solution": "to break into a market – to start to operate in a particular area of business (= to enter/penetrate a market)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to break into a market: to start to operate in a particular area of business (= to enter/penetrate a market)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "merchandise"
+    },
+    {
+     "id": "o1",
+     "text": "to break into a market"
+    },
+    {
+     "id": "o2",
+     "text": "differentiation"
+    },
+    {
+     "id": "o3",
+     "text": "survey"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Marketing vocabulary",
+   "family": "v-to break into a market",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „to break into a market“ mean?",
+   "solution": "to break into a market – to start to operate in a particular area of business (= to enter/penetrate a market)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to break into a market: to start to operate in a particular area of business (= to enter/penetrate a market)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products"
+    },
+    {
+     "id": "o1",
+     "text": "an official statement issued to the media on a particular matter"
+    },
+    {
+     "id": "o2",
+     "text": "to start to operate in a particular area of business (= to enter/penetrate a market)"
+    },
+    {
+     "id": "o3",
+     "text": "an advertisement on television or radio"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q27",
+   "objective": "Marketing vocabulary",
+   "family": "v-buzz marketing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)“",
+   "solution": "buzz marketing – creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "buzz marketing: creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "competitive advantage"
+    },
+    {
+     "id": "o1",
+     "text": "buzz marketing"
+    },
+    {
+     "id": "o2",
+     "text": "to break into a market"
+    },
+    {
+     "id": "o3",
+     "text": "product range"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q28",
+   "objective": "Marketing vocabulary",
+   "family": "v-buzz marketing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „buzz marketing“ mean?",
+   "solution": "buzz marketing – creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "buzz marketing: creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a part of the market dominated by a particular company or product"
+    },
+    {
+     "id": "o1",
+     "text": "a person who buys a product or service"
+    },
+    {
+     "id": "o2",
+     "text": "a rival; a person or business that offers the same or better goods (= the competition)"
+    },
+    {
+     "id": "o3",
+     "text": "creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q29",
+   "objective": "Marketing vocabulary",
+   "family": "v-catchy",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„easy to remember“",
+   "solution": "catchy – easy to remember (a catchy jingle, a catchy slogan)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "catchy: easy to remember (a catchy jingle, a catchy slogan)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "catchy"
+    },
+    {
+     "id": "o1",
+     "text": "benchmarking"
+    },
+    {
+     "id": "o2",
+     "text": "product life cycle"
+    },
+    {
+     "id": "o3",
+     "text": "mission statement"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q30",
+   "objective": "Marketing vocabulary",
+   "family": "v-catchy",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „catchy“ mean?",
+   "solution": "catchy – easy to remember (a catchy jingle, a catchy slogan)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "catchy: easy to remember (a catchy jingle, a catchy slogan)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales"
+    },
+    {
+     "id": "o1",
+     "text": "activities that aim to promote the image of an organisation"
+    },
+    {
+     "id": "o2",
+     "text": "easy to remember (a catchy jingle, a catchy slogan)"
+    },
+    {
+     "id": "o3",
+     "text": "manufactured goods that are expected to have a long life after purchase (e.g. cars)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q31",
+   "objective": "Marketing vocabulary",
+   "family": "v-claim",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a statement that a business makes about the nature or quality of its product that may or may not be true“",
+   "solution": "claim – a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "claim: a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "feature"
+    },
+    {
+     "id": "o1",
+     "text": "billboard"
+    },
+    {
+     "id": "o2",
+     "text": "claim"
+    },
+    {
+     "id": "o3",
+     "text": "Unique Selling Proposition (USP)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q32",
+   "objective": "Marketing vocabulary",
+   "family": "v-claim",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „claim“ mean?",
+   "solution": "claim – a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "claim: a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "activities that aim to promote the image of an organisation"
+    },
+    {
+     "id": "o1",
+     "text": "creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)"
+    },
+    {
+     "id": "o2",
+     "text": "a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)"
+    },
+    {
+     "id": "o3",
+     "text": "a preference for one thing over another, often considered to be unfair or unreasonable"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q33",
+   "objective": "Marketing vocabulary",
+   "family": "v-client",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„person who buys the services of a professional, e.g. an accountant or lawyer“",
+   "solution": "client – person who buys the services of a professional, e.g. an accountant or lawyer",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "client: person who buys the services of a professional, e.g. an accountant or lawyer",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "catchy"
+    },
+    {
+     "id": "o1",
+     "text": "client"
+    },
+    {
+     "id": "o2",
+     "text": "market segmentation"
+    },
+    {
+     "id": "o3",
+     "text": "brand stretching"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q34",
+   "objective": "Marketing vocabulary",
+   "family": "v-client",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „client“ mean?",
+   "solution": "client – person who buys the services of a professional, e.g. an accountant or lawyer",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "client: person who buys the services of a professional, e.g. an accountant or lawyer",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)"
+    },
+    {
+     "id": "o1",
+     "text": "person who buys the services of a professional, e.g. an accountant or lawyer"
+    },
+    {
+     "id": "o2",
+     "text": "activities that aim to promote the image of an organisation"
+    },
+    {
+     "id": "o3",
+     "text": "a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q35",
+   "objective": "Marketing vocabulary",
+   "family": "v-commercial (n.)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an advertisement on television or radio“",
+   "solution": "commercial (n.) – an advertisement on television or radio",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "commercial (n.): an advertisement on television or radio",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "commercial (n.)"
+    },
+    {
+     "id": "o1",
+     "text": "telemarketing"
+    },
+    {
+     "id": "o2",
+     "text": "product range"
+    },
+    {
+     "id": "o3",
+     "text": "appeal"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q36",
+   "objective": "Marketing vocabulary",
+   "family": "v-commercial (n.)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „commercial (n.)“ mean?",
+   "solution": "commercial (n.) – an advertisement on television or radio",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "commercial (n.): an advertisement on television or radio",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "to phase out a product (to stop producing/offering it gradually)"
+    },
+    {
+     "id": "o1",
+     "text": "a preference for one thing over another, often considered to be unfair or unreasonable"
+    },
+    {
+     "id": "o2",
+     "text": "an advertisement on television or radio"
+    },
+    {
+     "id": "o3",
+     "text": "an official statement issued to the media on a particular matter"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q37",
+   "objective": "Marketing vocabulary",
+   "family": "v-competition",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms; 2. an event in which many people take part to find out who is the best at a particular activity“",
+   "solution": "competition – 1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms (to compete against a rival); 2. an event in which many people take part to find out who is the best at a particular activity",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "competition: 1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms (to compete against a rival); 2. an event in which many people take part to find out who is the best at a particular activity",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Unique Selling Proposition (USP)"
+    },
+    {
+     "id": "o1",
+     "text": "billboard"
+    },
+    {
+     "id": "o2",
+     "text": "competition"
+    },
+    {
+     "id": "o3",
+     "text": "mystery shopper"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q38",
+   "objective": "Marketing vocabulary",
+   "family": "v-competition",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „competition“ mean?",
+   "solution": "competition – 1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms (to compete against a rival); 2. an event in which many people take part to find out who is the best at a particular activity",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "competition: 1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms (to compete against a rival); 2. an event in which many people take part to find out who is the best at a particular activity",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "using an established brand name on new products, in order to increase sales"
+    },
+    {
+     "id": "o1",
+     "text": "1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms (to compete against a rival); 2. an event in which many people take part to find out who is the best at a particular activity"
+    },
+    {
+     "id": "o2",
+     "text": "a rival; a person or business that offers the same or better goods (= the competition)"
+    },
+    {
+     "id": "o3",
+     "text": "the associations a product creates in the minds of the public"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q39",
+   "objective": "Marketing vocabulary",
+   "family": "v-competitive advantage",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„sth. that helps you to be better or more successful than the others“",
+   "solution": "competitive advantage – sth. that helps you to be better or more successful than the others (= a competitive edge)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "competitive advantage: sth. that helps you to be better or more successful than the others (= a competitive edge)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "giveaway"
+    },
+    {
+     "id": "o1",
+     "text": "competitive advantage"
+    },
+    {
+     "id": "o2",
+     "text": "market saturation"
+    },
+    {
+     "id": "o3",
+     "text": "press release"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q40",
+   "objective": "Marketing vocabulary",
+   "family": "v-competitive advantage",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „competitive advantage“ mean?",
+   "solution": "competitive advantage – sth. that helps you to be better or more successful than the others (= a competitive edge)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "competitive advantage: sth. that helps you to be better or more successful than the others (= a competitive edge)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "sth. that helps you to be better or more successful than the others (= a competitive edge)"
+    },
+    {
+     "id": "o1",
+     "text": "a person employed to visit a shop in order to assess the quality of the goods"
+    },
+    {
+     "id": "o2",
+     "text": "the written material used in an advertisement"
+    },
+    {
+     "id": "o3",
+     "text": "person who buys the services of a professional, e.g. an accountant or lawyer"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q41",
+   "objective": "Marketing vocabulary",
+   "family": "v-competitor",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a rival; a person or business that offers the same or better goods“",
+   "solution": "competitor – a rival; a person or business that offers the same or better goods (= the competition)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "competitor: a rival; a person or business that offers the same or better goods (= the competition)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "competitor"
+    },
+    {
+     "id": "o1",
+     "text": "disposable income"
+    },
+    {
+     "id": "o2",
+     "text": "knock-down prices"
+    },
+    {
+     "id": "o3",
+     "text": "catchy"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q42",
+   "objective": "Marketing vocabulary",
+   "family": "v-competitor",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „competitor“ mean?",
+   "solution": "competitor – a rival; a person or business that offers the same or better goods (= the competition)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "competitor: a rival; a person or business that offers the same or better goods (= the competition)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "an official statement issued to the media on a particular matter"
+    },
+    {
+     "id": "o1",
+     "text": "a study that aims to find out what people buy or might buy, usually by asking them questions (to carry out/conduct a survey)"
+    },
+    {
+     "id": "o2",
+     "text": "a rival; a person or business that offers the same or better goods (= the competition)"
+    },
+    {
+     "id": "o3",
+     "text": "a short written statement of the aims, purpose and future activities of an organisation"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q43",
+   "objective": "Marketing vocabulary",
+   "family": "v-consumer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person who buys goods and services for his/her own use and not for resale“",
+   "solution": "consumer – a person who buys goods and services for his/her own use and not for resale (to consume, high/low consumption)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "consumer: a person who buys goods and services for his/her own use and not for resale (to consume, high/low consumption)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "reputation"
+    },
+    {
+     "id": "o1",
+     "text": "advertising campaign"
+    },
+    {
+     "id": "o2",
+     "text": "consumer"
+    },
+    {
+     "id": "o3",
+     "text": "niche"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q44",
+   "objective": "Marketing vocabulary",
+   "family": "v-consumer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „consumer“ mean?",
+   "solution": "consumer – a person who buys goods and services for his/her own use and not for resale (to consume, high/low consumption)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "consumer: a person who buys goods and services for his/her own use and not for resale (to consume, high/low consumption)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "evaluating sth. by comparing it to industry standards and the best practices of other companies"
+    },
+    {
+     "id": "o1",
+     "text": "sth. that is given free for promotional purposes (= freebie)"
+    },
+    {
+     "id": "o2",
+     "text": "a person who buys goods and services for his/her own use and not for resale (to consume, high/low consumption)"
+    },
+    {
+     "id": "o3",
+     "text": "a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q45",
+   "objective": "Marketing vocabulary",
+   "family": "v-consumer durable",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„manufactured goods that are expected to have a long life after purchase (e.g. cars)“",
+   "solution": "consumer durable – manufactured goods that are expected to have a long life after purchase (e.g. cars)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "consumer durable: manufactured goods that are expected to have a long life after purchase (e.g. cars)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "consumer durable"
+    },
+    {
+     "id": "o1",
+     "text": "benchmarking"
+    },
+    {
+     "id": "o2",
+     "text": "focus group"
+    },
+    {
+     "id": "o3",
+     "text": "competitive advantage"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q46",
+   "objective": "Marketing vocabulary",
+   "family": "v-consumer durable",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „consumer durable“ mean?",
+   "solution": "consumer durable – manufactured goods that are expected to have a long life after purchase (e.g. cars)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "consumer durable: manufactured goods that are expected to have a long life after purchase (e.g. cars)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the name given to a particular product or group of products"
+    },
+    {
+     "id": "o1",
+     "text": "a need for sth. (a high demand for a product)"
+    },
+    {
+     "id": "o2",
+     "text": "a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)"
+    },
+    {
+     "id": "o3",
+     "text": "manufactured goods that are expected to have a long life after purchase (e.g. cars)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q47",
+   "objective": "Marketing vocabulary",
+   "family": "v-copywriter",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person who writes the text of advertisements or other publicity material (≠ copyright)“",
+   "solution": "copywriter – a person who writes the text of advertisements or other publicity material (≠ copyright)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "copywriter: a person who writes the text of advertisements or other publicity material (≠ copyright)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "copywriter"
+    },
+    {
+     "id": "o1",
+     "text": "competition"
+    },
+    {
+     "id": "o2",
+     "text": "disposable income"
+    },
+    {
+     "id": "o3",
+     "text": "downmarket"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q48",
+   "objective": "Marketing vocabulary",
+   "family": "v-copywriter",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „copywriter“ mean?",
+   "solution": "copywriter – a person who writes the text of advertisements or other publicity material (≠ copyright)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "copywriter: a person who writes the text of advertisements or other publicity material (≠ copyright)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "very low prices, that have been greatly reduced for quick sales"
+    },
+    {
+     "id": "o1",
+     "text": "a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)"
+    },
+    {
+     "id": "o2",
+     "text": "extensive or exaggerated use of publicity or promotion"
+    },
+    {
+     "id": "o3",
+     "text": "a person who writes the text of advertisements or other publicity material (≠ copyright)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q49",
+   "objective": "Marketing vocabulary",
+   "family": "v-customer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person who buys a product or service“",
+   "solution": "customer – a person who buys a product or service",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "customer: a person who buys a product or service",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "customer"
+    },
+    {
+     "id": "o1",
+     "text": "jingle"
+    },
+    {
+     "id": "o2",
+     "text": "mystery shopper"
+    },
+    {
+     "id": "o3",
+     "text": "slogan"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q50",
+   "objective": "Marketing vocabulary",
+   "family": "v-customer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „customer“ mean?",
+   "solution": "customer – a person who buys a product or service",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "customer: a person who buys a product or service",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)"
+    },
+    {
+     "id": "o1",
+     "text": "a person who buys a product or service"
+    },
+    {
+     "id": "o2",
+     "text": "an advertisement on television or radio"
+    },
+    {
+     "id": "o3",
+     "text": "dividing possible customers according to their income, gender, age, class, etc."
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q51",
+   "objective": "Marketing vocabulary",
+   "family": "v-customer survey",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products“",
+   "solution": "customer survey – an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "customer survey: an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "customer survey"
+    },
+    {
+     "id": "o1",
+     "text": "desk research"
+    },
+    {
+     "id": "o2",
+     "text": "differentiation"
+    },
+    {
+     "id": "o3",
+     "text": "target market / target group"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q52",
+   "objective": "Marketing vocabulary",
+   "family": "v-customer survey",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „customer survey“ mean?",
+   "solution": "customer survey – an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "customer survey: an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the collection of data not from existing research sources but by carrying out one's own surveys or experiments (= primary research, ⇔ desk research)"
+    },
+    {
+     "id": "o1",
+     "text": "1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character"
+    },
+    {
+     "id": "o2",
+     "text": "introducing a new company or product to the public for the first time (to launch a product on/onto the market)"
+    },
+    {
+     "id": "o3",
+     "text": "an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q53",
+   "objective": "Marketing vocabulary",
+   "family": "v-demand",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a need for sth.“",
+   "solution": "demand – a need for sth. (a high demand for a product)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "demand: a need for sth. (a high demand for a product)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "demand"
+    },
+    {
+     "id": "o1",
+     "text": "knock-down prices"
+    },
+    {
+     "id": "o2",
+     "text": "hype"
+    },
+    {
+     "id": "o3",
+     "text": "fast-moving consumer goods (FMCG)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q54",
+   "objective": "Marketing vocabulary",
+   "family": "v-demand",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „demand“ mean?",
+   "solution": "demand – a need for sth. (a high demand for a product)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "demand: a need for sth. (a high demand for a product)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person employed to visit a shop in order to assess the quality of the goods"
+    },
+    {
+     "id": "o1",
+     "text": "a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)"
+    },
+    {
+     "id": "o2",
+     "text": "a need for sth. (a high demand for a product)"
+    },
+    {
+     "id": "o3",
+     "text": "the different products offered by a company"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q55",
+   "objective": "Marketing vocabulary",
+   "family": "v-desk research",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the collection of data from existing research (= secondary research, ⇔ primary research)“",
+   "solution": "desk research – the collection of data from existing research (= secondary research, ⇔ primary research)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "desk research: the collection of data from existing research (= secondary research, ⇔ primary research)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "appeal"
+    },
+    {
+     "id": "o1",
+     "text": "disposable income"
+    },
+    {
+     "id": "o2",
+     "text": "desk research"
+    },
+    {
+     "id": "o3",
+     "text": "buzz marketing"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q56",
+   "objective": "Marketing vocabulary",
+   "family": "v-desk research",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „desk research“ mean?",
+   "solution": "desk research – the collection of data from existing research (= secondary research, ⇔ primary research)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "desk research: the collection of data from existing research (= secondary research, ⇔ primary research)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "sth. that is discovered or learned as a result of research"
+    },
+    {
+     "id": "o1",
+     "text": "a list of questions given as part of a survey"
+    },
+    {
+     "id": "o2",
+     "text": "the tendency for some consumers to continue buying the same brand of goods rather than competing brands"
+    },
+    {
+     "id": "o3",
+     "text": "the collection of data from existing research (= secondary research, ⇔ primary research)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q57",
+   "objective": "Marketing vocabulary",
+   "family": "v-differentiation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„when a company shows, e.g. through its advertising, how its products are different from each other and from competing products“",
+   "solution": "differentiation – when a company shows, e.g. through its advertising, how its products are different from each other and from competing products",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "differentiation: when a company shows, e.g. through its advertising, how its products are different from each other and from competing products",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "mystery shopper"
+    },
+    {
+     "id": "o1",
+     "text": "mission statement"
+    },
+    {
+     "id": "o2",
+     "text": "hype"
+    },
+    {
+     "id": "o3",
+     "text": "differentiation"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q58",
+   "objective": "Marketing vocabulary",
+   "family": "v-differentiation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „differentiation“ mean?",
+   "solution": "differentiation – when a company shows, e.g. through its advertising, how its products are different from each other and from competing products",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "differentiation: when a company shows, e.g. through its advertising, how its products are different from each other and from competing products",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "exclusive and usually expensive (to go upmarket)"
+    },
+    {
+     "id": "o1",
+     "text": "when a company shows, e.g. through its advertising, how its products are different from each other and from competing products"
+    },
+    {
+     "id": "o2",
+     "text": "a part of the market dominated by a particular company or product"
+    },
+    {
+     "id": "o3",
+     "text": "creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q59",
+   "objective": "Marketing vocabulary",
+   "family": "v-direct mail",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„advertising that is sent directly to potential customers“",
+   "solution": "direct mail – advertising that is sent directly to potential customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "direct mail: advertising that is sent directly to potential customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "hype"
+    },
+    {
+     "id": "o1",
+     "text": "mission statement"
+    },
+    {
+     "id": "o2",
+     "text": "direct mail"
+    },
+    {
+     "id": "o3",
+     "text": "jingle"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q60",
+   "objective": "Marketing vocabulary",
+   "family": "v-direct mail",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „direct mail“ mean?",
+   "solution": "direct mail – advertising that is sent directly to potential customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "direct mail: advertising that is sent directly to potential customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "advertising that is sent directly to potential customers"
+    },
+    {
+     "id": "o1",
+     "text": "someone who might decide to buy sth."
+    },
+    {
+     "id": "o2",
+     "text": "a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales"
+    },
+    {
+     "id": "o3",
+     "text": "a large sign used for advertising (BE hoarding)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q61",
+   "objective": "Marketing vocabulary",
+   "family": "v-disposable income",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„income left to spend after necessary payments (e.g. taxes and other charges) have been made (= discretionary income)“",
+   "solution": "disposable income – income left to spend after necessary payments (e.g. taxes and other charges) have been made (= discretionary income)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "disposable income: income left to spend after necessary payments (e.g. taxes and other charges) have been made (= discretionary income)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "billboard"
+    },
+    {
+     "id": "o1",
+     "text": "prospective customer"
+    },
+    {
+     "id": "o2",
+     "text": "disposable income"
+    },
+    {
+     "id": "o3",
+     "text": "gimmick"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q62",
+   "objective": "Marketing vocabulary",
+   "family": "v-disposable income",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „disposable income“ mean?",
+   "solution": "disposable income – income left to spend after necessary payments (e.g. taxes and other charges) have been made (= discretionary income)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "disposable income: income left to spend after necessary payments (e.g. taxes and other charges) have been made (= discretionary income)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "income left to spend after necessary payments (e.g. taxes and other charges) have been made (= discretionary income)"
+    },
+    {
+     "id": "o1",
+     "text": "the people that a company has (or wants to have) as its main customers"
+    },
+    {
+     "id": "o2",
+     "text": "a list of questions given as part of a survey"
+    },
+    {
+     "id": "o3",
+     "text": "the associations a product creates in the minds of the public"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q63",
+   "objective": "Marketing vocabulary",
+   "family": "v-downmarket",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„related to the cheaper or less prestigious sector of the market“",
+   "solution": "downmarket – related to the cheaper or less prestigious sector of the market (to go downmarket)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "downmarket: related to the cheaper or less prestigious sector of the market (to go downmarket)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "flop"
+    },
+    {
+     "id": "o1",
+     "text": "appeal"
+    },
+    {
+     "id": "o2",
+     "text": "downmarket"
+    },
+    {
+     "id": "o3",
+     "text": "jingle"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q64",
+   "objective": "Marketing vocabulary",
+   "family": "v-downmarket",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „downmarket“ mean?",
+   "solution": "downmarket – related to the cheaper or less prestigious sector of the market (to go downmarket)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "downmarket: related to the cheaper or less prestigious sector of the market (to go downmarket)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the written material used in an advertisement"
+    },
+    {
+     "id": "o1",
+     "text": "related to the cheaper or less prestigious sector of the market (to go downmarket)"
+    },
+    {
+     "id": "o2",
+     "text": "creating interest in a new product by persuading interested users or websites to pass on the message about it to other people or websites (= viral marketing)"
+    },
+    {
+     "id": "o3",
+     "text": "activities that aim to promote the image of an organisation"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q65",
+   "objective": "Marketing vocabulary",
+   "family": "v-end user",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the person who actually uses a particular product or service (= final customer)“",
+   "solution": "end user – the person who actually uses a particular product or service (= final customer)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "end user: the person who actually uses a particular product or service (= final customer)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "client"
+    },
+    {
+     "id": "o1",
+     "text": "advertising copy"
+    },
+    {
+     "id": "o2",
+     "text": "end user"
+    },
+    {
+     "id": "o3",
+     "text": "sales pitch"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q66",
+   "objective": "Marketing vocabulary",
+   "family": "v-end user",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „end user“ mean?",
+   "solution": "end user – the person who actually uses a particular product or service (= final customer)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "end user: the person who actually uses a particular product or service (= final customer)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the person who actually uses a particular product or service (= final customer)"
+    },
+    {
+     "id": "o1",
+     "text": "a large sign used for advertising (BE hoarding)"
+    },
+    {
+     "id": "o2",
+     "text": "a short tune with an advertising message, designed to be easily remembered"
+    },
+    {
+     "id": "o3",
+     "text": "an announcement, picture or short film promoting a company, product, event or job vacancy (= ad/advert; to place an ad in the newspaper, to advertise on TV)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q67",
+   "objective": "Marketing vocabulary",
+   "family": "v-endorsement",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a testimonial or public statement approving of sth.“",
+   "solution": "endorsement – a testimonial or public statement approving of sth. (a celebrity endorsement, to endorse a product)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "endorsement: a testimonial or public statement approving of sth. (a celebrity endorsement, to endorse a product)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Unique Selling Proposition (USP)"
+    },
+    {
+     "id": "o1",
+     "text": "niche"
+    },
+    {
+     "id": "o2",
+     "text": "demand"
+    },
+    {
+     "id": "o3",
+     "text": "endorsement"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q68",
+   "objective": "Marketing vocabulary",
+   "family": "v-endorsement",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „endorsement“ mean?",
+   "solution": "endorsement – a testimonial or public statement approving of sth. (a celebrity endorsement, to endorse a product)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "endorsement: a testimonial or public statement approving of sth. (a celebrity endorsement, to endorse a product)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a chance to try a new drink or food product (≠ testing, test)"
+    },
+    {
+     "id": "o1",
+     "text": "a testimonial or public statement approving of sth. (a celebrity endorsement, to endorse a product)"
+    },
+    {
+     "id": "o2",
+     "text": "person who buys the services of a professional, e.g. an accountant or lawyer"
+    },
+    {
+     "id": "o3",
+     "text": "sth. that is given free for promotional purposes (= freebie)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q69",
+   "objective": "Marketing vocabulary",
+   "family": "v-fast-moving consumer goods (FMCG)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„goods that have a short shelf life, and are sold quickly and at relatively low cost; some are perishable (fruit), others are high turnover (soft drinks)“",
+   "solution": "fast-moving consumer goods (FMCG) – goods that have a short shelf life, and are sold quickly and at relatively low cost; some are perishable (fruit), others are high turnover (soft drinks)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "fast-moving consumer goods (FMCG): goods that have a short shelf life, and are sold quickly and at relatively low cost; some are perishable (fruit), others are high turnover (soft drinks)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "fast-moving consumer goods (FMCG)"
+    },
+    {
+     "id": "o1",
+     "text": "market share"
+    },
+    {
+     "id": "o2",
+     "text": "product life cycle"
+    },
+    {
+     "id": "o3",
+     "text": "sales pitch"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q70",
+   "objective": "Marketing vocabulary",
+   "family": "v-fast-moving consumer goods (FMCG)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „fast-moving consumer goods (FMCG)“ mean?",
+   "solution": "fast-moving consumer goods (FMCG) – goods that have a short shelf life, and are sold quickly and at relatively low cost; some are perishable (fruit), others are high turnover (soft drinks)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "fast-moving consumer goods (FMCG): goods that have a short shelf life, and are sold quickly and at relatively low cost; some are perishable (fruit), others are high turnover (soft drinks)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the special quality or characteristic of a product"
+    },
+    {
+     "id": "o1",
+     "text": "goods that have a short shelf life, and are sold quickly and at relatively low cost; some are perishable (fruit), others are high turnover (soft drinks)"
+    },
+    {
+     "id": "o2",
+     "text": "manufactured goods that are expected to have a long life after purchase (e.g. cars)"
+    },
+    {
+     "id": "o3",
+     "text": "a person who buys a product or service"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q71",
+   "objective": "Marketing vocabulary",
+   "family": "v-feature",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the special quality or characteristic of a product“",
+   "solution": "feature – the special quality or characteristic of a product",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "feature: the special quality or characteristic of a product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "client"
+    },
+    {
+     "id": "o1",
+     "text": "differentiation"
+    },
+    {
+     "id": "o2",
+     "text": "feature"
+    },
+    {
+     "id": "o3",
+     "text": "competition"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q72",
+   "objective": "Marketing vocabulary",
+   "family": "v-feature",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „feature“ mean?",
+   "solution": "feature – the special quality or characteristic of a product",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "feature: the special quality or characteristic of a product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the quality that makes sth. attractive or interesting (to have snob/sex appeal, to appeal to customers)"
+    },
+    {
+     "id": "o1",
+     "text": "the special quality or characteristic of a product"
+    },
+    {
+     "id": "o2",
+     "text": "an investigation into the opinions of a group of customers, to find out if they are satisfied with existing products and what they expect from new products"
+    },
+    {
+     "id": "o3",
+     "text": "an official statement issued to the media on a particular matter"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q73",
+   "objective": "Marketing vocabulary",
+   "family": "v-field research",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the collection of data not from existing research sources but by carrying out one's own surveys or experiments (= primary research, ⇔ desk research)“",
+   "solution": "field research – the collection of data not from existing research sources but by carrying out one's own surveys or experiments (= primary research, ⇔ desk research)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "field research: the collection of data not from existing research sources but by carrying out one's own surveys or experiments (= primary research, ⇔ desk research)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "knock-down prices"
+    },
+    {
+     "id": "o1",
+     "text": "brand stretching"
+    },
+    {
+     "id": "o2",
+     "text": "endorsement"
+    },
+    {
+     "id": "o3",
+     "text": "field research"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q74",
+   "objective": "Marketing vocabulary",
+   "family": "v-field research",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „field research“ mean?",
+   "solution": "field research – the collection of data not from existing research sources but by carrying out one's own surveys or experiments (= primary research, ⇔ desk research)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "field research: the collection of data not from existing research sources but by carrying out one's own surveys or experiments (= primary research, ⇔ desk research)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person who buys goods and services for his/her own use and not for resale (to consume, high/low consumption)"
+    },
+    {
+     "id": "o1",
+     "text": "the collection of data not from existing research sources but by carrying out one's own surveys or experiments (= primary research, ⇔ desk research)"
+    },
+    {
+     "id": "o2",
+     "text": "an area of business in which there are few or no competitors and where profits can be made (≈ niche market)"
+    },
+    {
+     "id": "o3",
+     "text": "a person employed to visit a shop in order to assess the quality of the goods"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q75",
+   "objective": "Marketing vocabulary",
+   "family": "v-findings",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„sth. that is discovered or learned as a result of research“",
+   "solution": "findings – sth. that is discovered or learned as a result of research",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "findings: sth. that is discovered or learned as a result of research",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "product line"
+    },
+    {
+     "id": "o1",
+     "text": "product range"
+    },
+    {
+     "id": "o2",
+     "text": "sample"
+    },
+    {
+     "id": "o3",
+     "text": "findings"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q76",
+   "objective": "Marketing vocabulary",
+   "family": "v-findings",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „findings“ mean?",
+   "solution": "findings – sth. that is discovered or learned as a result of research",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "findings: sth. that is discovered or learned as a result of research",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "sth. that is discovered or learned as a result of research"
+    },
+    {
+     "id": "o1",
+     "text": "a person who writes the text of advertisements or other publicity material (≠ copyright)"
+    },
+    {
+     "id": "o2",
+     "text": "a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)"
+    },
+    {
+     "id": "o3",
+     "text": "to start to operate in a particular area of business (= to enter/penetrate a market)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q77",
+   "objective": "Marketing vocabulary",
+   "family": "v-flop",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a total failure (⇔ success, hit)“",
+   "solution": "flop – a total failure (⇔ success, hit)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "flop: a total failure (⇔ success, hit)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "product line"
+    },
+    {
+     "id": "o1",
+     "text": "sales pitch"
+    },
+    {
+     "id": "o2",
+     "text": "flop"
+    },
+    {
+     "id": "o3",
+     "text": "merchandise"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q78",
+   "objective": "Marketing vocabulary",
+   "family": "v-flop",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „flop“ mean?",
+   "solution": "flop – a total failure (⇔ success, hit)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "flop: a total failure (⇔ success, hit)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a need for sth. (a high demand for a product)"
+    },
+    {
+     "id": "o1",
+     "text": "a total failure (⇔ success, hit)"
+    },
+    {
+     "id": "o2",
+     "text": "a large sign used for advertising (BE hoarding)"
+    },
+    {
+     "id": "o3",
+     "text": "activities that aim to promote the image of an organisation"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q79",
+   "objective": "Marketing vocabulary",
+   "family": "v-focus group",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)“",
+   "solution": "focus group – a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "focus group: a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "market share"
+    },
+    {
+     "id": "o1",
+     "text": "brand stretching"
+    },
+    {
+     "id": "o2",
+     "text": "response rate"
+    },
+    {
+     "id": "o3",
+     "text": "focus group"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q80",
+   "objective": "Marketing vocabulary",
+   "family": "v-focus group",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „focus group“ mean?",
+   "solution": "focus group – a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "focus group: a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the stages a product goes through, from when it was first thought of until it is finally removed from the market"
+    },
+    {
+     "id": "o1",
+     "text": "a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)"
+    },
+    {
+     "id": "o2",
+     "text": "when a company shows, e.g. through its advertising, how its products are different from each other and from competing products"
+    },
+    {
+     "id": "o3",
+     "text": "advertising that is sent directly to potential customers"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q81",
+   "objective": "Marketing vocabulary",
+   "family": "v-gap in the market",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an area of business in which there are few or no competitors and where profits can be made (≈ niche market)“",
+   "solution": "gap in the market – an area of business in which there are few or no competitors and where profits can be made (≈ niche market)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "gap in the market: an area of business in which there are few or no competitors and where profits can be made (≈ niche market)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "reputation"
+    },
+    {
+     "id": "o1",
+     "text": "loss leader"
+    },
+    {
+     "id": "o2",
+     "text": "benchmarking"
+    },
+    {
+     "id": "o3",
+     "text": "gap in the market"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q82",
+   "objective": "Marketing vocabulary",
+   "family": "v-gap in the market",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „gap in the market“ mean?",
+   "solution": "gap in the market – an area of business in which there are few or no competitors and where profits can be made (≈ niche market)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "gap in the market: an area of business in which there are few or no competitors and where profits can be made (≈ niche market)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "an area of business in which there are few or no competitors and where profits can be made (≈ niche market)"
+    },
+    {
+     "id": "o1",
+     "text": "easy to remember (a catchy jingle, a catchy slogan)"
+    },
+    {
+     "id": "o2",
+     "text": "dividing possible customers according to their income, gender, age, class, etc."
+    },
+    {
+     "id": "o3",
+     "text": "the different products offered by a company"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q83",
+   "objective": "Marketing vocabulary",
+   "family": "v-gimmick",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an unusual or amusing trick or device intended to attract attention or customers“",
+   "solution": "gimmick – an unusual or amusing trick or device intended to attract attention or customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "gimmick: an unusual or amusing trick or device intended to attract attention or customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "hype"
+    },
+    {
+     "id": "o1",
+     "text": "gimmick"
+    },
+    {
+     "id": "o2",
+     "text": "appeal"
+    },
+    {
+     "id": "o3",
+     "text": "consumer"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q84",
+   "objective": "Marketing vocabulary",
+   "family": "v-gimmick",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „gimmick“ mean?",
+   "solution": "gimmick – an unusual or amusing trick or device intended to attract attention or customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "gimmick: an unusual or amusing trick or device intended to attract attention or customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales"
+    },
+    {
+     "id": "o1",
+     "text": "an unusual or amusing trick or device intended to attract attention or customers"
+    },
+    {
+     "id": "o2",
+     "text": "the tendency for some consumers to continue buying the same brand of goods rather than competing brands"
+    },
+    {
+     "id": "o3",
+     "text": "the special quality or characteristic of a product"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q85",
+   "objective": "Marketing vocabulary",
+   "family": "v-giveaway",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„sth. that is given free for promotional purposes (= freebie)“",
+   "solution": "giveaway – sth. that is given free for promotional purposes (= freebie)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "giveaway: sth. that is given free for promotional purposes (= freebie)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "giveaway"
+    },
+    {
+     "id": "o1",
+     "text": "catchy"
+    },
+    {
+     "id": "o2",
+     "text": "brand stretching"
+    },
+    {
+     "id": "o3",
+     "text": "state-of-the-art"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q86",
+   "objective": "Marketing vocabulary",
+   "family": "v-giveaway",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „giveaway“ mean?",
+   "solution": "giveaway – sth. that is given free for promotional purposes (= freebie)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "giveaway: sth. that is given free for promotional purposes (= freebie)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "introducing a new company or product to the public for the first time (to launch a product on/onto the market)"
+    },
+    {
+     "id": "o1",
+     "text": "highly developed (⇔ crude, basic)"
+    },
+    {
+     "id": "o2",
+     "text": "sth. that is given free for promotional purposes (= freebie)"
+    },
+    {
+     "id": "o3",
+     "text": "income left to spend after necessary payments (e.g. taxes and other charges) have been made (= discretionary income)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q87",
+   "objective": "Marketing vocabulary",
+   "family": "v-guerrilla marketing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an unconventional and innovative way of marketing that aims to get maximum exposure as cheaply as possible“",
+   "solution": "guerrilla marketing – an unconventional and innovative way of marketing that aims to get maximum exposure as cheaply as possible",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "guerrilla marketing: an unconventional and innovative way of marketing that aims to get maximum exposure as cheaply as possible",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "guerrilla marketing"
+    },
+    {
+     "id": "o1",
+     "text": "segment"
+    },
+    {
+     "id": "o2",
+     "text": "feature"
+    },
+    {
+     "id": "o3",
+     "text": "differentiation"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q88",
+   "objective": "Marketing vocabulary",
+   "family": "v-guerrilla marketing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „guerrilla marketing“ mean?",
+   "solution": "guerrilla marketing – an unconventional and innovative way of marketing that aims to get maximum exposure as cheaply as possible",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "guerrilla marketing: an unconventional and innovative way of marketing that aims to get maximum exposure as cheaply as possible",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the name given to a particular product or group of products"
+    },
+    {
+     "id": "o1",
+     "text": "a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)"
+    },
+    {
+     "id": "o2",
+     "text": "dividing possible customers according to their income, gender, age, class, etc."
+    },
+    {
+     "id": "o3",
+     "text": "an unconventional and innovative way of marketing that aims to get maximum exposure as cheaply as possible"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q89",
+   "objective": "Marketing vocabulary",
+   "family": "v-hype",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„extensive or exaggerated use of publicity or promotion“",
+   "solution": "hype – extensive or exaggerated use of publicity or promotion",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "hype: extensive or exaggerated use of publicity or promotion",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "giveaway"
+    },
+    {
+     "id": "o1",
+     "text": "hype"
+    },
+    {
+     "id": "o2",
+     "text": "customer survey"
+    },
+    {
+     "id": "o3",
+     "text": "advertising campaign"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q90",
+   "objective": "Marketing vocabulary",
+   "family": "v-hype",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „hype“ mean?",
+   "solution": "hype – extensive or exaggerated use of publicity or promotion",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "hype: extensive or exaggerated use of publicity or promotion",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a person employed to visit a shop in order to assess the quality of the goods"
+    },
+    {
+     "id": "o1",
+     "text": "sth. that is given free for promotional purposes (= freebie)"
+    },
+    {
+     "id": "o2",
+     "text": "extensive or exaggerated use of publicity or promotion"
+    },
+    {
+     "id": "o3",
+     "text": "the person who actually uses a particular product or service (= final customer)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q91",
+   "objective": "Marketing vocabulary",
+   "family": "v-jingle",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a short tune with an advertising message, designed to be easily remembered“",
+   "solution": "jingle – a short tune with an advertising message, designed to be easily remembered",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "jingle: a short tune with an advertising message, designed to be easily remembered",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "jingle"
+    },
+    {
+     "id": "o1",
+     "text": "product range"
+    },
+    {
+     "id": "o2",
+     "text": "appeal"
+    },
+    {
+     "id": "o3",
+     "text": "billboard"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q92",
+   "objective": "Marketing vocabulary",
+   "family": "v-jingle",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „jingle“ mean?",
+   "solution": "jingle – a short tune with an advertising message, designed to be easily remembered",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "jingle: a short tune with an advertising message, designed to be easily remembered",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the stages a product goes through, from when it was first thought of until it is finally removed from the market"
+    },
+    {
+     "id": "o1",
+     "text": "when a company shows, e.g. through its advertising, how its products are different from each other and from competing products"
+    },
+    {
+     "id": "o2",
+     "text": "a short tune with an advertising message, designed to be easily remembered"
+    },
+    {
+     "id": "o3",
+     "text": "a person employed to visit a shop in order to assess the quality of the goods"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q93",
+   "objective": "Marketing vocabulary",
+   "family": "v-knock-down prices",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„very low prices, that have been greatly reduced for quick sales“",
+   "solution": "knock-down prices – very low prices, that have been greatly reduced for quick sales",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "knock-down prices: very low prices, that have been greatly reduced for quick sales",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "mystery shopper"
+    },
+    {
+     "id": "o1",
+     "text": "disposable income"
+    },
+    {
+     "id": "o2",
+     "text": "field research"
+    },
+    {
+     "id": "o3",
+     "text": "knock-down prices"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q94",
+   "objective": "Marketing vocabulary",
+   "family": "v-knock-down prices",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „knock-down prices“ mean?",
+   "solution": "knock-down prices – very low prices, that have been greatly reduced for quick sales",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "knock-down prices: very low prices, that have been greatly reduced for quick sales",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the different products offered by a company"
+    },
+    {
+     "id": "o1",
+     "text": "to start to operate in a particular area of business (= to enter/penetrate a market)"
+    },
+    {
+     "id": "o2",
+     "text": "a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)"
+    },
+    {
+     "id": "o3",
+     "text": "very low prices, that have been greatly reduced for quick sales"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q95",
+   "objective": "Marketing vocabulary",
+   "family": "v-launch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„introducing a new company or product to the public for the first time“",
+   "solution": "launch – introducing a new company or product to the public for the first time (to launch a product on/onto the market)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "launch: introducing a new company or product to the public for the first time (to launch a product on/onto the market)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "product range"
+    },
+    {
+     "id": "o1",
+     "text": "copywriter"
+    },
+    {
+     "id": "o2",
+     "text": "client"
+    },
+    {
+     "id": "o3",
+     "text": "launch"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q96",
+   "objective": "Marketing vocabulary",
+   "family": "v-launch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „launch“ mean?",
+   "solution": "launch – introducing a new company or product to the public for the first time (to launch a product on/onto the market)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "launch: introducing a new company or product to the public for the first time (to launch a product on/onto the market)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion"
+    },
+    {
+     "id": "o1",
+     "text": "highly developed (⇔ crude, basic)"
+    },
+    {
+     "id": "o2",
+     "text": "introducing a new company or product to the public for the first time (to launch a product on/onto the market)"
+    },
+    {
+     "id": "o3",
+     "text": "to phase out a product (to stop producing/offering it gradually)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q97",
+   "objective": "Marketing vocabulary",
+   "family": "v-loss leader",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a product sold at a loss in order to attract customers“",
+   "solution": "loss leader – a product sold at a loss in order to attract customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "loss leader: a product sold at a loss in order to attract customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "loss leader"
+    },
+    {
+     "id": "o1",
+     "text": "market research"
+    },
+    {
+     "id": "o2",
+     "text": "guerrilla marketing"
+    },
+    {
+     "id": "o3",
+     "text": "sophisticated"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q98",
+   "objective": "Marketing vocabulary",
+   "family": "v-loss leader",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „loss leader“ mean?",
+   "solution": "loss leader – a product sold at a loss in order to attract customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "loss leader: a product sold at a loss in order to attract customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the different products offered by a company"
+    },
+    {
+     "id": "o1",
+     "text": "an unconventional and innovative way of marketing that aims to get maximum exposure as cheaply as possible"
+    },
+    {
+     "id": "o2",
+     "text": "a product sold at a loss in order to attract customers"
+    },
+    {
+     "id": "o3",
+     "text": "a list of questions given as part of a survey"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q99",
+   "objective": "Marketing vocabulary",
+   "family": "v-market research",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the activity of collecting and studying information about what people need, want and buy“",
+   "solution": "market research – the activity of collecting and studying information about what people need, want and buy (to carry out/to conduct market research)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market research: the activity of collecting and studying information about what people need, want and buy (to carry out/to conduct market research)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "competition"
+    },
+    {
+     "id": "o1",
+     "text": "market research"
+    },
+    {
+     "id": "o2",
+     "text": "slogan"
+    },
+    {
+     "id": "o3",
+     "text": "jingle"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q100",
+   "objective": "Marketing vocabulary",
+   "family": "v-market research",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „market research“ mean?",
+   "solution": "market research – the activity of collecting and studying information about what people need, want and buy (to carry out/to conduct market research)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market research: the activity of collecting and studying information about what people need, want and buy (to carry out/to conduct market research)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the arguments used by a person who is trying to sell sth."
+    },
+    {
+     "id": "o1",
+     "text": "the collection of data not from existing research sources but by carrying out one's own surveys or experiments (= primary research, ⇔ desk research)"
+    },
+    {
+     "id": "o2",
+     "text": "the activity of collecting and studying information about what people need, want and buy (to carry out/to conduct market research)"
+    },
+    {
+     "id": "o3",
+     "text": "a person employed to visit a shop in order to assess the quality of the goods"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q101",
+   "objective": "Marketing vocabulary",
+   "family": "v-market saturation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales“",
+   "solution": "market saturation – a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market saturation: a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "sales pitch"
+    },
+    {
+     "id": "o1",
+     "text": "client"
+    },
+    {
+     "id": "o2",
+     "text": "claim"
+    },
+    {
+     "id": "o3",
+     "text": "market saturation"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q102",
+   "objective": "Marketing vocabulary",
+   "family": "v-market saturation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „market saturation“ mean?",
+   "solution": "market saturation – a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market saturation: a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a situation where every prospective customer in the market already has the product, so there is little chance of creating new sales"
+    },
+    {
+     "id": "o1",
+     "text": "selling goods and taking orders by telephone (= telesales)"
+    },
+    {
+     "id": "o2",
+     "text": "a total failure (⇔ success, hit)"
+    },
+    {
+     "id": "o3",
+     "text": "the people that a company has (or wants to have) as its main customers"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q103",
+   "objective": "Marketing vocabulary",
+   "family": "v-market sector",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a part of a market such as a particular industry or group of customers“",
+   "solution": "market sector – a part of a market such as a particular industry or group of customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market sector: a part of a market such as a particular industry or group of customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "market sector"
+    },
+    {
+     "id": "o1",
+     "text": "niche"
+    },
+    {
+     "id": "o2",
+     "text": "direct mail"
+    },
+    {
+     "id": "o3",
+     "text": "focus group"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q104",
+   "objective": "Marketing vocabulary",
+   "family": "v-market sector",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „market sector“ mean?",
+   "solution": "market sector – a part of a market such as a particular industry or group of customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market sector: a part of a market such as a particular industry or group of customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a total failure (⇔ success, hit)"
+    },
+    {
+     "id": "o1",
+     "text": "the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion"
+    },
+    {
+     "id": "o2",
+     "text": "a part of a market such as a particular industry or group of customers"
+    },
+    {
+     "id": "o3",
+     "text": "an announcement, picture or short film promoting a company, product, event or job vacancy (= ad/advert; to place an ad in the newspaper, to advertise on TV)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q105",
+   "objective": "Marketing vocabulary",
+   "family": "v-market segmentation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„dividing possible customers according to their income, gender, age, class, etc.“",
+   "solution": "market segmentation – dividing possible customers according to their income, gender, age, class, etc.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market segmentation: dividing possible customers according to their income, gender, age, class, etc.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "marketing mix"
+    },
+    {
+     "id": "o1",
+     "text": "bias"
+    },
+    {
+     "id": "o2",
+     "text": "market segmentation"
+    },
+    {
+     "id": "o3",
+     "text": "desk research"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q106",
+   "objective": "Marketing vocabulary",
+   "family": "v-market segmentation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „market segmentation“ mean?",
+   "solution": "market segmentation – dividing possible customers according to their income, gender, age, class, etc.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market segmentation: dividing possible customers according to their income, gender, age, class, etc.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "selling goods and taking orders by telephone (= telesales)"
+    },
+    {
+     "id": "o1",
+     "text": "a rival; a person or business that offers the same or better goods (= the competition)"
+    },
+    {
+     "id": "o2",
+     "text": "a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)"
+    },
+    {
+     "id": "o3",
+     "text": "dividing possible customers according to their income, gender, age, class, etc."
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q107",
+   "objective": "Marketing vocabulary",
+   "family": "v-market share",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a part of the market dominated by a particular company or product“",
+   "solution": "market share – a part of the market dominated by a particular company or product",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market share: a part of the market dominated by a particular company or product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "competitor"
+    },
+    {
+     "id": "o1",
+     "text": "field research"
+    },
+    {
+     "id": "o2",
+     "text": "endorsement"
+    },
+    {
+     "id": "o3",
+     "text": "market share"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q108",
+   "objective": "Marketing vocabulary",
+   "family": "v-market share",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „market share“ mean?",
+   "solution": "market share – a part of the market dominated by a particular company or product",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "market share: a part of the market dominated by a particular company or product",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the quality that makes sth. attractive or interesting (to have snob/sex appeal, to appeal to customers)"
+    },
+    {
+     "id": "o1",
+     "text": "1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character"
+    },
+    {
+     "id": "o2",
+     "text": "person who buys the services of a professional, e.g. an accountant or lawyer"
+    },
+    {
+     "id": "o3",
+     "text": "a part of the market dominated by a particular company or product"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q109",
+   "objective": "Marketing vocabulary",
+   "family": "v-marketing mix",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion“",
+   "solution": "marketing mix – the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "marketing mix: the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "marketing mix"
+    },
+    {
+     "id": "o1",
+     "text": "customer survey"
+    },
+    {
+     "id": "o2",
+     "text": "product life cycle"
+    },
+    {
+     "id": "o3",
+     "text": "jingle"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q110",
+   "objective": "Marketing vocabulary",
+   "family": "v-marketing mix",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „marketing mix“ mean?",
+   "solution": "marketing mix – the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "marketing mix: the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion"
+    },
+    {
+     "id": "o1",
+     "text": "sth. that helps you to be better or more successful than the others (= a competitive edge)"
+    },
+    {
+     "id": "o2",
+     "text": "a total failure (⇔ success, hit)"
+    },
+    {
+     "id": "o3",
+     "text": "a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q111",
+   "objective": "Marketing vocabulary",
+   "family": "v-merchandise",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character“",
+   "solution": "merchandise – 1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "merchandise: 1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "merchandise"
+    },
+    {
+     "id": "o1",
+     "text": "market saturation"
+    },
+    {
+     "id": "o2",
+     "text": "competitive advantage"
+    },
+    {
+     "id": "o3",
+     "text": "sophisticated"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q112",
+   "objective": "Marketing vocabulary",
+   "family": "v-merchandise",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „merchandise“ mean?",
+   "solution": "merchandise – 1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "merchandise: 1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)"
+    },
+    {
+     "id": "o1",
+     "text": "advertising that is sent directly to potential customers"
+    },
+    {
+     "id": "o2",
+     "text": "1. goods to be bought and sold; 2. products used to promote a film or a pop group, or linked to a fictional character"
+    },
+    {
+     "id": "o3",
+     "text": "evaluating sth. by comparing it to industry standards and the best practices of other companies"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q113",
+   "objective": "Marketing vocabulary",
+   "family": "v-mission statement",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a short written statement of the aims, purpose and future activities of an organisation“",
+   "solution": "mission statement – a short written statement of the aims, purpose and future activities of an organisation",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "mission statement: a short written statement of the aims, purpose and future activities of an organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "disposable income"
+    },
+    {
+     "id": "o1",
+     "text": "market sector"
+    },
+    {
+     "id": "o2",
+     "text": "banner ad"
+    },
+    {
+     "id": "o3",
+     "text": "mission statement"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q114",
+   "objective": "Marketing vocabulary",
+   "family": "v-mission statement",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „mission statement“ mean?",
+   "solution": "mission statement – a short written statement of the aims, purpose and future activities of an organisation",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "mission statement: a short written statement of the aims, purpose and future activities of an organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "easy to remember (a catchy jingle, a catchy slogan)"
+    },
+    {
+     "id": "o1",
+     "text": "the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion"
+    },
+    {
+     "id": "o2",
+     "text": "an official statement issued to the media on a particular matter"
+    },
+    {
+     "id": "o3",
+     "text": "a short written statement of the aims, purpose and future activities of an organisation"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q115",
+   "objective": "Marketing vocabulary",
+   "family": "v-mystery shopper",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a person employed to visit a shop in order to assess the quality of the goods“",
+   "solution": "mystery shopper – a person employed to visit a shop in order to assess the quality of the goods",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "mystery shopper: a person employed to visit a shop in order to assess the quality of the goods",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "mystery shopper"
+    },
+    {
+     "id": "o1",
+     "text": "billboard"
+    },
+    {
+     "id": "o2",
+     "text": "knock-down prices"
+    },
+    {
+     "id": "o3",
+     "text": "brand stretching"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q116",
+   "objective": "Marketing vocabulary",
+   "family": "v-mystery shopper",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „mystery shopper“ mean?",
+   "solution": "mystery shopper – a person employed to visit a shop in order to assess the quality of the goods",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "mystery shopper: a person employed to visit a shop in order to assess the quality of the goods",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion"
+    },
+    {
+     "id": "o1",
+     "text": "an advertisement on television or radio"
+    },
+    {
+     "id": "o2",
+     "text": "advertising that is sent directly to potential customers"
+    },
+    {
+     "id": "o3",
+     "text": "a person employed to visit a shop in order to assess the quality of the goods"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q117",
+   "objective": "Marketing vocabulary",
+   "family": "v-niche",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a specialised but profitable corner of the market“",
+   "solution": "niche – a specialised but profitable corner of the market",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "niche: a specialised but profitable corner of the market",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "upmarket"
+    },
+    {
+     "id": "o1",
+     "text": "niche"
+    },
+    {
+     "id": "o2",
+     "text": "banner ad"
+    },
+    {
+     "id": "o3",
+     "text": "commercial (n.)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q118",
+   "objective": "Marketing vocabulary",
+   "family": "v-niche",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „niche“ mean?",
+   "solution": "niche – a specialised but profitable corner of the market",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "niche: a specialised but profitable corner of the market",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the quality that makes sth. attractive or interesting (to have snob/sex appeal, to appeal to customers)"
+    },
+    {
+     "id": "o1",
+     "text": "a specialised but profitable corner of the market"
+    },
+    {
+     "id": "o2",
+     "text": "a preference for one thing over another, often considered to be unfair or unreasonable"
+    },
+    {
+     "id": "o3",
+     "text": "a large sign used for advertising (BE hoarding)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q119",
+   "objective": "Marketing vocabulary",
+   "family": "v-to phase out",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„to phase out a product (to stop producing/offering it gradually)“",
+   "solution": "to phase out – to phase out a product (to stop producing/offering it gradually)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to phase out: to phase out a product (to stop producing/offering it gradually)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "commercial (n.)"
+    },
+    {
+     "id": "o1",
+     "text": "to phase out"
+    },
+    {
+     "id": "o2",
+     "text": "niche"
+    },
+    {
+     "id": "o3",
+     "text": "advertising copy"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q120",
+   "objective": "Marketing vocabulary",
+   "family": "v-to phase out",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „to phase out“ mean?",
+   "solution": "to phase out – to phase out a product (to stop producing/offering it gradually)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "to phase out: to phase out a product (to stop producing/offering it gradually)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "person who buys the services of a professional, e.g. an accountant or lawyer"
+    },
+    {
+     "id": "o1",
+     "text": "to phase out a product (to stop producing/offering it gradually)"
+    },
+    {
+     "id": "o2",
+     "text": "an announcement, picture or short film promoting a company, product, event or job vacancy (= ad/advert; to place an ad in the newspaper, to advertise on TV)"
+    },
+    {
+     "id": "o3",
+     "text": "a part of a market such as a particular industry or group of customers"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q121",
+   "objective": "Marketing vocabulary",
+   "family": "v-press release",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„an official statement issued to the media on a particular matter“",
+   "solution": "press release – an official statement issued to the media on a particular matter",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "press release: an official statement issued to the media on a particular matter",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "product life cycle"
+    },
+    {
+     "id": "o1",
+     "text": "sophisticated"
+    },
+    {
+     "id": "o2",
+     "text": "product range"
+    },
+    {
+     "id": "o3",
+     "text": "press release"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q122",
+   "objective": "Marketing vocabulary",
+   "family": "v-press release",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „press release“ mean?",
+   "solution": "press release – an official statement issued to the media on a particular matter",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "press release: an official statement issued to the media on a particular matter",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "manufactured goods that are expected to have a long life after purchase (e.g. cars)"
+    },
+    {
+     "id": "o1",
+     "text": "the percentage of people who reply to a survey"
+    },
+    {
+     "id": "o2",
+     "text": "the name given to a particular product or group of products"
+    },
+    {
+     "id": "o3",
+     "text": "an official statement issued to the media on a particular matter"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q123",
+   "objective": "Marketing vocabulary",
+   "family": "v-product life cycle",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the stages a product goes through, from when it was first thought of until it is finally removed from the market“",
+   "solution": "product life cycle – the stages a product goes through, from when it was first thought of until it is finally removed from the market",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "product life cycle: the stages a product goes through, from when it was first thought of until it is finally removed from the market",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "product life cycle"
+    },
+    {
+     "id": "o1",
+     "text": "client"
+    },
+    {
+     "id": "o2",
+     "text": "advertising copy"
+    },
+    {
+     "id": "o3",
+     "text": "copywriter"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q124",
+   "objective": "Marketing vocabulary",
+   "family": "v-product life cycle",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „product life cycle“ mean?",
+   "solution": "product life cycle – the stages a product goes through, from when it was first thought of until it is finally removed from the market",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "product life cycle: the stages a product goes through, from when it was first thought of until it is finally removed from the market",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "person who buys the services of a professional, e.g. an accountant or lawyer"
+    },
+    {
+     "id": "o1",
+     "text": "1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms (to compete against a rival); 2. an event in which many people take part to find out who is the best at a particular activity"
+    },
+    {
+     "id": "o2",
+     "text": "to start to operate in a particular area of business (= to enter/penetrate a market)"
+    },
+    {
+     "id": "o3",
+     "text": "the stages a product goes through, from when it was first thought of until it is finally removed from the market"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q125",
+   "objective": "Marketing vocabulary",
+   "family": "v-product line",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a group of related products offered by a company“",
+   "solution": "product line – a group of related products offered by a company",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "product line: a group of related products offered by a company",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "direct mail"
+    },
+    {
+     "id": "o1",
+     "text": "product line"
+    },
+    {
+     "id": "o2",
+     "text": "segment"
+    },
+    {
+     "id": "o3",
+     "text": "brand"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q126",
+   "objective": "Marketing vocabulary",
+   "family": "v-product line",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „product line“ mean?",
+   "solution": "product line – a group of related products offered by a company",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "product line: a group of related products offered by a company",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "dividing possible customers according to their income, gender, age, class, etc."
+    },
+    {
+     "id": "o1",
+     "text": "the quality that makes sth. attractive or interesting (to have snob/sex appeal, to appeal to customers)"
+    },
+    {
+     "id": "o2",
+     "text": "a person who writes the text of advertisements or other publicity material (≠ copyright)"
+    },
+    {
+     "id": "o3",
+     "text": "a group of related products offered by a company"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q127",
+   "objective": "Marketing vocabulary",
+   "family": "v-product range",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the different products offered by a company“",
+   "solution": "product range – the different products offered by a company",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "product range: the different products offered by a company",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "competition"
+    },
+    {
+     "id": "o1",
+     "text": "product range"
+    },
+    {
+     "id": "o2",
+     "text": "downmarket"
+    },
+    {
+     "id": "o3",
+     "text": "competitive advantage"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q128",
+   "objective": "Marketing vocabulary",
+   "family": "v-product range",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „product range“ mean?",
+   "solution": "product range – the different products offered by a company",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "product range: the different products offered by a company",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)"
+    },
+    {
+     "id": "o1",
+     "text": "a person who buys goods and services for his/her own use and not for resale (to consume, high/low consumption)"
+    },
+    {
+     "id": "o2",
+     "text": "the written material used in an advertisement"
+    },
+    {
+     "id": "o3",
+     "text": "the different products offered by a company"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q129",
+   "objective": "Marketing vocabulary",
+   "family": "v-prospective customer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„someone who might decide to buy sth.“",
+   "solution": "prospective customer – someone who might decide to buy sth.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "prospective customer: someone who might decide to buy sth.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "brand loyalty"
+    },
+    {
+     "id": "o1",
+     "text": "prospective customer"
+    },
+    {
+     "id": "o2",
+     "text": "sales pitch"
+    },
+    {
+     "id": "o3",
+     "text": "slogan"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q130",
+   "objective": "Marketing vocabulary",
+   "family": "v-prospective customer",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „prospective customer“ mean?",
+   "solution": "prospective customer – someone who might decide to buy sth.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "prospective customer: someone who might decide to buy sth.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "someone who might decide to buy sth."
+    },
+    {
+     "id": "o1",
+     "text": "a part of the market dominated by a particular company or product"
+    },
+    {
+     "id": "o2",
+     "text": "extensive or exaggerated use of publicity or promotion"
+    },
+    {
+     "id": "o3",
+     "text": "having the latest technology or design"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q131",
+   "objective": "Marketing vocabulary",
+   "family": "v-public relations",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„activities that aim to promote the image of an organisation“",
+   "solution": "public relations – activities that aim to promote the image of an organisation",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "public relations: activities that aim to promote the image of an organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "public relations"
+    },
+    {
+     "id": "o1",
+     "text": "telemarketing"
+    },
+    {
+     "id": "o2",
+     "text": "knock-down prices"
+    },
+    {
+     "id": "o3",
+     "text": "Unique Selling Proposition (USP)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q132",
+   "objective": "Marketing vocabulary",
+   "family": "v-public relations",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „public relations“ mean?",
+   "solution": "public relations – activities that aim to promote the image of an organisation",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "public relations: activities that aim to promote the image of an organisation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a part of a market such as a particular industry or group of customers"
+    },
+    {
+     "id": "o1",
+     "text": "a small group of people who are asked, in market research, to discuss or give their opinions about a new product or advertisement (≠ target group)"
+    },
+    {
+     "id": "o2",
+     "text": "activities that aim to promote the image of an organisation"
+    },
+    {
+     "id": "o3",
+     "text": "a large sign used for advertising (BE hoarding)"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q133",
+   "objective": "Marketing vocabulary",
+   "family": "v-questionnaire",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a list of questions given as part of a survey“",
+   "solution": "questionnaire – a list of questions given as part of a survey",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "questionnaire: a list of questions given as part of a survey",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "customer"
+    },
+    {
+     "id": "o1",
+     "text": "questionnaire"
+    },
+    {
+     "id": "o2",
+     "text": "to break into a market"
+    },
+    {
+     "id": "o3",
+     "text": "brand stretching"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q134",
+   "objective": "Marketing vocabulary",
+   "family": "v-questionnaire",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „questionnaire“ mean?",
+   "solution": "questionnaire – a list of questions given as part of a survey",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "questionnaire: a list of questions given as part of a survey",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "exclusive and usually expensive (to go upmarket)"
+    },
+    {
+     "id": "o1",
+     "text": "a list of questions given as part of a survey"
+    },
+    {
+     "id": "o2",
+     "text": "someone who might decide to buy sth."
+    },
+    {
+     "id": "o3",
+     "text": "a short tune with an advertising message, designed to be easily remembered"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q135",
+   "objective": "Marketing vocabulary",
+   "family": "v-reputation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the opinion that people have about what a person or thing is like, based on what happened in the past“",
+   "solution": "reputation – the opinion that people have about what a person or thing is like, based on what happened in the past (to have a reputation for …)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "reputation: the opinion that people have about what a person or thing is like, based on what happened in the past (to have a reputation for …)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "copywriter"
+    },
+    {
+     "id": "o1",
+     "text": "knock-down prices"
+    },
+    {
+     "id": "o2",
+     "text": "reputation"
+    },
+    {
+     "id": "o3",
+     "text": "desk research"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q136",
+   "objective": "Marketing vocabulary",
+   "family": "v-reputation",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „reputation“ mean?",
+   "solution": "reputation – the opinion that people have about what a person or thing is like, based on what happened in the past (to have a reputation for …)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "reputation: the opinion that people have about what a person or thing is like, based on what happened in the past (to have a reputation for …)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the opinion that people have about what a person or thing is like, based on what happened in the past (to have a reputation for …)"
+    },
+    {
+     "id": "o1",
+     "text": "a group of related products offered by a company"
+    },
+    {
+     "id": "o2",
+     "text": "sth. that helps you to be better or more successful than the others (= a competitive edge)"
+    },
+    {
+     "id": "o3",
+     "text": "the collection of data from existing research (= secondary research, ⇔ primary research)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q137",
+   "objective": "Marketing vocabulary",
+   "family": "v-response rate",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the percentage of people who reply to a survey“",
+   "solution": "response rate – the percentage of people who reply to a survey",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "response rate: the percentage of people who reply to a survey",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "tasting"
+    },
+    {
+     "id": "o1",
+     "text": "product range"
+    },
+    {
+     "id": "o2",
+     "text": "response rate"
+    },
+    {
+     "id": "o3",
+     "text": "banner ad"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q138",
+   "objective": "Marketing vocabulary",
+   "family": "v-response rate",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „response rate“ mean?",
+   "solution": "response rate – the percentage of people who reply to a survey",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "response rate: the percentage of people who reply to a survey",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "goods that have a short shelf life, and are sold quickly and at relatively low cost; some are perishable (fruit), others are high turnover (soft drinks)"
+    },
+    {
+     "id": "o1",
+     "text": "sth. that is given free for promotional purposes (= freebie)"
+    },
+    {
+     "id": "o2",
+     "text": "the percentage of people who reply to a survey"
+    },
+    {
+     "id": "o3",
+     "text": "1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms (to compete against a rival); 2. an event in which many people take part to find out who is the best at a particular activity"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q139",
+   "objective": "Marketing vocabulary",
+   "family": "v-sales pitch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the arguments used by a person who is trying to sell sth.“",
+   "solution": "sales pitch – the arguments used by a person who is trying to sell sth.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "sales pitch: the arguments used by a person who is trying to sell sth.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "press release"
+    },
+    {
+     "id": "o1",
+     "text": "sales pitch"
+    },
+    {
+     "id": "o2",
+     "text": "slogan"
+    },
+    {
+     "id": "o3",
+     "text": "mystery shopper"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q140",
+   "objective": "Marketing vocabulary",
+   "family": "v-sales pitch",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „sales pitch“ mean?",
+   "solution": "sales pitch – the arguments used by a person who is trying to sell sth.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "sales pitch: the arguments used by a person who is trying to sell sth.",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a short written statement of the aims, purpose and future activities of an organisation"
+    },
+    {
+     "id": "o1",
+     "text": "selling goods and taking orders by telephone (= telesales)"
+    },
+    {
+     "id": "o2",
+     "text": "the tendency for some consumers to continue buying the same brand of goods rather than competing brands"
+    },
+    {
+     "id": "o3",
+     "text": "the arguments used by a person who is trying to sell sth."
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q141",
+   "objective": "Marketing vocabulary",
+   "family": "v-sample",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a small amount or example of sth. that can be looked at or tried in order to see what it is like“",
+   "solution": "sample – a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "sample: a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "merchandise"
+    },
+    {
+     "id": "o1",
+     "text": "advertisement"
+    },
+    {
+     "id": "o2",
+     "text": "guerrilla marketing"
+    },
+    {
+     "id": "o3",
+     "text": "sample"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q142",
+   "objective": "Marketing vocabulary",
+   "family": "v-sample",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „sample“ mean?",
+   "solution": "sample – a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "sample: a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "1. an activity involving two or more businesses in which each tries to get people to buy its goods rather than those of the other firms (to compete against a rival); 2. an event in which many people take part to find out who is the best at a particular activity"
+    },
+    {
+     "id": "o1",
+     "text": "a small amount or example of sth. that can be looked at or tried in order to see what it is like (to sample a product)"
+    },
+    {
+     "id": "o2",
+     "text": "activities that aim to promote the image of an organisation"
+    },
+    {
+     "id": "o3",
+     "text": "an unusual or amusing trick or device intended to attract attention or customers"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q143",
+   "objective": "Marketing vocabulary",
+   "family": "v-segment",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a part of a market or social group“",
+   "solution": "segment – a part of a market or social group (e.g. the luxury segment) (to segment the market)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "segment: a part of a market or social group (e.g. the luxury segment) (to segment the market)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "product life cycle"
+    },
+    {
+     "id": "o1",
+     "text": "brand stretching"
+    },
+    {
+     "id": "o2",
+     "text": "competition"
+    },
+    {
+     "id": "o3",
+     "text": "segment"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q144",
+   "objective": "Marketing vocabulary",
+   "family": "v-segment",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „segment“ mean?",
+   "solution": "segment – a part of a market or social group (e.g. the luxury segment) (to segment the market)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "segment: a part of a market or social group (e.g. the luxury segment) (to segment the market)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the percentage of people who reply to a survey"
+    },
+    {
+     "id": "o1",
+     "text": "a testimonial or public statement approving of sth. (a celebrity endorsement, to endorse a product)"
+    },
+    {
+     "id": "o2",
+     "text": "an unconventional and innovative way of marketing that aims to get maximum exposure as cheaply as possible"
+    },
+    {
+     "id": "o3",
+     "text": "a part of a market or social group (e.g. the luxury segment) (to segment the market)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q145",
+   "objective": "Marketing vocabulary",
+   "family": "v-slogan",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a phrase or sentence that attracts people's attention and makes them remember a product (= strapline, tagline, tag)“",
+   "solution": "slogan – a phrase or sentence that attracts people's attention and makes them remember a product (= strapline, tagline, tag)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "slogan: a phrase or sentence that attracts people's attention and makes them remember a product (= strapline, tagline, tag)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "advertising campaign"
+    },
+    {
+     "id": "o1",
+     "text": "competition"
+    },
+    {
+     "id": "o2",
+     "text": "slogan"
+    },
+    {
+     "id": "o3",
+     "text": "bias"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q146",
+   "objective": "Marketing vocabulary",
+   "family": "v-slogan",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „slogan“ mean?",
+   "solution": "slogan – a phrase or sentence that attracts people's attention and makes them remember a product (= strapline, tagline, tag)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "slogan: a phrase or sentence that attracts people's attention and makes them remember a product (= strapline, tagline, tag)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a phrase or sentence that attracts people's attention and makes them remember a product (= strapline, tagline, tag)"
+    },
+    {
+     "id": "o1",
+     "text": "an advertisement on television or radio"
+    },
+    {
+     "id": "o2",
+     "text": "the people that a company has (or wants to have) as its main customers"
+    },
+    {
+     "id": "o3",
+     "text": "an unusual or amusing trick or device intended to attract attention or customers"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q147",
+   "objective": "Marketing vocabulary",
+   "family": "v-sophisticated",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„highly developed (⇔ crude, basic)“",
+   "solution": "sophisticated – highly developed (⇔ crude, basic)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "sophisticated: highly developed (⇔ crude, basic)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "copywriter"
+    },
+    {
+     "id": "o1",
+     "text": "market segmentation"
+    },
+    {
+     "id": "o2",
+     "text": "survey"
+    },
+    {
+     "id": "o3",
+     "text": "sophisticated"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q148",
+   "objective": "Marketing vocabulary",
+   "family": "v-sophisticated",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „sophisticated“ mean?",
+   "solution": "sophisticated – highly developed (⇔ crude, basic)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "sophisticated: highly developed (⇔ crude, basic)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "highly developed (⇔ crude, basic)"
+    },
+    {
+     "id": "o1",
+     "text": "goods that have a short shelf life, and are sold quickly and at relatively low cost; some are perishable (fruit), others are high turnover (soft drinks)"
+    },
+    {
+     "id": "o2",
+     "text": "a preference for one thing over another, often considered to be unfair or unreasonable"
+    },
+    {
+     "id": "o3",
+     "text": "the tendency for some consumers to continue buying the same brand of goods rather than competing brands"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q149",
+   "objective": "Marketing vocabulary",
+   "family": "v-state-of-the-art",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„having the latest technology or design“",
+   "solution": "state-of-the-art – having the latest technology or design",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "state-of-the-art: having the latest technology or design",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "findings"
+    },
+    {
+     "id": "o1",
+     "text": "state-of-the-art"
+    },
+    {
+     "id": "o2",
+     "text": "Unique Selling Proposition (USP)"
+    },
+    {
+     "id": "o3",
+     "text": "direct mail"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q150",
+   "objective": "Marketing vocabulary",
+   "family": "v-state-of-the-art",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „state-of-the-art“ mean?",
+   "solution": "state-of-the-art – having the latest technology or design",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "state-of-the-art: having the latest technology or design",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "having the latest technology or design"
+    },
+    {
+     "id": "o1",
+     "text": "a person who writes the text of advertisements or other publicity material (≠ copyright)"
+    },
+    {
+     "id": "o2",
+     "text": "the combination of factors that influence sales and can be controlled by a company, commonly known as the 'four Ps', i.e. product, price, place, promotion"
+    },
+    {
+     "id": "o3",
+     "text": "a statement that a business makes about the nature or quality of its product that may or may not be true (to make a claim about a product, to substantiate a claim)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q151",
+   "objective": "Marketing vocabulary",
+   "family": "v-survey",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a study that aims to find out what people buy or might buy, usually by asking them questions“",
+   "solution": "survey – a study that aims to find out what people buy or might buy, usually by asking them questions (to carry out/conduct a survey)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "survey: a study that aims to find out what people buy or might buy, usually by asking them questions (to carry out/conduct a survey)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "benchmarking"
+    },
+    {
+     "id": "o1",
+     "text": "survey"
+    },
+    {
+     "id": "o2",
+     "text": "catchy"
+    },
+    {
+     "id": "o3",
+     "text": "findings"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q152",
+   "objective": "Marketing vocabulary",
+   "family": "v-survey",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „survey“ mean?",
+   "solution": "survey – a study that aims to find out what people buy or might buy, usually by asking them questions (to carry out/conduct a survey)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "survey: a study that aims to find out what people buy or might buy, usually by asking them questions (to carry out/conduct a survey)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a study that aims to find out what people buy or might buy, usually by asking them questions (to carry out/conduct a survey)"
+    },
+    {
+     "id": "o1",
+     "text": "a person who buys a product or service"
+    },
+    {
+     "id": "o2",
+     "text": "a chance to try a new drink or food product (≠ testing, test)"
+    },
+    {
+     "id": "o3",
+     "text": "a person employed to visit a shop in order to assess the quality of the goods"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q153",
+   "objective": "Marketing vocabulary",
+   "family": "v-target market / target group",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the people that a company has (or wants to have) as its main customers“",
+   "solution": "target market / target group – the people that a company has (or wants to have) as its main customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "target market / target group: the people that a company has (or wants to have) as its main customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "competition"
+    },
+    {
+     "id": "o1",
+     "text": "disposable income"
+    },
+    {
+     "id": "o2",
+     "text": "target market / target group"
+    },
+    {
+     "id": "o3",
+     "text": "market sector"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q154",
+   "objective": "Marketing vocabulary",
+   "family": "v-target market / target group",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „target market / target group“ mean?",
+   "solution": "target market / target group – the people that a company has (or wants to have) as its main customers",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "target market / target group: the people that a company has (or wants to have) as its main customers",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the people that a company has (or wants to have) as its main customers"
+    },
+    {
+     "id": "o1",
+     "text": "the feature or benefit of a particular product that makes it stand out from its competitors"
+    },
+    {
+     "id": "o2",
+     "text": "to start to operate in a particular area of business (= to enter/penetrate a market)"
+    },
+    {
+     "id": "o3",
+     "text": "an unconventional and innovative way of marketing that aims to get maximum exposure as cheaply as possible"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q155",
+   "objective": "Marketing vocabulary",
+   "family": "v-tasting",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„a chance to try a new drink or food product (≠ testing, test)“",
+   "solution": "tasting – a chance to try a new drink or food product (≠ testing, test)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "tasting: a chance to try a new drink or food product (≠ testing, test)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "public relations"
+    },
+    {
+     "id": "o1",
+     "text": "sample"
+    },
+    {
+     "id": "o2",
+     "text": "tasting"
+    },
+    {
+     "id": "o3",
+     "text": "advertising campaign"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q156",
+   "objective": "Marketing vocabulary",
+   "family": "v-tasting",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „tasting“ mean?",
+   "solution": "tasting – a chance to try a new drink or food product (≠ testing, test)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "tasting: a chance to try a new drink or food product (≠ testing, test)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "a chance to try a new drink or food product (≠ testing, test)"
+    },
+    {
+     "id": "o1",
+     "text": "person who buys the services of a professional, e.g. an accountant or lawyer"
+    },
+    {
+     "id": "o2",
+     "text": "informal advertising by personal recommendation"
+    },
+    {
+     "id": "o3",
+     "text": "extensive or exaggerated use of publicity or promotion"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q157",
+   "objective": "Marketing vocabulary",
+   "family": "v-telemarketing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„selling goods and taking orders by telephone (= telesales)“",
+   "solution": "telemarketing – selling goods and taking orders by telephone (= telesales)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "telemarketing: selling goods and taking orders by telephone (= telesales)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "focus group"
+    },
+    {
+     "id": "o1",
+     "text": "reputation"
+    },
+    {
+     "id": "o2",
+     "text": "advertising campaign"
+    },
+    {
+     "id": "o3",
+     "text": "telemarketing"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q158",
+   "objective": "Marketing vocabulary",
+   "family": "v-telemarketing",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „telemarketing“ mean?",
+   "solution": "telemarketing – selling goods and taking orders by telephone (= telesales)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "telemarketing: selling goods and taking orders by telephone (= telesales)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the special quality or characteristic of a product"
+    },
+    {
+     "id": "o1",
+     "text": "someone who might decide to buy sth."
+    },
+    {
+     "id": "o2",
+     "text": "an advertisement in the form of a box that is spread across a webpage, magazine or newspaper"
+    },
+    {
+     "id": "o3",
+     "text": "selling goods and taking orders by telephone (= telesales)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q159",
+   "objective": "Marketing vocabulary",
+   "family": "v-Unique Selling Proposition (USP)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„the feature or benefit of a particular product that makes it stand out from its competitors“",
+   "solution": "Unique Selling Proposition (USP) – the feature or benefit of a particular product that makes it stand out from its competitors",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "Unique Selling Proposition (USP): the feature or benefit of a particular product that makes it stand out from its competitors",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "market research"
+    },
+    {
+     "id": "o1",
+     "text": "focus group"
+    },
+    {
+     "id": "o2",
+     "text": "Unique Selling Proposition (USP)"
+    },
+    {
+     "id": "o3",
+     "text": "appeal"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q160",
+   "objective": "Marketing vocabulary",
+   "family": "v-Unique Selling Proposition (USP)",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „Unique Selling Proposition (USP)“ mean?",
+   "solution": "Unique Selling Proposition (USP) – the feature or benefit of a particular product that makes it stand out from its competitors",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "Unique Selling Proposition (USP): the feature or benefit of a particular product that makes it stand out from its competitors",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the feature or benefit of a particular product that makes it stand out from its competitors"
+    },
+    {
+     "id": "o1",
+     "text": "an advertisement in the form of a box that is spread across a webpage, magazine or newspaper"
+    },
+    {
+     "id": "o2",
+     "text": "sth. that is given free for promotional purposes (= freebie)"
+    },
+    {
+     "id": "o3",
+     "text": "selling goods and taking orders by telephone (= telesales)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q161",
+   "objective": "Marketing vocabulary",
+   "family": "v-upmarket",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„exclusive and usually expensive“",
+   "solution": "upmarket – exclusive and usually expensive (to go upmarket)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "upmarket: exclusive and usually expensive (to go upmarket)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "merchandise"
+    },
+    {
+     "id": "o1",
+     "text": "disposable income"
+    },
+    {
+     "id": "o2",
+     "text": "upmarket"
+    },
+    {
+     "id": "o3",
+     "text": "sophisticated"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q162",
+   "objective": "Marketing vocabulary",
+   "family": "v-upmarket",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „upmarket“ mean?",
+   "solution": "upmarket – exclusive and usually expensive (to go upmarket)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "upmarket: exclusive and usually expensive (to go upmarket)",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "the stages a product goes through, from when it was first thought of until it is finally removed from the market"
+    },
+    {
+     "id": "o1",
+     "text": "exclusive and usually expensive (to go upmarket)"
+    },
+    {
+     "id": "o2",
+     "text": "having the latest technology or design"
+    },
+    {
+     "id": "o3",
+     "text": "the arguments used by a person who is trying to sell sth."
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q163",
+   "objective": "Marketing vocabulary",
+   "family": "v-word-of-mouth",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Which term matches this definition?\n„informal advertising by personal recommendation“",
+   "solution": "word-of-mouth – informal advertising by personal recommendation",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "word-of-mouth: informal advertising by personal recommendation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "mission statement"
+    },
+    {
+     "id": "o1",
+     "text": "public relations"
+    },
+    {
+     "id": "o2",
+     "text": "fast-moving consumer goods (FMCG)"
+    },
+    {
+     "id": "o3",
+     "text": "word-of-mouth"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q164",
+   "objective": "Marketing vocabulary",
+   "family": "v-word-of-mouth",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "What does „word-of-mouth“ mean?",
+   "solution": "word-of-mouth – informal advertising by personal recommendation",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle EN · Glossary of business terms (Units 4, 5, 6)",
+   "sourceQuote": "word-of-mouth: informal advertising by personal recommendation",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "sth. that is given free for promotional purposes (= freebie)"
+    },
+    {
+     "id": "o1",
+     "text": "informal advertising by personal recommendation"
+    },
+    {
+     "id": "o2",
+     "text": "a group of related products offered by a company"
+    },
+    {
+     "id": "o3",
+     "text": "a person employed to visit a shop in order to assess the quality of the goods"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  }
+ ]
+}
