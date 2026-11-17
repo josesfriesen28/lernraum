@@ -23,6 +23,24 @@ const store = {
   set: (k: string, v: string) => {try {sessionStorage.setItem(k, v);} catch {}},
 };
 
+const courseColors = ['#2f7d5b', '#3b6fb5', '#b5652f', '#8a4fb0', '#b0435a', '#2f8a8a'];
+/** Fach der Karte: Kürzel (z. B. „B2“) + Name, Farbe je Fach. */
+export function courseInfo(state: Any, courseId: string) {
+  const c = state.course.find((x: Any) => x.id === courseId);
+  if (!c) return null;
+  const name = String(c.name || '');
+  const m = name.match(/^([A-Z]{1,3}\d+(?:\.\d+)?)\s*[·:\-–]?\s*(.*)$/);
+  const short = m ? m[1] : /^english/i.test(name) ? 'EN' : name.split(/\s+/)[0].slice(0, 6);
+  const rest = m ? m[2] : name;
+  let h = 0; for (const ch of c.id) h = (h * 31 + ch.charCodeAt(0)) >>> 0;
+  const idx = [...state.course].sort((a: Any, b: Any) => String(a.name).localeCompare(String(b.name))).findIndex((x: Any) => x.id === c.id);
+  return {short, rest, name, color: courseColors[(idx >= 0 ? idx : h) % courseColors.length]};
+}
+function CourseTag({info}: Any) {
+  if (!info) return null;
+  return <div className="reel-course" style={{'--cc': info.color} as Any} title={info.name}><b>{info.short}</b><span>{info.rest}</span></div>;
+}
+
 function Figure({source, open}: Any) {
   if (!source?.image && !source?.url) return null;
   return <figure className="reel-figure">
@@ -230,6 +248,7 @@ export default function LearnFeed({userId, task: t, session, state, busy, error,
 
       <div className="reel-stack">
         {!pause && <article className="reel-card peek" style={peekStyle} aria-hidden="true">
+          {nextTask && <CourseTag info={courseInfo(state, nextTask.courseId)}/>}
           <span className="reel-chip">{nextTask ? typeLabel[nextTask.type] : 'Gleich mehr'}</span>
           <h2>{nextTask?.prompt || 'Nächste Karte wird geladen …'}</h2>
         </article>}
@@ -247,6 +266,7 @@ export default function LearnFeed({userId, task: t, session, state, busy, error,
                 <button className="reel-main" onClick={() => go()}>Weiter geht’s</button>
               </div>
             ) : <>
+              <CourseTag info={courseInfo(state, t.courseId)}/>
               <div className="reel-meta">
                 <span className="reel-chip">{typeLabel[t.type]}</span>
                 <span>Karte {session.index + 1}{done ? ` · ${done} geschafft` : ''}</span>

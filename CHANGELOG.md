@@ -7,6 +7,11 @@ Die Version steht an drei Stellen und muss übereinstimmen (prüft `tests/versio
 
 ## [Unreleased]
 
+## [0.10.1] – 2026-11-17
+
+### Hinzugefügt
+- Jede Lernkarte zeigt oben ihr Fach: farbiges Kürzel (B2, B3, EN …) plus Modulname – auch auf der nächsten Karte im Hintergrund. Im Verlauf steht das Modul bei jeder Antwort.
+
 ## [0.10.0] – 2026-11-17
 
 Profile und Geräte-Sync – weiterhin ohne Server.

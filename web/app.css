@@ -89,3 +89,8 @@
 .profile-sync .notice{margin:14px 0 0}
 .profile-actions{margin-top:24px!important}
 .pw-change{margin-top:10px}
+/* Fach auf jeder Karte (v0.10.1) */
+.reel-course{display:flex;align-items:center;gap:8px;margin:0 0 12px;min-width:0;font-size:13px;font-weight:600;color:var(--cc)}
+.reel-course b{flex:none;color:#fff;background:var(--cc);border-radius:8px;padding:3px 9px;font-size:13px;letter-spacing:.3px}
+.reel-course span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap;opacity:.9}
+.peek .reel-course{margin-bottom:8px}
