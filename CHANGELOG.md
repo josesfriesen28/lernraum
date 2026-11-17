@@ -7,6 +7,18 @@ Die Version steht an drei Stellen und muss übereinstimmen (prüft `tests/versio
 
 ## [Unreleased]
 
+## [0.10.0] – 2026-11-17
+
+Profile und Geräte-Sync – weiterhin ohne Server.
+
+### Hinzugefügt
+- Profile mit Name und kurzem Passwort; mehrere Profile pro Gerät mit getrennten Daten (je eine eigene Browser-Datenbank). Anmelden, „angemeldet bleiben“, Abmelden/Profil wechseln, Passwort ändern.
+- Sync-Code: verschlüsselt (AES-GCM, Schlüssel aus dem Profil-Passwort) den Lernfortschritt zu allen Paketaufgaben. Auf einem anderen Gerät legt er das Profil an oder wird mit dem dortigen Stand zusammengeführt – in beide Richtungen, ohne etwas zu überschreiben. Kopieren, Teilen oder als Datei.
+- Neuer Befehl `sync` im lokalen Backend, `lib/sync.mjs`, `lib/profiles.ts`, Tests für Verschlüsselung und Zusammenführen.
+
+### Geändert
+- Bestehende Daten eines Geräts gehören zum ersten angelegten Profil.
+
 ## [0.9.0] – 2026-11-17
 
 Schaubilder zum Anschauen.

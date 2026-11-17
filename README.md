@@ -2,7 +2,7 @@
 
 Persönliche Lern-App fürs Studium (Wirtschaftskommunikation, HTW Berlin) – fürs iPhone gemacht, ~20 Minuten am Tag. Lernen fühlt sich an wie ein Feed: Karte antippen, beantworten, hochwischen, nächste Karte. Dahinter steckt aktives Abrufen mit einem Wiederholungsplan statt endlosem Konsum.
 
-**Version 0.9.0** · [Changelog](CHANGELOG.md) · läuft komplett im Browser, kein Server, kein Konto
+**Version 0.10.0** · [Changelog](CHANGELOG.md) · läuft komplett im Browser, kein Server – Profile und Sync-Code für mehrere Geräte
 
 <p>
 <img src="docs/screenshots/feed-richtig.png" width="200" alt="Richtig beantwortete Single-Choice-Karte mit Serienzähler">

@@ -50,9 +50,25 @@ Du kannst über **Später fortsetzen** zurückgehen oder die Etappe ausdrücklic
 
 Nach dem ersten Öffnen funktioniert Lernraum auch ohne Internet. **Lösche nie die Websitedaten von Lernraum in Safari/Chrome** – damit wären alle Lerndaten weg, sofern du kein Backup hast.
 
+## Profile
+
+Beim ersten Öffnen legst du ein Profil an: Name und ein kurzes Passwort (mindestens 4 Zeichen). Auf einem Gerät können mehrere Profile liegen, z. B. für Kommilitonen – jedes hat seinen eigenen Fortschritt. Wer schon vor v0.10.0 gelernt hat: Die bisherigen Daten gehören zum ersten angelegten Profil.
+
+Das Passwort trennt die Profile auf einem gemeinsam genutzten Gerät und verschlüsselt den Sync-Code. Die Daten im Browser selbst sind nicht verschlüsselt – auf einem fremden Gerät also nicht „angemeldet bleiben“ wählen. Ein vergessenes Passwort lässt sich nicht zurücksetzen.
+
+## Mehrere Geräte (Sync-Code)
+
+Es gibt keinen Server. Den Fortschritt nimmst du per **Sync-Code** mit:
+
+1. Auf Gerät A: **Einstellungen → Profil & Geräte → Sync-Code erstellen**, dann „Kopieren“, „Teilen …“ (z. B. AirDrop, Nachricht an dich selbst) oder „Als Datei“.
+2. Auf Gerät B beim ersten Mal: Startbildschirm → **Mit Sync-Code von anderem Gerät**, Code einfügen, gleiches Passwort. Das Profil wird mit Namen und Fortschritt angelegt.
+3. Danach in beide Richtungen: unter **Profil & Geräte → Sync-Code einlesen → Zusammenführen**.
+
+Zusammenführen überschreibt nichts: Antworten beider Geräte bleiben erhalten, doppelte werden erkannt. Übertragen werden Antworten und Korrekturen zu den mitgelieferten bzw. importierten Aufgabenpaketen, gelöschte/ausgesetzte Aufgaben, Prüfungstermine und Einstellungen. Selbst hochgeladene PDFs und daraus erstellte Aufgaben überträgt nur das vollständige Backup.
+
 ## Sicherung und Gerätewechsel
 
-Es gibt keinen automatischen Abgleich zwischen Geräten. Zum Wechseln (z. B. vom Mac aufs iPhone) auf dem alten Gerät ein vollständiges Backup herunterladen und auf dem neuen Gerät unter **Einstellungen → Backup-Datei auswählen** einspielen. Das ersetzt den Stand auf dem neuen Gerät vollständig. Die App erinnert auf der Startseite, wenn das letzte Backup älter als eine Woche ist.
+Für einen kompletten Umzug inklusive eigener Originaldateien: auf dem alten Gerät ein vollständiges Backup herunterladen und auf dem neuen Gerät unter **Einstellungen → Backup-Datei auswählen** einspielen. Das ersetzt den Stand des angemeldeten Profils vollständig. Die App erinnert auf der Startseite, wenn das letzte Backup älter als eine Woche ist.
 
 Unter **Einstellungen → Vollständiges Backup** bekommst du eine JSON-Datei mit Originaldateien, Quellenabschnitten, Aufgabenständen und Lernereignissen. Bewahre sie privat außerhalb der App auf. Empfehlenswert: nach größeren Importen und regelmäßig im Semester. „Daten als JSON“ enthält die strukturierten Daten für Weiterverarbeitung, aber keine Originaldateien und genügt allein nicht für Restore.
 

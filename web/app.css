@@ -66,3 +66,26 @@
 .reel-figure{margin:14px 0 4px;display:grid;gap:8px}
 .reel-figure img{display:block;width:100%;height:auto;background:#fff;border-radius:14px;padding:6px;box-shadow:0 1px 0 rgba(0,0,0,.06),0 6px 18px rgba(0,0,0,.06);cursor:zoom-in}
 .reel-figure figcaption a{font-size:13px;font-weight:600;display:inline-flex;align-items:center;gap:4px;color:inherit;opacity:.85}
+/* Anmeldung und Profile (v0.10.0) */
+.login{min-height:100dvh;display:flex;flex-direction:column;align-items:center;justify-content:center;padding:32px 22px;background:radial-gradient(ellipse at 50% 90%,#e4ebd6,transparent 60%);text-align:center}
+.login h1{font-size:34px;line-height:1.15;margin:6px 0 22px}
+.login img{margin-bottom:18px}
+.login form{width:100%;max-width:380px;text-align:left}
+.login .primary{width:100%;min-width:0;min-height:50px;border-radius:14px;font-weight:650;font-size:16px}
+.login label.check{display:flex;align-items:center;gap:10px;font-weight:450;margin:2px 0 18px}
+.login-profiles{display:grid;gap:10px;margin-bottom:20px}
+.login-profiles button{display:flex;align-items:center;gap:12px;padding:12px 14px;border:1px solid #dce1d4;border-radius:14px;background:#fffefa;font-size:16px;font-weight:600;color:var(--ink);text-align:left}
+.login-profiles button.on{box-shadow:0 0 0 2px rgba(35,75,64,.25)}
+.login-profiles .avatar{width:34px;height:34px;border-radius:50%;display:grid;place-items:center;background:var(--accent);color:var(--green);font-weight:700}
+.login-note{font-size:13px;color:var(--muted);line-height:1.55;margin:0 0 16px}
+.login-error{color:#984e34;background:#fbede5;border-radius:12px;padding:10px 14px;font-size:14px;max-width:380px;margin-top:14px}
+.login-switch{display:flex;flex-wrap:wrap;justify-content:center;gap:6px 14px;margin-top:22px}
+.login-switch button{background:none;border:0;color:var(--green);font-weight:600;font-size:14px;text-decoration:underline;padding:6px}
+.login-foot{max-width:380px;color:var(--muted);font-size:12px;line-height:1.5;margin-top:18px}
+.profile-sync h3{font-size:14px;margin:22px 0 8px}
+.profile-sync textarea{font-family:ui-monospace,Menlo,monospace;font-size:12px;word-break:break-all}
+.profile-sync .row{display:flex;flex-wrap:wrap;gap:8px;margin:10px 0}
+.profile-sync .file-label{margin:0}
+.profile-sync .notice{margin:14px 0 0}
+.profile-actions{margin-top:24px!important}
+.pw-change{margin-top:10px}

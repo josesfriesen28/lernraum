@@ -2,14 +2,13 @@
 // Alle Daten liegen in IndexedDB dieses Browsers – es gibt keinen Server.
 import {createLocalApi, memoryStorage} from './local-api.mjs';
 
-const DB_NAME = 'lernraum';
 const DB_VERSION = 1;
 
 function promisify<T>(req: IDBRequest<T>): Promise<T> {
   return new Promise((resolve, reject) => {req.onsuccess = () => resolve(req.result); req.onerror = () => reject(req.error);});
 }
 
-function openDb(): Promise<IDBDatabase> {
+function openDb(DB_NAME: string): Promise<IDBDatabase> {
   return new Promise((resolve, reject) => {
     const req = indexedDB.open(DB_NAME, DB_VERSION);
     req.onupgradeneeded = () => {
@@ -23,8 +22,8 @@ function openDb(): Promise<IDBDatabase> {
   });
 }
 
-export function indexedDbStorage() {
-  const dbp = openDb();
+export function indexedDbStorage(dbName = 'lernraum') {
+  const dbp = openDb(dbName);
   const store = async (name: string, mode: IDBTransactionMode) => (await dbp).transaction(name, mode).objectStore(name);
   return {
     async load() {return (await promisify((await store('main', 'readonly')).get('state'))) || null;},
@@ -44,10 +43,10 @@ export function indexedDbStorage() {
 }
 
 /** Beantwortet fetch('/api/…') lokal. Andere Anfragen gehen unverändert ins Netz. */
-export async function installBrowserBackend() {
+export async function installBrowserBackend(dbName = 'lernraum') {
   let storage: any, kind = 'indexeddb';
   let persistent = false;
-  try {storage = indexedDbStorage(); await storage.load();}
+  try {storage = indexedDbStorage(dbName); await storage.load();}
   catch {storage = memoryStorage(); kind = 'memory';}
   try {persistent = !!(await navigator.storage?.persist?.());} catch {}
   const api = createLocalApi(storage);
