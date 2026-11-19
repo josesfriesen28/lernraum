@@ -7,6 +7,18 @@ Die Version steht an drei Stellen und muss übereinstimmen (prüft `tests/versio
 
 ## [Unreleased]
 
+## [0.11.0] – 2026-11-19
+
+Lernpool, XP und Abzeichen, neue Klausur- und B3-Inhalte.
+
+### Hinzugefügt
+- **Lernpool** auf „Heute“: Fächer (B2, B3, Englisch) einzeln an- und abwählen, innerhalb eines Fachs auch einzelne Themen/Pakete (z. B. nur die Probeklausuren). Die Auswahl wird gespeichert und gilt für „Heute lernen“ und „Freiwillig weiterlernen“.
+- **XP und Abzeichen**: Jede Antwort bringt XP (richtig 10 + 2 ohne Hilfe, teilweise 5, versucht 2, Erklärkarte 1, Tagesziel 10 Antworten +20). Stufen mit Fortschrittsbalken, XP-Anzeige oben rechts, „+XP“-Einblendung beim Lernen. Neuer Bereich „Abzeichen“ mit 15 Abzeichen zum Kaufen; viele müssen erst freigeschaltet werden (z. B. 25 richtige in B2, 7 Lerntage in Folge). Ein Abzeichen lässt sich am Profil anzeigen.
+- XP werden aus den Antworten berechnet; gekaufte Abzeichen reisen im Sync-Code mit. Alte Backups ohne Abzeichen bleiben gültig.
+- B2: Paket „Probeklausuren“ mit 44 Karten aus drei Probeklausuren (HomeTech, GreenRide, VeloZip) inklusive Rechenwegen (Kennzahlen, BCG, Hurwicz/Laplace, Kalkulation, Erfahrungskurve, SWOT/TOWS, Marktsegmentierung, Geschäftsvorfälle).
+- B3: Sitzung 5 „(Empirische) Medieninhaltsforschung“ mit 19 Karten (Lasswell-Formel, Medientheorien nach Bonfadelli, manifeste/latente Inhalte, vier Analyseperspektiven, Ziele der Inhaltsanalyse).
+- Tests für Lernpool, XP-Berechnung, Kauf und Sync von Abzeichen.
+
 ## [0.10.1] – 2026-11-17
 
 ### Hinzugefügt

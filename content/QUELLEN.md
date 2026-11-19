@@ -8,6 +8,10 @@ Stand: 17.11.2026 · 937 Karten in 19 Paketen. Erstellt von Claude aus den Moodl
 | B3 Kommunikations- und Medienwissenschaften | 4 | 161 | Alle Folien der Sitzungen 1–4, „Stoff für Klausur“, Beispielklausurfragen; Notion 8.10. und 29.10. | Klausurformat (Single/Multiple Choice, Freitext 3–4 Sätze); Schulz von Thun extra |
 | English for Business Communication | 8 | 399 | Glossary of business terms (Units 4–6), Unit 4 Marketing, Advertising, enquiry emails, conditionals, relative clauses | Vokabeln (Begriff ↔ englische Definition) und Final test |
 
+## Probeklausuren (B2)
+
+`b2-bwl/08-probeklausuren.json` beruht auf drei Probeklausuren mit Lösungsskizzen: HomeTech GmbH (21.1.), GreenRide (17.12.25, fotografierte Lösung) und VeloZip GmbH (SS26). Die Fälle sind gekürzt nacherzählt, Rechenwege selbst nachgerechnet.
+
 ## Schaubilder
 
 Die Bilder unter `b2-bwl/bilder/` sind eigene, vereinfachte Nachzeichnungen der Abbildungen aus den Vahs/Schäfer-Kunz-Folien (Inhalt gleich, Gestaltung neu). Die Originale bleiben in Moodle; jede Karte verlinkt die passende Folienseite.
@@ -18,7 +22,7 @@ Der Dozent hat in B2 einzelne Kapitel durchgestrichen: 3.3 operative Standortpla
 
 ## Noch nicht abgedeckt
 
-- **B3:** Sitzungen 5–9 (Laswell, Medientheorien, Mediengeschichte, Mediennutzung, Medienwirkung) – stehen in der Stoffliste, liegen aber noch nicht in Moodle.
+- **B3:** Sitzungen 6–9 (Mediengeschichte, Mediennutzung, Medienwirkung). Aus Sitzung 5 sind nur die hochgeladenen Folien (Medieninhaltsforschung) abgedeckt, Medienresonanzanalysen fehlen noch.
 - **B2:** Internes Rechnungswesen, Innovation/Marketing, Entscheidungstheorie (Sitzungen ab 24.11.). Kap. 9.3 Kontrolle ist nicht auf den Folien.
 - **Englisch:** Units 5 und 6 sind in Moodle noch leer; Hör- und Leseübungen nicht übernommen.
 

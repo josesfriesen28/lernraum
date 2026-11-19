@@ -1,0 +1,1032 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b2-08-probeklausuren",
+ "title": "B2 · Probeklausuren (HomeTech, GreenRide, VeloZip)",
+ "course": "B2 Grundlagen der Betriebswirtschaftslehre",
+ "examType": "Klausur",
+ "topic": "Probeklausuren",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Probeklausur HomeTech · Kennzahlen",
+   "family": "ht-daten",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Fall HomeTech GmbH – Daten",
+   "solution": "HomeTech GmbH: Umsatz 5.200.000 €, Gewinn 820.000 €, 245 Mitarbeitende, 8.575 abgeschlossene Projekte, Personalaufwand 1.080.000 €, Eigenkapital 1.800.000 €, Gesamtkapital 3.600.000 €. Merke: Produktivität = Output-Menge ÷ Input-Menge (mengenmäßig), Wirtschaftlichkeit = bewerteter Output ÷ bewerteter Input (in €), ROI = Gewinn ÷ Gesamtkapital.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "HomeTech: Umsatz 5,2 Mio. €, Gewinn 820.000 €.",
+   "page": 1,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q2",
+   "objective": "Probeklausur HomeTech · Kennzahlen",
+   "family": "q2",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "HomeTech: 245 Mitarbeitende schließen 8.575 Projekte ab. Berechne die Arbeitsproduktivität mit Rechenweg.",
+   "solution": "Produktivität = Output ÷ Input = 8.575 Projekte ÷ 245 MA = 35 Projekte je Mitarbeiter.",
+   "rubric": "Formel (mengenmäßig) + Ergebnis 35 Projekte/MA.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Kennzahlen",
+   "page": 1,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q3",
+   "objective": "Probeklausur HomeTech · Kennzahlen",
+   "family": "q3",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "HomeTech: Umsatz 5.200.000 €, Personalaufwand 1.080.000 €. Berechne die Wirtschaftlichkeit des Personaleinsatzes.",
+   "solution": "Wirtschaftlichkeit = bewerteter Output ÷ bewerteter Input = 5.200.000 ÷ 1.080.000 ≈ 4,81. Jeder Euro Personalaufwand bringt rund 4,81 € Umsatz.",
+   "rubric": "Formel (wertmäßig) + 4,81 + kurze Deutung.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Kennzahlen",
+   "page": 1,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q4",
+   "objective": "Probeklausur HomeTech · Kennzahlen",
+   "family": "q4",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "HomeTech: Gewinn 820.000 €, Gesamtkapital 3.600.000 €. Wie hoch ist der ROI?",
+   "solution": "ROI = Gewinn ÷ Gesamtkapital = 820.000 ÷ 3.600.000 ≈ 22,78 %. (45,56 % wäre die Eigenkapitalrentabilität mit 1,8 Mio. €.)",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Kennzahlen",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "4,39 %"
+    },
+    {
+     "id": "o1",
+     "text": "22,78 %"
+    },
+    {
+     "id": "o2",
+     "text": "45,56 %"
+    },
+    {
+     "id": "o3",
+     "text": "15,77 %"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Probeklausur HomeTech · BCG-Matrix",
+   "family": "ht-bcg-daten",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "HomeTech – Geschäftsfelder für die BCG-Matrix",
+   "solution": "Relativer Marktanteil = eigener Marktanteil ÷ Marktanteil des stärksten Konkurrenten. AS: 22 % ÷ 11 % = 2,0, Wachstum 3 %. CMS: 8 ÷ 12 = 0,67, Wachstum 14 %. AI: 5 ÷ 10 = 0,5, Wachstum 18 %. IT: 15 ÷ 15 = 1,0, Wachstum 4 %. Trennlinie Wachstum: Durchschnitt 10 %; Trennlinie Marktanteil: 1,0.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Relativer Marktanteil = eigener ÷ stärkster Konkurrent.",
+   "page": 1,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q6",
+   "objective": "Probeklausur HomeTech · BCG-Matrix",
+   "family": "ht-bcg",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "HomeTech, SGF „AS“: rel. Marktanteil 2,0, Marktwachstum 3 % (Ø 10 %). Einordnung?",
+   "solution": "Hoher relativer Marktanteil (> 1), niedriges Wachstum (< 10 %) → Cash Cow. Strategie: abschöpfen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · BCG-Matrix",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Poor Dog"
+    },
+    {
+     "id": "o1",
+     "text": "Question Mark"
+    },
+    {
+     "id": "o2",
+     "text": "Star"
+    },
+    {
+     "id": "o3",
+     "text": "Cash Cow"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Probeklausur HomeTech · BCG-Matrix",
+   "family": "ht-bcg",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "HomeTech, SGF „CMS“: rel. Marktanteil 0,67, Marktwachstum 14 % (Ø 10 %). Einordnung?",
+   "solution": "Niedriger relativer Marktanteil (< 1), hohes Wachstum → Question Mark. Selektiv investieren oder aufgeben.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · BCG-Matrix",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Cash Cow"
+    },
+    {
+     "id": "o1",
+     "text": "Poor Dog"
+    },
+    {
+     "id": "o2",
+     "text": "Star"
+    },
+    {
+     "id": "o3",
+     "text": "Question Mark"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Probeklausur HomeTech · BCG-Matrix",
+   "family": "ht-bcg",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "HomeTech, SGF „AI“: eigener Marktanteil 5 %, stärkster Konkurrent 10 %, Wachstum 18 %. Einordnung?",
+   "solution": "rel. MA = 5 ÷ 10 = 0,5; Wachstum 18 % > 10 % → Question Mark mit großem Potenzial.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · BCG-Matrix",
+   "page": 1,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Question Mark (rel. MA 0,5)"
+    },
+    {
+     "id": "o1",
+     "text": "Poor Dog (rel. MA 0,5)"
+    },
+    {
+     "id": "o2",
+     "text": "Cash Cow (rel. MA 0,5)"
+    },
+    {
+     "id": "o3",
+     "text": "Star (rel. MA 2,0)"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Probeklausur HomeTech · BCG-Matrix",
+   "family": "q9",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "HomeTech, SGF „IT“: rel. Marktanteil 1,0, Wachstum 4 %. Wie ordnest du es ein und warum ist das ein Grenzfall?",
+   "solution": "Wachstum unter Ø → unten in der Matrix. Mit rel. Marktanteil genau 1,0 liegt es auf der Grenze zwischen Cash Cow und Poor Dog. In der Lösung: Grenzfall Cash Cow/Dog – ohne Relaunch rutscht es Richtung Poor Dog.",
+   "rubric": "Unteres Feld; rel. MA = 1 als Grenze benennen; Cash Cow/Dog begründet.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · BCG-Matrix",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q10",
+   "objective": "Probeklausur HomeTech · BCG-Matrix",
+   "family": "q10",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "HomeTech: Leite aus der BCG-Einordnung (AS Cash Cow, IT Cash Cow/Dog, CMS und AI Question Marks) Normstrategien und eine Entwicklung im Produktlebenszyklus ab.",
+   "solution": "AS und IT: abschöpfen, Mittel freisetzen. CMS und AI: selektiv investieren (Offensive), um sie zu Stars zu machen; AI hat das höchste Wachstum. Lebenszyklus: AS bleibt Cash Cow, IT wird ohne Relaunch zum Poor Dog, CMS kann Star werden, AI mit Investitionen zum Star.",
+   "rubric": "Normstrategie je Feld; Mittel der Cash Cows finanzieren Question Marks; plausible Entwicklung.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · BCG-Matrix",
+   "page": 1,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q11",
+   "objective": "Probeklausur HomeTech · Entscheidungstheorie",
+   "family": "ht-et-daten",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "HomeTech – Entscheidungsmatrix",
+   "solution": "Drei Umweltzustände S1/S2/S3, gleich wahrscheinlich. Ergebnisse (Tsd. €): AS 400 / 420 / 440 · CMS 150 / 350 / 550 · AI 50 / 200 / 800. Hurwicz: λ · Maximum + (1 − λ) · Minimum. Laplace: Mittelwert aller Zustände.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Hurwicz-Regel mit Optimismusparameter λ.",
+   "page": 2,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q12",
+   "objective": "Probeklausur HomeTech · Entscheidungstheorie",
+   "family": "q12",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "HomeTech: Wende die Hurwicz-Regel mit λ = 0,7 an (AS 400/420/440, CMS 150/350/550, AI 50/200/800). Welche Alternative wird gewählt?",
+   "solution": "AS: 0,7·440 + 0,3·400 = 428. CMS: 0,7·550 + 0,3·150 = 430. AI: 0,7·800 + 0,3·50 = 575. → AI wählen.",
+   "rubric": "Formel; drei Werte korrekt; Entscheidung AI.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Entscheidungstheorie",
+   "page": 2,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q13",
+   "objective": "Probeklausur HomeTech · Entscheidungstheorie",
+   "family": "q13",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "HomeTech: Welche Alternative wählt die Laplace-Regel (AS 400/420/440, CMS 150/350/550, AI 50/200/800)?",
+   "solution": "Laplace = Mittelwert: AS 420, CMS 350, AI 350 → AS.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Entscheidungstheorie",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "AI (Ø 350)"
+    },
+    {
+     "id": "o1",
+     "text": "AS (Ø 420)"
+    },
+    {
+     "id": "o2",
+     "text": "CMS (Ø 350)"
+    },
+    {
+     "id": "o3",
+     "text": "AI (Ø 575)"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q14",
+   "objective": "Probeklausur HomeTech · Entscheidungstheorie",
+   "family": "q14",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Warum kommen Hurwicz (λ = 0,7) und Laplace bei HomeTech zu unterschiedlichen Entscheidungen?",
+   "solution": "Hurwicz mit λ = 0,7 gewichtet den besten Fall stark (optimistisch, risikofreudig) – AI mit 800 im besten Fall gewinnt. Laplace nimmt alle Zustände als gleich wahrscheinlich und rechnet den Durchschnitt – das stabile AS gewinnt.",
+   "rubric": "Hurwicz = Gewichtung Best/Worst, hier optimistisch; Laplace = Mittelwert; Bezug auf Streuung von AI.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Entscheidungstheorie",
+   "page": 2,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q15",
+   "objective": "Probeklausur HomeTech · Preiskalkulation",
+   "family": "kalk-schema",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schema: Vorwärtskalkulation bis zum Bruttoverkaufspreis",
+   "solution": "Selbstkosten + Gewinnzuschlag = Barverkaufspreis → ÷ (1 − Skonto) = Zielverkaufspreis → ÷ (1 − Rabatt) = Nettoverkaufspreis (Listenpreis) → × 1,19 = Bruttoverkaufspreis. Skonto und Rabatt werden „im Hundert“ gerechnet, also durch dividieren.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Skonto und Rabatt im Hundert rechnen.",
+   "page": 2,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q16",
+   "objective": "Probeklausur HomeTech · Preiskalkulation",
+   "family": "q16",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "HomeTech: Selbstkosten 1.500 €, Gewinnzuschlag 25 %, Skonto 5 %, Rabatt 10 %, USt 19 %. Berechne den Bruttoverkaufspreis.",
+   "solution": "Barverkaufspreis 1.500 · 1,25 = 1.875,00 €. Zielverkaufspreis 1.875 ÷ 0,95 = 1.973,68 €. Nettoverkaufspreis 1.973,68 ÷ 0,90 = 2.192,98 €. Bruttoverkaufspreis · 1,19 = 2.609,65 €.",
+   "rubric": "Alle vier Stufen in richtiger Reihenfolge; Skonto/Rabatt dividiert; 2.609,65 €.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Preiskalkulation",
+   "page": 2,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q17",
+   "objective": "Probeklausur HomeTech · Preiskalkulation",
+   "family": "q17",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "HomeTech: Der Markt akzeptiert nur 2.300 € brutto. Welcher Gewinnzuschlag bleibt (Selbstkosten 1.500 €, Skonto 5 %, Rabatt 10 %)?",
+   "solution": "Netto: 2.300 ÷ 1,19 = 1.932,77 €. Ohne Rabatt: × 0,90 = 1.739,50 €. Ohne Skonto: × 0,95 = 1.652,52 € (Barverkaufspreis). Gewinn 152,52 €; Zuschlag 152,52 ÷ 1.500 = 10,17 % (Kurzform: 1.652,52 ÷ 1.500 = 1,1017).",
+   "rubric": "Rückwärtskalkulation; 1.652,52 €; 10,17 %.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Preiskalkulation",
+   "page": 2,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q18",
+   "objective": "Probeklausur HomeTech · Externes Rechnungswesen",
+   "family": "ht-rewe",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "HomeTech: Gesellschafter zahlen 60.000 € bar ein. Wirkung?",
+   "solution": "Eigenkapitaleinlage: erfolgsneutral, Zahlungsfluss positiv, Bilanzverlängerung (Kasse + EK).",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Externes Rechnungswesen",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Keine GuV-Wirkung; Einzahlung +60.000; Bilanz: Kasse und Eigenkapital je +60.000"
+    },
+    {
+     "id": "o1",
+     "text": "Nur Aktivtausch, keine Zahlung"
+    },
+    {
+     "id": "o2",
+     "text": "Ertrag +60.000 in der GuV"
+    },
+    {
+     "id": "o3",
+     "text": "Kasse +60.000, Verbindlichkeiten +60.000"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q19",
+   "objective": "Probeklausur HomeTech · Externes Rechnungswesen",
+   "family": "ht-rewe",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "HomeTech: Verkauf auf Rechnung über 1.680 €. Wirkung?",
+   "solution": "Ertrag entsteht mit der Leistung, das Geld kommt erst später: Forderung + Gewinn steigen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Externes Rechnungswesen",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Einzahlung +1.680, keine GuV-Wirkung"
+    },
+    {
+     "id": "o1",
+     "text": "Nur Passivtausch"
+    },
+    {
+     "id": "o2",
+     "text": "Aufwand +1.680"
+    },
+    {
+     "id": "o3",
+     "text": "GuV: Umsatz +1.680; kein Geldfluss; Bilanz: Forderungen und Bilanzgewinn/EK +1.680"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q20",
+   "objective": "Probeklausur HomeTech · Externes Rechnungswesen",
+   "family": "ht-rewe",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "HomeTech: Löhne von 10.000 € werden überwiesen. Wirkung?",
+   "solution": "Aufwand mindert den Gewinn und damit das EK; die Zahlung mindert die liquiden Mittel → Bilanzverkürzung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · HomeTech GmbH (21.1.)",
+   "sourceQuote": "Probeklausur HomeTech · Externes Rechnungswesen",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Verbindlichkeiten +10.000"
+    },
+    {
+     "id": "o1",
+     "text": "GuV: Personalaufwand −10.000; Auszahlung −10.000; Bilanz: liquide Mittel und EK je −10.000"
+    },
+    {
+     "id": "o2",
+     "text": "Aktivtausch"
+    },
+    {
+     "id": "o3",
+     "text": "Nur Auszahlung, keine GuV-Wirkung"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q21",
+   "objective": "Probeklausur GreenRide · Kennzahlen",
+   "family": "gr-daten",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Fall GreenRide – E-Scooter-Sharing",
+   "solution": "GreenRide betreibt 6.500 E-Scooter in 11 Städten. Monatsdaten: 12 Mitarbeitende, 195.000 Nutzungsstunden, Umsatz 520.000 €, Personalaufwand 41.000 €.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "GreenRide: 6.500 E-Scooter in 11 Städten.",
+   "page": 1,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q22",
+   "objective": "Probeklausur GreenRide · Kennzahlen",
+   "family": "q22",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "GreenRide: 12 Mitarbeitende, 195.000 Nutzungsstunden im Monat, Umsatz 520.000 €, Personalaufwand 41.000 €. Berechne Produktivität und Wirtschaftlichkeit.",
+   "solution": "Produktivität = 195.000 h ÷ 12 MA = 16.250 Nutzungsstunden je MA und Monat. Wirtschaftlichkeit = 520.000 ÷ 41.000 ≈ 12,68.",
+   "rubric": "Beide Formeln; 16.250 h/MA; 12,68.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · Kennzahlen",
+   "page": 1,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q23",
+   "objective": "Probeklausur GreenRide · Vision",
+   "family": "q23",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "GreenRide: Mit welcher Leitfrage formulierst du eine Vision? Gib ein Beispiel.",
+   "solution": "Leitfrage: „Wo sehen wir uns selbst langfristig?“ Beispiel: „GreenRide schafft nachhaltige, verlässliche Mikromobilität und macht städtische Mobilität einfacher, sauberer und effizienter.“",
+   "rubric": "Leitfrage langfristiges Zielbild; Beispiel zukunftsgerichtet und inspirierend.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · Vision",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q24",
+   "objective": "Probeklausur GreenRide · SWOT/TOWS",
+   "family": "gr-swot",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "GreenRide: Welche Punkte sind STÄRKEN (intern, positiv)?",
+   "solution": "Stärken sind intern. Kooperationen ÖPNV/Hochschulen = Chance (extern); begrenzte IT = Schwäche.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · SWOT/TOWS",
+   "page": 2,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Hohe Service- und Qualitätsorientierung"
+    },
+    {
+     "id": "o1",
+     "text": "Kooperationen mit ÖPNV und Hochschulen"
+    },
+    {
+     "id": "o2",
+     "text": "Etablierte Position in mittelgroßen Städten"
+    },
+    {
+     "id": "o3",
+     "text": "Begrenzte IT-Ressourcen"
+    },
+    {
+     "id": "o4",
+     "text": "Nachhaltiges Markenimage"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o2",
+    "o4"
+   ]
+  },
+  {
+   "id": "q25",
+   "objective": "Probeklausur GreenRide · SWOT/TOWS",
+   "family": "gr-swot",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "GreenRide: Welche Punkte sind RISIKEN (extern, negativ)?",
+   "solution": "Risiken kommen von außen. Personalabhängigkeit und Skalierbarkeit sind interne Schwächen; Abo-Modelle eine Chance.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · SWOT/TOWS",
+   "page": 2,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Billigkonkurrenz"
+    },
+    {
+     "id": "o1",
+     "text": "Eingeschränkte Skalierbarkeit digitaler Prozesse"
+    },
+    {
+     "id": "o2",
+     "text": "Abo-Modelle"
+    },
+    {
+     "id": "o3",
+     "text": "Strengere Regulierung und kommunale Vorgaben"
+    },
+    {
+     "id": "o4",
+     "text": "Abhängigkeit von operativem Personal"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o3"
+   ]
+  },
+  {
+   "id": "q26",
+   "objective": "Probeklausur GreenRide · SWOT/TOWS",
+   "family": "q26",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "GreenRide: Leite eine SO- und eine WO-Strategie ab (Stärken: Qualität, Nachhaltigkeit; Schwäche: wenig IT; Chancen: Abo-Modelle, Kooperationen).",
+   "solution": "SO (Stärken nutzen, Chancen ergreifen): Abo-Modelle anbieten, die sich über Qualität und Nachhaltigkeit von Billiganbietern abheben. WO (Schwächen abbauen, Chancen nutzen): digitale Weiterentwicklung mit externen IT-Partnern, z. B. App mit Gamification und Kundenbindung. Jeweils mit Begründung und Bezug zur Wettbewerbslage.",
+   "rubric": "Richtige Kombination intern/extern je Strategie; konkret; begründet.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · SWOT/TOWS",
+   "page": 2,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q27",
+   "objective": "Probeklausur GreenRide · Geschäftsvorfälle",
+   "family": "gr-rewe",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "GreenRide kauft Scooter für 50.000 € bar. Bilanzwirkung?",
+   "solution": "Kasse sinkt, Fuhrpark/BGA steigt: Aktivtausch; Geld fließt ab.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · Geschäftsvorfälle",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bilanzverlängerung, Einzahlung"
+    },
+    {
+     "id": "o1",
+     "text": "Bilanzverkürzung, Aufwand"
+    },
+    {
+     "id": "o2",
+     "text": "Aktivtausch, Auszahlung"
+    },
+    {
+     "id": "o3",
+     "text": "Passivtausch"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q28",
+   "objective": "Probeklausur GreenRide · Geschäftsvorfälle",
+   "family": "gr-rewe",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "GreenRide begleicht eine Lieferantenrechnung über 50.000 €. Bilanzwirkung?",
+   "solution": "Bank und Verbindlichkeiten sinken: Bilanzverkürzung, keine GuV-Wirkung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · Geschäftsvorfälle",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bilanzverkürzung, Auszahlung"
+    },
+    {
+     "id": "o1",
+     "text": "Aktivtausch"
+    },
+    {
+     "id": "o2",
+     "text": "Bilanzverlängerung"
+    },
+    {
+     "id": "o3",
+     "text": "Aufwand in der GuV"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q29",
+   "objective": "Probeklausur GreenRide · Geschäftsvorfälle",
+   "family": "gr-rewe",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "GreenRide stellt 25 Fahrten à 1.000 € in Rechnung. Wirkung?",
+   "solution": "Ertrag und Forderung entstehen sofort; Bilanzgewinn steigt → Bilanzverlängerung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · Geschäftsvorfälle",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Bilanzverkürzung"
+    },
+    {
+     "id": "o1",
+     "text": "Keine Wirkung, bis gezahlt wird"
+    },
+    {
+     "id": "o2",
+     "text": "Umsatz +25.000, Forderungen +25.000, Bilanzverlängerung, keine Zahlung"
+    },
+    {
+     "id": "o3",
+     "text": "Einzahlung +25.000, Aktivtausch"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q30",
+   "objective": "Probeklausur GreenRide · Zuschlagskalkulation",
+   "family": "kalk-zuschlag",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Schema: Zuschlagskalkulation",
+   "solution": "Materialeinzelkosten + Materialgemeinkosten = Materialkosten. Fertigungseinzelkosten + Fertigungsgemeinkosten = Fertigungskosten. Material- + Fertigungskosten = Herstellkosten. + Verwaltungs- und Vertriebsgemeinkosten = Selbstkosten. Danach weiter wie in der Vorwärtskalkulation bis zum Bruttoverkaufspreis.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Herstellkosten + VVGK = Selbstkosten.",
+   "page": 3,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q31",
+   "objective": "Probeklausur GreenRide · Zuschlagskalkulation",
+   "family": "q31",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "GreenRide: MEK 420 €, MGK 20 %, FEK 180 €, FGK 50 %, VVGK 15 %. Berechne die Selbstkosten.",
+   "solution": "MGK 84 → Materialkosten 504. FGK 90 → Fertigungskosten 270. Herstellkosten 774. VVGK 15 % = 116,10. Selbstkosten 890,10 €.",
+   "rubric": "Zwischensummen korrekt; VVGK auf Herstellkosten; 890,10 €.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · Zuschlagskalkulation",
+   "page": 3,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q32",
+   "objective": "Probeklausur GreenRide · Zuschlagskalkulation",
+   "family": "q32",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "GreenRide: Selbstkosten 890,10 €, Gewinn 20 %, Skonto 2 %, Rabatt 3 %, USt 19 %. Berechne den Bruttoverkaufspreis.",
+   "solution": "Barverkaufspreis 890,10 · 1,2 = 1.068,12 €. Zielverkaufspreis ÷ 0,98 = 1.089,92 €. Nettoverkaufspreis ÷ 0,97 = 1.123,63 €. Brutto · 1,19 = 1.337,12 €.",
+   "rubric": "Reihenfolge, Division bei Skonto/Rabatt, 1.337,12 €.",
+   "sourceTitle": "Probeklausur B2 · GreenRide (17.12.25)",
+   "sourceQuote": "Probeklausur GreenRide · Zuschlagskalkulation",
+   "page": 3,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q33",
+   "objective": "Probeklausur VeloZip · Fall",
+   "family": "vz-daten",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Fall VeloZip GmbH",
+   "solution": "VeloZip (gegründet 2024) betreibt kompakte Fahrrad-Expresswerkstätten in Schiffscontainern an Bahnhöfen und Universitäten. Nur standardisierte Schnell-Leistungen (Reifen, Kette) zu Festpreisen, kein Fahrradverkauf. Versprechen: „In 15 Minuten zurück auf der Piste.“ Geplant: Eigenexpansion nach Amsterdam und Kopenhagen. Klausuraufbau: 3 von 4 Projekten à 20 Punkte = 60 Punkte, dazu Präsentation 40 Punkte.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "In 15 Minuten zurück auf der Piste.",
+   "page": 1,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q34",
+   "objective": "Probeklausur VeloZip · Fall",
+   "family": "q34",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Grenze Mission und Vision ab und formuliere für VeloZip je ein Beispiel.",
+   "solution": "Mission: aktueller Daseinszweck und Kundennutzen im Hier und Jetzt („Warum gibt es uns, welches Problem lösen wir?“) – z. B. „Wir sichern die tägliche Mobilität urbaner Radfahrer durch sofortige Hilfe an ihren Pendelstrecken.“ Vision: langfristiges, inspirierendes Zielbild („Wo wollen wir hin?“) – z. B. „Das führende Express-Reparaturnetz an den Rad-Knotenpunkten europäischer Metropolen werden.“",
+   "rubric": "Zeitbezug (heute vs. Zukunft) als Unterschied; je ein passendes Beispiel.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · Fall",
+   "page": 1,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q35",
+   "objective": "Probeklausur VeloZip · Fall",
+   "family": "q35",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "VeloZip: Welche Merkmale prägen die Corporate Identity?",
+   "solution": "CI = Verhalten, Kommunikation, Erscheinungsbild. VeloZip verkauft bewusst keine Fahrräder.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · Fall",
+   "page": 1,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Communication: Zeitversprechen und transparente Festpreise"
+    },
+    {
+     "id": "o1",
+     "text": "Breites Sortiment an Fahrrädern zum Verkauf"
+    },
+    {
+     "id": "o2",
+     "text": "Behavior: standardisierte, getaktete 15-Minuten-Prozesse"
+    },
+    {
+     "id": "o3",
+     "text": "Design: Container-Architektur an Verkehrsknoten"
+    }
+   ],
+   "correct": [
+    "o0",
+    "o2",
+    "o3"
+   ]
+  },
+  {
+   "id": "q36",
+   "objective": "Probeklausur VeloZip · Fall",
+   "family": "q36",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "VeloZip: 75 Mitarbeitende reparieren 45.000 Fahrräder; Umsatz 1.800.000 €, Personalaufwand 600.000 €. Berechne Arbeitsproduktivität und Wirtschaftlichkeit.",
+   "solution": "Produktivität = 45.000 ÷ 75 = 600 Fahrräder je Mitarbeiter und Jahr. Wirtschaftlichkeit = 1.800.000 ÷ 600.000 = 3.",
+   "rubric": "Mengen- vs. Wertgröße richtig; 600 und 3.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · Fall",
+   "page": 1,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q37",
+   "objective": "Probeklausur VeloZip · 7-S und Erfahrungskurve",
+   "family": "q37",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "VeloZip: Wähle zwei Faktoren des 7-S-Modells und erläutere, wie sie für die Eigenexpansion angepasst werden müssen.",
+   "solution": "Z. B. Structure: von flacher, zentraler Struktur zu einer geografischen Struktur, damit Amsterdam und Kopenhagen eigenständig geführt werden. Skills: neue Mechaniker vor Ort in den standardisierten 15-Minuten-Abläufen schulen, damit das Versprechen überall gilt. (Je 3 Punkte.)",
+   "rubric": "Zwei echte 7-S-Faktoren; konkrete Anpassung mit Bezug zu VeloZip.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · 7-S und Erfahrungskurve",
+   "page": 2,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q38",
+   "objective": "Probeklausur VeloZip · 7-S und Erfahrungskurve",
+   "family": "ek-formel",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Formeln: Erfahrungskurve",
+   "solution": "Kostenelastizität b = (ln k₂ − ln k₁) ÷ (ln x₂ − ln x₁). Erfahrungsrate = 1 − 2^b (Kostensenkung bei Verdopplung der Menge). Stückkosten k(x) = k(1) · x^b. Zielmenge: x = (k(1) ÷ k_Ziel)^(1/−b).",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Erfahrungsrate = 1 − 2 hoch Kostenelastizität.",
+   "page": 2,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q39",
+   "objective": "Probeklausur VeloZip · 7-S und Erfahrungskurve",
+   "family": "q39",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "VeloZip: 1. Container 50.000 €, 10. Container 31.547,85 €. Berechne Kostenelastizität und Erfahrungsrate.",
+   "solution": "ln 1 = 0; ln 10 ≈ 2,3026; ln 50.000 ≈ 10,8198; ln 31.547,85 ≈ 10,3593. b = (10,3593 − 10,8198) ÷ 2,3026 = −0,4605 ÷ 2,3026 = −0,2. Erfahrungsrate = 1 − 2^(−0,2) ≈ 1 − 0,8706 = 12,94 % (ca. 13 %).",
+   "rubric": "Logarithmen; b = −0,2; Erfahrungsrate ≈ 12,94 %.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · 7-S und Erfahrungskurve",
+   "page": 2,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q40",
+   "objective": "Probeklausur VeloZip · 7-S und Erfahrungskurve",
+   "family": "q40",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "VeloZip (k(1) = 50.000 €, b = −0,2): Stückkosten des 100. Containers?",
+   "solution": "k(100) = 50.000 ÷ 100^0,2 = 50.000 ÷ 2,5119 ≈ 19.905 €.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · 7-S und Erfahrungskurve",
+   "page": 2,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "≈ 15.000 €"
+    },
+    {
+     "id": "o1",
+     "text": "≈ 31.548 €"
+    },
+    {
+     "id": "o2",
+     "text": "≈ 19.905 €"
+    },
+    {
+     "id": "o3",
+     "text": "≈ 25.000 €"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q41",
+   "objective": "Probeklausur VeloZip · 7-S und Erfahrungskurve",
+   "family": "q41",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "VeloZip (k(1) = 50.000 €, b = −0,2): Ab welcher Menge liegen die Stückkosten erstmals bei höchstens 15.000 €?",
+   "solution": "15.000 = 50.000 ÷ x^0,2 → x^0,2 = 3,3333 → x = 3,3333^5 ≈ 411,52. Aufrunden: ab dem 412. Container.",
+   "rubric": "Ansatz; Potenzieren mit 5; Aufrunden auf 412.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · 7-S und Erfahrungskurve",
+   "page": 2,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q42",
+   "objective": "Probeklausur VeloZip · Marktsegmentierung",
+   "family": "q42",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Was ist das Ziel einer Marktsegmentierung? Nenne die drei klassischen Kriterien mit je einem Beispiel für VeloZip.",
+   "solution": "Ziel: einen heterogenen Markt in homogene Teilmärkte aufteilen, um sie gezielt mit passendem Marketing-Mix anzusprechen und Streuverluste zu vermeiden. Demografisch: berufstätige Pendler mit mittlerem/hohem Einkommen. Psychografisch: sehr zeitbewusste, qualitätsbewusste Menschen. Verhaltensbezogen: tägliche Radnutzer mit hoher Zahlungsbereitschaft für Schnelligkeit.",
+   "rubric": "Ziel (homogene Segmente, Streuverluste); drei Kriterien mit Beispielen.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · Marktsegmentierung",
+   "page": 3,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q43",
+   "objective": "Probeklausur VeloZip · Marktsegmentierung",
+   "family": "q43",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "VeloZip: Welches Segment passt am besten zum Express-Konzept an Bahnhöfen?",
+   "solution": "Pendler haben den höchsten Strategic Fit: Zeitmangel, tägliche Nutzung, Kaufkraft. Studierende sind zu preissensibel, E-Bikes brauchen oft Spezialservice.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · Marktsegmentierung",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Freizeit-Rennradfahrer am Wochenende"
+    },
+    {
+     "id": "o1",
+     "text": "E-Bike-Enthusiasten 50+ (komplexe Elektronik-Diagnosen)"
+    },
+    {
+     "id": "o2",
+     "text": "Preisbewusste Studierende (reparieren selbst)"
+    },
+    {
+     "id": "o3",
+     "text": "Gestresste Pendler (zeitsensibel, zahlungsbereit)"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q44",
+   "objective": "Probeklausur VeloZip · Marktsegmentierung",
+   "family": "q44",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "VeloZip: Bewerte drei Segmente (Pendler, Studierende, E-Bike-Enthusiasten) hinsichtlich ihrer Attraktivität für das standardisierte Express-Konzept.",
+   "solution": "Pendler: sehr hoch – Bahnhofslage und 15-Minuten-Versprechen treffen den Zeitmangel, hohe Zahlungsbereitschaft. Studierende: gering – viel Radnutzung, aber sehr preissensibel und reparieren selbst. E-Bike-Enthusiasten: mittel – kaufkräftig, verlangen aber oft komplexe Diagnosen, die nicht ins Standardangebot passen.",
+   "rubric": "Je Segment Bewertung mit Begründung aus dem Geschäftsmodell.",
+   "sourceTitle": "Probeklausur B2 · VeloZip GmbH (SS26)",
+   "sourceQuote": "Probeklausur VeloZip · Marktsegmentierung",
+   "page": 3,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  }
+ ]
+}

@@ -30,6 +30,14 @@ Unveränderte Abschnitte erzeugen keine neuen Entwürfe. Geänderte oder entfern
 
 Bild-PDFs benötigen zunächst Texterkennung außerhalb der App. Bei fehlendem Text zeigt die App den Ersatzweg „Text einfügen“. Tabellen, Formeln, Spalten und Grafiken können beim Auslesen unvollständig sein. Das Original bleibt für den Vergleich erreichbar. Es gibt keine automatische Widerspruchsprüfung.
 
+## Nur bestimmte Fächer lernen (Lernpool)
+
+Auf „Heute“ unter dem Lernstart steht der **Lernpool**. Tippe ein Fach an (B2, B3, Englisch), um nur daraus zu lernen; mehrere Fächer gehen auch. Unter „Themen in … wählen“ kannst du einzelne Pakete an- oder abhaken, z. B. nur die Probeklausuren. „Alle Fächer“ setzt die Auswahl zurück. Die Zahl oben rechts zeigt, wie viele Aufgaben im Pool sind.
+
+## XP und Abzeichen
+
+Für jede Antwort gibt es XP: richtig 10 (+2 ohne Hilfe), teilweise 5, versucht 2, Erklärkarte 1. Wer an einem Tag 10 Antworten bewertet, bekommt 20 XP extra. Mit gesammelten XP steigst du Stufen auf. Unter **Abzeichen** tauschst du XP gegen Abzeichen; gesperrte werden erst frei, wenn du die Bedingung erfüllst (der Balken zeigt den Stand). Ein gekauftes Abzeichen kannst du am Profil anzeigen. XP und Abzeichen kommen mit dem Sync-Code auf deine anderen Geräte.
+
 ## Wiederholung und Pausen
 
 Der Plan berücksichtigt Fälligkeit, bisherige Fehler, neue Inhalte, Zeitbudget und Prüfungstermine. Ein Wochenplatz bevorzugt ein zuletzt wenig bearbeitetes Modul, sofern passende Aufgaben verfügbar sind. Die Zeitangaben sind Schätzungen einschließlich Feedback.

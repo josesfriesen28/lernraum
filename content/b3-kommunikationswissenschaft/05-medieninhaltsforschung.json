@@ -1,0 +1,554 @@
+{
+ "format": "lernraum-package",
+ "version": 1,
+ "packageId": "b3-05-medieninhaltsforschung",
+ "title": "B3 · 5 (Empirische) Medieninhaltsforschung",
+ "course": "B3 Angewandte Kommunikations- und Medienwissenschaften",
+ "examType": "Klausur",
+ "topic": "Medieninhaltsforschung",
+ "tasks": [
+  {
+   "id": "q1",
+   "objective": "Lasswell-Formel und Forschungsfelder",
+   "family": "q1",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Lasswell-Formel",
+   "solution": "„Wer sagt was über welchen Kanal zu wem mit welcher Wirkung?“ Jedem Glied ist ein Forschungsfeld zugeordnet: Wer → Kommunikatorforschung; sagt was → Medieninhaltsforschung (Botschaften, Aussagen); über welchen Kanal → Medienforschung (Gestaltung, Technik, Organisation); zu wem → Publikums-/Rezipientenforschung; mit welcher Wirkung → Wirkungsforschung.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Lasswell-Formel (Beck 2015).",
+   "page": 3,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q2",
+   "objective": "Lasswell-Formel und Forschungsfelder",
+   "family": "q2",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welches Glied der Lasswell-Formel untersucht die Medieninhaltsforschung?",
+   "solution": "Medieninhaltsforschung = „sagt was“. Wer = Kommunikatorforschung, zu wem = Publikumsforschung, Wirkung = Wirkungsforschung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Lasswell-Formel und Forschungsfelder",
+   "page": 3,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "„zu wem“ – das Publikum"
+    },
+    {
+     "id": "o1",
+     "text": "„mit welcher Wirkung“"
+    },
+    {
+     "id": "o2",
+     "text": "„Wer“ – die Kommunikatoren"
+    },
+    {
+     "id": "o3",
+     "text": "„sagt was“ – Botschaften und Aussagen"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q3",
+   "objective": "Lasswell-Formel und Forschungsfelder",
+   "family": "q3",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Nenne die fünf Glieder der Lasswell-Formel und das jeweils zugehörige Forschungsfeld.",
+   "solution": "Wer → Kommunikatorforschung; sagt was → Medieninhaltsforschung; über welchen Kanal → Medienforschung; zu wem → Publikums-/Rezipientenforschung; mit welcher Wirkung → Wirkungsforschung.",
+   "rubric": "Alle fünf Glieder mit passendem Feld.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Lasswell-Formel und Forschungsfelder",
+   "page": 3,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q4",
+   "objective": "Mediensystemforschung und Medientheorie",
+   "family": "q4",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Was untersucht die Medientheorie im Unterschied zur Mediensystemforschung?",
+   "solution": "Mediensystemforschung = Rahmenbedingungen (Ökonomie, Politik). Medientheorie = Wirkung auf Gesellschaft und Kultur, nicht auf Individuen.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Mediensystemforschung und Medientheorie",
+   "page": 4,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Nur technische Übertragungswege"
+    },
+    {
+     "id": "o1",
+     "text": "Gesamtgesellschaftliche und kulturelle Medienwirkung, nicht die Individualebene"
+    },
+    {
+     "id": "o2",
+     "text": "Die Wirkung einer Botschaft auf einzelne Personen"
+    },
+    {
+     "id": "o3",
+     "text": "Medienökonomie und Medienpolitik"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q5",
+   "objective": "Medientheorien nach Bonfadelli",
+   "family": "q5",
+   "type": "explain",
+   "track": "explain",
+   "prompt": "Kurz lesen: Vier Medientheorien (Bonfadelli 2002)",
+   "solution": "Idealistisch: Medien beeinflussen Gesellschaft, werden selbst kaum beeinflusst. Materialistisch: Medien sind Spiegel der Gesellschaft, abhängig von Wirtschafts- und Regierungsform. Interdependenz: Medien und Gesellschaft beeinflussen sich gegenseitig. Autonomie: Medien sind weitgehend selbstständige Systeme, kaum beeinflusst und mit nur bedingtem Einfluss.",
+   "rubric": "Lesen und verstehen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Vier Konzepte nach Bonfadelli.",
+   "page": 5,
+   "seconds": 45,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q6",
+   "objective": "Medientheorien nach Bonfadelli",
+   "family": "bonfadelli",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Medien sind ein Spiegel der Gesellschaft und hängen von Wirtschafts- und Regierungsform ab.“ Welches Konzept?",
+   "solution": "Materialistische Konzepte: Medien als abhängiger Spiegel gesellschaftlicher Zustände.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Medientheorien nach Bonfadelli",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Autonomie"
+    },
+    {
+     "id": "o1",
+     "text": "Idealistisch"
+    },
+    {
+     "id": "o2",
+     "text": "Materialistisch"
+    },
+    {
+     "id": "o3",
+     "text": "Interdependenz"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q7",
+   "objective": "Medientheorien nach Bonfadelli",
+   "family": "bonfadelli",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Medien beeinflussen Gesellschaft und Kultur, werden aber selbst kaum beeinflusst.“ Welches Konzept?",
+   "solution": "Idealistische Konzepte: Einfluss geht von den Medien aus.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Medientheorien nach Bonfadelli",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Materialistisch"
+    },
+    {
+     "id": "o1",
+     "text": "Autonomie"
+    },
+    {
+     "id": "o2",
+     "text": "Interdependenz"
+    },
+    {
+     "id": "o3",
+     "text": "Idealistisch"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q8",
+   "objective": "Medientheorien nach Bonfadelli",
+   "family": "bonfadelli",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "„Medien und Gesellschaft beeinflussen sich gegenseitig.“ Welches Konzept?",
+   "solution": "Interdependenz = wechselseitige Beeinflussung.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Medientheorien nach Bonfadelli",
+   "page": 5,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Materialistisch"
+    },
+    {
+     "id": "o1",
+     "text": "Interdependenz"
+    },
+    {
+     "id": "o2",
+     "text": "Autonomie"
+    },
+    {
+     "id": "o3",
+     "text": "Idealistisch"
+    }
+   ],
+   "correct": [
+    "o1"
+   ]
+  },
+  {
+   "id": "q9",
+   "objective": "Medientheorien nach Bonfadelli",
+   "family": "q9",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Erkläre das Autonomie-Konzept und grenze es vom Interdependenz-Konzept ab.",
+   "solution": "Autonomie: Medien sind weitgehend selbstständige Systeme, die von Gesellschaft und Kultur kaum beeinflusst werden und diese auch nur bedingt beeinflussen. Interdependenz: Medien und Gesellschaft beeinflussen sich stark gegenseitig.",
+   "rubric": "Autonomie = kaum Einfluss in beide Richtungen; Interdependenz = wechselseitig.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Medientheorien nach Bonfadelli",
+   "page": 5,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q10",
+   "objective": "Medieninhaltsforschung als Konstruktion",
+   "family": "q10",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Warum spricht die Vorlesung von einer „mehrfachen Konstruktionsleistung“?",
+   "solution": "Doppelte Konstruktion; Forschende sind nicht objektiv, arbeiten aber systematisch, methodisch und intersubjektiv nachvollziehbar.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Medieninhaltsforschung als Konstruktion",
+   "page": 6,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Forschende können Inhalte völlig objektiv erfassen"
+    },
+    {
+     "id": "o1",
+     "text": "Nur Journalisten konstruieren Wirklichkeit"
+    },
+    {
+     "id": "o2",
+     "text": "Medieninhalte werden mehrfach gedruckt"
+    },
+    {
+     "id": "o3",
+     "text": "Kommunikatoren konstruieren Wirklichkeit im Medieninhalt; Forschende und Rezipierende konstruieren daraus wieder eigene Wirklichkeit"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q11",
+   "objective": "Manifeste und latente Inhalte",
+   "family": "manifest",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Ironie oder unterschwellige Kritik in einem Artikel sind …",
+   "solution": "Latent = mitschwingende Bedeutungen, Konnotationen. Manifest = materiell vorhanden, z. B. die Erwähnung einer Person.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Manifeste und latente Inhalte",
+   "page": 7,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "latente Inhalte"
+    },
+    {
+     "id": "o1",
+     "text": "paraverbale Inhalte"
+    },
+    {
+     "id": "o2",
+     "text": "manifeste Inhalte"
+    },
+    {
+     "id": "o3",
+     "text": "technische Inhalte"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q12",
+   "objective": "Manifeste und latente Inhalte",
+   "family": "manifest",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Die Häufigkeit, mit der ein Unternehmen in Zeitungsartikeln genannt wird, ist ein …",
+   "solution": "Die Nennung ist materiell im Text vorhanden → manifest; gut quantitativ zählbar.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Manifeste und latente Inhalte",
+   "page": 7,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "ideologischer Inhalt"
+    },
+    {
+     "id": "o1",
+     "text": "latenter Inhalt"
+    },
+    {
+     "id": "o2",
+     "text": "manifester Inhalt"
+    },
+    {
+     "id": "o3",
+     "text": "Konnotat"
+    }
+   ],
+   "correct": [
+    "o2"
+   ]
+  },
+  {
+   "id": "q13",
+   "objective": "Manifeste und latente Inhalte",
+   "family": "q13",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Unterscheide manifeste und latente Inhalte mit je einem Beispiel und nenne die passenden Methoden.",
+   "solution": "Manifest: Bedeutung ist materiell vorhanden, z. B. Erwähnung einer Person. Latent: mitschwingende Bedeutungen und Konnotationen, z. B. Ironie, Kritik. Medieninhaltsforschung erfasst „Message“ und „Meanings“ – mit quantitativen und qualitativen Inhaltsanalysen (latent u. a. mit semiotischen Verfahren).",
+   "rubric": "Beide Begriffe mit Beispiel; quantitativ/qualitativ bzw. semiotisch.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Manifeste und latente Inhalte",
+   "page": 7,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q14",
+   "objective": "Vier Analyseperspektiven",
+   "family": "q14",
+   "type": "multiple",
+   "track": "recognize",
+   "prompt": "Welche vier Analyseperspektiven der Medieninhaltsforschung nennt die Vorlesung?",
+   "solution": "Informations-Transfer, Ideologiekritik/Gender, Cultural Studies, linguistisch-semiotisch.",
+   "rubric": "Alle richtigen und keine falsche Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Vier Analyseperspektiven",
+   "page": 8,
+   "seconds": 60,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Agenda-Setting-Ansatz"
+    },
+    {
+     "id": "o1",
+     "text": "Cultural Studies"
+    },
+    {
+     "id": "o2",
+     "text": "Informations-Transfer-Modell"
+    },
+    {
+     "id": "o3",
+     "text": "Ideologiekritik und Genderperspektiven"
+    },
+    {
+     "id": "o4",
+     "text": "Uses-and-Gratifications"
+    },
+    {
+     "id": "o5",
+     "text": "Linguistisch-semiotische Ansätze"
+    }
+   ],
+   "correct": [
+    "o1",
+    "o2",
+    "o3",
+    "o5"
+   ]
+  },
+  {
+   "id": "q15",
+   "objective": "Vier Analyseperspektiven",
+   "family": "perspektive",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Perspektive fragt, ob Berichterstattung die Wirklichkeit „angemessen“ abbildet?",
+   "solution": "Informations-Transfer: Medieninhalt als (konstruierter) Spiegel der Wirklichkeit, Vergleich verschiedener „Wirklichkeiten“.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Vier Analyseperspektiven",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Informations-Transfer-Modell"
+    },
+    {
+     "id": "o1",
+     "text": "Linguistisch-semiotischer Ansatz"
+    },
+    {
+     "id": "o2",
+     "text": "Ideologiekritik"
+    },
+    {
+     "id": "o3",
+     "text": "Cultural Studies"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q16",
+   "objective": "Vier Analyseperspektiven",
+   "family": "perspektive",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Welche Perspektive betont aktive Rezipierende und eine ganzheitliche Analyse über den Text hinaus?",
+   "solution": "Cultural Studies: kritisch (ursprünglich marxistisch), aktive Rezipierende, ganzheitlich.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Vier Analyseperspektiven",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Cultural Studies"
+    },
+    {
+     "id": "o1",
+     "text": "Informations-Transfer-Modell"
+    },
+    {
+     "id": "o2",
+     "text": "Linguistisch-semiotischer Ansatz"
+    },
+    {
+     "id": "o3",
+     "text": "Mediensystemforschung"
+    }
+   ],
+   "correct": [
+    "o0"
+   ]
+  },
+  {
+   "id": "q17",
+   "objective": "Vier Analyseperspektiven",
+   "family": "perspektive",
+   "type": "single",
+   "track": "recognize",
+   "prompt": "Rhetorische Figuren, Narrationen und Stil analysieren – welche Perspektive?",
+   "solution": "Linguistisch-semiotisch: Konnotationen, visuelle und diskursanalytische Verfahren.",
+   "rubric": "Genau die richtige Option wählen.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Vier Analyseperspektiven",
+   "page": 8,
+   "seconds": 40,
+   "options": [
+    {
+     "id": "o0",
+     "text": "Ideologiekritik"
+    },
+    {
+     "id": "o1",
+     "text": "Cultural Studies"
+    },
+    {
+     "id": "o2",
+     "text": "Informations-Transfer-Modell"
+    },
+    {
+     "id": "o3",
+     "text": "Linguistisch-semiotische Ansätze"
+    }
+   ],
+   "correct": [
+    "o3"
+   ]
+  },
+  {
+   "id": "q18",
+   "objective": "Ziele der Inhaltsanalyse",
+   "family": "q18",
+   "type": "recall",
+   "track": "recall",
+   "prompt": "Welche zwei Ziele hat die Inhaltsanalyse nach dem Kommunikationsmodell von Merten?",
+   "solution": "Deskription des Inhalts und Inferenz: Rückschluss von Textmerkmalen auf die soziale Wirklichkeit, also auf Kommunikator, Rezipierende oder die Situation, in der der Text geschrieben oder gelesen wurde.",
+   "rubric": "Deskription + Inferenz auf soziale Wirklichkeit.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Ziele der Inhaltsanalyse",
+   "page": 10,
+   "seconds": 90,
+   "options": [],
+   "correct": []
+  },
+  {
+   "id": "q19",
+   "objective": "Ziele der Inhaltsanalyse",
+   "family": "q19",
+   "type": "apply",
+   "track": "apply",
+   "prompt": "Wozu brauchen Wirtschaftskommunikator*innen Medieninhaltsforschung? Nenne zwei Beispiele aus der Praxis.",
+   "solution": "Z. B. Medienresonanzanalyse: Wie oft und wie positiv berichten Medien über das Unternehmen nach einer PR-Kampagne? Issues Management: Frühzeitig erkennen, welche Themen in Medien und Social Media hochkochen. Weitere: Wettbewerbsbeobachtung, Krisenkommunikation, Image-Analyse.",
+   "rubric": "Zwei plausible Praxisbeispiele mit Bezug zu Medieninhalten.",
+   "sourceTitle": "Moodle B3 · 5. Sitzung (Folien Kolb)",
+   "sourceQuote": "Ziele der Inhaltsanalyse",
+   "page": 10,
+   "seconds": 180,
+   "options": [],
+   "correct": []
+  }
+ ]
+}
